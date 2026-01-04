@@ -1,0 +1,466 @@
+2026-01-04 13:49:07,680 - INFO - 📃 Converting DOC: 2022/Baocao_T03_2022.doc
+2026-01-04 13:49:07,683 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:07,683 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:07,683 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:07,683 - ERROR - ❌ Failed to convert 2022/Baocao_T03_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:07,683 - INFO - Trying fallback method...
+2026-01-04 13:49:07,683 - INFO - 📝 Converting DOCX: 2022/Baocao_T03_2022.doc
+2026-01-04 13:49:07,683 - ERROR - ❌ Failed to convert 2022/Baocao_T03_2022.doc: Package not found at '2022/Baocao_T03_2022.doc'
+2026-01-04 13:49:37,681 - INFO - 📂 Tìm thấy 16 file(s). Bắt đầu convert...
+2026-01-04 13:49:37,681 - INFO - ============================================================
+2026-01-04 13:49:37,681 - INFO - 
+[1/16] Processing: baocao_T10_2009_Final.pdf
+2026-01-04 13:49:37,719 - INFO - 📄 Converting PDF: 2009/baocao_T10_2009_Final.pdf
+2026-01-04 13:49:39,202 - INFO - ✅ Success: markdown_output/2009/baocao_T10_2009_Final.md
+2026-01-04 13:49:39,202 - INFO - 
+[2/16] Processing: baocao_T11_2009_Final.pdf
+2026-01-04 13:49:39,202 - INFO - 📄 Converting PDF: 2009/baocao_T11_2009_Final.pdf
+2026-01-04 13:49:41,113 - INFO - ✅ Success: markdown_output/2009/baocao_T11_2009_Final.md
+2026-01-04 13:49:41,113 - INFO - 
+[3/16] Processing: baocao_T12_2009.pdf
+2026-01-04 13:49:41,114 - INFO - 📄 Converting PDF: 2009/baocao_T12_2009.pdf
+2026-01-04 13:49:43,035 - INFO - ✅ Success: markdown_output/2009/baocao_T12_2009.md
+2026-01-04 13:49:43,035 - INFO - 
+[4/16] Processing: Baocao_T08_2019.pdf
+2026-01-04 13:49:43,036 - INFO - 📄 Converting PDF: 2019/Baocao_T08_2019.pdf
+2026-01-04 13:49:44,585 - INFO - ✅ Success: markdown_output/2019/Baocao_T08_2019.md
+2026-01-04 13:49:44,585 - INFO - 
+[5/16] Processing: Baocao_T09_2019.pdf
+2026-01-04 13:49:44,585 - INFO - 📄 Converting PDF: 2019/Baocao_T09_2019.pdf
+2026-01-04 13:49:46,690 - INFO - ✅ Success: markdown_output/2019/Baocao_T09_2019.md
+2026-01-04 13:49:46,690 - INFO - 
+[6/16] Processing: Baocao_T10_2019.pdf
+2026-01-04 13:49:46,690 - INFO - 📄 Converting PDF: 2019/Baocao_T10_2019.pdf
+2026-01-04 13:49:48,403 - INFO - ✅ Success: markdown_output/2019/Baocao_T10_2019.md
+2026-01-04 13:49:48,403 - INFO - 
+[7/16] Processing: Baocao_T09_2022.pdf
+2026-01-04 13:49:48,404 - INFO - 📄 Converting PDF: 2022/Baocao_T09_2022.pdf
+2026-01-04 13:49:50,742 - INFO - ✅ Success: markdown_output/2022/Baocao_T09_2022.md
+2026-01-04 13:49:50,742 - INFO - 
+[8/16] Processing: Baocao_T02_2022.doc
+2026-01-04 13:49:50,742 - INFO - 📃 Converting DOC: 2022/Baocao_T02_2022.doc
+2026-01-04 13:49:50,745 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,745 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,745 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,745 - ERROR - ❌ Failed to convert 2022/Baocao_T02_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,745 - INFO - Trying fallback method...
+2026-01-04 13:49:50,745 - INFO - 📝 Converting DOCX: 2022/Baocao_T02_2022.doc
+2026-01-04 13:49:50,746 - ERROR - ❌ Failed to convert 2022/Baocao_T02_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:49:50,746 - INFO - 
+[9/16] Processing: Baocao_T03_2022.doc
+2026-01-04 13:49:50,746 - INFO - 📃 Converting DOC: 2022/Baocao_T03_2022.doc
+2026-01-04 13:49:50,748 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,749 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,749 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,749 - ERROR - ❌ Failed to convert 2022/Baocao_T03_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,749 - INFO - Trying fallback method...
+2026-01-04 13:49:50,749 - INFO - 📝 Converting DOCX: 2022/Baocao_T03_2022.doc
+2026-01-04 13:49:50,749 - ERROR - ❌ Failed to convert 2022/Baocao_T03_2022.doc: Package not found at '2022/Baocao_T03_2022.doc'
+2026-01-04 13:49:50,749 - INFO - 
+[10/16] Processing: Baocao_T04_2022.doc
+2026-01-04 13:49:50,749 - INFO - 📃 Converting DOC: 2022/Baocao_T04_2022.doc
+2026-01-04 13:49:50,751 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,751 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,751 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,751 - ERROR - ❌ Failed to convert 2022/Baocao_T04_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,751 - INFO - Trying fallback method...
+2026-01-04 13:49:50,751 - INFO - 📝 Converting DOCX: 2022/Baocao_T04_2022.doc
+2026-01-04 13:49:50,752 - ERROR - ❌ Failed to convert 2022/Baocao_T04_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:49:50,752 - INFO - 
+[11/16] Processing: Baocao_T05_2022.doc
+2026-01-04 13:49:50,752 - INFO - 📃 Converting DOC: 2022/Baocao_T05_2022.doc
+2026-01-04 13:49:50,754 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,754 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,754 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,754 - ERROR - ❌ Failed to convert 2022/Baocao_T05_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,754 - INFO - Trying fallback method...
+2026-01-04 13:49:50,754 - INFO - 📝 Converting DOCX: 2022/Baocao_T05_2022.doc
+2026-01-04 13:49:50,755 - ERROR - ❌ Failed to convert 2022/Baocao_T05_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:49:50,755 - INFO - 
+[12/16] Processing: Baocao_T06_2022.doc
+2026-01-04 13:49:50,755 - INFO - 📃 Converting DOC: 2022/Baocao_T06_2022.doc
+2026-01-04 13:49:50,757 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,757 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,757 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,757 - ERROR - ❌ Failed to convert 2022/Baocao_T06_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,758 - INFO - Trying fallback method...
+2026-01-04 13:49:50,758 - INFO - 📝 Converting DOCX: 2022/Baocao_T06_2022.doc
+2026-01-04 13:49:50,758 - ERROR - ❌ Failed to convert 2022/Baocao_T06_2022.doc: Package not found at '2022/Baocao_T06_2022.doc'
+2026-01-04 13:49:50,758 - INFO - 
+[13/16] Processing: Baocao_T07_2022.doc
+2026-01-04 13:49:50,758 - INFO - 📃 Converting DOC: 2022/Baocao_T07_2022.doc
+2026-01-04 13:49:50,760 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,760 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,760 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,760 - ERROR - ❌ Failed to convert 2022/Baocao_T07_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,760 - INFO - Trying fallback method...
+2026-01-04 13:49:50,760 - INFO - 📝 Converting DOCX: 2022/Baocao_T07_2022.doc
+2026-01-04 13:49:50,761 - ERROR - ❌ Failed to convert 2022/Baocao_T07_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:49:50,761 - INFO - 
+[14/16] Processing: Baocao_T08_2022.doc
+2026-01-04 13:49:50,761 - INFO - 📃 Converting DOC: 2022/Baocao_T08_2022.doc
+2026-01-04 13:49:50,764 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,764 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,764 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,764 - ERROR - ❌ Failed to convert 2022/Baocao_T08_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,764 - INFO - Trying fallback method...
+2026-01-04 13:49:50,764 - INFO - 📝 Converting DOCX: 2022/Baocao_T08_2022.doc
+2026-01-04 13:49:50,764 - ERROR - ❌ Failed to convert 2022/Baocao_T08_2022.doc: Package not found at '2022/Baocao_T08_2022.doc'
+2026-01-04 13:49:50,764 - INFO - 
+[15/16] Processing: Baocao_T10_2022.doc
+2026-01-04 13:49:50,764 - INFO - 📃 Converting DOC: 2022/Baocao_T10_2022.doc
+2026-01-04 13:49:50,767 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,767 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,767 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,767 - ERROR - ❌ Failed to convert 2022/Baocao_T10_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,767 - INFO - Trying fallback method...
+2026-01-04 13:49:50,767 - INFO - 📝 Converting DOCX: 2022/Baocao_T10_2022.doc
+2026-01-04 13:49:50,768 - ERROR - ❌ Failed to convert 2022/Baocao_T10_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:49:50,768 - INFO - 
+[16/16] Processing: Baocao_T11_2022.doc
+2026-01-04 13:49:50,768 - INFO - 📃 Converting DOC: 2022/Baocao_T11_2022.doc
+2026-01-04 13:49:50,770 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:49:50,771 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:49:50,771 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:49:50,771 - ERROR - ❌ Failed to convert 2022/Baocao_T11_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:49:50,771 - INFO - Trying fallback method...
+2026-01-04 13:49:50,771 - INFO - 📝 Converting DOCX: 2022/Baocao_T11_2022.doc
+2026-01-04 13:49:50,772 - ERROR - ❌ Failed to convert 2022/Baocao_T11_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:49:50,772 - INFO - 
+============================================================
+2026-01-04 13:49:50,772 - INFO - 📊 CONVERSION SUMMARY
+2026-01-04 13:49:50,772 - INFO - ============================================================
+2026-01-04 13:49:50,772 - INFO - Total files processed: 16
+2026-01-04 13:49:50,772 - INFO - ✅ Success: 7
+2026-01-04 13:49:50,772 - INFO - ❌ Failed: 9
+2026-01-04 13:49:50,772 - INFO - ⏭️  Skipped: 0
+2026-01-04 13:49:50,772 - INFO - ============================================================
+2026-01-04 13:58:44,603 - INFO - 📂 Tìm thấy 25 file(s). Bắt đầu convert...
+2026-01-04 13:58:44,604 - INFO - ============================================================
+2026-01-04 13:58:44,604 - INFO - 
+[1/25] Processing: baocao_T10_2009_Final.pdf
+2026-01-04 13:58:44,604 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T10_2009_Final.md
+2026-01-04 13:58:44,604 - INFO - 
+[2/25] Processing: baocao_T11_2009_Final.pdf
+2026-01-04 13:58:44,604 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T11_2009_Final.md
+2026-01-04 13:58:44,604 - INFO - 
+[3/25] Processing: baocao_T12_2009.pdf
+2026-01-04 13:58:44,604 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T12_2009.md
+2026-01-04 13:58:44,604 - INFO - 
+[4/25] Processing: Baocao_T08_2019.pdf
+2026-01-04 13:58:44,604 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T08_2019.md
+2026-01-04 13:58:44,604 - INFO - 
+[5/25] Processing: Baocao_T09_2019.pdf
+2026-01-04 13:58:44,604 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T09_2019.md
+2026-01-04 13:58:44,604 - INFO - 
+[6/25] Processing: Baocao_T10_2019.pdf
+2026-01-04 13:58:44,605 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T10_2019.md
+2026-01-04 13:58:44,605 - INFO - 
+[7/25] Processing: Baocao_T09_2022.pdf
+2026-01-04 13:58:44,605 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T09_2022.md
+2026-01-04 13:58:44,605 - INFO - 
+[8/25] Processing: Baocao_T02_2022.doc
+2026-01-04 13:58:44,605 - INFO - 📃 Converting DOC: 2022/Baocao_T02_2022.doc
+2026-01-04 13:58:44,607 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,607 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,607 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,607 - ERROR - ❌ Failed to convert 2022/Baocao_T02_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,607 - INFO - Trying fallback method...
+2026-01-04 13:58:44,607 - INFO - 📝 Converting DOCX: 2022/Baocao_T02_2022.doc
+2026-01-04 13:58:44,609 - ERROR - ❌ Failed to convert 2022/Baocao_T02_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:58:44,609 - INFO - 
+[9/25] Processing: Baocao_T03_2022.doc
+2026-01-04 13:58:44,609 - INFO - 📃 Converting DOC: 2022/Baocao_T03_2022.doc
+2026-01-04 13:58:44,611 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,611 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,611 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,611 - ERROR - ❌ Failed to convert 2022/Baocao_T03_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,611 - INFO - Trying fallback method...
+2026-01-04 13:58:44,611 - INFO - 📝 Converting DOCX: 2022/Baocao_T03_2022.doc
+2026-01-04 13:58:44,611 - ERROR - ❌ Failed to convert 2022/Baocao_T03_2022.doc: Package not found at '2022/Baocao_T03_2022.doc'
+2026-01-04 13:58:44,611 - INFO - 
+[10/25] Processing: Baocao_T04_2022.doc
+2026-01-04 13:58:44,611 - INFO - 📃 Converting DOC: 2022/Baocao_T04_2022.doc
+2026-01-04 13:58:44,613 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,613 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,613 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,614 - ERROR - ❌ Failed to convert 2022/Baocao_T04_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,614 - INFO - Trying fallback method...
+2026-01-04 13:58:44,614 - INFO - 📝 Converting DOCX: 2022/Baocao_T04_2022.doc
+2026-01-04 13:58:44,614 - ERROR - ❌ Failed to convert 2022/Baocao_T04_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:58:44,614 - INFO - 
+[11/25] Processing: Baocao_T05_2022.doc
+2026-01-04 13:58:44,614 - INFO - 📃 Converting DOC: 2022/Baocao_T05_2022.doc
+2026-01-04 13:58:44,616 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,616 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,616 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,616 - ERROR - ❌ Failed to convert 2022/Baocao_T05_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,616 - INFO - Trying fallback method...
+2026-01-04 13:58:44,616 - INFO - 📝 Converting DOCX: 2022/Baocao_T05_2022.doc
+2026-01-04 13:58:44,617 - ERROR - ❌ Failed to convert 2022/Baocao_T05_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:58:44,617 - INFO - 
+[12/25] Processing: Baocao_T06_2022.doc
+2026-01-04 13:58:44,617 - INFO - 📃 Converting DOC: 2022/Baocao_T06_2022.doc
+2026-01-04 13:58:44,619 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,619 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,619 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,619 - ERROR - ❌ Failed to convert 2022/Baocao_T06_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,619 - INFO - Trying fallback method...
+2026-01-04 13:58:44,619 - INFO - 📝 Converting DOCX: 2022/Baocao_T06_2022.doc
+2026-01-04 13:58:44,620 - ERROR - ❌ Failed to convert 2022/Baocao_T06_2022.doc: Package not found at '2022/Baocao_T06_2022.doc'
+2026-01-04 13:58:44,620 - INFO - 
+[13/25] Processing: Baocao_T07_2022.doc
+2026-01-04 13:58:44,620 - INFO - 📃 Converting DOC: 2022/Baocao_T07_2022.doc
+2026-01-04 13:58:44,622 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,622 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,622 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,622 - ERROR - ❌ Failed to convert 2022/Baocao_T07_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,622 - INFO - Trying fallback method...
+2026-01-04 13:58:44,622 - INFO - 📝 Converting DOCX: 2022/Baocao_T07_2022.doc
+2026-01-04 13:58:44,623 - ERROR - ❌ Failed to convert 2022/Baocao_T07_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:58:44,623 - INFO - 
+[14/25] Processing: Baocao_T08_2022.doc
+2026-01-04 13:58:44,623 - INFO - 📃 Converting DOC: 2022/Baocao_T08_2022.doc
+2026-01-04 13:58:44,625 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,625 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,625 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,625 - ERROR - ❌ Failed to convert 2022/Baocao_T08_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,625 - INFO - Trying fallback method...
+2026-01-04 13:58:44,625 - INFO - 📝 Converting DOCX: 2022/Baocao_T08_2022.doc
+2026-01-04 13:58:44,625 - ERROR - ❌ Failed to convert 2022/Baocao_T08_2022.doc: Package not found at '2022/Baocao_T08_2022.doc'
+2026-01-04 13:58:44,625 - INFO - 
+[15/25] Processing: Baocao_T10_2022.doc
+2026-01-04 13:58:44,626 - INFO - 📃 Converting DOC: 2022/Baocao_T10_2022.doc
+2026-01-04 13:58:44,628 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,628 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,628 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,628 - ERROR - ❌ Failed to convert 2022/Baocao_T10_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,628 - INFO - Trying fallback method...
+2026-01-04 13:58:44,628 - INFO - 📝 Converting DOCX: 2022/Baocao_T10_2022.doc
+2026-01-04 13:58:44,629 - ERROR - ❌ Failed to convert 2022/Baocao_T10_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:58:44,629 - INFO - 
+[16/25] Processing: Baocao_T11_2022.doc
+2026-01-04 13:58:44,629 - INFO - 📃 Converting DOC: 2022/Baocao_T11_2022.doc
+2026-01-04 13:58:44,631 - INFO - Maybe try:
+
+    sudo apt-get install pandoc
+
+2026-01-04 13:58:44,631 - INFO - See http://johnmacfarlane.net/pandoc/installing.html
+for installation options
+
+2026-01-04 13:58:44,631 - INFO - ---------------------------------------------------------------
+
+
+2026-01-04 13:58:44,631 - ERROR - ❌ Failed to convert 2022/Baocao_T11_2022.doc: No pandoc was found: either install pandoc and add it
+to your PATH or or call pypandoc.download_pandoc(...) or
+install pypandoc wheels with included pandoc.
+2026-01-04 13:58:44,631 - INFO - Trying fallback method...
+2026-01-04 13:58:44,631 - INFO - 📝 Converting DOCX: 2022/Baocao_T11_2022.doc
+2026-01-04 13:58:44,632 - ERROR - ❌ Failed to convert 2022/Baocao_T11_2022.doc: "no relationship of type 'http://schemas.openxmlformats.org/officeDocument/2006/relationships/officeDocument' in collection"
+2026-01-04 13:58:44,632 - INFO - 
+[17/25] Processing: Baocao_T02_2022.docx
+2026-01-04 13:58:44,632 - INFO - 📝 Converting DOCX: 2022/Baocao_T02_2022.docx
+2026-01-04 13:58:44,658 - INFO - ✅ Success: markdown_output/2022/Baocao_T02_2022.md
+2026-01-04 13:58:44,658 - INFO - 
+[18/25] Processing: Baocao_T03_2022.docx
+2026-01-04 13:58:44,658 - INFO - 📝 Converting DOCX: 2022/Baocao_T03_2022.docx
+2026-01-04 13:58:44,698 - INFO - ✅ Success: markdown_output/2022/Baocao_T03_2022.md
+2026-01-04 13:58:44,698 - INFO - 
+[19/25] Processing: Baocao_T04_2022.docx
+2026-01-04 13:58:44,699 - INFO - 📝 Converting DOCX: 2022/Baocao_T04_2022.docx
+2026-01-04 13:58:44,727 - INFO - ✅ Success: markdown_output/2022/Baocao_T04_2022.md
+2026-01-04 13:58:44,727 - INFO - 
+[20/25] Processing: Baocao_T05_2022.docx
+2026-01-04 13:58:44,728 - INFO - 📝 Converting DOCX: 2022/Baocao_T05_2022.docx
+2026-01-04 13:58:44,757 - INFO - ✅ Success: markdown_output/2022/Baocao_T05_2022.md
+2026-01-04 13:58:44,757 - INFO - 
+[21/25] Processing: Baocao_T06_2022.docx
+2026-01-04 13:58:44,757 - INFO - 📝 Converting DOCX: 2022/Baocao_T06_2022.docx
+2026-01-04 13:58:44,826 - INFO - ✅ Success: markdown_output/2022/Baocao_T06_2022.md
+2026-01-04 13:58:44,826 - INFO - 
+[22/25] Processing: Baocao_T07_2022.docx
+2026-01-04 13:58:44,826 - INFO - 📝 Converting DOCX: 2022/Baocao_T07_2022.docx
+2026-01-04 13:58:44,856 - INFO - ✅ Success: markdown_output/2022/Baocao_T07_2022.md
+2026-01-04 13:58:44,856 - INFO - 
+[23/25] Processing: Baocao_T08_2022.docx
+2026-01-04 13:58:44,856 - INFO - 📝 Converting DOCX: 2022/Baocao_T08_2022.docx
+2026-01-04 13:58:44,897 - INFO - ✅ Success: markdown_output/2022/Baocao_T08_2022.md
+2026-01-04 13:58:44,897 - INFO - 
+[24/25] Processing: Baocao_T10_2022.docx
+2026-01-04 13:58:44,897 - INFO - 📝 Converting DOCX: 2022/Baocao_T10_2022.docx
+2026-01-04 13:58:44,937 - INFO - ✅ Success: markdown_output/2022/Baocao_T10_2022.md
+2026-01-04 13:58:44,937 - INFO - 
+[25/25] Processing: Baocao_T11_2022.docx
+2026-01-04 13:58:44,937 - INFO - 📝 Converting DOCX: 2022/Baocao_T11_2022.docx
+2026-01-04 13:58:44,991 - INFO - ✅ Success: markdown_output/2022/Baocao_T11_2022.md
+2026-01-04 13:58:44,991 - INFO - 
+============================================================
+2026-01-04 13:58:44,991 - INFO - 📊 CONVERSION SUMMARY
+2026-01-04 13:58:44,991 - INFO - ============================================================
+2026-01-04 13:58:44,991 - INFO - Total files processed: 18
+2026-01-04 13:58:44,991 - INFO - ✅ Success: 9
+2026-01-04 13:58:44,991 - INFO - ❌ Failed: 9
+2026-01-04 13:58:44,991 - INFO - ⏭️  Skipped: 7
+2026-01-04 13:58:44,991 - INFO - ============================================================
