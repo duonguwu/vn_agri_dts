@@ -1,3 +1,26 @@
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
+
+<h1 align="center"><b>Khai thác dữ liệu và ứng dụng - CS2207.CH203 - UIT</b></h1>
+
+## Giới thiệu môn
+-    **Tên môn học:** Khai thác dữ liệu và ứng dụng
+-    **Mã môn học:** CS2207
+-    **Giảng viên:** TS. Võ Nguyễn Lê Duy
+-    **Email Giảng viên:** duyvnl@uit.edu.vn
+
+## Thông tin nhóm 05
+| STT | MSSV     | Họ và Tên         | Email                  |
+| :-- | :------- | :---------------- | :--------------------- |
+| 1   | 250101080 | Nguyễn Minh Chiến    | 250101080@gm.uit.edu.vn |
+| 2   | 250101084 | Nguyễn Dương      | 250101084@gm.uit.edu.vn |
+| 3   | 250101088 | Nguyễn Đình Huy  | 250101088@gm.uit.edu.vn |
+| 4   | 250101091 | Ngô Đăng Khoa | 250101091@gm.uit.edu.vn |
+
+
 # Vietnam Agricultural Dataset - Data Mining Project
 
 > Xây dựng Dataset nông nghiệp Việt Nam từ dữ liệu phi cấu trúc (PDF/DOC) của Bộ Nông nghiệp và Phát triển Nông thôn
