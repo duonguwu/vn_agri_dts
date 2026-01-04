@@ -153,8 +153,8 @@ Examples:
         """
     )
     
-    parser.add_argument('--input', default='.', 
-                       help='Input directory (default: current directory)')
+    parser.add_argument('--input', default='./Report', 
+                       help='Input directory (default: ./Report)')
     parser.add_argument('--output', default='./markdown_output',
                        help='Output directory (default: ./markdown_output)')
     parser.add_argument('--no-skip', action='store_true',
