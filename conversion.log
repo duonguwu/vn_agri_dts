@@ -464,3 +464,190 @@ install pypandoc wheels with included pandoc.
 2026-01-04 13:58:44,991 - INFO - ❌ Failed: 9
 2026-01-04 13:58:44,991 - INFO - ⏭️  Skipped: 7
 2026-01-04 13:58:44,991 - INFO - ============================================================
+2026-01-04 15:06:35,956 - INFO - ⏭️  Skipping Baocao_T02_2022.doc (using .docx version)
+2026-01-04 15:06:35,956 - INFO - ⏭️  Skipping Baocao_T03_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T04_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T05_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T06_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T07_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T08_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T10_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping Baocao_T11_2022.doc (using .docx version)
+2026-01-04 15:06:35,957 - INFO - 📂 Tìm thấy 17 file(s) to convert. Bắt đầu convert...
+2026-01-04 15:06:35,957 - INFO - ============================================================
+2026-01-04 15:06:35,957 - INFO - 
+[1/17] Processing: Baocao_T02_2022.docx
+2026-01-04 15:06:35,957 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T02_2022.md
+2026-01-04 15:06:35,957 - INFO - 
+[2/17] Processing: Baocao_T03_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T03_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[3/17] Processing: Baocao_T04_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T04_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[4/17] Processing: Baocao_T05_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T05_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[5/17] Processing: Baocao_T06_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T06_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[6/17] Processing: Baocao_T07_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T07_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[7/17] Processing: Baocao_T08_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T08_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[8/17] Processing: Baocao_T10_2022.docx
+2026-01-04 15:06:35,958 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T10_2022.md
+2026-01-04 15:06:35,958 - INFO - 
+[9/17] Processing: Baocao_T11_2022.docx
+2026-01-04 15:06:35,959 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T11_2022.md
+2026-01-04 15:06:35,959 - INFO - 
+[10/17] Processing: Baocao_12_2008_Final.pdf
+2026-01-04 15:06:35,994 - INFO - 📄 Converting PDF: Report/2008/Baocao_12_2008_Final.pdf
+2026-01-04 15:06:40,966 - INFO - ✅ Success: markdown_output/2008/Baocao_12_2008_Final.md
+2026-01-04 15:06:40,966 - INFO - 
+[11/17] Processing: baocao_T10_2009_Final.pdf
+2026-01-04 15:06:40,966 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T10_2009_Final.md
+2026-01-04 15:06:40,966 - INFO - 
+[12/17] Processing: baocao_T11_2009_Final.pdf
+2026-01-04 15:06:40,966 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T11_2009_Final.md
+2026-01-04 15:06:40,966 - INFO - 
+[13/17] Processing: baocao_T12_2009.pdf
+2026-01-04 15:06:40,966 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T12_2009.md
+2026-01-04 15:06:40,966 - INFO - 
+[14/17] Processing: Baocao_T08_2019.pdf
+2026-01-04 15:06:40,966 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T08_2019.md
+2026-01-04 15:06:40,966 - INFO - 
+[15/17] Processing: Baocao_T09_2019.pdf
+2026-01-04 15:06:40,967 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T09_2019.md
+2026-01-04 15:06:40,967 - INFO - 
+[16/17] Processing: Baocao_T10_2019.pdf
+2026-01-04 15:06:40,967 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T10_2019.md
+2026-01-04 15:06:40,967 - INFO - 
+[17/17] Processing: Baocao_T09_2022.pdf
+2026-01-04 15:06:40,967 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T09_2022.md
+2026-01-04 15:06:40,967 - INFO - 
+============================================================
+2026-01-04 15:06:40,967 - INFO - 📊 CONVERSION SUMMARY
+2026-01-04 15:06:40,967 - INFO - ============================================================
+2026-01-04 15:06:40,967 - INFO - Total files processed: 1
+2026-01-04 15:06:40,967 - INFO - ✅ Success: 1
+2026-01-04 15:06:40,967 - INFO - ❌ Failed: 0
+2026-01-04 15:06:40,967 - INFO - ⏭️  Skipped: 16
+2026-01-04 15:06:40,967 - INFO - ============================================================
+2026-01-04 15:16:05,327 - INFO - ⏭️  Skipping Baocao_T02_2022.doc (using .docx version)
+2026-01-04 15:16:05,327 - INFO - ⏭️  Skipping Baocao_T03_2022.doc (using .docx version)
+2026-01-04 15:16:05,327 - INFO - ⏭️  Skipping Baocao_T04_2022.doc (using .docx version)
+2026-01-04 15:16:05,327 - INFO - ⏭️  Skipping Baocao_T05_2022.doc (using .docx version)
+2026-01-04 15:16:05,327 - INFO - ⏭️  Skipping Baocao_T06_2022.doc (using .docx version)
+2026-01-04 15:16:05,328 - INFO - ⏭️  Skipping Baocao_T07_2022.doc (using .docx version)
+2026-01-04 15:16:05,328 - INFO - ⏭️  Skipping Baocao_T08_2022.doc (using .docx version)
+2026-01-04 15:16:05,328 - INFO - ⏭️  Skipping Baocao_T10_2022.doc (using .docx version)
+2026-01-04 15:16:05,328 - INFO - ⏭️  Skipping Baocao_T11_2022.doc (using .docx version)
+2026-01-04 15:16:05,328 - INFO - 📂 Tìm thấy 28 file(s) to convert. Bắt đầu convert...
+2026-01-04 15:16:05,328 - INFO - ============================================================
+2026-01-04 15:16:05,328 - INFO - 
+[1/28] Processing: Baocao_T02_2022.docx
+2026-01-04 15:16:05,328 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T02_2022.md
+2026-01-04 15:16:05,328 - INFO - 
+[2/28] Processing: Baocao_T03_2022.docx
+2026-01-04 15:16:05,328 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T03_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[3/28] Processing: Baocao_T04_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T04_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[4/28] Processing: Baocao_T05_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T05_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[5/28] Processing: Baocao_T06_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T06_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[6/28] Processing: Baocao_T07_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T07_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[7/28] Processing: Baocao_T08_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T08_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[8/28] Processing: Baocao_T10_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T10_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[9/28] Processing: Baocao_T11_2022.docx
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T11_2022.md
+2026-01-04 15:16:05,329 - INFO - 
+[10/28] Processing: Baocao_12_2008_Final.pdf
+2026-01-04 15:16:05,329 - INFO - ⏭️  Skipping (already exists): markdown_output/2008/Baocao_12_2008_Final.md
+2026-01-04 15:16:05,329 - INFO - 
+[11/28] Processing: baocao_T10_2009_Final.pdf
+2026-01-04 15:16:05,330 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T10_2009_Final.md
+2026-01-04 15:16:05,330 - INFO - 
+[12/28] Processing: baocao_T11_2009_Final.pdf
+2026-01-04 15:16:05,330 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T11_2009_Final.md
+2026-01-04 15:16:05,330 - INFO - 
+[13/28] Processing: baocao_T12_2009.pdf
+2026-01-04 15:16:05,330 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T12_2009.md
+2026-01-04 15:16:05,330 - INFO - 
+[14/28] Processing: Baocao_T12 _2010_fc.pdf
+2026-01-04 15:16:05,330 - INFO - 📄 Converting PDF: Report/2010/Baocao_T12 _2010_fc.pdf
+2026-01-04 15:16:07,023 - INFO - ✅ Success: markdown_output/2010/Baocao_T12 _2010_fc.md
+2026-01-04 15:16:07,024 - INFO - 
+[15/28] Processing: Baocao_8_2011_f.pdf
+2026-01-04 15:16:07,024 - INFO - 📄 Converting PDF: Report/2011/Baocao_8_2011_f.pdf
+2026-01-04 15:16:08,075 - INFO - ✅ Success: markdown_output/2011/Baocao_8_2011_f.md
+2026-01-04 15:16:08,076 - INFO - 
+[16/28] Processing: Baocao_6_2012.pdf
+2026-01-04 15:16:08,076 - INFO - 📄 Converting PDF: Report/2012/Baocao_6_2012.pdf
+2026-01-04 15:16:09,558 - INFO - ✅ Success: markdown_output/2012/Baocao_6_2012.md
+2026-01-04 15:16:09,559 - INFO - 
+[17/28] Processing: Baocao_5_2013.pdf
+2026-01-04 15:16:09,559 - INFO - 📄 Converting PDF: Report/2013/Baocao_5_2013.pdf
+2026-01-04 15:16:10,910 - INFO - ✅ Success: markdown_output/2013/Baocao_5_2013.md
+2026-01-04 15:16:10,910 - INFO - 
+[18/28] Processing: Baocao_09_2014.pdf
+2026-01-04 15:16:10,910 - INFO - 📄 Converting PDF: Report/2014/Baocao_09_2014.pdf
+2026-01-04 15:16:12,554 - INFO - ✅ Success: markdown_output/2014/Baocao_09_2014.md
+2026-01-04 15:16:12,555 - INFO - 
+[19/28] Processing: Baocao_T10_2015-f.pdf
+2026-01-04 15:16:12,555 - INFO - 📄 Converting PDF: Report/2015/Baocao_T10_2015-f.pdf
+2026-01-04 15:16:14,497 - INFO - ✅ Success: markdown_output/2015/Baocao_T10_2015-f.md
+2026-01-04 15:16:14,497 - INFO - 
+[20/28] Processing: Baocao_T10_2016.pdf
+2026-01-04 15:16:14,498 - INFO - 📄 Converting PDF: Report/2016/Baocao_T10_2016.pdf
+2026-01-04 15:16:16,534 - INFO - ✅ Success: markdown_output/2016/Baocao_T10_2016.md
+2026-01-04 15:16:16,534 - INFO - 
+[21/28] Processing: Baocao_T08_2017.pdf
+2026-01-04 15:16:16,535 - INFO - 📄 Converting PDF: Report/2017/Baocao_T08_2017.pdf
+2026-01-04 15:16:18,404 - INFO - ✅ Success: markdown_output/2017/Baocao_T08_2017.md
+2026-01-04 15:16:18,405 - INFO - 
+[22/28] Processing: Baocao_T04_2018.pdf
+2026-01-04 15:16:18,405 - INFO - 📄 Converting PDF: Report/2018/Baocao_T04_2018.pdf
+2026-01-04 15:16:20,203 - INFO - ✅ Success: markdown_output/2018/Baocao_T04_2018.md
+2026-01-04 15:16:20,203 - INFO - 
+[23/28] Processing: Baocao_T08_2019.pdf
+2026-01-04 15:16:20,203 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T08_2019.md
+2026-01-04 15:16:20,203 - INFO - 
+[24/28] Processing: Baocao_T09_2019.pdf
+2026-01-04 15:16:20,203 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T09_2019.md
+2026-01-04 15:16:20,203 - INFO - 
+[25/28] Processing: Baocao_T10_2019.pdf
+2026-01-04 15:16:20,203 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T10_2019.md
+2026-01-04 15:16:20,203 - INFO - 
+[26/28] Processing: Baocao_T11_2020.pdf
+2026-01-04 15:16:20,204 - INFO - 📄 Converting PDF: Report/2020/Baocao_T11_2020.pdf
+2026-01-04 15:16:21,650 - INFO - ✅ Success: markdown_output/2020/Baocao_T11_2020.md
+2026-01-04 15:16:21,650 - INFO - 
+[27/28] Processing: Baocao_T07_2021.pdf
+2026-01-04 15:16:21,650 - INFO - 📄 Converting PDF: Report/2021/Baocao_T07_2021.pdf
+2026-01-04 15:16:23,294 - INFO - ✅ Success: markdown_output/2021/Baocao_T07_2021.md
+2026-01-04 15:16:23,294 - INFO - 
+[28/28] Processing: Baocao_T09_2022.pdf
+2026-01-04 15:16:23,294 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T09_2022.md
+2026-01-04 15:16:23,294 - INFO - 
+============================================================
+2026-01-04 15:16:23,294 - INFO - 📊 CONVERSION SUMMARY
+2026-01-04 15:16:23,294 - INFO - ============================================================
+2026-01-04 15:16:23,294 - INFO - Total files processed: 11
+2026-01-04 15:16:23,294 - INFO - ✅ Success: 11
+2026-01-04 15:16:23,294 - INFO - ❌ Failed: 0
+2026-01-04 15:16:23,294 - INFO - ⏭️  Skipped: 17
+2026-01-04 15:16:23,294 - INFO - ============================================================
