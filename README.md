@@ -12,14 +12,6 @@
 -    **Giảng viên:** TS. Võ Nguyễn Lê Duy
 -    **Email Giảng viên:** duyvnl@uit.edu.vn
 
-## Thông tin nhóm 05
-| STT | MSSV     | Họ và Tên         | Email                  |
-| :-- | :------- | :---------------- | :--------------------- |
-| 1   | 250101080 | Nguyễn Minh Chiến    | 250101080@gm.uit.edu.vn |
-| 2   | 250101084 | Nguyễn Dương      | 250101084@gm.uit.edu.vn |
-| 3   | 250101088 | Nguyễn Đình Huy  | 250101088@gm.uit.edu.vn |
-| 4   | 250101091 | Ngô Đăng Khoa | 250101091@gm.uit.edu.vn |
-
 
 # Vietnam Agricultural Dataset - Data Mining Project
 
