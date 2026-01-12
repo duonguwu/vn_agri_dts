@@ -1,0 +1,36 @@
+{
+  "structure": {
+    "record_id": {
+      "type": "string",
+      "description": "Mã định danh duy nhất (UUID hoặc Hash của bộ key)",
+      "constraint": "Unique"
+    },
+    "time_context": {
+      "year": { "type": "integer", "constraint": "2008-2022" },
+      "month": { "type": "integer", "constraint": "1-12" },
+      "report_date": { "type": "string", "format": "YYYY-MM-DD", "description": "Ngày chốt số liệu trong báo cáo" }
+    },
+    "geo_context": {
+      "geo_level": { "type": "string", "enum": ["National", "Regional", "Provincial"] },
+      "location_name": { "type": "string", "description": "Tên Tỉnh/Thành phố hoặc Vùng (ví dụ: An Giang, ĐBSCL)" },
+      "region_id": { "type": "string", "description": "ID vùng (ví dụ: North_Central, Mekong_Delta)" }
+    },
+    "item_context": {
+      "sector": { "type": "string", "enum": ["Cultivation", "Livestock", "Fishery", "Forestry", "Trade", "Pest"] },
+      "commodity": { "type": "string", "description": "Sản phẩm chính (ví dụ: Lúa, Lợn, Cá tra)" },
+      "sub_item": { "type": "string", "description": "Chi tiết trà lúa/loại hình (ví dụ: Đông Xuân, Thẻ chân trắng)" },
+      "variety": { "type": "string", "description": "Giống cụ thể (ví dụ: IR50404, ST25) - Nếu có" }
+    },
+    "metric_context": {
+      "attribute": { "type": "string", "description": "Tên chỉ tiêu (Area, Output, Yield, Export_Value, Headcount)" },
+      "value": { "type": "float", "constraint": ">= 0" },
+      "unit": { "type": "string", "description": "Đơn vị (ha, ton, 1000_heads, USD, VND/kg)" },
+      "data_type": { "type": "string", "enum": ["Actual", "Plan", "Cumulative", "Estimated"], "description": "Số thực hiện, kế hoạch, lũy kế hay ước tính" }
+    },
+    "metadata": {
+      "source_file": { "type": "string" },
+      "table_index": { "type": "integer", "description": "Thứ tự bảng trong file gốc" },
+      "extraction_method": { "type": "string", "enum": ["Table_Parsing", "Text_NER"] }
+    }
+  }
+}

@@ -487,4 +487,82 @@ Date, Region, Product, Season, Metric, Value, Unit
 
 ---
 
-**Tài liệu này** sẽ được dùng làm blueprint cho Phase 2: LLM Parsing.
+Tài liệu này sẽ được dùng làm blueprint cho Phase 2: LLM Parsing.
+
+---
+
+## Phase 4: The Narrative Shift (2020-2022) - "COVID & Modernization"
+
+**Timeframe**: 2020 - 2022 
+**File Type**: `Baocao_Txx_xxxx.md` (Report Texts) instead of `Phuluc` (Appendices).
+**Characteristics**:
+*   **Format**: Primarily **narrative text** reports summarizing the month's performance. Detailed tables are largely absent or embedded as small summary snapshots within the text.
+*   **Content**:
+    *   **Production**: Textual descriptions of area planted, harvested, and yields (e.g., "7.1 million ha rice", "production 41.3 million tons").
+    *   **Trade**: Summary of export/import values in USD, major markets (US, China, Japan), and specific commodity performance (Rice, Timber, Seafood).
+    *   **New Sections**: "Digital Transformation", "Rural Development" (NTM), "OCOP" (One Commune One Product), "Disaster Prevention".
+    *   **Granularity**: Mostly **National** and **Regional** (e.g., "Mekong Delta", "Northern Region"). Provincial data is rarely cited except for specific highlights (e.g., "drought in Tien Giang").
+*   **Implication for Parsing**:
+    *   **Strategy Change**: Cannot rely on table parsing. Must use **NLP/LLM Information Extraction** to pull key metrics (Year, Month, Commodity, Metric, Value, Unit) from sentences.
+    *   **Continuity Risk**: The granularity drops from Provincial (Line Item) to National/Regional aggregates. The "Long Dataset" may need to handle missing provincial data for this period or look for supplementary files not currently visible.
+
+## Data Schema Recommendation (Updated)
+
+To create a cohesive "Long Dataset" (2008-2022), we should define a schema that accommodates both the detailed tables of 2008-2019 and the aggregated text of 2020-2022.
+
+### Unified Schema "Production" (Target: 50,000+ rows)
+| Column Name | Type | Description |
+| :--- | :--- | :--- |
+| `Year` | Int | 2008-2022 |
+| `Month` | Int | 1-12 |
+| `Phase` | String | "Classic", "Transition", "Modern", "Narrative" |
+| `Region` | String | e.g., "ĐBSCL", "Miền Bắc", "Cả nước" |
+| `Province` | String | Specific Province or "All" if aggregated |
+| `Category` | String | "Cultivation", "Livestock", "Fishery", "Forestry" |
+| `Item` | String | e.g., "Rice", "Maize", "Shrimp", "Buffalo" |
+| `Metric` | String | e.g., "Area Planters", "Output", "Export Value" |
+| `Unit` | String | e.g., "Ha", "Tons", "USD", "Heads" |
+| `Value` | Float | The numerical value |
+| `Source_File` | String | Origin filename for traceability |
+
+## Analysis & Parsing Strategy (Updated)
+
+1.  **2008-2019 (Table Parsing)**:
+    *   Use LLM to identify Markdown Tables.
+    *   Convert tables to CSV/JSON.
+    *   Map column headers (which vary by year) to the `Unified Schema`.
+    *   *Challenge*: Handling "merged cells" or complex headers in Markdown (e.g., "Year 2008 | Year 2009" nested).
+
+2.  **2020-2022 (Text Extraction)**:
+    *   Use LLM with "NER" (Named Entity Recognition) style prompts.
+    *   *Prompt*: "Extract all agricultural metrics from this text. Look for [Commodity] + [Metric] + [Value] + [Unit] + [Region]. Output as JSON."
+    *   *Validation*: Cross-check totals if possible (e.g., "Total Rice" vs sum of regions mentioned).
+
+## Next Steps
+1.  **Generate Prompts**: Create specific Prompts for "Table Extraction" (Phase 1-3) and "Text Extraction" (Phase 4).
+2.  **Run Extraction Pilot**: Test extraction on 1 file from each Phase.
+3.  **Build Dataset**: Aggregate results into the final Long Dataset.
+
+---
+
+## Preliminary Trend Analysis (Qualitative)
+
+Based on the review of reports from 2008 to 2022, several key correlations and trends have been identified for future quantitative verification:
+
+### 1. Seasonality & Production Cycles
+*   **Rice**: Strong positive correlation between **March-April** (Winter-Spring harvest) and **September-October** (Summer-Autumn harvest) with peak output.
+*   **Fishery**: Output tends to spike in **Q3-Q4** due to favorable weather for offshore fishing and aquaculture harvest cycles for Tet preparations.
+
+### 2. The "Shock" Events
+*   **2019 African Swine Fever (DTLCP)**:
+    *   **Trend**: Massive negative correlation between Year 2019 and previous years for **Pig Headcount** and **Pork Output**.
+    *   **Substitution Effect**: Strong positive correlation likely between "Pig Decline" and "Poultry/Cattle Growth" in 2019-2020 as consumers/farmers shifted protein sources.
+*   **2020-2021 COVID-19**:
+    *   **Trend**: Disruption in **Export Turnover** for specific months (lockdowns) but overall resilience in annual figures.
+    *   **Cost Correlation**: High correlation between **Input Costs** (Fertilizer, Feed) and **Product Price** in 2021-2022.
+
+### 3. Market Shifts
+*   **Export Destinations**: A gradual negative correlation in share of low-value exports to simple markets vs a positive trend in high-value exports to EU/US (EVFTA impact in later years).
+*   **Digital Transformation**: Post-2020 reports show a sudden appearance of "OCOP" products, correlating with the government's rural development push.
+
+These qualitative insights will guide the **Feature Engineering** phase of the Data Mining project.

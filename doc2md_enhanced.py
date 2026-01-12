@@ -11,8 +11,10 @@ import os
 import argparse
 import logging
 from datetime import datetime
-from typing import Optional, List
+from typing import Optional, List, Dict
 import sys
+from concurrent.futures import ProcessPoolExecutor, as_completed
+import multiprocessing
 
 # Thêm thư viện cho DOC/DOCX
 try:
@@ -162,7 +164,12 @@ class DocumentConverter:
         
         # Giữ nguyên cấu trúc thư mục
         base_path = pathlib.Path(base_dir)
-        relative_path = input_path_obj.parent.relative_to(base_path)
+        try:
+            relative_path = input_path_obj.parent.relative_to(base_path)
+        except ValueError:
+            # If not a child, use stem
+            relative_path = "."
+            
         output_subdir = pathlib.Path(self.output_dir) / relative_path
         output_subdir.mkdir(parents=True, exist_ok=True)
         
@@ -185,15 +192,12 @@ class DocumentConverter:
         # Check if already exists
         if self.skip_existing and os.path.exists(output_path):
             logger.info(f"⏭️  Skipping (already exists): {output_path}")
-            self.stats['skipped'] += 1
             return True
         
         # Ensure output directory exists
         pathlib.Path(output_path).parent.mkdir(parents=True, exist_ok=True)
         
         # Convert based on extension
-        self.stats['total'] += 1
-        
         if ext == '.pdf':
             success = self.convert_pdf_to_md(file_path, output_path)
         elif ext == '.docx':
@@ -203,15 +207,10 @@ class DocumentConverter:
         else:
             success = False
         
-        if success:
-            self.stats['success'] += 1
-        else:
-            self.stats['failed'] += 1
-        
         return success
-    
-    def convert_folder(self, folder_path: str, recursive: bool = True) -> None:
-        """Convert toàn bộ documents trong thư mục"""
+
+    def convert_folder(self, folder_path: str, recursive: bool = True, max_workers: Optional[int] = None) -> None:
+        """Convert toàn bộ documents trong thư mục sử dụng multi-processing"""
         path = pathlib.Path(folder_path)
         
         if not path.exists():
@@ -232,31 +231,82 @@ class DocumentConverter:
         
         # Filter out .doc files if .docx exists (ưu tiên .docx)
         filtered_files = []
-        for file_path in all_files:
-            if file_path.suffix.lower() == '.doc':
-                docx_path = file_path.with_suffix('.docx')
-                if docx_path in all_files:
-                    logger.info(f"⏭️  Skipping {file_path.name} (using .docx version)")
+        for file_info in all_files:
+            if file_info.suffix.lower() == '.doc':
+                docx_path = file_info.with_suffix('.docx')
+                # Check if docx version exists in the same folder or in all_files
+                if docx_path.exists() or docx_path in all_files:
+                    logger.info(f"⏭️  Skipping {file_info.name} (using .docx version)")
                     continue
-            filtered_files.append(file_path)
+            filtered_files.append(str(file_info))
         
-        logger.info(f"📂 Tìm thấy {len(filtered_files)} file(s) to convert. Bắt đầu convert...")
+        num_files = len(filtered_files)
+        if max_workers is None or max_workers <= 0:
+            max_workers = min(multiprocessing.cpu_count(), num_files)
+            
+        logger.info(f"📂 Tìm thấy {num_files} file(s). Bắt đầu convert với {max_workers} workers...")
         logger.info("=" * 60)
         
-        for i, file_path in enumerate(filtered_files, 1):
-            logger.info(f"\n[{i}/{len(filtered_files)}] Processing: {file_path.name}")
-            self.convert_file(str(file_path), base_dir=folder_path)
+        # Reset stats
+        self.stats = {'total': 0, 'success': 0, 'failed': 0, 'skipped': 0}
+        
+        with ProcessPoolExecutor(max_workers=max_workers) as executor:
+            futures = [
+                executor.submit(
+                    _worker_convert, 
+                    f, self.output_dir, self.preserve_structure, 
+                    self.skip_existing, folder_path
+                ) for f in filtered_files
+            ]
+            
+            for i, future in enumerate(as_completed(futures), 1):
+                try:
+                    res = future.result()
+                    status = res['status']
+                    fname = os.path.basename(res['file'])
+                    
+                    if status == 'skipped':
+                        self.stats['skipped'] += 1
+                    elif status == 'success':
+                        self.stats['success'] += 1
+                        self.stats['total'] += 1
+                    else:
+                        self.stats['failed'] += 1
+                        self.stats['total'] += 1
+                    
+                    logger.info(f"[{i}/{num_files}] {status.upper()}: {fname}")
+                except Exception as e:
+                    logger.error(f"Error in worker: {str(e)}")
+                    self.stats['failed'] += 1
+                    self.stats['total'] += 1
         
         # Print summary
         logger.info("\n" + "=" * 60)
         logger.info("📊 CONVERSION SUMMARY")
         logger.info("=" * 60)
-        logger.info(f"Total files processed: {self.stats['total']}")
+        logger.info(f"Total files attempted: {self.stats['total']}")
         logger.info(f"✅ Success: {self.stats['success']}")
         logger.info(f"❌ Failed: {self.stats['failed']}")
         logger.info(f"⏭️  Skipped: {self.stats['skipped']}")
         logger.info("=" * 60)
 
+def _worker_convert(file_path: str, output_dir: Optional[str], preserve_structure: bool, 
+                   skip_existing: bool, base_dir: Optional[str]) -> Dict:
+    """Helper function for parallel processing (phải ở cấp module)"""
+    converter = DocumentConverter(
+        output_dir=output_dir,
+        preserve_structure=preserve_structure,
+        skip_existing=skip_existing
+    )
+    
+    # Calculate output path to check skip early
+    output_path = converter.get_output_path(file_path, base_dir)
+    
+    if skip_existing and os.path.exists(output_path):
+        return {"status": "skipped", "file": file_path}
+    
+    success = converter.convert_file(file_path, output_path=output_path, base_dir=base_dir)
+    return {"status": "success" if success else "failed", "file": file_path}
 
 def main():
     """Main function với command-line arguments"""
@@ -268,20 +318,8 @@ Examples:
   # Convert một file
   python doc2md_enhanced.py input.pdf
   
-  # Convert một file với output path cụ thể
-  python doc2md_enhanced.py input.pdf -o output.md
-  
-  # Convert toàn bộ folder
-  python doc2md_enhanced.py /path/to/folder --folder
-  
-  # Convert folder với output directory riêng
-  python doc2md_enhanced.py /path/to/folder --folder --output-dir ./markdown_output
-  
-  # Convert folder, không giữ cấu trúc thư mục
-  python doc2md_enhanced.py /path/to/folder --folder --output-dir ./output --no-preserve
-  
-  # Skip files đã convert
-  python doc2md_enhanced.py /path/to/folder --folder --skip-existing
+  # Convert toàn bộ folder với multi-workers
+  python doc2md_enhanced.py /path/to/folder --folder --workers 4
         """
     )
     
@@ -295,6 +333,8 @@ Examples:
                        help='Bỏ qua file đã được convert')
     parser.add_argument('--no-recursive', action='store_true', 
                        help='Không tìm kiếm recursive trong subfolder')
+    parser.add_argument('-w', '--workers', type=int, default=multiprocessing.cpu_count(),
+                       help='Số lượng process chạy song song (mặc định: số CPU)')
     
     args = parser.parse_args()
     
@@ -312,7 +352,7 @@ Examples:
     
     # Convert
     if args.folder or os.path.isdir(args.input):
-        converter.convert_folder(args.input, recursive=not args.no_recursive)
+        converter.convert_folder(args.input, recursive=not args.no_recursive, max_workers=args.workers)
     else:
         converter.convert_file(args.input, output_path=args.output)
 

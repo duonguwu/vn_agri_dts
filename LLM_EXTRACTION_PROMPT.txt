@@ -1,0 +1,523 @@
+# NHIỆM VỤ TỔNG QUAN
+
+Bạn là một AI chuyên gia về trích xuất dữ liệu nông nghiệp từ các báo cáo Markdown. 
+Nhiệm vụ của bạn là trích xuất TOÀN BỘ dữ liệu từ các file segment markdown trong thư mục `segments/2009/` 
+và chuyển đổi thành format JSON theo schema chuẩn.
+
+---
+
+# BƯỚC 1: ĐỌC VÀ HIỂU SCHEMA
+
+Đầu tiên, đọc kỹ file schema:
+- File: `schema_improved.json`
+- Hiểu rõ cấu trúc của mỗi record
+- Chú ý đến các trường bắt buộc (required) và optional
+- Hiểu ý nghĩa của từng enum value
+
+Các context chính:
+1. **time_context**: year, month, report_date, period_type
+2. **geo_context**: geo_level, location_name, region_id, region_name_vn
+3. **item_context**: sector, commodity, sub_item, variety, processing_level
+4. **metric_context**: attribute, value, unit, data_type
+5. **comparison_context**: comparison_type, comparison_value, base_period, base_value
+6. **metadata**: source_file, appendix_number, appendix_title, extraction_method, etc.
+7. **data_quality**: is_aggregated, has_missing_values, data_status
+
+---
+
+# BƯỚC 2: PHÂN LOẠI VÀ XỬ LÝ TỪNG LOẠI PHỤ LỤC
+
+## 2.1. PHÂN LOẠI PHỤ LỤC
+
+Dựa vào filename và title, phân loại phụ lục:
+
+**PL1**: Tổng hợp sản xuất nông nghiệp
+- Sector: Cultivation (chủ yếu)
+- Dữ liệu tổng hợp theo vùng (Miền Bắc, Miền Nam, ĐBSCL)
+- Có so sánh với cùng kỳ năm trước
+
+**PL2-3**: Gieo cấy lúa và cây công nghiệp - Miền Bắc
+- Sector: Cultivation
+- Dữ liệu chi tiết theo tỉnh
+- PL2: Lúa và màu lương thực
+- PL3: Cây công nghiệp ngắn ngày (đậu tương, lạc, mía, thuốc lá)
+
+**PL4-5**: Gieo cấy lúa và cây công nghiệp - Miền Nam
+- Sector: Cultivation
+- Dữ liệu chi tiết theo tỉnh
+- PL4: Lúa và màu lương thực
+- PL5: Cây công nghiệp ngắn ngày
+
+**PL6**: Lâm nghiệp
+- Sector: Forestry
+- Có kế hoạch, thực hiện, % so với kế hoạch và cùng kỳ
+- Attributes: Trồng rừng, Chăm sóc, Khai thác gỗ, etc.
+
+**PL7**: Thủy sản
+- Sector: Fishery
+- Có sản lượng khai thác, nuôi trồng
+- Có xuất khẩu theo sản phẩm (cá, tôm, mực, etc.)
+- Nhiều sub-items phức tạp
+
+**PL8**: Xuất nhập khẩu
+- Sector: Trade
+- Có cả xuất khẩu và nhập khẩu
+- Mỗi commodity có 2 giá trị: Lượng (1000 tấn) và Giá trị (triệu USD)
+- Có so sánh nhiều kỳ (tháng 1, tháng 2, 2 tháng, cùng kỳ năm trước)
+
+**PL9**: Đầu tư XDCB
+- Sector: Investment
+- Có kế hoạch năm, thực hiện tháng 1, tháng 2, 2 tháng
+- Phân theo danh mục (Thuỷ lợi, Nông nghiệp, Lâm nghiệp, etc.)
+
+**PL10a/b**: Báo cáo chấp hành
+- Sector: Reporting
+- Metadata về việc gửi báo cáo của các tỉnh
+- CÓ THỂ BỎ QUA (không phải dữ liệu sản xuất)
+
+---
+
+## 2.2. QUY TẮC TRÍCH XUẤT CHO TỪNG LOẠI
+
+### A. CULTIVATION (PL1-5)
+
+**Xác định thông tin:**
+- **Commodity**: Lúa, Ngô, Khoai lang, Sắn, Đậu tương, Lạc, Mía, Thuốc lá, Rau, Đậu
+- **Sub_item**: Đông Xuân, Hè Thu, Mùa (từ title hoặc context)
+- **Attribute**: 
+  - "Diện tích gieo cấy" → Area_Planted
+  - "Diện tích thu hoạch" → Area_Harvested
+  - "Diện tích mạ" → Area_Seedling
+  - "Diện tích gieo trồng" → Area_Planted
+- **Unit**: Thường là "ha" hoặc "1000_ha"
+- **Geo_level**: 
+  - Nếu có "**" (bold) → Regional (tổng hợp)
+  - Nếu không → Provincial (chi tiết)
+
+**Xử lý bảng:**
+1. Row đầu tiên thường là header → bỏ qua
+2. Mỗi row tiếp theo là 1 location (tỉnh hoặc vùng)
+3. Mỗi column là 1 commodity hoặc attribute
+4. Tạo 1 record cho mỗi cell có giá trị
+
+**Ví dụ:**
+```
+Row: "Long An | 245,962 | 66,008 | 26.8 | 3,049"
+→ Tạo 4 records:
+  1. Long An - Lúa Đông Xuân - Area_Planted - 245962 ha
+  2. Long An - Lúa Đông Xuân - Area_Harvested - 66008 ha
+  3. Long An - Lúa Đông Xuân - Harvest_Percentage - 26.8 percent
+  4. Long An - Màu lương thực - Area_Planted - 3049 ha
+```
+
+### B. FORESTRY (PL6)
+
+**Xác định thông tin:**
+- **Commodity**: Rừng phòng hộ, Rừng sản xuất, Gỗ
+- **Attribute**: 
+  - "Trồng rừng" → Area_Planted
+  - "Chăm sóc rừng" → Area
+  - "Khai thác gỗ" → Production
+- **Unit**: "1000_ha" hoặc "1000_m3"
+- **Data_type**: 
+  - Cột "Kế hoạch" → Plan
+  - Cột "Thực hiện" → Actual
+  - Cột "Ước TH" → Estimated
+
+**Xử lý comparison:**
+- Cột "% so với Cùng kỳ" → comparison_type: "YoY"
+- Cột "% so với Kế hoạch" → comparison_type: "vs_Plan"
+
+### C. FISHERY (PL7)
+
+**Xác định thông tin:**
+- **Commodity**: Cá, Tôm, Cá tra/basa, Mực, Nhuyễn thể, etc.
+- **Sub_item**: 
+  - Khai thác biển, Khai thác nội địa, Nuôi trồng
+  - Hoặc tên sản phẩm cụ thể (Cá chế biến, Tôm chế biến, etc.)
+- **Attribute**:
+  - "Sản lượng" → Production
+  - "Kim ngạch XK" → Export_Value
+  - "Sản phẩm XK" → Export_Volume
+- **Unit**: "1000_ton" hoặc "million_USD"
+
+**Lưu ý:**
+- Có nhiều cấp độ phân loại (I, 1, 1.1, II, III)
+- Cấp I, II, III thường là tổng hợp → is_aggregated: true
+- Cấp 1, 2, 3... là chi tiết → is_aggregated: false
+
+### D. TRADE (PL8) - PHỨC TẠP NHẤT
+
+**Xác định thông tin:**
+- **Commodity**: Cà phê, Cao su, Gạo, Chè, Hạt điều, Hạt tiêu, Rau quả, Phân bón, etc.
+- **Sub_item**: "Xuất khẩu" hoặc "Nhập khẩu"
+- **Attribute**: Export_Volume, Export_Value, Import_Volume, Import_Value
+- **Unit**: 
+  - Cột "Lượng" → "1000_ton"
+  - Cột "Giá trị" → "million_USD"
+
+**Xử lý nhiều kỳ:**
+Bảng có nhiều cột thời gian:
+- "TH tháng 1/09" → month: 1
+- "Ư. TH tháng 2/09" → month: 2
+- "Ư. TH 2 tháng/09" → period_type: "Cumulative"
+- "TH 2 tháng/2008" → base_period cho comparison
+
+**Quy tắc:**
+1. Mỗi commodity tạo NHIỀU records (cho từng kỳ, từng loại giá trị)
+2. Ví dụ: Cà phê có thể tạo 8 records:
+   - Tháng 1: Lượng, Giá trị
+   - Tháng 2: Lượng, Giá trị
+   - 2 tháng: Lượng, Giá trị
+   - Comparison: % so với cùng kỳ (Lượng, Giá trị)
+
+### E. INVESTMENT (PL9)
+
+**Xác định thông tin:**
+- **Commodity**: Thuỷ lợi, Nông nghiệp, Lâm nghiệp, Thuỷ sản, Khoa học-Công nghệ
+- **Attribute**: Investment_Amount
+- **Unit**: "billion_VND" (thường tính bằng tỷ đồng)
+- **Data_type**: Plan (kế hoạch năm), Actual (thực hiện tháng)
+
+---
+
+# BƯỚC 3: XỬ LÝ DỮ LIỆU
+
+## 3.1. CLEAN DATA
+
+**Số liệu:**
+- Loại bỏ dấu phẩy: "245,962" → 245962
+- Loại bỏ markdown formatting: "**2,773.9**" → 2773.9
+- Loại bỏ `<br>`, `~~`, `*`, `_`
+- Giá trị rỗng hoặc "" → None
+
+**Text:**
+- Loại bỏ markdown formatting
+- Trim whitespace
+- Chuẩn hóa tên tỉnh/vùng
+
+## 3.2. MAPPING
+
+**Region mapping:**
+```
+"Miền Bắc" → region_id: "North"
+"Đông Bắc" → region_id: "Northeast"
+"Tây Bắc" → region_id: "Northwest"
+"Bắc Trung Bộ" → region_id: "North_Central"
+"D.H Nam Trg Bộ" → region_id: "Central_Coast"
+"Tây Nguyên" → region_id: "Central_Highlands"
+"Đông Nam Bộ" → region_id: "Southeast"
+"ĐBS Cửu Long" → region_id: "Mekong_Delta"
+"Đồng bằng sông Cửu Long" → region_id: "Mekong_Delta"
+"ĐB sông Hồng" → region_id: "Red_River_Delta"
+```
+
+**Commodity mapping:**
+```
+"lúa" → "Lúa"
+"ngô" → "Ngô"
+"khoai lang", "k.lang" → "Khoai lang"
+"sắn" → "Sắn"
+"đậu tương" → "Đậu tương"
+"lạc" → "Lạc"
+"cà phê" → "Cà phê"
+"cao su" → "Cao su"
+"gạo" → "Gạo"
+etc.
+```
+
+## 3.3. GENERATE RECORD_ID
+
+Sử dụng MD5 hash của key fields:
+```python
+key = f"{year}_{month}_{location}_{sector}_{commodity}_{attribute}_{data_type}"
+record_id = md5(key).hexdigest()[:16]
+```
+
+## 3.4. EXTRACTION CONFIDENCE
+
+Đánh giá độ tin cậy:
+- **0.95-1.0**: Bảng đơn giản, rõ ràng, không có merged cells
+- **0.85-0.94**: Bảng có một số phức tạp nhưng xử lý được
+- **0.70-0.84**: Bảng phức tạp, có merged cells, cần inference
+- **<0.70**: Dữ liệu không chắc chắn, cần review
+
+---
+
+# BƯỚC 4: XỬ LÝ TỪNG FILE SEGMENT
+
+## 4.1. WORKFLOW CHO MỖI FILE
+
+```
+1. Đọc file markdown
+2. Extract metadata từ filename:
+   - Year: từ "2009_02_..." → 2009
+   - Month: từ "2009_02_..." → 2
+   - Appendix: từ "..._PL1.md" → "PL1"
+3. Extract title từ content (dòng có ** hoặc #)
+4. Detect sector từ title
+5. Parse markdown table
+6. Xác định header rows và data rows
+7. Với mỗi data row:
+   a. Extract location name
+   b. Determine geo_level (Regional/Provincial)
+   c. Với mỗi column có giá trị:
+      - Xác định commodity, attribute, unit
+      - Tạo record theo schema
+      - Generate record_id
+      - Set extraction_confidence
+8. Lưu tất cả records vào list
+```
+
+## 4.2. OUTPUT FORMAT
+
+Tạo file JSON với cấu trúc:
+```json
+{
+  "metadata": {
+    "extraction_date": "2026-01-08T11:52:00+07:00",
+    "total_records": 1234,
+    "total_files_processed": 11,
+    "year": 2009,
+    "month": 2,
+    "schema_version": "2.0",
+    "extraction_method": "LLM_Extraction",
+    "llm_model": "claude-3.5-sonnet" // hoặc model bạn dùng
+  },
+  "records": [
+    {
+      "record_id": "abc123def456",
+      "time_context": { ... },
+      "geo_context": { ... },
+      "item_context": { ... },
+      "metric_context": { ... },
+      "comparison_context": { ... },
+      "metadata": { ... },
+      "data_quality": { ... }
+    },
+    ...
+  ]
+}
+```
+
+---
+
+# BƯỚC 5: VALIDATION
+
+## 5.1. VALIDATE SCHEMA
+
+Mỗi record phải:
+- Có đầy đủ required fields
+- Enum values phải nằm trong danh sách cho phép
+- Data types phải đúng (integer, float, string)
+- Constraints phải thỏa mãn (year: 2008-2022, month: 1-12, value >= 0)
+
+## 5.2. VALIDATE LOGIC
+
+- Nếu có comparison_value thì phải có comparison_type
+- Nếu is_aggregated = true thì geo_level nên là "Regional"
+- Nếu sector = "Trade" thì sub_item nên là "Xuất khẩu" hoặc "Nhập khẩu"
+
+## 5.3. QUALITY CHECKS
+
+- Đếm số records per appendix → nên có ít nhất 20-50 records/appendix
+- Check missing values → flag nếu >30% cells trống
+- Check duplicates → không nên có record_id trùng
+
+---
+
+# BƯỚC 6: LƯU FILE OUTPUT
+
+## 6.1. NAMING CONVENTION
+
+```
+extracted_data_{year}_{month:02d}.json
+Ví dụ: extracted_data_2009_02.json
+```
+
+## 6.2. DIRECTORY STRUCTURE
+
+```
+output/
+├── 2009/
+│   ├── extracted_data_2009_02.json
+│   ├── extracted_data_2009_03.json
+│   └── ...
+├── validation_reports/
+│   ├── validation_2009_02.txt
+│   └── ...
+└── summary/
+    └── extraction_summary_2009.json
+```
+
+## 6.3. ADDITIONAL OUTPUTS
+
+Ngoài JSON, tạo thêm:
+
+**1. CSV file** (cho Excel analysis):
+```
+extracted_data_2009_02.csv
+```
+Flatten records với các cột chính:
+- record_id, year, month, location, geo_level, sector, commodity, attribute, value, unit, data_type
+
+**2. Validation report** (text file):
+```
+validation_2009_02.txt
+```
+Nội dung:
+- Tổng số records
+- Số records per appendix
+- Số records per sector
+- Warnings/errors
+- Missing values summary
+
+**3. Summary statistics**:
+```json
+{
+  "total_records": 1234,
+  "by_appendix": {
+    "PL1": 45,
+    "PL2": 234,
+    ...
+  },
+  "by_sector": {
+    "Cultivation": 567,
+    "Fishery": 123,
+    ...
+  },
+  "quality_metrics": {
+    "avg_confidence": 0.89,
+    "records_with_missing_values": 12,
+    "records_with_comparison": 234
+  }
+}
+```
+
+---
+
+# BƯỚC 7: XỬ LÝ TOÀN BỘ THÁNG 2/2009
+
+## 7.1. DANH SÁCH FILES CẦN XỬ LÝ
+
+```
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL1.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL2.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL3.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL4.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL5.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL6.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL7.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL8.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL9.md
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL10a.md (optional - có thể bỏ qua)
+segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL10b.md (optional - có thể bỏ qua)
+```
+
+## 7.2. PROCESSING ORDER
+
+Ưu tiên từ dễ đến khó:
+1. **PL1** (đơn giản, ít rows)
+2. **PL2, PL3** (cultivation - miền Bắc)
+3. **PL4, PL5** (cultivation - miền Nam)
+4. **PL9** (investment - đơn giản)
+5. **PL6** (forestry - có kế hoạch/thực hiện)
+6. **PL7** (fishery - phức tạp hơn)
+7. **PL8** (trade - phức tạp nhất)
+
+---
+
+# BƯỚC 8: SCALE UP (SAU KHI HOÀN THÀNH THÁNG 2)
+
+Sau khi hoàn thành tháng 2/2009 và validate OK:
+
+1. **Áp dụng cho các tháng khác** (tháng 3-11/2009)
+   - Cấu trúc tương tự → dùng lại logic
+   - Chỉ cần thay đổi year/month trong metadata
+
+2. **Xử lý tháng 12** (đặc biệt)
+   - Có 15 phụ lục thay vì 10
+   - Cần review và adjust logic
+
+3. **Tạo consolidated dataset**
+   - Merge tất cả tháng vào 1 file
+   - Hoặc giữ riêng từng tháng để dễ quản lý
+
+---
+
+# LƯU Ý QUAN TRỌNG
+
+## ĐỐI VỚI IDE AI:
+
+1. **Chia nhỏ task**: Xử lý từng file một, không làm hết cùng lúc
+2. **Validate từng bước**: Sau mỗi file, check kết quả trước khi tiếp tục
+3. **Lưu progress**: Lưu kết quả từng phần để tránh mất dữ liệu
+4. **Handle errors**: Nếu gặp lỗi ở file nào, skip và ghi log, xử lý sau
+
+## ĐỐI VỚI DỮ LIỆU:
+
+1. **Không bỏ sót**: Trích xuất TẤT CẢ giá trị có ý nghĩa, kể cả giá trị 0
+2. **Giữ nguyên context**: Đừng mất thông tin về vùng, thời gian, loại dữ liệu
+3. **Đánh dấu uncertainty**: Nếu không chắc, set extraction_confidence thấp và ghi notes
+4. **Preserve relationships**: Giữ mối quan hệ giữa kế hoạch-thực hiện, xuất-nhập khẩu
+
+## ĐỐI VỚI QUALITY:
+
+1. **Accuracy > Speed**: Chính xác quan trọng hơn nhanh
+2. **Completeness**: Đầy đủ quan trọng hơn hoàn hảo
+3. **Consistency**: Nhất quán trong cách đặt tên, format, structure
+4. **Traceability**: Luôn lưu source_file, appendix_number, row_number để trace back
+
+---
+
+# CHECKLIST HOÀN THÀNH
+
+Sau khi xử lý xong, check:
+
+- [ ] Đã xử lý hết 9-11 files segment của tháng 2/2009
+- [ ] File JSON output có cấu trúc đúng schema
+- [ ] Metadata đầy đủ và chính xác
+- [ ] Mỗi record có record_id unique
+- [ ] Tất cả required fields đều có giá trị
+- [ ] Enum values hợp lệ
+- [ ] Có ít nhất 200-500 records tổng cộng (ước tính)
+- [ ] Đã tạo CSV file để review
+- [ ] Đã tạo validation report
+- [ ] Đã tạo summary statistics
+- [ ] Không có errors trong validation
+
+---
+
+# KẾT QUẢ MONG ĐỢI
+
+Sau khi hoàn thành prompt này, bạn sẽ có:
+
+1. **File JSON chính**: `extracted_data_2009_02.json`
+   - Chứa 200-500 records (ước tính)
+   - Đầy đủ thông tin theo schema v2.0
+   - Có metadata và quality indicators
+
+2. **File CSV**: `extracted_data_2009_02.csv`
+   - Dễ mở bằng Excel để review
+   - Có các cột chính để phân tích
+
+3. **Validation report**: `validation_2009_02.txt`
+   - Tổng hợp thống kê
+   - Danh sách warnings/errors
+   - Quality metrics
+
+4. **Summary**: `extraction_summary_2009_02.json`
+   - Thống kê tổng quan
+   - Breakdown theo appendix, sector
+   - Quality metrics
+
+---
+
+# BẮT ĐẦU NGAY
+
+Hãy bắt đầu với file đầu tiên:
+`segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL1.md`
+
+Sau khi hoàn thành PL1, tiếp tục với PL2, PL3, ... cho đến hết.
+
+Good luck! 🚀

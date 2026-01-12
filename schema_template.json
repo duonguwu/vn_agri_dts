@@ -1,0 +1,322 @@
+{
+  "description": "Schema for Vietnamese agricultural data extraction",
+  "structure": {
+    "record_id": {
+      "type": "string",
+      "description": "Mã định danh duy nhất (UUID hoặc Hash của bộ key)",
+      "constraint": "Unique",
+      "generation": "MD5(year + month + location_name + sector + commodity + attribute + data_type)"
+    },
+    "time_context": {
+      "year": { 
+        "type": "integer", 
+        "constraint": "2008-2022",
+        "required": true
+      },
+      "month": { 
+        "type": "integer", 
+        "constraint": "1-12",
+        "required": true
+      },
+      "report_date": { 
+        "type": "string", 
+        "format": "YYYY-MM-DD", 
+        "description": "Ngày chốt số liệu trong báo cáo (ví dụ: 15/02/2009)",
+        "required": false
+      },
+      "period_type": {
+        "type": "string",
+        "enum": ["Monthly", "Cumulative", "YTD", "Seasonal"],
+        "description": "Loại kỳ báo cáo: Tháng, Lũy kế, Đầu năm đến nay, Theo vụ",
+        "required": false
+      }
+    },
+    "geo_context": {
+      "geo_level": { 
+        "type": "string", 
+        "enum": ["National", "Regional", "Provincial"],
+        "required": true
+      },
+      "location_name": { 
+        "type": "string", 
+        "description": "Tên Tỉnh/Thành phố hoặc Vùng (ví dụ: An Giang, ĐBSCL)",
+        "required": true
+      },
+      "region_id": { 
+        "type": "string", 
+        "description": "ID vùng chuẩn hóa",
+        "enum": ["North", "Northeast", "Northwest", "North_Central", "Central_Coast", "Central_Highlands", "Southeast", "Mekong_Delta"],
+        "required": false
+      },
+      "region_name_vn": {
+        "type": "string",
+        "description": "Tên vùng tiếng Việt",
+        "enum": ["Miền Bắc", "Đông Bắc", "Tây Bắc", "Bắc Trung Bộ", "Duyên hải Nam Trung Bộ", "Tây Nguyên", "Đông Nam Bộ", "Đồng bằng sông Cửu Long"],
+        "required": false
+      }
+    },
+    "item_context": {
+      "sector": { 
+        "type": "string", 
+        "enum": ["Cultivation", "Livestock", "Fishery", "Forestry", "Trade", "Pest", "Investment", "Reporting"],
+        "description": "Ngành: Trồng trọt, Chăn nuôi, Thủy sản, Lâm nghiệp, Thương mại, Dịch hại, Đầu tư, Báo cáo",
+        "required": true
+      },
+      "commodity": { 
+        "type": "string", 
+        "description": "Sản phẩm chính (ví dụ: Lúa, Lợn, Cá tra, Gỗ, Cà phê)",
+        "required": true
+      },
+      "sub_item": { 
+        "type": "string", 
+        "description": "Chi tiết trà lúa/loại hình (ví dụ: Đông Xuân, Hè Thu, Mùa, Thẻ chân trắng)",
+        "required": false
+      },
+      "variety": { 
+        "type": "string", 
+        "description": "Giống cụ thể (ví dụ: IR50404, ST25) - Nếu có",
+        "required": false
+      },
+      "processing_level": {
+        "type": "string",
+        "enum": ["Raw", "Processed", "Semi_Processed"],
+        "description": "Mức độ chế biến: Thô, Chế biến, Bán chế biến",
+        "required": false
+      }
+    },
+    "metric_context": {
+      "attribute": { 
+        "type": "string", 
+        "description": "Tên chỉ tiêu",
+        "enum": [
+          "Area", "Area_Planted", "Area_Harvested", "Area_Seedling",
+          "Output", "Yield", 
+          "Headcount", "Slaughtered",
+          "Production", "Catch", "Aquaculture",
+          "Export_Volume", "Export_Value", "Import_Volume", "Import_Value",
+          "Investment_Amount", "Investment_Disbursement",
+          "Plan", "Actual", "Estimated"
+        ],
+        "required": true
+      },
+      "value": { 
+        "type": "float", 
+        "constraint": ">= 0",
+        "required": true
+      },
+      "unit": { 
+        "type": "string", 
+        "description": "Đơn vị đo lường",
+        "enum": [
+          "ha", "1000_ha", 
+          "ton", "1000_ton", 
+          "kg", "quintal",
+          "ton_per_ha", "quintal_per_ha",
+          "heads", "1000_heads",
+          "m3", "1000_m3",
+          "USD", "1000_USD", "million_USD",
+          "VND", "1000_VND", "billion_VND",
+          "trees", "1000_trees", "million_trees",
+          "percent"
+        ],
+        "required": true
+      },
+      "data_type": { 
+        "type": "string", 
+        "enum": ["Actual", "Plan", "Cumulative", "Estimated", "Target"],
+        "description": "Loại số liệu: Thực hiện, Kế hoạch, Lũy kế, Ước tính, Chỉ tiêu",
+        "required": true
+      }
+    },
+    "comparison_context": {
+      "comparison_type": {
+        "type": "string",
+        "enum": ["YoY", "vs_Plan", "vs_Target", "MoM", "None"],
+        "description": "Loại so sánh: Cùng kỳ năm trước, So với kế hoạch, So với chỉ tiêu, Tháng trước, Không so sánh",
+        "required": false
+      },
+      "comparison_value": {
+        "type": "float",
+        "description": "Giá trị so sánh (%, tỷ lệ)",
+        "required": false
+      },
+      "base_period": {
+        "type": "string",
+        "description": "Kỳ gốc để so sánh (ví dụ: 15/02/08, Kế hoạch năm 2009)",
+        "required": false
+      },
+      "base_value": {
+        "type": "float",
+        "description": "Giá trị kỳ gốc",
+        "required": false
+      }
+    },
+    "metadata": {
+      "source_file": { 
+        "type": "string",
+        "description": "Tên file nguồn",
+        "required": true
+      },
+      "appendix_number": {
+        "type": "string",
+        "description": "Số phụ lục (PL1, PL2, ...)",
+        "required": true
+      },
+      "appendix_title": {
+        "type": "string",
+        "description": "Tiêu đề phụ lục",
+        "required": false
+      },
+      "table_index": { 
+        "type": "integer", 
+        "description": "Thứ tự bảng trong file gốc (nếu có nhiều bảng)",
+        "required": false
+      },
+      "row_number": {
+        "type": "integer",
+        "description": "Số dòng trong bảng gốc",
+        "required": false
+      },
+      "extraction_method": { 
+        "type": "string", 
+        "enum": ["Table_Parsing", "Text_NER", "LLM_Extraction", "Manual"],
+        "required": true
+      },
+      "extraction_confidence": {
+        "type": "float",
+        "constraint": "0.0-1.0",
+        "description": "Độ tin cậy của việc trích xuất (0-1)",
+        "required": false
+      },
+      "notes": {
+        "type": "string",
+        "description": "Ghi chú đặc biệt (ví dụ: footnotes, caveats)",
+        "required": false
+      }
+    },
+    "data_quality": {
+      "is_aggregated": {
+        "type": "boolean",
+        "description": "Có phải là dữ liệu tổng hợp không (ví dụ: Tổng Miền Bắc, Tổng cả nước)",
+        "required": false
+      },
+      "has_missing_values": {
+        "type": "boolean",
+        "description": "Có giá trị bị thiếu trong dòng gốc không",
+        "required": false
+      },
+      "data_status": {
+        "type": "string",
+        "enum": ["Complete", "Partial", "Estimated", "Provisional"],
+        "description": "Trạng thái dữ liệu: Đầy đủ, Một phần, Ước tính, Tạm tính",
+        "required": false
+      }
+    }
+  },
+  "examples": [
+    {
+      "description": "Ví dụ 1: Diện tích gieo cấy lúa đông xuân",
+      "record": {
+        "record_id": "2009_02_LongAn_Cultivation_Rice_Area_Planted_Actual",
+        "time_context": {
+          "year": 2009,
+          "month": 2,
+          "report_date": "2009-02-15",
+          "period_type": "Seasonal"
+        },
+        "geo_context": {
+          "geo_level": "Provincial",
+          "location_name": "Long An",
+          "region_id": "Mekong_Delta",
+          "region_name_vn": "Đồng bằng sông Cửu Long"
+        },
+        "item_context": {
+          "sector": "Cultivation",
+          "commodity": "Lúa",
+          "sub_item": "Đông Xuân",
+          "variety": null,
+          "processing_level": "Raw"
+        },
+        "metric_context": {
+          "attribute": "Area_Planted",
+          "value": 245962,
+          "unit": "ha",
+          "data_type": "Actual"
+        },
+        "comparison_context": {
+          "comparison_type": "None",
+          "comparison_value": null,
+          "base_period": null,
+          "base_value": null
+        },
+        "metadata": {
+          "source_file": "PHULUC_t02_2009_FINAL.md",
+          "appendix_number": "PL4",
+          "appendix_title": "CÁC TỈNH MIỀN NAM - GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+          "table_index": 1,
+          "row_number": 45,
+          "extraction_method": "Table_Parsing",
+          "extraction_confidence": 0.95,
+          "notes": null
+        },
+        "data_quality": {
+          "is_aggregated": false,
+          "has_missing_values": false,
+          "data_status": "Complete"
+        }
+      }
+    },
+    {
+      "description": "Ví dụ 2: Xuất khẩu cà phê (có so sánh)",
+      "record": {
+        "record_id": "2009_02_National_Trade_Coffee_Export_Value",
+        "time_context": {
+          "year": 2009,
+          "month": 2,
+          "report_date": null,
+          "period_type": "Cumulative"
+        },
+        "geo_context": {
+          "geo_level": "National",
+          "location_name": "Cả nước",
+          "region_id": null,
+          "region_name_vn": null
+        },
+        "item_context": {
+          "sector": "Trade",
+          "commodity": "Cà phê",
+          "sub_item": "Xuất khẩu",
+          "variety": null,
+          "processing_level": "Processed"
+        },
+        "metric_context": {
+          "attribute": "Export_Value",
+          "value": 411,
+          "unit": "million_USD",
+          "data_type": "Actual"
+        },
+        "comparison_context": {
+          "comparison_type": "YoY",
+          "comparison_value": 88.4,
+          "base_period": "2 tháng/2008",
+          "base_value": 465
+        },
+        "metadata": {
+          "source_file": "PHULUC_t02_2009_FINAL.md",
+          "appendix_number": "PL8",
+          "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+          "table_index": 1,
+          "row_number": 16,
+          "extraction_method": "Table_Parsing",
+          "extraction_confidence": 0.90,
+          "notes": "Giá trị 2 tháng đầu năm"
+        },
+        "data_quality": {
+          "is_aggregated": false,
+          "has_missing_values": false,
+          "data_status": "Complete"
+        }
+      }
+    }
+  ]
+}

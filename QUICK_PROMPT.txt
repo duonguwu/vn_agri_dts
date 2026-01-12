@@ -1,0 +1,86 @@
+# PROMPT NHANH - TRÍCH XUẤT DỮ LIỆU NÔNG NGHIỆP
+
+## 🎯 NHIỆM VỤ
+Trích xuất TOÀN BỘ dữ liệu từ các file markdown trong `segments/2009/` (tháng 2/2009) thành JSON theo schema `schema_improved.json`.
+
+## 📋 CÁC BƯỚC THỰC HIỆN
+
+### 1. Đọc Schema
+Đọc file `schema_improved.json` để hiểu cấu trúc record.
+
+### 2. Xử lý từng file theo thứ tự
+```
+PL1 → PL2 → PL3 → PL4 → PL5 → PL9 → PL6 → PL7 → PL8
+(Dễ ---------------------------------> Khó)
+```
+
+### 3. Với mỗi file:
+- Extract metadata: year, month, appendix_number, title
+- Parse markdown table
+- Với mỗi row có data:
+  * Xác định: location, commodity, attribute, value, unit
+  * Tạo record theo schema
+  * Generate record_id = MD5(year_month_location_sector_commodity_attribute)[:16]
+
+### 4. Quy tắc quan trọng:
+
+**Geo_level:**
+- Có `**` (bold) → "Regional" + is_aggregated: true
+- Không có → "Provincial" + is_aggregated: false
+
+**Sector detection:**
+- Lúa/Ngô/Màu → "Cultivation"
+- Rừng/Gỗ → "Forestry"
+- Cá/Tôm → "Fishery"
+- Xuất/Nhập khẩu → "Trade"
+- Đầu tư → "Investment"
+
+**Attribute mapping:**
+- "Diện tích gieo cấy" → "Area_Planted"
+- "Diện tích thu hoạch" → "Area_Harvested"
+- "Sản lượng" → "Production"
+- "Kim ngạch XK" → "Export_Value"
+
+**Unit:**
+- ha, 1000_ha, ton, 1000_ton, million_USD, percent
+
+**Comparison:**
+- "% so với cùng kỳ" → comparison_type: "YoY"
+- "% so với kế hoạch" → comparison_type: "vs_Plan"
+
+### 5. Clean data:
+- Remove: `,` `**` `~~` `_` `<br>`
+- Empty → None
+- Parse numbers: "245,962" → 245962
+
+### 6. Output:
+```json
+{
+  "metadata": {
+    "extraction_date": "...",
+    "total_records": 1234,
+    "year": 2009,
+    "month": 2,
+    "schema_version": "2.0"
+  },
+  "records": [ {...}, {...}, ... ]
+}
+```
+
+Lưu vào: `output/2009/extracted_data_2009_02.json`
+
+## ✅ VALIDATION
+- Mỗi record có đủ required fields
+- Enums hợp lệ
+- value >= 0
+- Không có record_id trùng
+
+## 🎯 MỤC TIÊU
+- Ít nhất 200-500 records
+- Extraction_confidence trung bình > 0.85
+- Không bỏ sót dữ liệu có ý nghĩa
+
+---
+
+**BẮT ĐẦU NGAY với file đầu tiên:**
+`segments/2009/2009_02_PHULUC_t02_2009_FINAL_PL1.md`

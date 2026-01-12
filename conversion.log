@@ -651,3 +651,428 @@ install pypandoc wheels with included pandoc.
 2026-01-04 15:16:23,294 - INFO - ❌ Failed: 0
 2026-01-04 15:16:23,294 - INFO - ⏭️  Skipped: 17
 2026-01-04 15:16:23,294 - INFO - ============================================================
+2026-01-06 22:03:48,756 - INFO - ⏭️  Skipping Baocao_T02_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T03_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T04_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T05_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T06_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T07_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T08_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T10_2022.doc (using .docx version)
+2026-01-06 22:03:48,793 - INFO - ⏭️  Skipping Baocao_T11_2022.doc (using .docx version)
+2026-01-06 22:03:48,794 - INFO - 📂 Tìm thấy 43 file(s) to convert. Bắt đầu convert...
+2026-01-06 22:03:48,794 - INFO - ============================================================
+2026-01-06 22:03:48,794 - INFO - 
+[1/43] Processing: Baocao_12_2008_Final.pdf
+2026-01-06 22:03:48,794 - INFO - ⏭️  Skipping (already exists): markdown_output/2008/Baocao_12_2008_Final.md
+2026-01-06 22:03:48,794 - INFO - 
+[2/43] Processing: Phuluc_12_2008.pdf
+2026-01-06 22:03:48,794 - INFO - 📄 Converting PDF: Report/2008/Phuluc_12_2008.pdf
+2026-01-06 22:04:07,063 - INFO - ✅ Success: markdown_output/2008/Phuluc_12_2008.md
+2026-01-06 22:04:07,063 - INFO - 
+[3/43] Processing: baocao_T10_2009_Final.pdf
+2026-01-06 22:04:07,063 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T10_2009_Final.md
+2026-01-06 22:04:07,063 - INFO - 
+[4/43] Processing: baocao_T11_2009_Final.pdf
+2026-01-06 22:04:07,063 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T11_2009_Final.md
+2026-01-06 22:04:07,063 - INFO - 
+[5/43] Processing: baocao_T12_2009.pdf
+2026-01-06 22:04:07,063 - INFO - ⏭️  Skipping (already exists): markdown_output/2009/baocao_T12_2009.md
+2026-01-06 22:04:07,063 - INFO - 
+[6/43] Processing: Phuluc_T12_2009.pdf
+2026-01-06 22:04:07,063 - INFO - 📄 Converting PDF: Report/2009/Phuluc_T12_2009.pdf
+2026-01-06 22:04:21,480 - INFO - ✅ Success: markdown_output/2009/Phuluc_T12_2009.md
+2026-01-06 22:04:21,480 - INFO - 
+[7/43] Processing: Baocao_T12 _2010_fc.pdf
+2026-01-06 22:04:21,480 - INFO - ⏭️  Skipping (already exists): markdown_output/2010/Baocao_T12 _2010_fc.md
+2026-01-06 22:04:21,480 - INFO - 
+[8/43] Processing: Phuluc_T11_2010.pdf
+2026-01-06 22:04:21,481 - INFO - 📄 Converting PDF: Report/2010/Phuluc_T11_2010.pdf
+2026-01-06 22:04:36,492 - INFO - ✅ Success: markdown_output/2010/Phuluc_T11_2010.md
+2026-01-06 22:04:36,492 - INFO - 
+[9/43] Processing: Phuluc_T12_2010.pdf
+2026-01-06 22:04:36,493 - INFO - 📄 Converting PDF: Report/2010/Phuluc_T12_2010.pdf
+2026-01-06 22:04:44,795 - INFO - ✅ Success: markdown_output/2010/Phuluc_T12_2010.md
+2026-01-06 22:04:44,795 - INFO - 
+[10/43] Processing: Baocao_8_2011_f.pdf
+2026-01-06 22:04:44,795 - INFO - ⏭️  Skipping (already exists): markdown_output/2011/Baocao_8_2011_f.md
+2026-01-06 22:04:44,795 - INFO - 
+[11/43] Processing: Phuluc_09_2011_f.pdf
+2026-01-06 22:04:44,795 - INFO - 📄 Converting PDF: Report/2011/Phuluc_09_2011_f.pdf
+2026-01-06 22:05:02,117 - INFO - ✅ Success: markdown_output/2011/Phuluc_09_2011_f.md
+2026-01-06 22:05:02,118 - INFO - 
+[12/43] Processing: Phuluc_12_2011_f.pdf
+2026-01-06 22:05:02,118 - INFO - 📄 Converting PDF: Report/2011/Phuluc_12_2011_f.pdf
+2026-01-06 22:05:18,982 - INFO - ✅ Success: markdown_output/2011/Phuluc_12_2011_f.md
+2026-01-06 22:05:18,982 - INFO - 
+[13/43] Processing: Baocao_6_2012.pdf
+2026-01-06 22:05:18,982 - INFO - ⏭️  Skipping (already exists): markdown_output/2012/Baocao_6_2012.md
+2026-01-06 22:05:18,982 - INFO - 
+[14/43] Processing: Phuluc_12_2012.pdf
+2026-01-06 22:05:18,982 - INFO - 📄 Converting PDF: Report/2012/Phuluc_12_2012.pdf
+2026-01-06 22:05:39,370 - INFO - ✅ Success: markdown_output/2012/Phuluc_12_2012.md
+2026-01-06 22:05:39,370 - INFO - 
+[15/43] Processing: Baocao_5_2013.pdf
+2026-01-06 22:05:39,370 - INFO - ⏭️  Skipping (already exists): markdown_output/2013/Baocao_5_2013.md
+2026-01-06 22:05:39,370 - INFO - 
+[16/43] Processing: Phuluc_10_2013_fe.pdf
+2026-01-06 22:05:39,370 - INFO - 📄 Converting PDF: Report/2013/Phuluc_10_2013_fe.pdf
+2026-01-06 22:06:16,919 - INFO - ✅ Success: markdown_output/2013/Phuluc_10_2013_fe.md
+2026-01-06 22:06:16,919 - INFO - 
+[17/43] Processing: Baocao_09_2014.pdf
+2026-01-06 22:06:16,919 - INFO - ⏭️  Skipping (already exists): markdown_output/2014/Baocao_09_2014.md
+2026-01-06 22:06:16,919 - INFO - 
+[18/43] Processing: phuluc_10_2014_f.pdf
+2026-01-06 22:06:16,919 - INFO - 📄 Converting PDF: Report/2014/phuluc_10_2014_f.pdf
+2026-01-06 22:06:39,196 - INFO - ✅ Success: markdown_output/2014/phuluc_10_2014_f.md
+2026-01-06 22:06:39,196 - INFO - 
+[19/43] Processing: Baocao_T10_2015-f.pdf
+2026-01-06 22:06:39,196 - INFO - ⏭️  Skipping (already exists): markdown_output/2015/Baocao_T10_2015-f.md
+2026-01-06 22:06:39,196 - INFO - 
+[20/43] Processing: phuluc_T12_2015-f.pdf
+2026-01-06 22:06:39,196 - INFO - 📄 Converting PDF: Report/2015/phuluc_T12_2015-f.pdf
+2026-01-06 22:07:03,213 - INFO - ✅ Success: markdown_output/2015/phuluc_T12_2015-f.md
+2026-01-06 22:07:03,213 - INFO - 
+[21/43] Processing: Baocao_T10_2016.pdf
+2026-01-06 22:07:03,213 - INFO - ⏭️  Skipping (already exists): markdown_output/2016/Baocao_T10_2016.md
+2026-01-06 22:07:03,213 - INFO - 
+[22/43] Processing: Phuluc_T12_2016.pdf
+2026-01-06 22:07:03,213 - INFO - 📄 Converting PDF: Report/2016/Phuluc_T12_2016.pdf
+2026-01-06 22:07:38,744 - INFO - ✅ Success: markdown_output/2016/Phuluc_T12_2016.md
+2026-01-06 22:07:38,745 - INFO - 
+[23/43] Processing: Baocao_T08_2017.pdf
+2026-01-06 22:07:38,745 - INFO - ⏭️  Skipping (already exists): markdown_output/2017/Baocao_T08_2017.md
+2026-01-06 22:07:38,745 - INFO - 
+[24/43] Processing: Phuluc_T12_2017.pdf
+2026-01-06 22:07:38,745 - INFO - 📄 Converting PDF: Report/2017/Phuluc_T12_2017.pdf
+2026-01-06 22:08:19,101 - INFO - ✅ Success: markdown_output/2017/Phuluc_T12_2017.md
+2026-01-06 22:08:19,101 - INFO - 
+[25/43] Processing: Baocao_T04_2018.pdf
+2026-01-06 22:08:19,101 - INFO - ⏭️  Skipping (already exists): markdown_output/2018/Baocao_T04_2018.md
+2026-01-06 22:08:19,101 - INFO - 
+[26/43] Processing: Phuluc_T10_2018.pdf
+2026-01-06 22:08:19,101 - INFO - 📄 Converting PDF: Report/2018/Phuluc_T10_2018.pdf
+2026-01-06 22:09:31,388 - INFO - ✅ Success: markdown_output/2018/Phuluc_T10_2018.md
+2026-01-06 22:09:31,388 - INFO - 
+[27/43] Processing: Baocao_T08_2019.pdf
+2026-01-06 22:09:31,388 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T08_2019.md
+2026-01-06 22:09:31,388 - INFO - 
+[28/43] Processing: Baocao_T09_2019.pdf
+2026-01-06 22:09:31,389 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T09_2019.md
+2026-01-06 22:09:31,389 - INFO - 
+[29/43] Processing: Baocao_T10_2019.pdf
+2026-01-06 22:09:31,389 - INFO - ⏭️  Skipping (already exists): markdown_output/2019/Baocao_T10_2019.md
+2026-01-06 22:09:31,389 - INFO - 
+[30/43] Processing: Phuluc_T07_2019.pdf
+2026-01-06 22:09:31,389 - INFO - 📄 Converting PDF: Report/2019/Phuluc_T07_2019.pdf
+2026-01-06 22:10:24,368 - INFO - ✅ Success: markdown_output/2019/Phuluc_T07_2019.md
+2026-01-06 22:10:24,368 - INFO - 
+[31/43] Processing: Phuluc_T10_2019.pdf
+2026-01-06 22:10:24,368 - INFO - 📄 Converting PDF: Report/2019/Phuluc_T10_2019.pdf
+2026-01-06 22:11:36,258 - INFO - ✅ Success: markdown_output/2019/Phuluc_T10_2019.md
+2026-01-06 22:11:36,258 - INFO - 
+[32/43] Processing: Baocao_T11_2020.pdf
+2026-01-06 22:11:36,258 - INFO - ⏭️  Skipping (already exists): markdown_output/2020/Baocao_T11_2020.md
+2026-01-06 22:11:36,258 - INFO - 
+[33/43] Processing: Baocao_T07_2021.pdf
+2026-01-06 22:11:36,258 - INFO - ⏭️  Skipping (already exists): markdown_output/2021/Baocao_T07_2021.md
+2026-01-06 22:11:36,258 - INFO - 
+[34/43] Processing: Baocao_T09_2022.pdf
+2026-01-06 22:11:36,259 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T09_2022.md
+2026-01-06 22:11:36,259 - INFO - 
+[35/43] Processing: Baocao_T02_2022.docx
+2026-01-06 22:11:36,259 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T02_2022.md
+2026-01-06 22:11:36,259 - INFO - 
+[36/43] Processing: Baocao_T03_2022.docx
+2026-01-06 22:11:36,259 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T03_2022.md
+2026-01-06 22:11:36,259 - INFO - 
+[37/43] Processing: Baocao_T04_2022.docx
+2026-01-06 22:11:36,259 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T04_2022.md
+2026-01-06 22:11:36,259 - INFO - 
+[38/43] Processing: Baocao_T05_2022.docx
+2026-01-06 22:11:36,259 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T05_2022.md
+2026-01-06 22:11:36,259 - INFO - 
+[39/43] Processing: Baocao_T06_2022.docx
+2026-01-06 22:11:36,259 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T06_2022.md
+2026-01-06 22:11:36,260 - INFO - 
+[40/43] Processing: Baocao_T07_2022.docx
+2026-01-06 22:11:36,260 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T07_2022.md
+2026-01-06 22:11:36,260 - INFO - 
+[41/43] Processing: Baocao_T08_2022.docx
+2026-01-06 22:11:36,260 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T08_2022.md
+2026-01-06 22:11:36,260 - INFO - 
+[42/43] Processing: Baocao_T10_2022.docx
+2026-01-06 22:11:36,260 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T10_2022.md
+2026-01-06 22:11:36,260 - INFO - 
+[43/43] Processing: Baocao_T11_2022.docx
+2026-01-06 22:11:36,260 - INFO - ⏭️  Skipping (already exists): markdown_output/2022/Baocao_T11_2022.md
+2026-01-06 22:11:36,260 - INFO - 
+============================================================
+2026-01-06 22:11:36,260 - INFO - 📊 CONVERSION SUMMARY
+2026-01-06 22:11:36,260 - INFO - ============================================================
+2026-01-06 22:11:36,260 - INFO - Total files processed: 15
+2026-01-06 22:11:36,260 - INFO - ✅ Success: 15
+2026-01-06 22:11:36,260 - INFO - ❌ Failed: 0
+2026-01-06 22:11:36,261 - INFO - ⏭️  Skipped: 28
+2026-01-06 22:11:36,261 - INFO - ============================================================
+2026-01-08 00:24:57,556 - INFO - ⏭️  Skipping Baocao_T02_2022.doc (using .docx version)
+2026-01-08 00:24:57,593 - INFO - ⏭️  Skipping Baocao_T03_2022.doc (using .docx version)
+2026-01-08 00:24:57,593 - INFO - ⏭️  Skipping Baocao_T04_2022.doc (using .docx version)
+2026-01-08 00:24:57,593 - INFO - ⏭️  Skipping Baocao_T05_2022.doc (using .docx version)
+2026-01-08 00:24:57,593 - INFO - ⏭️  Skipping Baocao_T06_2022.doc (using .docx version)
+2026-01-08 00:24:57,594 - INFO - ⏭️  Skipping Baocao_T07_2022.doc (using .docx version)
+2026-01-08 00:24:57,594 - INFO - ⏭️  Skipping Baocao_T08_2022.doc (using .docx version)
+2026-01-08 00:24:57,594 - INFO - ⏭️  Skipping Baocao_T10_2022.doc (using .docx version)
+2026-01-08 00:24:57,594 - INFO - ⏭️  Skipping Baocao_T11_2022.doc (using .docx version)
+2026-01-08 00:24:57,594 - INFO - 📂 Tìm thấy 109 file(s). Bắt đầu convert với 6 workers...
+2026-01-08 00:24:57,594 - INFO - ============================================================
+2026-01-08 00:24:57,623 - INFO - [1/109] SKIPPED: Baocao_12_2008_Final.pdf
+2026-01-08 00:24:57,623 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T03_2009_FINAL.pdf
+2026-01-08 00:24:57,624 - INFO - 📄 Converting PDF: Report/2009/PHULUC_t02_2009_FINAL.pdf
+2026-01-08 00:24:57,624 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T04_2009.pdf
+2026-01-08 00:24:57,624 - INFO - [2/109] SKIPPED: Phuluc_12_2008.pdf
+2026-01-08 00:24:57,624 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T05_2009.pdf
+2026-01-08 00:24:57,624 - INFO - [3/109] SKIPPED: baocao_T10_2009_Final.pdf
+2026-01-08 00:24:57,624 - INFO - [4/109] SKIPPED: baocao_T11_2009_Final.pdf
+2026-01-08 00:24:57,624 - INFO - [5/109] SKIPPED: baocao_T12_2009.pdf
+2026-01-08 00:24:57,624 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T07_2009.pdf
+2026-01-08 00:24:57,624 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T06_2009.pdf
+2026-01-08 00:25:05,921 - INFO - ✅ Success: markdown_output/2009/PHULUC_t02_2009_FINAL.md
+2026-01-08 00:25:05,922 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T08_2009.pdf
+2026-01-08 00:25:05,925 - INFO - [6/109] SUCCESS: PHULUC_t02_2009_FINAL.pdf
+2026-01-08 00:25:06,534 - INFO - ✅ Success: markdown_output/2009/PHULUC_T03_2009_FINAL.md
+2026-01-08 00:25:06,535 - INFO - [7/109] SUCCESS: PHULUC_T03_2009_FINAL.pdf
+2026-01-08 00:25:06,535 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T09_2009.pdf
+2026-01-08 00:25:07,149 - INFO - ✅ Success: markdown_output/2009/PHULUC_T04_2009.md
+2026-01-08 00:25:07,149 - INFO - [8/109] SUCCESS: PHULUC_T04_2009.pdf
+2026-01-08 00:25:07,149 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T10_2009_FINAL.pdf
+2026-01-08 00:25:08,091 - INFO - ✅ Success: markdown_output/2009/PHULUC_T05_2009.md
+2026-01-08 00:25:08,092 - INFO - [9/109] SUCCESS: PHULUC_T05_2009.pdf
+2026-01-08 00:25:08,092 - INFO - 📄 Converting PDF: Report/2009/Phuluc_T10_2019.pdf
+2026-01-08 00:25:18,470 - INFO - ✅ Success: markdown_output/2009/PHULUC_T07_2009.md
+2026-01-08 00:25:18,470 - INFO - [10/109] SUCCESS: PHULUC_T07_2009.pdf
+2026-01-08 00:25:18,470 - INFO - 📄 Converting PDF: Report/2009/PHULUC_T11_2009_FINAL.pdf
+2026-01-08 00:25:19,487 - INFO - ✅ Success: markdown_output/2009/PHULUC_T10_2009_FINAL.md
+2026-01-08 00:25:19,487 - INFO - [11/109] SUCCESS: PHULUC_T10_2009_FINAL.pdf
+2026-01-08 00:25:19,488 - INFO - 📄 Converting PDF: Report/2010/Phuluc_06_2010.pdf
+2026-01-08 00:25:19,488 - INFO - [12/109] SKIPPED: Phuluc_T12_2009.pdf
+2026-01-08 00:25:19,488 - INFO - [13/109] SKIPPED: Baocao_T12 _2010_fc.pdf
+2026-01-08 00:25:21,350 - INFO - ✅ Success: markdown_output/2009/PHULUC_T06_2009.md
+2026-01-08 00:25:21,351 - INFO - 📄 Converting PDF: Report/2010/phuluc_07_2010.pdf
+2026-01-08 00:25:21,351 - INFO - [14/109] SUCCESS: PHULUC_T06_2009.pdf
+2026-01-08 00:25:28,012 - INFO - ✅ Success: markdown_output/2009/PHULUC_T08_2009.md
+2026-01-08 00:25:28,012 - INFO - 📄 Converting PDF: Report/2010/PhuLuc_T01_2010.pdf
+2026-01-08 00:25:28,012 - INFO - [15/109] SUCCESS: PHULUC_T08_2009.pdf
+2026-01-08 00:25:30,343 - INFO - ✅ Success: markdown_output/2009/PHULUC_T09_2009.md
+2026-01-08 00:25:30,343 - INFO - [16/109] SUCCESS: PHULUC_T09_2009.pdf
+2026-01-08 00:25:30,343 - INFO - 📄 Converting PDF: Report/2010/PhuLuc_T02_2010.pdf
+2026-01-08 00:25:37,457 - INFO - ✅ Success: markdown_output/2010/PhuLuc_T01_2010.md
+2026-01-08 00:25:37,458 - INFO - 📄 Converting PDF: Report/2010/PhuLuc_T03_2010.pdf
+2026-01-08 00:25:37,458 - INFO - [17/109] SUCCESS: PhuLuc_T01_2010.pdf
+2026-01-08 00:25:44,206 - INFO - ✅ Success: markdown_output/2009/PHULUC_T11_2009_FINAL.md
+2026-01-08 00:25:44,206 - INFO - 📄 Converting PDF: Report/2010/Phuluc_T04_2010.pdf
+2026-01-08 00:25:44,206 - INFO - [18/109] SUCCESS: PHULUC_T11_2009_FINAL.pdf
+2026-01-08 00:25:45,047 - INFO - ✅ Success: markdown_output/2010/phuluc_07_2010.md
+2026-01-08 00:25:45,048 - INFO - 📄 Converting PDF: Report/2010/PHULUC_T05_2010.pdf
+2026-01-08 00:25:45,048 - INFO - [19/109] SUCCESS: phuluc_07_2010.pdf
+2026-01-08 00:25:52,126 - INFO - ✅ Success: markdown_output/2010/PhuLuc_T02_2010.md
+2026-01-08 00:25:52,127 - INFO - 📄 Converting PDF: Report/2010/Phuluc_T08_2010.pdf
+2026-01-08 00:25:52,128 - INFO - [20/109] SUCCESS: PhuLuc_T02_2010.pdf
+2026-01-08 00:25:52,534 - INFO - ✅ Success: markdown_output/2010/Phuluc_06_2010.md
+2026-01-08 00:25:52,535 - INFO - 📄 Converting PDF: Report/2010/phuluc_T09_2010.pdf
+2026-01-08 00:25:52,539 - INFO - [21/109] SUCCESS: Phuluc_06_2010.pdf
+2026-01-08 00:26:07,707 - INFO - ✅ Success: markdown_output/2010/phuluc_T09_2010.md
+2026-01-08 00:26:07,709 - INFO - 📄 Converting PDF: Report/2010/Phuluc_T10_2010.pdf
+2026-01-08 00:26:07,710 - INFO - [22/109] SUCCESS: phuluc_T09_2010.pdf
+2026-01-08 00:26:11,864 - INFO - ✅ Success: markdown_output/2010/PhuLuc_T03_2010.md
+2026-01-08 00:26:11,865 - INFO - 📄 Converting PDF: Report/2011/Phuluc_01_2011.pdf
+2026-01-08 00:26:11,866 - INFO - [23/109] SUCCESS: PhuLuc_T03_2010.pdf
+2026-01-08 00:26:11,866 - INFO - [24/109] SKIPPED: Phuluc_T11_2010.pdf
+2026-01-08 00:26:11,866 - INFO - [25/109] SKIPPED: Phuluc_T12_2010.pdf
+2026-01-08 00:26:11,867 - INFO - [26/109] SKIPPED: Baocao_8_2011_f.pdf
+2026-01-08 00:26:21,589 - INFO - ✅ Success: markdown_output/2010/PHULUC_T05_2010.md
+2026-01-08 00:26:21,589 - INFO - 📄 Converting PDF: Report/2011/Phuluc_02_2011.pdf
+2026-01-08 00:26:21,589 - INFO - [27/109] SUCCESS: PHULUC_T05_2010.pdf
+2026-01-08 00:26:27,603 - INFO - ✅ Success: markdown_output/2010/Phuluc_T08_2010.md
+2026-01-08 00:26:27,607 - INFO - [28/109] SUCCESS: Phuluc_T08_2010.pdf
+2026-01-08 00:26:27,607 - INFO - 📄 Converting PDF: Report/2011/Phuluc_03_2011.pdf
+2026-01-08 00:26:28,507 - INFO - ✅ Success: markdown_output/2010/Phuluc_T04_2010.md
+2026-01-08 00:26:28,508 - INFO - [29/109] SUCCESS: Phuluc_T04_2010.pdf
+2026-01-08 00:26:28,508 - INFO - 📄 Converting PDF: Report/2011/Phuluc_04_2011_f.pdf
+2026-01-08 00:26:31,388 - INFO - ✅ Success: markdown_output/2011/Phuluc_01_2011.md
+2026-01-08 00:26:31,388 - INFO - 📄 Converting PDF: Report/2011/Phuluc_06_2011.pdf
+2026-01-08 00:26:31,389 - INFO - [30/109] SUCCESS: Phuluc_01_2011.pdf
+2026-01-08 00:26:39,522 - INFO - ✅ Success: markdown_output/2010/Phuluc_T10_2010.md
+2026-01-08 00:26:39,522 - INFO - 📄 Converting PDF: Report/2011/Phuluc_07_2011.pdf
+2026-01-08 00:26:39,522 - INFO - [31/109] SUCCESS: Phuluc_T10_2010.pdf
+2026-01-08 00:26:50,506 - INFO - ✅ Success: markdown_output/2011/Phuluc_02_2011.md
+2026-01-08 00:26:50,507 - INFO - 📄 Converting PDF: Report/2011/Phuluc_08_2011_f.pdf
+2026-01-08 00:26:50,507 - INFO - [32/109] SUCCESS: Phuluc_02_2011.pdf
+2026-01-08 00:26:58,011 - INFO - ✅ Success: markdown_output/2011/Phuluc_06_2011.md
+2026-01-08 00:26:58,012 - INFO - [33/109] SUCCESS: Phuluc_06_2011.pdf
+2026-01-08 00:26:58,012 - INFO - 📄 Converting PDF: Report/2011/Phuluc_10_2011_f.pdf
+2026-01-08 00:26:58,012 - INFO - [34/109] SKIPPED: Phuluc_09_2011_f.pdf
+2026-01-08 00:26:58,761 - INFO - ✅ Success: markdown_output/2011/Phuluc_03_2011.md
+2026-01-08 00:26:58,761 - INFO - 📄 Converting PDF: Report/2011/Phuluc_11_2011_f.pdf
+2026-01-08 00:26:58,761 - INFO - [35/109] SUCCESS: Phuluc_03_2011.pdf
+2026-01-08 00:27:02,522 - INFO - ✅ Success: markdown_output/2011/Phuluc_04_2011_f.md
+2026-01-08 00:27:02,523 - INFO - 📄 Converting PDF: Report/2012/Phuluc_01_2012.pdf
+2026-01-08 00:27:02,524 - INFO - [36/109] SUCCESS: Phuluc_04_2011_f.pdf
+2026-01-08 00:27:02,524 - INFO - [37/109] SKIPPED: Phuluc_12_2011_f.pdf
+2026-01-08 00:27:02,524 - INFO - [38/109] SKIPPED: Baocao_6_2012.pdf
+2026-01-08 00:27:09,449 - INFO - ✅ Success: markdown_output/2012/Phuluc_01_2012.md
+2026-01-08 00:27:09,449 - INFO - 📄 Converting PDF: Report/2012/Phuluc_02_2012.pdf
+2026-01-08 00:27:09,449 - INFO - [39/109] SUCCESS: Phuluc_01_2012.pdf
+2026-01-08 00:27:10,079 - INFO - ✅ Success: markdown_output/2011/Phuluc_07_2011.md
+2026-01-08 00:27:10,080 - INFO - 📄 Converting PDF: Report/2012/Phuluc_03_2012.pdf
+2026-01-08 00:27:10,081 - INFO - [40/109] SUCCESS: Phuluc_07_2011.pdf
+2026-01-08 00:27:16,029 - INFO - ✅ Success: markdown_output/2011/Phuluc_08_2011_f.md
+2026-01-08 00:27:16,030 - INFO - 📄 Converting PDF: Report/2012/Phuluc_04_2012.pdf
+2026-01-08 00:27:16,030 - INFO - [41/109] SUCCESS: Phuluc_08_2011_f.pdf
+2026-01-08 00:27:26,299 - INFO - ✅ Success: markdown_output/2011/Phuluc_11_2011_f.md
+2026-01-08 00:27:26,299 - INFO - 📄 Converting PDF: Report/2012/Phuluc_05_2012.pdf
+2026-01-08 00:27:26,300 - INFO - [42/109] SUCCESS: Phuluc_11_2011_f.pdf
+2026-01-08 00:27:28,755 - INFO - ✅ Success: markdown_output/2012/Phuluc_02_2012.md
+2026-01-08 00:27:28,756 - INFO - 📄 Converting PDF: Report/2012/Phuluc_06_2012.pdf
+2026-01-08 00:27:28,756 - INFO - [43/109] SUCCESS: Phuluc_02_2012.pdf
+2026-01-08 00:27:29,436 - INFO - ✅ Success: markdown_output/2011/Phuluc_10_2011_f.md
+2026-01-08 00:27:29,437 - INFO - 📄 Converting PDF: Report/2012/Phuluc_07_2012.pdf
+2026-01-08 00:27:29,437 - INFO - [44/109] SUCCESS: Phuluc_10_2011_f.pdf
+2026-01-08 00:27:37,156 - INFO - ✅ Success: markdown_output/2012/Phuluc_03_2012.md
+2026-01-08 00:27:37,157 - INFO - 📄 Converting PDF: Report/2012/Phuluc_08_2012.pdf
+2026-01-08 00:27:37,158 - INFO - [45/109] SUCCESS: Phuluc_03_2012.pdf
+2026-01-08 00:27:42,030 - INFO - ✅ Success: markdown_output/2009/Phuluc_T10_2019.md
+2026-01-08 00:27:42,030 - INFO - 📄 Converting PDF: Report/2012/Phuluc_09_2012.pdf
+2026-01-08 00:27:42,030 - INFO - [46/109] SUCCESS: Phuluc_T10_2019.pdf
+2026-01-08 00:27:43,143 - INFO - ✅ Success: markdown_output/2012/Phuluc_04_2012.md
+2026-01-08 00:27:43,144 - INFO - 📄 Converting PDF: Report/2012/Phuluc_10_2012.pdf
+2026-01-08 00:27:43,145 - INFO - [47/109] SUCCESS: Phuluc_04_2012.pdf
+2026-01-08 00:27:47,093 - INFO - ✅ Success: markdown_output/2012/Phuluc_06_2012.md
+2026-01-08 00:27:47,093 - INFO - 📄 Converting PDF: Report/2012/Phuluc_11_2012.pdf
+2026-01-08 00:27:47,093 - INFO - [48/109] SUCCESS: Phuluc_06_2012.pdf
+2026-01-08 00:27:57,264 - INFO - ✅ Success: markdown_output/2012/Phuluc_05_2012.md
+2026-01-08 00:27:57,264 - INFO - [49/109] SUCCESS: Phuluc_05_2012.pdf
+2026-01-08 00:27:57,265 - INFO - 📄 Converting PDF: Report/2013/Phuluc_01_2013_f.pdf
+2026-01-08 00:27:57,265 - INFO - [50/109] SKIPPED: Phuluc_12_2012.pdf
+2026-01-08 00:27:57,265 - INFO - [51/109] SKIPPED: Baocao_5_2013.pdf
+2026-01-08 00:28:07,275 - INFO - ✅ Success: markdown_output/2012/Phuluc_07_2012.md
+2026-01-08 00:28:07,275 - INFO - 📄 Converting PDF: Report/2013/Phuluc_02_2013_f.pdf
+2026-01-08 00:28:07,275 - INFO - [52/109] SUCCESS: Phuluc_07_2012.pdf
+2026-01-08 00:28:16,038 - INFO - ✅ Success: markdown_output/2012/Phuluc_10_2012.md
+2026-01-08 00:28:16,039 - INFO - 📄 Converting PDF: Report/2013/Phuluc_03_2013_f.pdf
+2026-01-08 00:28:16,039 - INFO - [53/109] SUCCESS: Phuluc_10_2012.pdf
+2026-01-08 00:28:18,152 - INFO - ✅ Success: markdown_output/2013/Phuluc_01_2013_f.md
+2026-01-08 00:28:18,153 - INFO - 📄 Converting PDF: Report/2013/Phuluc_04_2013_f.pdf
+2026-01-08 00:28:18,155 - INFO - [54/109] SUCCESS: Phuluc_01_2013_f.pdf
+2026-01-08 00:28:23,905 - INFO - ✅ Success: markdown_output/2012/Phuluc_09_2012.md
+2026-01-08 00:28:23,905 - INFO - 📄 Converting PDF: Report/2013/Phuluc_05_2013_c.pdf
+2026-01-08 00:28:23,906 - INFO - [55/109] SUCCESS: Phuluc_09_2012.pdf
+2026-01-08 00:28:26,315 - INFO - ✅ Success: markdown_output/2012/Phuluc_08_2012.md
+2026-01-08 00:28:26,316 - INFO - 📄 Converting PDF: Report/2013/Phuluc_06_2013.pdf
+2026-01-08 00:28:26,316 - INFO - [56/109] SUCCESS: Phuluc_08_2012.pdf
+2026-01-08 00:28:31,596 - INFO - ✅ Success: markdown_output/2012/Phuluc_11_2012.md
+2026-01-08 00:28:31,597 - INFO - [57/109] SUCCESS: Phuluc_11_2012.pdf
+2026-01-08 00:28:31,597 - INFO - 📄 Converting PDF: Report/2013/Phuluc_07_2013.pdf
+2026-01-08 00:28:33,879 - INFO - ✅ Success: markdown_output/2013/Phuluc_02_2013_f.md
+2026-01-08 00:28:33,880 - INFO - [58/109] SUCCESS: Phuluc_02_2013_f.pdf
+2026-01-08 00:28:33,880 - INFO - 📄 Converting PDF: Report/2013/Phuluc_08_2013_f.pdf
+2026-01-08 00:28:50,023 - INFO - ✅ Success: markdown_output/2013/Phuluc_04_2013_f.md
+2026-01-08 00:28:50,024 - INFO - 📄 Converting PDF: Report/2013/Phuluc_11_2013-f.pdf
+2026-01-08 00:28:50,024 - INFO - [59/109] SUCCESS: Phuluc_04_2013_f.pdf
+2026-01-08 00:28:50,024 - INFO - [60/109] SKIPPED: Phuluc_10_2013_fe.pdf
+2026-01-08 00:28:56,719 - INFO - ✅ Success: markdown_output/2013/Phuluc_03_2013_f.md
+2026-01-08 00:28:56,719 - INFO - 📄 Converting PDF: Report/2013/Phuluc_12_2013_fi.pdf
+2026-01-08 00:28:56,719 - INFO - [61/109] SUCCESS: Phuluc_03_2013_f.pdf
+2026-01-08 00:29:10,954 - INFO - ✅ Success: markdown_output/2013/Phuluc_06_2013.md
+2026-01-08 00:29:10,957 - INFO - 📄 Converting PDF: Report/2013/Phuluc_9_2013_f.pdf
+2026-01-08 00:29:10,960 - INFO - [62/109] SUCCESS: Phuluc_06_2013.pdf
+2026-01-08 00:29:15,887 - INFO - ✅ Success: markdown_output/2013/Phuluc_05_2013_c.md
+2026-01-08 00:29:15,888 - INFO - [63/109] SUCCESS: Phuluc_05_2013_c.pdf
+2026-01-08 00:29:15,888 - INFO - 📄 Converting PDF: Report/2014/Phuluc_01_2014.pdf
+2026-01-08 00:29:15,888 - INFO - [64/109] SKIPPED: Baocao_09_2014.pdf
+2026-01-08 00:29:16,352 - INFO - ✅ Success: markdown_output/2013/Phuluc_07_2013.md
+2026-01-08 00:29:16,353 - INFO - 📄 Converting PDF: Report/2014/Phuluc_02_2014_f.pdf
+2026-01-08 00:29:16,353 - INFO - [65/109] SUCCESS: Phuluc_07_2013.pdf
+2026-01-08 00:29:30,632 - INFO - ✅ Success: markdown_output/2013/Phuluc_08_2013_f.md
+2026-01-08 00:29:30,633 - INFO - 📄 Converting PDF: Report/2014/Phuluc_03_2014.pdf
+2026-01-08 00:29:30,634 - INFO - [66/109] SUCCESS: Phuluc_08_2013_f.pdf
+2026-01-08 00:30:00,268 - INFO - ✅ Success: markdown_output/2014/Phuluc_01_2014.md
+2026-01-08 00:30:00,268 - INFO - 📄 Converting PDF: Report/2014/Phuluc_04_2014.pdf
+2026-01-08 00:30:00,268 - INFO - [67/109] SUCCESS: Phuluc_01_2014.pdf
+2026-01-08 00:30:02,957 - INFO - ✅ Success: markdown_output/2013/Phuluc_12_2013_fi.md
+2026-01-08 00:30:02,958 - INFO - 📄 Converting PDF: Report/2014/Phuluc_05_2014.pdf
+2026-01-08 00:30:02,959 - INFO - [68/109] SUCCESS: Phuluc_12_2013_fi.pdf
+2026-01-08 00:30:03,262 - INFO - ✅ Success: markdown_output/2014/Phuluc_02_2014_f.md
+2026-01-08 00:30:03,263 - INFO - [69/109] SUCCESS: Phuluc_02_2014_f.pdf
+2026-01-08 00:30:03,263 - INFO - 📄 Converting PDF: Report/2014/Phuluc_06_2014.pdf
+2026-01-08 00:30:03,305 - INFO - ✅ Success: markdown_output/2013/Phuluc_11_2013-f.md
+2026-01-08 00:30:03,305 - INFO - 📄 Converting PDF: Report/2014/Phuluc_07_2014.pdf
+2026-01-08 00:30:03,305 - INFO - [70/109] SUCCESS: Phuluc_11_2013-f.pdf
+2026-01-08 00:30:19,661 - INFO - ✅ Success: markdown_output/2014/Phuluc_03_2014.md
+2026-01-08 00:30:19,662 - INFO - 📄 Converting PDF: Report/2014/Phuluc_08_2014.pdf
+2026-01-08 00:30:19,664 - INFO - [71/109] SUCCESS: Phuluc_03_2014.pdf
+2026-01-08 00:30:25,059 - INFO - ✅ Success: markdown_output/2013/Phuluc_9_2013_f.md
+2026-01-08 00:30:25,060 - INFO - [72/109] SUCCESS: Phuluc_9_2013_f.pdf
+2026-01-08 00:30:25,060 - INFO - 📄 Converting PDF: Report/2014/Phuluc_09_2014.pdf
+2026-01-08 00:30:47,253 - INFO - ✅ Success: markdown_output/2014/Phuluc_05_2014.md
+2026-01-08 00:30:47,254 - INFO - 📄 Converting PDF: Report/2014/phuluc_11_2014.pdf
+2026-01-08 00:30:47,254 - INFO - [73/109] SUCCESS: Phuluc_05_2014.pdf
+2026-01-08 00:30:47,254 - INFO - [74/109] SKIPPED: phuluc_10_2014_f.pdf
+2026-01-08 00:30:54,343 - INFO - ✅ Success: markdown_output/2014/Phuluc_07_2014.md
+2026-01-08 00:30:54,343 - INFO - 📄 Converting PDF: Report/2014/phuluc_12_2014.pdf
+2026-01-08 00:30:54,343 - INFO - [75/109] SUCCESS: Phuluc_07_2014.pdf
+2026-01-08 00:30:58,521 - INFO - ✅ Success: markdown_output/2014/Phuluc_06_2014.md
+2026-01-08 00:30:58,522 - INFO - [76/109] SUCCESS: Phuluc_06_2014.pdf
+2026-01-08 00:30:58,522 - INFO - 📄 Converting PDF: Report/2015/phuluc_T09_2015.pdf
+2026-01-08 00:30:58,522 - INFO - [77/109] SKIPPED: Baocao_T10_2015-f.pdf
+2026-01-08 00:30:58,623 - INFO - ✅ Success: markdown_output/2014/Phuluc_04_2014.md
+2026-01-08 00:30:58,624 - INFO - 📄 Converting PDF: Report/2015/Phuluc_T10_2015.pdf
+2026-01-08 00:30:58,624 - INFO - [78/109] SUCCESS: Phuluc_04_2014.pdf
+2026-01-08 00:31:03,113 - INFO - ✅ Success: markdown_output/2014/Phuluc_08_2014.md
+2026-01-08 00:31:03,114 - INFO - 📄 Converting PDF: Report/2015/phuluc_T11_2015.pdf
+2026-01-08 00:31:03,114 - INFO - [79/109] SUCCESS: Phuluc_08_2014.pdf
+2026-01-08 00:31:12,598 - INFO - ✅ Success: markdown_output/2014/Phuluc_09_2014.md
+2026-01-08 00:31:12,598 - INFO - [80/109] SUCCESS: Phuluc_09_2014.pdf
+2026-01-08 00:31:12,599 - INFO - [81/109] SKIPPED: phuluc_T12_2015-f.pdf
+2026-01-08 00:31:12,599 - INFO - [82/109] SKIPPED: Baocao_T10_2016.pdf
+2026-01-08 00:31:12,599 - INFO - [83/109] SKIPPED: Phuluc_T12_2016.pdf
+2026-01-08 00:31:12,599 - INFO - [84/109] SKIPPED: Baocao_T08_2017.pdf
+2026-01-08 00:31:12,600 - INFO - [85/109] SKIPPED: Phuluc_T12_2017.pdf
+2026-01-08 00:31:12,600 - INFO - [86/109] SKIPPED: Baocao_T04_2018.pdf
+2026-01-08 00:31:12,600 - INFO - [87/109] SKIPPED: Phuluc_T10_2018.pdf
+2026-01-08 00:31:12,600 - INFO - [88/109] SKIPPED: Baocao_T08_2019.pdf
+2026-01-08 00:31:12,600 - INFO - [89/109] SKIPPED: Baocao_T09_2019.pdf
+2026-01-08 00:31:12,600 - INFO - [90/109] SKIPPED: Baocao_T10_2019.pdf
+2026-01-08 00:31:12,600 - INFO - [91/109] SKIPPED: Phuluc_T07_2019.pdf
+2026-01-08 00:31:12,600 - INFO - [92/109] SKIPPED: Phuluc_T10_2019.pdf
+2026-01-08 00:31:12,601 - INFO - [93/109] SKIPPED: Baocao_T11_2020.pdf
+2026-01-08 00:31:12,601 - INFO - [94/109] SKIPPED: Baocao_T07_2021.pdf
+2026-01-08 00:31:12,601 - INFO - [95/109] SKIPPED: Baocao_T09_2022.pdf
+2026-01-08 00:31:12,601 - INFO - [96/109] SKIPPED: Baocao_T02_2022.docx
+2026-01-08 00:31:12,601 - INFO - [97/109] SKIPPED: Baocao_T03_2022.docx
+2026-01-08 00:31:12,601 - INFO - [98/109] SKIPPED: Baocao_T04_2022.docx
+2026-01-08 00:31:12,601 - INFO - [99/109] SKIPPED: Baocao_T05_2022.docx
+2026-01-08 00:31:12,601 - INFO - [100/109] SKIPPED: Baocao_T06_2022.docx
+2026-01-08 00:31:12,601 - INFO - [101/109] SKIPPED: Baocao_T07_2022.docx
+2026-01-08 00:31:12,601 - INFO - [102/109] SKIPPED: Baocao_T08_2022.docx
+2026-01-08 00:31:12,602 - INFO - [103/109] SKIPPED: Baocao_T10_2022.docx
+2026-01-08 00:31:12,602 - INFO - [104/109] SKIPPED: Baocao_T11_2022.docx
+2026-01-08 00:31:23,563 - INFO - ✅ Success: markdown_output/2014/phuluc_11_2014.md
+2026-01-08 00:31:23,564 - INFO - [105/109] SUCCESS: phuluc_11_2014.pdf
+2026-01-08 00:31:37,325 - INFO - ✅ Success: markdown_output/2014/phuluc_12_2014.md
+2026-01-08 00:31:37,329 - INFO - [106/109] SUCCESS: phuluc_12_2014.pdf
+2026-01-08 00:31:46,741 - INFO - ✅ Success: markdown_output/2015/Phuluc_T10_2015.md
+2026-01-08 00:31:46,741 - INFO - [107/109] SUCCESS: Phuluc_T10_2015.pdf
+2026-01-08 00:31:51,033 - INFO - ✅ Success: markdown_output/2015/phuluc_T11_2015.md
+2026-01-08 00:31:51,033 - INFO - [108/109] SUCCESS: phuluc_T11_2015.pdf
+2026-01-08 00:31:52,261 - INFO - ✅ Success: markdown_output/2015/phuluc_T09_2015.md
+2026-01-08 00:31:52,262 - INFO - [109/109] SUCCESS: phuluc_T09_2015.pdf
+2026-01-08 00:31:52,272 - INFO - 
+============================================================
+2026-01-08 00:31:52,272 - INFO - 📊 CONVERSION SUMMARY
+2026-01-08 00:31:52,272 - INFO - ============================================================
+2026-01-08 00:31:52,272 - INFO - Total files attempted: 66
+2026-01-08 00:31:52,272 - INFO - ✅ Success: 66
+2026-01-08 00:31:52,272 - INFO - ❌ Failed: 0
+2026-01-08 00:31:52,272 - INFO - ⏭️  Skipped: 43
+2026-01-08 00:31:52,272 - INFO - ============================================================
