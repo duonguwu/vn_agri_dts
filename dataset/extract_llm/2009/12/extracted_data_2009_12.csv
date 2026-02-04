@@ -1,391 +1,385 @@
 record_id,year,month,location_name,geo_level,sector,commodity,sub_item,attribute,value,unit,data_type,appendix_number
-56ddf6191ec60b49,2008,12,1. Gieo cấy lúa đông xuân ở miền Nam,Provincial,Cultivation,Lúa,Đông Xuân,Area_Planted,10094.0,1000_ha,Actual,PL1
-c92d5046553d5487,2009,12,1. Gieo cấy lúa đông xuân ở miền Nam,Provincial,Cultivation,Lúa,Đông Xuân,Area_Planted,12409.0,1000_ha,Actual,PL1
-22638b347ba76813,2008,12,2. Thu hoạch lúa mùa ở miền Nam,Provincial,Cultivation,Unknown,,Area_Planted,4536.0,1000_ha,Actual,PL1
-b8c227ed9639f931,2009,12,2. Thu hoạch lúa mùa ở miền Nam,Provincial,Cultivation,Unknown,,Area_Planted,4656.0,1000_ha,Actual,PL1
-76ad715e0b1c01ef,2008,12,3. Gieo trồng cây vụ đông ở miền Bắc,Provincial,Cultivation,Unknown,,Area_Planted,4375.0,1000_ha,Actual,PL1
-6c948fe66aef29a3,2009,12,3. Gieo trồng cây vụ đông ở miền Bắc,Provincial,Cultivation,Unknown,,Area_Planted,4407.0,1000_ha,Actual,PL1
-b4ed864463226e87,2008,12,- Khoai lang,Provincial,Cultivation,Khoai lang,,Area_Planted,629.0,1000_ha,Actual,PL1
-bdf3f35266ea9c6c,2009,12,- Khoai lang,Provincial,Cultivation,Khoai lang,,Area_Planted,491.0,1000_ha,Actual,PL1
-65b6cb3d2eb3f521,2008,12,- Đậu tương,Provincial,Cultivation,Đậu tương,,Area_Planted,640.0,1000_ha,Actual,PL1
-2fb163fd6dafe762,2009,12,- Đậu tương,Provincial,Cultivation,Đậu tương,,Area_Planted,802.0,1000_ha,Actual,PL1
-a2d025b30363a9cc,2008,12,"- Rau, đậu các loại",Provincial,Cultivation,Rau đậu,,Area_Planted,1190.0,1000_ha,Actual,PL1
-3643d75b15618892,2009,12,"- Rau, đậu các loại",Provincial,Cultivation,Rau đậu,,Area_Planted,1205.0,1000_ha,Actual,PL1
-a9d5653aeb3606af,2009,12,Cả nước,National,Trade,"1. Nông sản chính,trong đó:",Xuất khẩu,Export_Value,7797.0,million_USD,Estimated,PL10
-ec88d7118b6e96ba,2009,12,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Volume,1139.0,1000_ton,Estimated,PL10
-2c4c77d732d876fe,2009,12,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Value,1678.0,million_USD,Estimated,PL10
-a8163d9e48bf403c,2009,12,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Volume,720.0,1000_ton,Estimated,PL10
-7017313f0d4d820d,2009,12,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Value,1182.0,million_USD,Estimated,PL10
-e01e7869779c6b38,2009,12,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Volume,5817.0,1000_ton,Estimated,PL10
-70d6d15f6538e59e,2009,12,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Value,2595.0,million_USD,Estimated,PL10
-96a1d3577df47f6f,2009,12,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Volume,133.0,1000_ton,Estimated,PL10
-e7e4be526a9c4db6,2009,12,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Value,178.0,million_USD,Estimated,PL10
-2f0abcff98dfb7a8,2009,12,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Volume,175.0,1000_ton,Estimated,PL10
-b242d971bb27c1e5,2009,12,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Value,840.0,million_USD,Estimated,PL10
-eb2399313bf694dd,2009,12,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,135.0,1000_ton,Estimated,PL10
-32c8d6d1fdd6fc8f,2009,12,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Value,347.0,million_USD,Estimated,PL10
-05cd4e4e75e9e73c,2009,12,Cả nước,National,Trade,Hàng rau quả,Xuất khẩu,Export_Value,420.0,million_USD,Estimated,PL10
-9ce79f7ee0b0bfec,2009,12,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Volume,3253.0,1000_ton,Estimated,PL10
-3b5910e62a161c7c,2009,12,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Value,557.0,million_USD,Estimated,PL10
-4e0b49c26676cd32,2009,12,Cả nước,National,Trade,2. Thuỷ sản,Xuất khẩu,Export_Value,4207.0,million_USD,Estimated,PL10
-5fcb04774489300f,2009,12,Cả nước,National,Trade,"3. Lâm sản chính,trong đó:Quế",Xuất khẩu,Export_Value,2736.0,million_USD,Estimated,PL10
-16ec950672ec7acd,2009,12,Cả nước,National,Trade,Quế,Xuất khẩu,Export_Value,22.0,million_USD,Estimated,PL10
-081069e82d1885e3,2009,12,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Xuất khẩu,Export_Value,2535.0,million_USD,Estimated,PL10
-5243052f669715dd,2009,12,Cả nước,National,Trade,"SP mây, tre, cói, thảm",Xuất khẩu,Export_Value,178.0,million_USD,Estimated,PL10
-cc9ff8118316694a,2009,12,Cả nước,National,Trade,4. Các mặt hàng khác,Xuất khẩu,Export_Value,598.0,million_USD,Estimated,PL10
-e3ecca2b71341798,2009,12,Cả nước,National,Trade,Các mặt hàng nhập khẩu chính,Nhập khẩu,Import_Value,6646.0,million_USD,Estimated,PL10
-cac0d5a15f2f1d95,2009,12,Cả nước,National,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,4421.0,1000_ton,Estimated,PL10
-1682db30bddaff79,2009,12,Cả nước,National,Trade,Phân bón các loại,Nhập khẩu,Import_Value,1387.0,million_USD,Estimated,PL10
-f04695efbb5cc476,2009,12,Cả nước,National,Trade,- U RE,Nhập khẩu,Import_Volume,1444.0,1000_ton,Estimated,PL10
-a7c83ccdb8299701,2009,12,Cả nước,National,Trade,- U RE,Nhập khẩu,Import_Value,420.0,million_USD,Estimated,PL10
-789f681feadeae3f,2009,12,Cả nước,National,Trade,- S A,Nhập khẩu,Import_Volume,1104.0,1000_ton,Estimated,PL10
-002edb3a0b8b5ed5,2009,12,Cả nước,National,Trade,- S A,Nhập khẩu,Import_Value,148.0,million_USD,Estimated,PL10
-e5fa1881f0b459b3,2009,12,Cả nước,National,Trade,- D A P,Nhập khẩu,Import_Volume,933.0,1000_ton,Estimated,PL10
-92cf1300b14818c6,2009,12,Cả nước,National,Trade,- D A P,Nhập khẩu,Import_Value,357.0,million_USD,Estimated,PL10
-4c1edbb96cdf3ce1,2009,12,Cả nước,National,Trade,- N P K,Nhập khẩu,Import_Volume,337.0,1000_ton,Estimated,PL10
-052838d948db1018,2009,12,Cả nước,National,Trade,- N P K,Nhập khẩu,Import_Value,133.0,million_USD,Estimated,PL10
-75b91950dc6eb9fd,2009,12,Cả nước,National,Trade,- Các loại phân khác,Nhập khẩu,Import_Volume,577.0,1000_ton,Estimated,PL10
-72343fe0dbd88dc3,2009,12,Cả nước,National,Trade,- Các loại phân khác,Nhập khẩu,Import_Value,320.0,million_USD,Estimated,PL10
-5bde4004e56b8858,2009,12,Cả nước,National,Trade,Thuốc trừ sâu & nguyên liệu,Nhập khẩu,Import_Value,485.0,million_USD,Estimated,PL10
-e9239cdee6e45097,2009,12,Cả nước,National,Trade,Lúa mỳ,Nhập khẩu,Import_Volume,1260.0,1000_ton,Estimated,PL10
-8a16efecb422b9d1,2009,12,Cả nước,National,Trade,Lúa mỳ,Nhập khẩu,Import_Value,317.0,million_USD,Estimated,PL10
-0ebcb241c1dadfe4,2009,12,Cả nước,National,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,1745.0,million_USD,Estimated,PL10
-6884cfb28105c366,2009,12,Cả nước,National,Trade,"Dầu mỡ động, thực vật",Nhập khẩu,Import_Value,489.0,million_USD,Estimated,PL10
-bb6838aceca21a77,2009,12,Cả nước,National,Trade,Cao su,Nhập khẩu,Import_Volume,308.0,1000_ton,Estimated,PL10
-8ac413b71590fe7b,2009,12,Cả nước,National,Trade,Cao su,Nhập khẩu,Import_Value,401.0,million_USD,Estimated,PL10
-8437a5d7f3232df0,2009,12,Cả nước,National,Trade,Bông các loại,Nhập khẩu,Import_Volume,301.0,1000_ton,Estimated,PL10
-bd49e743fda15bc1,2009,12,Cả nước,National,Trade,Bông các loại,Nhập khẩu,Import_Value,389.0,million_USD,Estimated,PL10
-dd64b167d6ad8fbb,2009,12,Cả nước,National,Trade,Sữa &sản phẩm sữa,Nhập khẩu,Import_Value,515.0,million_USD,Estimated,PL10
-ca32ee436d0ac950,2009,12,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Nhập khẩu,Import_Value,894.0,million_USD,Estimated,PL10
-c942ec9bb0bcd064,2009,12,Cả nước,National,Trade,Muối,Nhập khẩu,Import_Value,24.0,million_USD,Estimated,PL10
-156f6d75913ff421,2009,12,Cả nước,National,Trade,Hàng thuỷ sản,Nhập khẩu,Import_Value,274.0,million_USD,Estimated,PL10
-d88cf328ed405472,2009,12,Cả nước,National,Trade,Hàng rau quả,Nhập khẩu,Import_Value,280.0,million_USD,Estimated,PL10
-2decd4abab26a3b5,2009,11,HOA KỲ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,13851.0,ton,Actual,PL11
-ed22757471a5478a,2009,11,HOA KỲ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,40168.0,1000_USD,Actual,PL11
-b82e9143609821ae,2009,11,ĐỨC,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,13185.0,ton,Actual,PL11
-310c8f3413096587,2009,11,ĐỨC,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,36635.0,1000_USD,Actual,PL11
-02a7fa5274a7bd1f,2009,11,TIỂU VƯƠNG QUỐC ARẬP,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,10435.0,ton,Actual,PL11
-d55d2482188c1ad3,2009,11,TIỂU VƯƠNG QUỐC ARẬP,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,23179.0,1000_USD,Actual,PL11
-2d41897542b6f3e1,2009,11,HÀ LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,7876.0,ton,Actual,PL11
-4220a341e1e6c7f2,2009,11,HÀ LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,22220.0,1000_USD,Actual,PL11
-4129ef434d0a88d1,2009,11,ẤN ĐỘ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,5926.0,ton,Actual,PL11
-8315b78fd06b79f9,2009,11,ẤN ĐỘ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,14236.0,1000_USD,Actual,PL11
-7c3982ed11a5cd35,2009,11,XINH GA PO,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,5759.0,ton,Actual,PL11
-bbf55f98b03d2f48,2009,11,XINH GA PO,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,12195.0,1000_USD,Actual,PL11
-e5c714a3ac91fdda,2009,11,NGA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,5085.0,ton,Actual,PL11
-8da7a92828aec2bc,2009,11,NGA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,11184.0,1000_USD,Actual,PL11
-b2e035769f6dcd9f,2009,11,TÂY BAN NHA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,4028.0,ton,Actual,PL11
-875aa4443da0968f,2009,11,TÂY BAN NHA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,10390.0,1000_USD,Actual,PL11
-a3a1fb43908ac74a,2009,11,BA LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,3453.0,ton,Actual,PL11
-e2ee194f1b4f763d,2009,11,BA LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,8759.0,1000_USD,Actual,PL11
-9b8feeef4b0eea0d,2009,11,NHẬT BẢN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,1732.0,ton,Actual,PL11
-1921b7161213af68,2009,11,NHẬT BẢN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,7787.0,1000_USD,Actual,PL11
-9a80326c59be929e,2009,11,ĐỨC,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,26216.0,1000_USD,Actual,PL11
-a240899d860b50cf,2009,11,NHẬT BẢN,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,23042.0,1000_USD,Actual,PL11
-2cea1fb2b4492978,2009,11,HOA KỲ,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,22360.0,1000_USD,Actual,PL11
-2ff0d10cc704f589,2009,11,ĐÀI LOAN,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,7782.0,1000_USD,Actual,PL11
-6558f744fbfc3d43,2009,11,TÂY BAN NHA,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6946.0,1000_USD,Actual,PL11
-b550ee8ef4d4d421,2009,11,PHÁP,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6838.0,1000_USD,Actual,PL11
-223af8d3f6b05b25,2009,11,ITALIA,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6575.0,1000_USD,Actual,PL11
-330804ee9f97666f,2009,11,Ô X TRÂY LIA,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6037.0,1000_USD,Actual,PL11
-6aac8cda35113b4e,2009,11,ANH,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,4855.0,1000_USD,Actual,PL11
-51b4aff90e090291,2009,11,BỈ,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,4689.0,1000_USD,Actual,PL11
-96d4bc9baafbf920,2009,11,TRUNG QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,1761330.0,ton,Actual,PL12
-05c11ae91471d9be,2009,11,TRUNG QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,537757.0,1000_USD,Actual,PL12
-707a6b6b17603606,2009,11,PHI LIP PIN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,280445.0,ton,Actual,PL12
-0a1e4639f2389ea9,2009,11,PHI LIP PIN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,109976.0,1000_USD,Actual,PL12
-d4f93892d16f0766,2009,11,NGA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,331454.0,ton,Actual,PL12
-24fe49f2191b6924,2009,11,NGA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,91354.0,1000_USD,Actual,PL12
-efe145f9f6343710,2009,11,HOA KỲ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,154553.0,ton,Actual,PL12
-302631cdfffd0298,2009,11,HOA KỲ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,61678.0,1000_USD,Actual,PL12
-24cb20d704825696,2009,11,HÀN QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,280923.0,ton,Actual,PL12
-8761fbe1d38d3469,2009,11,HÀN QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,57759.0,1000_USD,Actual,PL12
-115aff1820288f23,2009,11,CA NA ĐA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,85052.0,ton,Actual,PL12
-e1c54f5ca4b0b7e9,2009,11,CA NA ĐA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,52284.0,1000_USD,Actual,PL12
-3b84b70e2dcd93ea,2009,11,NHẬT BẢN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,171631.0,ton,Actual,PL12
-077bbcdf6b99c475,2009,11,NHẬT BẢN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,22639.0,1000_USD,Actual,PL12
-5a4dc069a2c43612,2009,11,ĐÀI LOAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,122160.0,ton,Actual,PL12
-2bc39a490c5d1472,2009,11,ĐÀI LOAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,19694.0,1000_USD,Actual,PL12
-eeb8de5a4b31ebc5,2009,11,ẤN ĐỘ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,37277.0,ton,Actual,PL12
-48c8b23a00b92c5d,2009,11,ẤN ĐỘ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,16215.0,1000_USD,Actual,PL12
-8f7c40c40bca0b47,2009,11,THÁI LAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,21315.0,ton,Actual,PL12
-d8b308dd3d2c2722,2009,11,THÁI LAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,5710.0,1000_USD,Actual,PL12
-2e8cb17d3400ad0b,2009,11,NIU ZI LÂN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,119808.0,1000_USD,Actual,PL12
-ef64ee459f8890d1,2009,11,HÀ LAN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,65646.0,1000_USD,Actual,PL12
-7762571eec100c2c,2009,11,HOA KỲ,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,43083.0,1000_USD,Actual,PL12
-55e6ab226af161b9,2009,11,ĐAN MẠCH,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,42487.0,1000_USD,Actual,PL12
-3d824e25f894d00f,2009,11,THÁI LAN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,30225.0,1000_USD,Actual,PL12
-d0fa3e75266d25ec,2009,11,MALAIXIA,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,25673.0,1000_USD,Actual,PL12
-4748b53a572c738a,2009,11,Ô X TRÂY LIA,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,16613.0,1000_USD,Actual,PL12
-273cf15e5f40473b,2009,11,BA LAN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,16486.0,1000_USD,Actual,PL12
-9f604aa6f65f59a6,2009,11,PHÁP,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,9181.0,1000_USD,Actual,PL12
-f9f3d217d9136ea2,2009,11,ĐỨC,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,4346.0,1000_USD,Actual,PL12
-c258dd88761b2105,2009,11,ACHENTINA,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,435785.0,1000_USD,Actual,PL12
-6f8beb738cce8367,2009,11,ẤN ĐỘ,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,418905.0,1000_USD,Actual,PL12
-93baac284bbe65fc,2009,11,HOA KỲ,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,151470.0,1000_USD,Actual,PL12
-b5a1d6294803446a,2009,11,TRUNG QUỐC,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,125936.0,1000_USD,Actual,PL12
-f1f87ac4c3ccae57,2009,11,THÁI LAN,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,35832.0,1000_USD,Actual,PL12
-43587feccb8fb376,2009,11,IN ĐÔ NÊ XI A,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,33713.0,1000_USD,Actual,PL12
-f4683d59611c0293,2009,11,ITALIA,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,28410.0,1000_USD,Actual,PL12
-82a741b6e64588a9,2009,11,ĐÀI LOAN,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,23383.0,1000_USD,Actual,PL12
-434bef1f5ecc61bc,2009,11,TIỂU VƯƠNG QUỐC ARẬP THỐNG,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,17496.0,1000_USD,Actual,PL12
-fb0e0694631ea46e,2009,11,HÀN QUỐC,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,15154.0,1000_USD,Actual,PL12
-8557316c1d65d094,2009,11,TRUNG QUỐC,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,175866.0,1000_USD,Actual,PL12
-b9c96b34082949ad,2009,11,ẤN ĐỘ,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,45651.0,1000_USD,Actual,PL12
-c8cc98039b102e3c,2009,11,THỤY SỸ,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,35241.0,1000_USD,Actual,PL12
-5c72d2e984d85b5d,2009,11,ĐỨC,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,28921.0,1000_USD,Actual,PL12
-c37ca57bf19cde9f,2009,11,HÀN QUỐC,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,21290.0,1000_USD,Actual,PL12
-d0478822e498e435,2009,11,NHẬT BẢN,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,19997.0,1000_USD,Actual,PL12
-331e164553295e69,2009,11,THÁI LAN,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,18053.0,1000_USD,Actual,PL12
-d18a8d35dba5168f,2009,11,XINH GA PO,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,13936.0,1000_USD,Actual,PL12
-16fa5f26d6933c10,2009,11,IN ĐÔ NÊ XI A,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,12768.0,1000_USD,Actual,PL12
-286cb279795c72b3,2009,11,ANH,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,11293.0,1000_USD,Actual,PL12
-51410f4cc7b8d2d9,2009,12,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,2611500.0,million_VND,Plan,PL13
-abf21fecaefd7f75,2009,12,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,3385143.0,million_VND,Cumulative,PL13
-403bd4b999b894a0,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,1483500.0,million_VND,Plan,PL13
-9b8d6e337fb81060,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,2257167.0,million_VND,Cumulative,PL13
-cc4889a7b1ecfd71,2009,12,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,493000.0,million_VND,Plan,PL13
-93f3b459969eb443,2009,12,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,474448.0,million_VND,Cumulative,PL13
-982a8482d556a06d,2009,12,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,230000.0,million_VND,Plan,PL13
-f89c7ae68fe3a8e5,2009,12,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,267778.0,million_VND,Cumulative,PL13
-c4b0db2fe2905a40,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,24000.0,million_VND,Plan,PL13
-c7fab932aed94ad7,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,26500.0,million_VND,Cumulative,PL13
-e78244f3dc3bb2e4,2009,12,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,230000.0,million_VND,Plan,PL13
-e3ff721f59c9a211,2009,12,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,208500.0,million_VND,Cumulative,PL13
-7e0b5edf3ae4845d,2009,12,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,90000.0,million_VND,Plan,PL13
-14473656bc01fc07,2009,12,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,89250.0,million_VND,Cumulative,PL13
-e345c83abc04b68e,2009,12,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,61000.0,million_VND,Plan,PL13
-4b2e6e2618c3209e,2009,12,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,61500.0,million_VND,Cumulative,PL13
-2053771718152ff1,2009,12,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,40263.0,million_VND,Plan,PL13
-29e89c8337c74825,2009,12,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,32500.0,million_VND,Cumulative,PL13
-17d9417dc74fc1ec,2009,12,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,208000.0,million_VND,Plan,PL13
-5d19c500fa0e5f61,2009,12,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,180000.0,million_VND,Cumulative,PL13
-eb6be872efa36a74,2009,12,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Plan,PL13
-6222c147dab78c92,2009,12,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Cumulative,PL13
-fd31cbb4f8446805,2009,12,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,30000.0,million_VND,Plan,PL13
-18325632eb3b0f45,2009,12,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,50500.0,million_VND,Cumulative,PL13
-08be09846c5098c7,2009,12,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,1308000.0,million_VND,Plan,PL13
-7e751792717b9b12,2009,12,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,1559000.0,million_VND,Cumulative,PL13
-ee515e7ca8ef4f43,2009,12,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,3954763.0,million_VND,Plan,PL13
-0a070259ed5dd5fe,2009,12,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,5272143.0,million_VND,Cumulative,PL13
-159565b802ea0b31,2009,12,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,3250000.0,million_VND,Plan,PL13
-ec95f01019b6f41a,2009,12,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,3015000.0,million_VND,Cumulative,PL13
-3251af2b8b27f15d,2009,12,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,200000.0,million_VND,Plan,PL13
-0fe58187813194d6,2009,12,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,221500.0,million_VND,Cumulative,PL13
-a6e8d60e135b218a,2009,12,Cả nước,National,Investment,Các dự án thuỷ lợi ĐB SôngHồng,,Investment_Amount,400000.0,million_VND,Plan,PL13
-d642ba4f05748c8a,2009,12,Cả nước,National,Investment,Các dự án thuỷ lợi ĐB SôngHồng,,Investment_Amount,280000.0,million_VND,Cumulative,PL13
-f0426192effc2acc,2009,12,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,3850000.0,million_VND,Plan,PL13
-24b221233a8a9f9d,2009,12,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,3516500.0,million_VND,Cumulative,PL13
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,778256.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,465583.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,1240890.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,26696.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,10260.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,4084.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,8650.0,ha,Actual,PL3
-ea5f44102d0f844e,2009,12,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,3913.0,ha,Actual,PL3
-60efd7636b77b139,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,93799.0,ha,Actual,PL3
-60efd7636b77b139,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,93799.0,ha,Actual,PL3
-60efd7636b77b139,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,67990.0,ha,Actual,PL3
-60efd7636b77b139,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,9344.0,ha,Actual,PL3
-60efd7636b77b139,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,5686.0,ha,Actual,PL3
-60efd7636b77b139,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,3658.0,ha,Actual,PL3
-ac6c174219366a0e,2009,12,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,4004.0,ha,Actual,PL3
-ac6c174219366a0e,2009,12,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,4004.0,ha,Actual,PL3
-ac6c174219366a0e,2009,12,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,700.0,ha,Actual,PL3
-13094059e641a595,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,45128.0,ha,Actual,PL3
-13094059e641a595,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,45128.0,ha,Actual,PL3
-13094059e641a595,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3051.0,ha,Actual,PL3
-13094059e641a595,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,9344.0,ha,Actual,PL3
-13094059e641a595,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,5686.0,ha,Actual,PL3
-13094059e641a595,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3658.0,ha,Actual,PL3
-35688c2f85f94a8a,2009,12,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5900.0,ha,Actual,PL3
-35688c2f85f94a8a,2009,12,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5900.0,ha,Actual,PL3
-35688c2f85f94a8a,2009,12,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,9640.0,ha,Actual,PL3
-810e805a7a3099a1,2009,12,BìnhĐịnh,Provincial,Cultivation,Lúa,,Area_Planted,25505.0,ha,Actual,PL3
-810e805a7a3099a1,2009,12,BìnhĐịnh,Provincial,Cultivation,Lúa,,Area_Planted,25505.0,ha,Actual,PL3
-810e805a7a3099a1,2009,12,BìnhĐịnh,Provincial,Cultivation,Lúa,,Area_Planted,45900.0,ha,Actual,PL3
-b361039af92e59c5,2009,12,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,7262.0,ha,Actual,PL3
-b361039af92e59c5,2009,12,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,7262.0,ha,Actual,PL3
-b361039af92e59c5,2009,12,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,6712.0,ha,Actual,PL3
-ae1b0eb6b2505020,2009,12,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,6000.0,ha,Actual,PL3
-ae1b0eb6b2505020,2009,12,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,6000.0,ha,Actual,PL3
-ae1b0eb6b2505020,2009,12,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,1987.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,131280.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,120098.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,9926.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,1509.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,1300.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,180.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,29.0,ha,Actual,PL3
-9a49bdb1ece6b909,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
-fd6e9b89003c3764,2009,12,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,16700.0,ha,Actual,PL3
-fd6e9b89003c3764,2009,12,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,16700.0,ha,Actual,PL3
-a69cd3f359fdb6bb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,46843.0,ha,Actual,PL3
-a69cd3f359fdb6bb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,36705.0,ha,Actual,PL3
-a69cd3f359fdb6bb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,1509.0,ha,Actual,PL3
-a69cd3f359fdb6bb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,1300.0,ha,Actual,PL3
-a69cd3f359fdb6bb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,180.0,ha,Actual,PL3
-a69cd3f359fdb6bb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,29.0,ha,Actual,PL3
-fcc0452edf582d09,2009,12,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,44167.0,ha,Actual,PL3
-fcc0452edf582d09,2009,12,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,44167.0,ha,Actual,PL3
-70cbb1a47876067b,2009,12,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
-70cbb1a47876067b,2009,12,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
-ea31f4f7a785832c,2009,12,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,16570.0,ha,Actual,PL3
-ea31f4f7a785832c,2009,12,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,15526.0,ha,Actual,PL3
-ea31f4f7a785832c,2009,12,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,9926.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,175342.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,147741.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,42179.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,15335.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,2766.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,246.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,8621.0,ha,Actual,PL3
-7db8648e36d0af0c,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,3702.0,ha,Actual,PL3
-4d624bf412e04287,2009,12,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,15500.0,ha,Actual,PL3
-4d624bf412e04287,2009,12,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,6220.0,ha,Actual,PL3
-4d624bf412e04287,2009,12,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,6967.0,ha,Actual,PL3
-03d0e1ddb482b2f0,2009,12,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,8970.0,ha,Actual,PL3
-03d0e1ddb482b2f0,2009,12,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
-03d0e1ddb482b2f0,2009,12,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,1100.0,ha,Actual,PL3
-8c9d8305e73f9142,2009,12,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,9900.0,ha,Actual,PL3
-8c9d8305e73f9142,2009,12,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,5428.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,57720.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,51377.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,8484.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,8187.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,1895.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3001.0,ha,Actual,PL3
-20a355430302f86a,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3291.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,4230.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,3921.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,97.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,6202.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,171.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,5620.0,ha,Actual,PL3
-92548dd4b2f13693,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,411.0,ha,Actual,PL3
-fd2fdce9b17935b0,2009,12,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,29780.0,ha,Actual,PL3
-fd2fdce9b17935b0,2009,12,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,25448.0,ha,Actual,PL3
-fd2fdce9b17935b0,2009,12,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,5700.0,ha,Actual,PL3
-837ae12de84e2ba7,2009,12,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,36700.0,ha,Actual,PL3
-837ae12de84e2ba7,2009,12,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,36700.0,ha,Actual,PL3
-837ae12de84e2ba7,2009,12,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,15741.0,ha,Actual,PL3
-ba57e60653b3a8e7,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,12542.0,ha,Actual,PL3
-ba57e60653b3a8e7,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,11647.0,ha,Actual,PL3
-ba57e60653b3a8e7,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,4090.0,ha,Actual,PL3
-ba57e60653b3a8e7,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,946.0,ha,Actual,PL3
-ba57e60653b3a8e7,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,871.0,ha,Actual,PL3
-ba57e60653b3a8e7,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,75.0,ha,Actual,PL3
-286a9d7096fe2a7b,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,377835.0,ha,Actual,PL3
-286a9d7096fe2a7b,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,103945.0,ha,Actual,PL3
-286a9d7096fe2a7b,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,1120795.0,ha,Actual,PL3
-286a9d7096fe2a7b,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,508.0,ha,Actual,PL3
-286a9d7096fe2a7b,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,508.0,ha,Actual,PL3
-286a9d7096fe2a7b,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,211.0,ha,Actual,PL3
-0357f609a1d4ee76,2009,12,Long An,Provincial,Cultivation,Lúa,,Area_Planted,13071.0,ha,Actual,PL3
-0357f609a1d4ee76,2009,12,Long An,Provincial,Cultivation,Lúa,,Area_Planted,13071.0,ha,Actual,PL3
-0357f609a1d4ee76,2009,12,Long An,Provincial,Cultivation,Lúa,,Area_Planted,86794.0,ha,Actual,PL3
-a9ac11e862a904c3,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,159156.0,ha,Actual,PL3
-a9ac11e862a904c3,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,474.0,ha,Actual,PL3
-a9ac11e862a904c3,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,263.0,ha,Actual,PL3
-a9ac11e862a904c3,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,211.0,ha,Actual,PL3
-3139ed7c1b425abf,2009,12,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,7637.0,ha,Actual,PL3
-3139ed7c1b425abf,2009,12,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,164054.0,ha,Actual,PL3
-8014fedae2a2eb7a,2009,12,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,82747.0,ha,Actual,PL3
-0ff3af58abc6ddca,2009,12,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,66974.0,ha,Actual,PL3
-0ff3af58abc6ddca,2009,12,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,108.0,ha,Actual,PL3
-0ff3af58abc6ddca,2009,12,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,108.0,ha,Actual,PL3
-cf2457fcd2e5ff0d,2009,12,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,36245.0,ha,Actual,PL3
-cf2457fcd2e5ff0d,2009,12,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,19293.0,ha,Actual,PL3
-cf2457fcd2e5ff0d,2009,12,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,636.0,ha,Actual,PL3
-4283b3b9cab9162a,2009,12,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,62782.0,ha,Actual,PL3
-4283b3b9cab9162a,2009,12,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,266167.0,ha,Actual,PL3
-0cf64aa5b619d580,2009,12,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,83707.0,ha,Actual,PL3
-9471e647559bbdab,2009,12,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,42144.0,ha,Actual,PL3
-709c31a7d252e560,2009,12,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,91634.0,ha,Actual,PL3
-709c31a7d252e560,2009,12,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,49400.0,ha,Actual,PL3
-709c31a7d252e560,2009,12,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,34257.0,ha,Actual,PL3
-9a6f49eb34d153c8,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,21746.0,ha,Actual,PL3
-9a6f49eb34d153c8,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,9788.0,ha,Actual,PL3
-9a6f49eb34d153c8,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,117261.0,ha,Actual,PL3
-9a6f49eb34d153c8,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,137.0,ha,Actual,PL3
-9a6f49eb34d153c8,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,137.0,ha,Actual,PL3
-7fb3bf63729d830d,2009,12,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,68521.0,ha,Actual,PL3
-7fb3bf63729d830d,2009,12,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,12393.0,ha,Actual,PL3
-7fb3bf63729d830d,2009,12,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,16898.0,ha,Actual,PL3
-4d71015d3239cbf9,2009,12,Cà Mau,Provincial,Cultivation,Lúa,,Area_Planted,76199.0,ha,Actual,PL3
-8ec95df716213724,2009,12,BôngDiện  tíchNăng suấtSản lượngĐayDiện  tíchNăng suấtSản lượngCóiDiện  tíchNăng suấtSản lượngLạcDiện  tíchNăng suấtSản lượngĐậu tươngDiện  tíchNăng suấtSản lượngRau các loạiDiện  tíchNăng suấtSản lượngĐậu các loạiDiện  tíchNăng suấtSản lượng,Provincial,Cultivation,Lúa,,Area_Planted,5.813880332367812e+68,ha,Actual,PL4
-8ec95df716213724,2009,12,BôngDiện  tíchNăng suấtSản lượngĐayDiện  tíchNăng suấtSản lượngCóiDiện  tíchNăng suấtSản lượngLạcDiện  tíchNăng suấtSản lượngĐậu tươngDiện  tíchNăng suấtSản lượngRau các loạiDiện  tíchNăng suấtSản lượngĐậu các loạiDiện  tíchNăng suấtSản lượng,Provincial,Cultivation,Lúa,,Area_Planted,8.01251001928955e+70,ha,Actual,PL4
-affd0ed0a35399bd,2009,12,"ChuốiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnXoàiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnNhãnDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnVải, chôm chômDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnBòng bưởiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnNhoDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấn",Provincial,Cultivation,Lúa,,Area_Planted,1.1209811577154729e+81,ha,Actual,PL5
-affd0ed0a35399bd,2009,12,"ChuốiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnXoàiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnNhãnDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnVải, chôm chômDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnBòng bưởiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnNhoDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấn",Provincial,Cultivation,Lúa,,Area_Planted,1.1409941530152099e+80,ha,Actual,PL5
-16053d2bb6f95fda,2009,1,Cả nước,National,Trade,V,Xuất khẩu,Export_Volume,3496.0,1000_ton,Actual,PL8
-755394da652716c7,2009,1,Cả nước,National,Trade,V,Xuất khẩu,Export_Value,11898.0,million_USD,Actual,PL8
-81cb099f3f756bdd,2009,1,Cả nước,National,Trade,32,Xuất khẩu,Export_Volume,20.0,1000_ton,Actual,PL8
-7e8a5f8c1d8a75a9,2009,1,Cả nước,National,Trade,32,Xuất khẩu,Export_Value,20.0,million_USD,Actual,PL8
-d069e2deae06d528,2009,1,Cả nước,National,Trade,33,Xuất khẩu,Export_Volume,420.0,1000_ton,Actual,PL8
-8d343ec3472e0840,2009,1,Cả nước,National,Trade,33,Xuất khẩu,Export_Value,682.0,million_USD,Actual,PL8
-fb96181cbc5be173,2009,1,Cả nước,National,Trade,34,Xuất khẩu,Export_Volume,1150.0,1000_ton,Actual,PL8
-b5df1c7d3705abaa,2009,1,Cả nước,National,Trade,34,Xuất khẩu,Export_Value,3000.0,million_USD,Actual,PL8
-2d473214a67e256c,2009,1,Cả nước,National,Trade,35,Xuất khẩu,Export_Volume,881.0,1000_ton,Actual,PL8
-5dc52595a625549c,2009,1,Cả nước,National,Trade,35,Xuất khẩu,Export_Value,4316.0,million_USD,Actual,PL8
-b2f92437fb9f671a,2009,1,Cả nước,National,Trade,36,Xuất khẩu,Export_Volume,824.0,1000_ton,Actual,PL8
-c4d1092f0b819405,2009,1,Cả nước,National,Trade,36,Xuất khẩu,Export_Value,2900.0,million_USD,Actual,PL8
-2df43caf16ac0424,2009,1,Cả nước,National,Trade,37,Xuất khẩu,Export_Volume,201.0,1000_ton,Actual,PL8
-5d689b33ae2a5295,2009,1,Cả nước,National,Trade,37,Xuất khẩu,Export_Value,980.0,million_USD,Actual,PL8
-2c210ad66d77c43a,2009,1,Cả nước,National,Trade,VI,Xuất khẩu,Export_Volume,2428.0,1000_ton,Actual,PL8
-7f2b0319386c2564,2009,1,Cả nước,National,Trade,VI,Xuất khẩu,Export_Value,14899.0,million_USD,Actual,PL8
-b0b740bcd060653b,2009,1,Cả nước,National,Trade,38,Xuất khẩu,Export_Volume,765.0,1000_ton,Actual,PL8
-e679136742721306,2009,1,Cả nước,National,Trade,38,Xuất khẩu,Export_Value,3525.0,million_USD,Actual,PL8
-49d367076ea62fc9,2009,1,Cả nước,National,Trade,39,Xuất khẩu,Export_Volume,689.0,1000_ton,Actual,PL8
-1486a2455e37b2b7,2009,1,Cả nước,National,Trade,39,Xuất khẩu,Export_Value,1254.0,million_USD,Actual,PL8
-97a8465ebd757ac4,2009,1,Cả nước,National,Trade,40,Xuất khẩu,Export_Volume,404.0,1000_ton,Actual,PL8
-c9b7b8f41533ae65,2009,1,Cả nước,National,Trade,40,Xuất khẩu,Export_Value,6152.0,million_USD,Actual,PL8
-7db5d20bf658fb55,2009,1,Cả nước,National,Trade,41,Xuất khẩu,Export_Volume,102.0,1000_ton,Actual,PL8
-235fef82a0580bfd,2009,1,Cả nước,National,Trade,41,Xuất khẩu,Export_Value,1900.0,million_USD,Actual,PL8
-84931e2daadf2aaa,2009,1,Cả nước,National,Trade,42,Xuất khẩu,Export_Volume,468.0,1000_ton,Actual,PL8
-6561ac1a3581a637,2009,1,Cả nước,National,Trade,42,Xuất khẩu,Export_Value,2068.0,million_USD,Actual,PL8
-c19557c5745d1dad,2009,1,Cả nước,National,Trade,VII,Xuất khẩu,Export_Volume,3728.0,1000_ton,Actual,PL8
-6d23cc46d9411aab,2009,1,Cả nước,National,Trade,VII,Xuất khẩu,Export_Value,6942.0,million_USD,Actual,PL8
-f0eb2bd8643af4b5,2009,1,Cả nước,National,Trade,43,Xuất khẩu,Export_Volume,247.0,1000_ton,Actual,PL8
-4b6e18ca770a0dce,2009,1,Cả nước,National,Trade,43,Xuất khẩu,Export_Value,873.0,million_USD,Actual,PL8
-4845aa5bf527ccff,2009,1,Cả nước,National,Trade,44,Xuất khẩu,Export_Volume,1400.0,1000_ton,Actual,PL8
-933192df0465ebc1,2009,1,Cả nước,National,Trade,44,Xuất khẩu,Export_Value,0.0,million_USD,Actual,PL8
-0d4b6a6d6ee3d174,2009,1,Cả nước,National,Trade,45,Xuất khẩu,Export_Volume,350.0,1000_ton,Actual,PL8
-4e02835270c94608,2009,1,Cả nước,National,Trade,46,Xuất khẩu,Export_Volume,843.0,1000_ton,Actual,PL8
-faa7802fcd0bed36,2009,1,Cả nước,National,Trade,46,Xuất khẩu,Export_Value,167.0,million_USD,Actual,PL8
-a880f44774172ac7,2009,1,Cả nước,National,Trade,48,Xuất khẩu,Export_Volume,100.0,1000_ton,Actual,PL8
-9f29fda6b02bd330,2009,1,Cả nước,National,Trade,48,Xuất khẩu,Export_Value,250.0,million_USD,Actual,PL8
-bbd212b4f47de1e7,2009,1,Cả nước,National,Trade,49,Xuất khẩu,Export_Volume,655.0,1000_ton,Actual,PL8
-f73f0ee6acaad981,2009,1,Cả nước,National,Trade,49,Xuất khẩu,Export_Value,5562.0,million_USD,Actual,PL8
-69139dc75b11778e,2009,1,Cả nước,National,Trade,50,Xuất khẩu,Export_Volume,133.0,1000_ton,Actual,PL8
-964bca17c9b10db5,2009,1,Cả nước,National,Trade,50,Xuất khẩu,Export_Value,900.0,million_USD,Actual,PL8
-8aa4650766438036,2009,1,Cả nước,National,Trade,VIII,Xuất khẩu,Export_Volume,2065.0,1000_ton,Actual,PL8
-fffd3138c1d79fbf,2009,1,Cả nước,National,Trade,VIII,Xuất khẩu,Export_Value,4347.0,million_USD,Actual,PL8
-a08704e9812d1932,2009,1,Cả nước,National,Trade,52,Xuất khẩu,Export_Volume,20.0,1000_ton,Actual,PL8
-e69d1d2651d01cb9,2009,1,Cả nước,National,Trade,52,Xuất khẩu,Export_Value,380.0,million_USD,Actual,PL8
-7a62ee49d0114a46,2009,1,Cả nước,National,Trade,53,Xuất khẩu,Export_Volume,500.0,1000_ton,Actual,PL8
-caaa86102f19f7a5,2009,1,Cả nước,National,Trade,53,Xuất khẩu,Export_Value,1074.0,million_USD,Actual,PL8
-e9909108c8f29e99,2009,1,Cả nước,National,Trade,54,Xuất khẩu,Export_Volume,183.0,1000_ton,Actual,PL8
-7f23e0c7da8d4281,2009,1,Cả nước,National,Trade,56,Xuất khẩu,Export_Volume,75.0,1000_ton,Actual,PL8
-c298238bfaa69324,2009,1,Cả nước,National,Trade,57,Xuất khẩu,Export_Volume,120.0,1000_ton,Actual,PL8
-0cddc94a9dea3bde,2009,1,Cả nước,National,Trade,59,Xuất khẩu,Export_Value,500.0,million_USD,Actual,PL8
-48a4f440973f4462,2009,1,Cả nước,National,Trade,60,Xuất khẩu,Export_Volume,134.0,1000_ton,Actual,PL8
-2bda38825065614c,2009,1,Cả nước,National,Trade,60,Xuất khẩu,Export_Value,550.0,million_USD,Actual,PL8
-1fcf7801f9dab2c2,2009,1,Cả nước,National,Trade,61,Xuất khẩu,Export_Volume,200.0,1000_ton,Actual,PL8
-d858a89e27cded2d,2009,1,Cả nước,National,Trade,61,Xuất khẩu,Export_Value,266.0,million_USD,Actual,PL8
-b0be8ca29a07f6af,2009,1,Cả nước,National,Trade,62,Xuất khẩu,Export_Volume,200.0,1000_ton,Actual,PL8
-7a65601fd5a9bee0,2009,1,Cả nước,National,Trade,62,Xuất khẩu,Export_Value,295.0,million_USD,Actual,PL8
-f75875183b2e42a3,2009,1,Cả nước,National,Trade,63,Xuất khẩu,Export_Volume,633.0,1000_ton,Actual,PL8
-a5dc5eee3b52d41d,2009,1,Cả nước,National,Trade,63,Xuất khẩu,Export_Value,1282.0,million_USD,Actual,PL8
-a71c4fe59d0ed2bf,2009,12,Cả nước,National,Investment,1,,Investment_Amount,3.0,million_VND,Plan,PL9
-cb18157fb24b3fb8,2009,12,Cả nước,National,Investment,1,,Investment_Amount,6.0,million_VND,Cumulative,PL9
-92a384217d5b75a9,2009,12,Cả nước,National,Investment,Tổng sản lượng,,Investment_Amount,4600.0,million_VND,Plan,PL9
-f879224059832d47,2009,12,Cả nước,National,Investment,Tổng sản lượng,,Investment_Amount,4846.0,million_VND,Cumulative,PL9
-c3cb1a2265749509,2009,12,Cả nước,National,Investment,Sản lượng khai thác,,Investment_Amount,2200.0,million_VND,Plan,PL9
-446416219195c76f,2009,12,Cả nước,National,Investment,Sản lượng khai thác,,Investment_Amount,2277.0,million_VND,Cumulative,PL9
-50b709a36e7f7202,2009,12,Cả nước,National,Investment,Khai thác biển,,Investment_Amount,2000.0,million_VND,Plan,PL9
-0e34a761502fd9b5,2009,12,Cả nước,National,Investment,Khai thác biển,,Investment_Amount,2068.0,million_VND,Cumulative,PL9
-b0f198d1b9bf8cf6,2009,12,Cả nước,National,Investment,Khai thác nội địa,,Investment_Amount,200.0,million_VND,Plan,PL9
-a0c6a5fe59e6a223,2009,12,Cả nước,National,Investment,Khai thác nội địa,,Investment_Amount,209.0,million_VND,Cumulative,PL9
-64299f064f6fcbc1,2009,12,Cả nước,National,Investment,Sản lượng nuôi trồng,,Investment_Amount,2400.0,million_VND,Plan,PL9
-37bb0223bdfe6521,2009,12,Cả nước,National,Investment,Sản lượng nuôi trồng,,Investment_Amount,2569.0,million_VND,Cumulative,PL9
+3798c0db-f4fc-4a2e-8b03-5b02c5703ad2,2008,12,Miền Nam,Regional,Cultivation,Lúa,Đông Xuân,Area_Planted,1009.4,1000_ha,Actual,PL1
+b59b97d1-f9d9-46c8-976f-79057bf5c80b,2009,12,Miền Nam,Regional,Cultivation,Lúa,Đông Xuân,Area_Planted,1240.9,1000_ha,Actual,PL1
+ffb6e3da-c081-4be8-885c-04dbd945124b,2008,12,Miền Nam,Regional,Cultivation,Lúa,Mùa,Area_Harvested,453.6,1000_ha,Actual,PL1
+4dcb17d7-1ab0-4b1e-9367-bd50ad1430ce,2009,12,Miền Nam,Regional,Cultivation,Lúa,Mùa,Area_Harvested,465.6,1000_ha,Actual,PL1
+274880d7-688a-40e3-b4f5-c9391a6243f7,2008,12,Cả nước,National,Cultivation,Khoai lang,,Area_Planted,62.9,1000_ha,Actual,PL1
+4255a726-1418-4acc-8e8d-7a488dc9cb02,2009,12,Cả nước,National,Cultivation,Khoai lang,,Area_Planted,49.1,1000_ha,Actual,PL1
+65496c87-097d-4357-8dd0-04a6688ef220,2008,12,Cả nước,National,Cultivation,Đậu tương,,Area_Planted,64.0,1000_ha,Actual,PL1
+4e191efa-1f3e-406a-b860-bdff17c97d10,2009,12,Cả nước,National,Cultivation,Đậu tương,,Area_Planted,80.2,1000_ha,Actual,PL1
+615e8f56-71ca-46c9-aeaf-439837407a9d,2008,12,Cả nước,National,Cultivation,Rau đậu,,Area_Planted,119.0,1000_ha,Actual,PL1
+56ae8385-dfa6-48e7-9c96-88be345b75a7,2009,12,Cả nước,National,Cultivation,Rau đậu,,Area_Planted,120.5,1000_ha,Actual,PL1
+10b41854-8e2c-4253-931c-75af72468324,2009,12,Cả nước,National,Trade,"1. Nông sản chính,trong đó:",Xuất khẩu,Export_Value,7797.0,million_USD,Estimated,PL10
+353d9e81-327a-4c87-9536-28cd49c71118,2009,12,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Volume,1139.0,1000_ton,Estimated,PL10
+e97e81e9-ba13-4e63-94ce-e726e2190fc5,2009,12,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Value,1678.0,million_USD,Estimated,PL10
+1f719b82-d157-4bf1-880a-eb8bad75e875,2009,12,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Volume,720.0,1000_ton,Estimated,PL10
+5493cd47-f181-4f21-971e-8a7397515220,2009,12,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Value,1182.0,million_USD,Estimated,PL10
+ff9ccc8b-5ce4-4a37-9fef-858df34c1015,2009,12,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Volume,5817.0,1000_ton,Estimated,PL10
+302b22fb-18bc-4800-bdd3-b6614f2eccbd,2009,12,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Value,2595.0,million_USD,Estimated,PL10
+025f960f-6fe2-43e1-ab47-3ccf82c607da,2009,12,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Volume,133.0,1000_ton,Estimated,PL10
+8c690129-02b8-4357-b3ac-93db98ddf0be,2009,12,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Value,178.0,million_USD,Estimated,PL10
+cb959c4b-c91a-4404-9df9-d23b0a8920a2,2009,12,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Volume,175.0,1000_ton,Estimated,PL10
+635936b6-605e-432c-bc42-fba537ef6a53,2009,12,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Value,840.0,million_USD,Estimated,PL10
+6fe1f1d6-507a-42b4-bc9a-050e05b49145,2009,12,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,135.0,1000_ton,Estimated,PL10
+762d15a6-444a-4b4f-945e-3b20e589d8b8,2009,12,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Value,347.0,million_USD,Estimated,PL10
+864052c5-e220-4f1a-8ff5-1b72fa42ee0b,2009,12,Cả nước,National,Trade,Hàng rau quả,Xuất khẩu,Export_Value,420.0,million_USD,Estimated,PL10
+197fd397-fa86-4158-af7c-facd5cba69e3,2009,12,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Volume,3253.0,1000_ton,Estimated,PL10
+523e89cf-bb27-421d-88a3-bc43e32ebf4e,2009,12,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Value,557.0,million_USD,Estimated,PL10
+e849d2fa-e5ca-450a-ba46-7d5e128fd15a,2009,12,Cả nước,National,Trade,2. Thuỷ sản,Xuất khẩu,Export_Value,4207.0,million_USD,Estimated,PL10
+7ab50fd9-6409-405d-97a7-1d03464ed723,2009,12,Cả nước,National,Trade,"3. Lâm sản chính,trong đó:Quế",Xuất khẩu,Export_Value,2736.0,million_USD,Estimated,PL10
+5968a651-29c5-4521-9db6-c91a58249e7b,2009,12,Cả nước,National,Trade,Quế,Xuất khẩu,Export_Value,22.0,million_USD,Estimated,PL10
+f081697a-f8e0-418c-a33c-70b244bd937c,2009,12,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Xuất khẩu,Export_Value,2535.0,million_USD,Estimated,PL10
+045c5d52-33e6-4517-b859-a7920151a4e6,2009,12,Cả nước,National,Trade,"SP mây, tre, cói, thảm",Xuất khẩu,Export_Value,178.0,million_USD,Estimated,PL10
+799f4114-f32f-4a8b-8573-72d2ff449d32,2009,12,Cả nước,National,Trade,4. Các mặt hàng khác,Xuất khẩu,Export_Value,598.0,million_USD,Estimated,PL10
+29e533ab-2e37-4b56-bcd5-26c21b23f965,2009,12,Cả nước,National,Trade,Các mặt hàng nhập khẩu chính,Nhập khẩu,Import_Value,6646.0,million_USD,Estimated,PL10
+9d326d70-d3d2-41fc-ba9c-a15a848c2037,2009,12,Cả nước,National,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,4421.0,1000_ton,Estimated,PL10
+f5c7057c-870e-4e25-9418-ba8f19d8481a,2009,12,Cả nước,National,Trade,Phân bón các loại,Nhập khẩu,Import_Value,1387.0,million_USD,Estimated,PL10
+06ba639e-0c03-4546-a619-ec2ae4475be8,2009,12,Cả nước,National,Trade,- U RE,Nhập khẩu,Import_Volume,1444.0,1000_ton,Estimated,PL10
+7f31a6d5-c710-4a6e-bb48-f70db348d0ba,2009,12,Cả nước,National,Trade,- U RE,Nhập khẩu,Import_Value,420.0,million_USD,Estimated,PL10
+b21d64fe-d305-4005-9de3-39140f9fe32c,2009,12,Cả nước,National,Trade,- S A,Nhập khẩu,Import_Volume,1104.0,1000_ton,Estimated,PL10
+db1c8959-4d10-4686-94d4-a8d293ca8abc,2009,12,Cả nước,National,Trade,- S A,Nhập khẩu,Import_Value,148.0,million_USD,Estimated,PL10
+8907b844-17ca-4de4-8ae4-1584573862df,2009,12,Cả nước,National,Trade,- D A P,Nhập khẩu,Import_Volume,933.0,1000_ton,Estimated,PL10
+3ba064de-f931-4a89-aed2-349d4dc82afc,2009,12,Cả nước,National,Trade,- D A P,Nhập khẩu,Import_Value,357.0,million_USD,Estimated,PL10
+b5223601-5b61-4418-990b-e95ee569dfdc,2009,12,Cả nước,National,Trade,- N P K,Nhập khẩu,Import_Volume,337.0,1000_ton,Estimated,PL10
+b83fcd64-76f1-4b94-a69a-4c3a8262e023,2009,12,Cả nước,National,Trade,- N P K,Nhập khẩu,Import_Value,133.0,million_USD,Estimated,PL10
+b31062c1-81f8-425d-93a7-e4c87ea865e4,2009,12,Cả nước,National,Trade,- Các loại phân khác,Nhập khẩu,Import_Volume,577.0,1000_ton,Estimated,PL10
+4539b4c3-a866-4829-9cf4-2a8734fd60ae,2009,12,Cả nước,National,Trade,- Các loại phân khác,Nhập khẩu,Import_Value,320.0,million_USD,Estimated,PL10
+7227b92a-9c02-41ba-b4b4-e2f038e136bd,2009,12,Cả nước,National,Trade,Thuốc trừ sâu & nguyên liệu,Nhập khẩu,Import_Value,485.0,million_USD,Estimated,PL10
+5eee545e-0685-4b27-919b-38d5190e32c3,2009,12,Cả nước,National,Trade,Lúa mỳ,Nhập khẩu,Import_Volume,1260.0,1000_ton,Estimated,PL10
+7f7f5731-eeba-4a0c-a5b0-27ecfb7b7d1b,2009,12,Cả nước,National,Trade,Lúa mỳ,Nhập khẩu,Import_Value,317.0,million_USD,Estimated,PL10
+889c27c2-a1ea-496d-993c-921af56dfe6b,2009,12,Cả nước,National,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,1745.0,million_USD,Estimated,PL10
+151ece7b-5b07-43fb-94ed-1d693233af95,2009,12,Cả nước,National,Trade,"Dầu mỡ động, thực vật",Nhập khẩu,Import_Value,489.0,million_USD,Estimated,PL10
+e269c361-22b3-407f-ada6-b793fe4c2bdd,2009,12,Cả nước,National,Trade,Cao su,Nhập khẩu,Import_Volume,308.0,1000_ton,Estimated,PL10
+e8458968-57ce-46e0-8866-92e1d378f84a,2009,12,Cả nước,National,Trade,Cao su,Nhập khẩu,Import_Value,401.0,million_USD,Estimated,PL10
+eb271ceb-fe75-4d19-9514-f9ccab7db025,2009,12,Cả nước,National,Trade,Bông các loại,Nhập khẩu,Import_Volume,301.0,1000_ton,Estimated,PL10
+561cb0a1-3e62-4109-88a0-a92fb18ed4d6,2009,12,Cả nước,National,Trade,Bông các loại,Nhập khẩu,Import_Value,389.0,million_USD,Estimated,PL10
+636940f6-3942-487f-8fce-9146ee842b2d,2009,12,Cả nước,National,Trade,Sữa &sản phẩm sữa,Nhập khẩu,Import_Value,515.0,million_USD,Estimated,PL10
+b3a781b5-5b3c-4b65-b786-87fe2165fcb8,2009,12,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Nhập khẩu,Import_Value,894.0,million_USD,Estimated,PL10
+3d7db433-c407-4f2d-a820-fc3d8c13a210,2009,12,Cả nước,National,Trade,Muối,Nhập khẩu,Import_Value,24.0,million_USD,Estimated,PL10
+e3634f15-f1e4-4185-9f49-32deb122bbc9,2009,12,Cả nước,National,Trade,Hàng thuỷ sản,Nhập khẩu,Import_Value,274.0,million_USD,Estimated,PL10
+e2727a91-f375-4d7b-9d29-040ff29aa5f7,2009,12,Cả nước,National,Trade,Hàng rau quả,Nhập khẩu,Import_Value,280.0,million_USD,Estimated,PL10
+0efe8085-c19a-462f-8715-bfed3ff2c81a,2009,11,HOA KỲ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,13851.0,ton,Actual,PL11
+ac0c766f-3964-4fdf-aba0-ada88bbf1ca9,2009,11,HOA KỲ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,40168.0,1000_USD,Actual,PL11
+0953daf8-4899-4cf4-bc7f-fadbb0efadd7,2009,11,ĐỨC,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,13185.0,ton,Actual,PL11
+11b4e932-0e7c-4114-954a-8899104f1c33,2009,11,ĐỨC,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,36635.0,1000_USD,Actual,PL11
+fef70e39-5bd4-439a-87a6-84267e40839c,2009,11,TIỂU VƯƠNG QUỐC ARẬP,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,10435.0,ton,Actual,PL11
+28a109b7-c43e-4c6c-b9c7-a22676a1849d,2009,11,TIỂU VƯƠNG QUỐC ARẬP,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,23179.0,1000_USD,Actual,PL11
+abe00782-d281-4536-8ae2-84a512a997e7,2009,11,HÀ LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,7876.0,ton,Actual,PL11
+31b2a679-b788-4789-9a5a-50f6f5f235b8,2009,11,HÀ LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,22220.0,1000_USD,Actual,PL11
+6efe3ed2-f4d7-4e02-bd6e-7f6121d7d2b9,2009,11,ẤN ĐỘ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,5926.0,ton,Actual,PL11
+46458a9a-390c-42ab-8707-6da58b14be15,2009,11,ẤN ĐỘ,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,14236.0,1000_USD,Actual,PL11
+04acd50d-d44e-4069-85c8-f3a2eee9e791,2009,11,XINH GA PO,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,5759.0,ton,Actual,PL11
+02ab3eb4-3fd0-415a-bd5a-5ff4ae0cec0c,2009,11,XINH GA PO,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,12195.0,1000_USD,Actual,PL11
+71ceeb20-0b97-4e90-94fe-dfabfe31696c,2009,11,NGA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,5085.0,ton,Actual,PL11
+c9a5d750-031f-46c5-b775-69ab6e68389e,2009,11,NGA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,11184.0,1000_USD,Actual,PL11
+3a15851b-9caf-461e-8ead-b416efbcc31f,2009,11,TÂY BAN NHA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,4028.0,ton,Actual,PL11
+0f760869-d76e-4c37-a400-279ff853dbf1,2009,11,TÂY BAN NHA,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,10390.0,1000_USD,Actual,PL11
+eeb55640-0421-43d1-8ffe-48c7bebe91a5,2009,11,BA LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,3453.0,ton,Actual,PL11
+c1f72dfa-e8c2-40c7-8be7-eea187cf6046,2009,11,BA LAN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,8759.0,1000_USD,Actual,PL11
+fc114131-6e28-4b88-bd10-8f5efa698630,2009,11,NHẬT BẢN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,1732.0,ton,Actual,PL11
+34cf3632-a2d9-47f4-81d0-04664da666aa,2009,11,NHẬT BẢN,International,Trade,Hạt tiêu,Xuất khẩu,Export_Value,7787.0,1000_USD,Actual,PL11
+0afc69e5-d090-4781-aeac-32bbd53ea421,2009,11,ĐỨC,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,26216.0,1000_USD,Actual,PL11
+5b79525e-006a-4273-820b-a25e6403971c,2009,11,NHẬT BẢN,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,23042.0,1000_USD,Actual,PL11
+f40e59cd-08ca-4066-885a-1a3604c0474c,2009,11,HOA KỲ,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,22360.0,1000_USD,Actual,PL11
+cd4cc48c-02aa-4be4-ae1c-5fe9db5f09f4,2009,11,ĐÀI LOAN,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,7782.0,1000_USD,Actual,PL11
+8ec5025d-a94e-45c7-9f80-ae08e3a8c391,2009,11,TÂY BAN NHA,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6946.0,1000_USD,Actual,PL11
+776e66b9-5dbd-460e-8d80-c6230a267735,2009,11,PHÁP,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6838.0,1000_USD,Actual,PL11
+5d0fe7ea-fcfe-47dc-b67e-e7da5ff3a90f,2009,11,ITALIA,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6575.0,1000_USD,Actual,PL11
+affbb123-1c66-439e-b069-13f45fa6db16,2009,11,Ô X TRÂY LIA,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,6037.0,1000_USD,Actual,PL11
+ead74e48-c76c-4c12-ac91-70326b757933,2009,11,ANH,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,4855.0,1000_USD,Actual,PL11
+ee2ce298-54d8-491f-88b7-e1d50d14b133,2009,11,BỈ,International,Trade,"Sản phẩm mây, tre, cói và thảm",Xuất khẩu,Export_Value,4689.0,1000_USD,Actual,PL11
+6a410f0d-9ab6-40d7-b7e9-4e4399dccaff,2009,11,TRUNG QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,1761330.0,ton,Actual,PL12
+10d92e64-024c-4f30-86a3-62afa97a57d9,2009,11,TRUNG QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,537757.0,1000_USD,Actual,PL12
+f4e540ed-bce0-4ea3-a365-28f3d9d740c4,2009,11,PHI LIP PIN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,280445.0,ton,Actual,PL12
+861a6ff9-0ed4-438b-8417-db77bb163e4f,2009,11,PHI LIP PIN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,109976.0,1000_USD,Actual,PL12
+83cece42-dbfd-4553-a600-72d27a472937,2009,11,NGA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,331454.0,ton,Actual,PL12
+a90336d0-15a5-4abb-80a4-7f85f154d862,2009,11,NGA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,91354.0,1000_USD,Actual,PL12
+a203489c-22f6-4abc-9559-94ac9c2b4e46,2009,11,HOA KỲ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,154553.0,ton,Actual,PL12
+2e6f0422-c710-4868-9c6e-1f2cde1dbc47,2009,11,HOA KỲ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,61678.0,1000_USD,Actual,PL12
+7ec7793f-2f54-4034-9222-464749e1330e,2009,11,HÀN QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,280923.0,ton,Actual,PL12
+5652b0a7-07be-4907-bc47-a28cc3a056f1,2009,11,HÀN QUỐC,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,57759.0,1000_USD,Actual,PL12
+99032a62-aa9a-446b-bccc-1b017cee59e6,2009,11,CA NA ĐA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,85052.0,ton,Actual,PL12
+f9273212-5739-42d6-a65e-d1d5a4d6e9bc,2009,11,CA NA ĐA,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,52284.0,1000_USD,Actual,PL12
+039005e0-b882-4e20-9ad9-1d955c258f1c,2009,11,NHẬT BẢN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,171631.0,ton,Actual,PL12
+2a0d9a5f-4236-4e4c-afe5-a942106f6b0e,2009,11,NHẬT BẢN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,22639.0,1000_USD,Actual,PL12
+8c4eb5b4-5426-4a7d-9abc-987f143aa74e,2009,11,ĐÀI LOAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,122160.0,ton,Actual,PL12
+85993e0b-d8f3-4663-9966-e1d7970baee1,2009,11,ĐÀI LOAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,19694.0,1000_USD,Actual,PL12
+24a11d75-7e76-4247-af86-4966d70b05b7,2009,11,ẤN ĐỘ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,37277.0,ton,Actual,PL12
+cf9f0df7-3ce2-4478-a5a8-401ff72a3c9f,2009,11,ẤN ĐỘ,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,16215.0,1000_USD,Actual,PL12
+26fb0a2e-fa53-4061-a14e-929df2526bc3,2009,11,THÁI LAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Volume,21315.0,ton,Actual,PL12
+6172d892-b6a3-406b-b24b-3d95203620ec,2009,11,THÁI LAN,International,Trade,Phân bón các loại,Nhập khẩu,Import_Value,5710.0,1000_USD,Actual,PL12
+a0b4c508-bdaa-42a3-af08-1bf55d67ee6d,2009,11,NIU ZI LÂN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,119808.0,1000_USD,Actual,PL12
+896a4eae-6da2-4794-be4f-0c1b6228ea79,2009,11,HÀ LAN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,65646.0,1000_USD,Actual,PL12
+eac7d2bb-6b80-444c-8eb1-e5e8129b88a3,2009,11,HOA KỲ,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,43083.0,1000_USD,Actual,PL12
+05e2822c-f588-43f4-9064-a7babdbdda8c,2009,11,ĐAN MẠCH,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,42487.0,1000_USD,Actual,PL12
+2f6cd2f3-b89f-484c-91c0-a2b903ef469c,2009,11,THÁI LAN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,30225.0,1000_USD,Actual,PL12
+ecb8c668-9ac1-44c8-a1b1-d17894d2c840,2009,11,MALAIXIA,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,25673.0,1000_USD,Actual,PL12
+79d44d3c-5524-4a30-aed4-0c56a082a532,2009,11,Ô X TRÂY LIA,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,16613.0,1000_USD,Actual,PL12
+6c77be47-10db-4ef4-aca9-73459f04f7bd,2009,11,BA LAN,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,16486.0,1000_USD,Actual,PL12
+a957e88e-6289-4373-83e5-3374c9efb0a6,2009,11,PHÁP,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,9181.0,1000_USD,Actual,PL12
+6a134210-23fd-4134-aa76-b1fecbeeb33c,2009,11,ĐỨC,International,Trade,Sữa và sản phẩm sữa,Nhập khẩu,Import_Value,4346.0,1000_USD,Actual,PL12
+0b1f4519-f486-4d4b-a82c-eca4bad9dd2a,2009,11,ACHENTINA,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,435785.0,1000_USD,Actual,PL12
+113ca841-ce57-476b-bc0e-65434da17120,2009,11,ẤN ĐỘ,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,418905.0,1000_USD,Actual,PL12
+0bae0ad9-843c-432f-8044-75cfe62f36ff,2009,11,HOA KỲ,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,151470.0,1000_USD,Actual,PL12
+d986882d-a2cb-47cd-b09d-9c7b1fb46dfa,2009,11,TRUNG QUỐC,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,125936.0,1000_USD,Actual,PL12
+2fd1629f-72b9-4b8a-b5e8-b635dda9798d,2009,11,THÁI LAN,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,35832.0,1000_USD,Actual,PL12
+02e4e1b3-9d02-4f78-be14-5d02ef4a2db1,2009,11,IN ĐÔ NÊ XI A,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,33713.0,1000_USD,Actual,PL12
+4e7b4b85-fee7-4ec2-a913-756eeb1f05f9,2009,11,ITALIA,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,28410.0,1000_USD,Actual,PL12
+eed595be-3c44-4979-b8dd-33e67a19079f,2009,11,ĐÀI LOAN,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,23383.0,1000_USD,Actual,PL12
+798a667a-0bd0-4be1-a562-2622e08ebc78,2009,11,TIỂU VƯƠNG QUỐC ARẬP THỐNG,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,17496.0,1000_USD,Actual,PL12
+6ca099de-3dd6-4bd9-b8cf-9d2aa70f6e4e,2009,11,HÀN QUỐC,International,Trade,Thức ăn gia súc và nguyên liệu,Nhập khẩu,Import_Value,15154.0,1000_USD,Actual,PL12
+5a2b03e4-a86c-4802-96d9-128f269aa88c,2009,11,TRUNG QUỐC,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,175866.0,1000_USD,Actual,PL12
+7834e449-016b-435a-a8c8-b578c3b8aa70,2009,11,ẤN ĐỘ,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,45651.0,1000_USD,Actual,PL12
+a3d63558-d538-4fd7-9a2d-b4cd723d5919,2009,11,THỤY SỸ,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,35241.0,1000_USD,Actual,PL12
+82086a6e-bd4c-40fa-a9dd-1d181857fa61,2009,11,ĐỨC,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,28921.0,1000_USD,Actual,PL12
+bd20ca55-7e22-41b4-bd4d-fbdb1c8a3cba,2009,11,HÀN QUỐC,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,21290.0,1000_USD,Actual,PL12
+e58524c8-0e46-462f-886b-535b1cf8b809,2009,11,NHẬT BẢN,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,19997.0,1000_USD,Actual,PL12
+8d7e86ae-952a-4197-931f-9de939ce5e3f,2009,11,THÁI LAN,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,18053.0,1000_USD,Actual,PL12
+8b749fe5-67b5-4972-8df4-796bd53e8bc2,2009,11,XINH GA PO,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,13936.0,1000_USD,Actual,PL12
+ae5f39b9-a7df-4299-bdf0-7bb0f11ca5f3,2009,11,IN ĐÔ NÊ XI A,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,12768.0,1000_USD,Actual,PL12
+9b5a7b07-0f8d-4230-b3ed-4b25421e056f,2009,11,ANH,International,Trade,Thuốc trừ sâu và nguyên liệu,Nhập khẩu,Import_Value,11293.0,1000_USD,Actual,PL12
+752421f8-43c9-466c-a090-44f5fbf6c6d5,2009,12,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,2611500.0,million_VND,Plan,PL13
+b5c2a130-70fe-477c-99f6-855cd4d387a6,2009,12,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,3385143.0,million_VND,Cumulative,PL13
+a90c6d56-9ab7-4793-874a-d56cba25d21a,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,1483500.0,million_VND,Plan,PL13
+2f60e00b-8ab4-4211-a023-60ffd10101a7,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,2257167.0,million_VND,Cumulative,PL13
+ed662f3c-dfe2-4245-8e28-6b6d3e19f475,2009,12,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,493000.0,million_VND,Plan,PL13
+0611fc5c-cfbc-4791-b200-06cd3d6d7a50,2009,12,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,474448.0,million_VND,Cumulative,PL13
+6430f358-7109-48c1-be4f-bfc6edbfcdd9,2009,12,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,230000.0,million_VND,Plan,PL13
+d67f5af5-0170-4e1e-980f-d5de82194ed2,2009,12,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,267778.0,million_VND,Cumulative,PL13
+f34d7c9e-e790-4e32-b133-01145b02fa93,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,24000.0,million_VND,Plan,PL13
+1f5a9e71-e2c8-45e8-91fa-0bfc7299222f,2009,12,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,26500.0,million_VND,Cumulative,PL13
+96512621-1267-4618-8dcd-eb7d60363901,2009,12,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,230000.0,million_VND,Plan,PL13
+e2e30cd3-a9df-464c-90e8-f9b6186c1694,2009,12,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,208500.0,million_VND,Cumulative,PL13
+e5171569-af63-45ab-a95d-bb20a127fa60,2009,12,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,90000.0,million_VND,Plan,PL13
+fdd68f87-5d42-483c-98e7-68dc47fd22ff,2009,12,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,89250.0,million_VND,Cumulative,PL13
+948411d8-36e3-4367-a1a1-7d5157cb1b1a,2009,12,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,61000.0,million_VND,Plan,PL13
+7e5c089b-255e-47d6-9e92-6b58189ae4ea,2009,12,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,61500.0,million_VND,Cumulative,PL13
+ed901a29-fd0c-4de4-bd25-907c5de7bbe7,2009,12,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,40263.0,million_VND,Plan,PL13
+fde131f5-1604-4394-a7c9-32af927fd25c,2009,12,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,32500.0,million_VND,Cumulative,PL13
+5fd889fa-4841-41ce-98fa-f43f397fd507,2009,12,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,208000.0,million_VND,Plan,PL13
+61a50771-e183-4642-b090-0de78a8978b3,2009,12,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,180000.0,million_VND,Cumulative,PL13
+36204472-03ea-4940-8421-46bb3ac2ef55,2009,12,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Plan,PL13
+ff91cead-44c1-4046-b627-1caabe54c840,2009,12,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Cumulative,PL13
+9f15cca0-cbf6-4180-add0-1d6f497340ef,2009,12,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,30000.0,million_VND,Plan,PL13
+a001523c-1998-44ba-8f7a-69bc2f458bde,2009,12,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,50500.0,million_VND,Cumulative,PL13
+479a02a6-d42a-4983-82c8-befa6de5826e,2009,12,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,1308000.0,million_VND,Plan,PL13
+2dc94059-12e8-49f5-bc05-5493427b5da6,2009,12,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,1559000.0,million_VND,Cumulative,PL13
+a70a78e3-132f-4737-8126-eb2683a2a660,2009,12,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,3954763.0,million_VND,Plan,PL13
+5603f2df-c723-4a42-add3-d761bdaea95e,2009,12,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,5272143.0,million_VND,Cumulative,PL13
+eae96932-f206-40d6-87cc-9f1fb57148a5,2009,12,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,3250000.0,million_VND,Plan,PL13
+c39ed6b9-8fd3-4c89-88ef-c66597e13b12,2009,12,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,3015000.0,million_VND,Cumulative,PL13
+6fe6de7e-616c-406d-b8f9-66960fc17b09,2009,12,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,200000.0,million_VND,Plan,PL13
+730fb3bd-f583-4601-88f8-6fba07d65ba0,2009,12,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,221500.0,million_VND,Cumulative,PL13
+26d64491-ad73-414f-a962-e4d750b3f719,2009,12,Cả nước,National,Investment,Các dự án thuỷ lợi ĐB SôngHồng,,Investment_Amount,400000.0,million_VND,Plan,PL13
+f0af5403-e896-49d4-91dd-3ab317a3b22b,2009,12,Cả nước,National,Investment,Các dự án thuỷ lợi ĐB SôngHồng,,Investment_Amount,280000.0,million_VND,Cumulative,PL13
+15d87e07-0b82-42cc-97ac-92afd53037f4,2009,12,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,3850000.0,million_VND,Plan,PL13
+a87cbf66-8ac7-4c65-8f21-13c721d5a468,2009,12,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,3516500.0,million_VND,Cumulative,PL13
+892d6004-461b-4b6a-acbf-11549c0322a0,2009,12,Miền Nam,Regional,Cultivation,Lúa,Mùa,Area_Planted,778256.0,ha,Actual,PL3
+f8dd92e4-3b46-4716-a012-80772fc3da5b,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,465583.0,ha,Actual,PL3
+ae7e98b0-02d0-4a89-a53f-aa5ab331eceb,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,1240890.0,ha,Actual,PL3
+a308b073-fb01-46dd-bc9f-f6e1fd87fb1d,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,26696.0,ha,Actual,PL3
+1c6feda0-a461-4088-b9fe-7adb7f5585cb,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,10260.0,ha,Actual,PL3
+9343a40d-486c-45aa-8079-ac0eebf729c4,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,4084.0,ha,Actual,PL3
+87b46d55-b671-4704-9867-a23a5575798d,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,8650.0,ha,Actual,PL3
+35c05301-36ca-45e3-a0a5-a439d065bbb4,2009,12,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,3913.0,ha,Actual,PL3
+50e4b794-49c2-47e4-8ba1-1d367e9c7651,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,Mùa,Area_Planted,93799.0,ha,Actual,PL3
+5c6553b0-83e3-4fee-ac79-a09a9a63d9d5,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,93799.0,ha,Actual,PL3
+5cdace82-4693-4ea1-a4a9-925e5f8a2dff,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,67990.0,ha,Actual,PL3
+dbd6e4dc-5a5e-4650-bb6f-049ac9795d36,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,9344.0,ha,Actual,PL3
+af006cb7-76df-4f73-a147-45b8f5e671cf,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,5686.0,ha,Actual,PL3
+a5291b0e-0221-4c3a-b305-14e33b94e8d2,2009,12,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,3658.0,ha,Actual,PL3
+215b3c36-2f74-4479-91b1-3d44e73aa194,2009,12,TP Đà Nẵng,Provincial,Cultivation,Lúa,Mùa,Area_Planted,4004.0,ha,Actual,PL3
+4c568edb-3f4d-46bd-947c-44af56bc9b5e,2009,12,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,4004.0,ha,Actual,PL3
+f0100111-60a1-4be8-b4f5-f155aacd6238,2009,12,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,700.0,ha,Actual,PL3
+553b4f9c-7c87-46c2-a7e1-14789eb0f2e8,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,Mùa,Area_Planted,45128.0,ha,Actual,PL3
+041acbe3-d445-4760-b76f-dc379c051a38,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,45128.0,ha,Actual,PL3
+800b043d-f20f-4cc9-b0f4-3ff35aab2d06,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3051.0,ha,Actual,PL3
+d750b283-bf75-48ea-a078-ef99b3c49f97,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,9344.0,ha,Actual,PL3
+a9432307-7173-4bc1-820e-78ebbe285249,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,5686.0,ha,Actual,PL3
+000f8484-338e-49de-8dbe-0db9ed80adc2,2009,12,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3658.0,ha,Actual,PL3
+9a6ce02a-51d5-4b62-8e98-42f0b9a7dda8,2009,12,Quảng Ngãi,Provincial,Cultivation,Lúa,Mùa,Area_Planted,5900.0,ha,Actual,PL3
+98cdea03-db19-4158-9be6-a990c0073270,2009,12,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5900.0,ha,Actual,PL3
+f6746011-ce59-4a57-a71b-f0374ec7e264,2009,12,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,9640.0,ha,Actual,PL3
+33800651-62ad-4c48-9565-c46e1331b8b4,2009,12,BìnhĐịnh,Provincial,Cultivation,Lúa,Mùa,Area_Planted,25505.0,ha,Actual,PL3
+c6e4549b-81d0-48c3-b817-cb74fc1d22e3,2009,12,BìnhĐịnh,Provincial,Cultivation,Lúa,,Area_Planted,25505.0,ha,Actual,PL3
+2f298cf5-9428-46b4-9439-5e9e4b468ae1,2009,12,BìnhĐịnh,Provincial,Cultivation,Lúa,,Area_Planted,45900.0,ha,Actual,PL3
+5454c1f8-5f9b-4200-8b99-1d83e02a9083,2009,12,Phú Yên,Provincial,Cultivation,Lúa,Mùa,Area_Planted,7262.0,ha,Actual,PL3
+a7191388-8370-47cf-8dad-d840a6b01ef2,2009,12,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,7262.0,ha,Actual,PL3
+ad89c1ed-da2c-4a83-9488-52ddf43171b2,2009,12,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,6712.0,ha,Actual,PL3
+8c42e7bb-3e48-4f9d-afeb-6b8eb2efe5f4,2009,12,Khánh Hoà,Provincial,Cultivation,Lúa,Mùa,Area_Planted,6000.0,ha,Actual,PL3
+9d509e04-7b15-479a-987c-23fbc762184e,2009,12,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,6000.0,ha,Actual,PL3
+4b77fd6e-1379-4705-980a-8f30ddaf3fe3,2009,12,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,1987.0,ha,Actual,PL3
+d9ec86f1-3449-4def-8d3c-78beb26cf041,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,Mùa,Area_Planted,131280.0,ha,Actual,PL3
+20f3a1b0-1b48-4f2e-8ff2-0e761d9fcf7f,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,120098.0,ha,Actual,PL3
+bf8ae7f4-78d3-47fa-a0c5-fd89b689548b,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,9926.0,ha,Actual,PL3
+eaa66dbf-3270-4d77-b38a-ab87ef03efc7,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,1509.0,ha,Actual,PL3
+4118bafe-0cfa-4f3c-aae1-baa757d03976,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,1300.0,ha,Actual,PL3
+440ac909-fcff-4da3-8298-4b870a6c61c1,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,180.0,ha,Actual,PL3
+789982c3-d277-4d16-bb4c-c4135644182f,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,29.0,ha,Actual,PL3
+b743170a-cd07-4ac0-960c-97667d6541fb,2009,12,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
+5cbfa10e-978f-46a2-87ce-891ed29648e4,2009,12,Kon Tum,Provincial,Cultivation,Lúa,Mùa,Area_Planted,16700.0,ha,Actual,PL3
+7a6a27b5-1a3e-408e-9e49-0657b99e05eb,2009,12,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,16700.0,ha,Actual,PL3
+c5c3b612-d442-4f6b-8e34-ef851eed6d8d,2009,12,Gia Lai,Provincial,Cultivation,Lúa,Mùa,Area_Planted,46843.0,ha,Actual,PL3
+5eb0e629-7962-4cd9-b867-028ec8f7bd37,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,36705.0,ha,Actual,PL3
+d4012755-b8ee-47f8-9f96-d156192fc5eb,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,1509.0,ha,Actual,PL3
+2cc948c4-cc1f-4600-b721-2f05a517e53c,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,1300.0,ha,Actual,PL3
+3edb01b3-5a13-4b62-9ffb-d5a791b36739,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,180.0,ha,Actual,PL3
+7deb201f-cead-40ef-8006-cdacb44bec56,2009,12,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,29.0,ha,Actual,PL3
+5150566c-a06a-4039-8ea7-022b469386bc,2009,12,Đắc Lắc,Provincial,Cultivation,Lúa,Mùa,Area_Planted,44167.0,ha,Actual,PL3
+d6c74757-8b32-43bc-bfc2-3c6066eab8da,2009,12,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,44167.0,ha,Actual,PL3
+de7c58ac-07df-4973-a19b-b0b2dc2f1ad8,2009,12,Đắc Nông,Provincial,Cultivation,Lúa,Mùa,Area_Planted,7000.0,ha,Actual,PL3
+7aaecb7a-381b-4b78-afa7-0b2840a2fc1a,2009,12,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
+b1b7fe2d-bd35-4152-92be-7c4650d1ffc4,2009,12,Lâm Đồng,Provincial,Cultivation,Lúa,Mùa,Area_Planted,16570.0,ha,Actual,PL3
+70da2681-422c-4d85-9d28-9e4f5f843e24,2009,12,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,15526.0,ha,Actual,PL3
+c2edfa5b-6cbe-4bbe-84e1-f71796697722,2009,12,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,9926.0,ha,Actual,PL3
+5b68d39c-12e3-47aa-a604-a15ec2d234b6,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,Mùa,Area_Planted,175342.0,ha,Actual,PL3
+b3780891-ba30-46d9-8167-c96469271ba3,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,147741.0,ha,Actual,PL3
+a4cc818b-ee9c-4308-b1b1-9e31ccfa4219,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,42179.0,ha,Actual,PL3
+a3d8808d-3e50-49a0-bc0a-40fe693ccf6e,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,15335.0,ha,Actual,PL3
+dca4e3bf-884a-42c8-b4db-d61271d49ff7,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,2766.0,ha,Actual,PL3
+0b28dabe-742c-436e-a984-94e5d16d859d,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,246.0,ha,Actual,PL3
+2c7c8c9b-3d36-457b-85cc-745e96851496,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,8621.0,ha,Actual,PL3
+e53e5f01-9113-4439-b990-e620022740a1,2009,12,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,3702.0,ha,Actual,PL3
+e91e0ed3-07ab-4212-9d6a-2f386c1bd179,2009,12,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,Mùa,Area_Planted,15500.0,ha,Actual,PL3
+5beca754-d72e-48f1-97e1-d8acc70f487b,2009,12,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,6220.0,ha,Actual,PL3
+40050620-baf2-467d-b632-520ae37f0e5e,2009,12,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,6967.0,ha,Actual,PL3
+b23f05a9-6995-4afe-ba21-e74c1cfe4060,2009,12,Ninh Thuận,Provincial,Cultivation,Lúa,Mùa,Area_Planted,8970.0,ha,Actual,PL3
+f46e1724-30c2-4aac-9815-85eb43bc1a76,2009,12,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
+baeebc7c-f5d7-452b-8966-9cafab796958,2009,12,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,1100.0,ha,Actual,PL3
+ee7b7a6f-0ea1-4454-b2e7-d1d058e98f55,2009,12,Bình Phước,Provincial,Cultivation,Lúa,Mùa,Area_Planted,9900.0,ha,Actual,PL3
+022ec25f-d529-4c29-85a4-4381eb660b8f,2009,12,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,5428.0,ha,Actual,PL3
+7c400747-b255-42cd-87b0-77406a49732c,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,Mùa,Area_Planted,57720.0,ha,Actual,PL3
+06fb2e87-e751-444f-bba2-e55f5645296c,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,51377.0,ha,Actual,PL3
+055a6aaa-4d2f-4c38-b63e-b61f1e396e32,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,8484.0,ha,Actual,PL3
+d8d6de49-25da-4322-b804-6ceedcaf68e0,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,8187.0,ha,Actual,PL3
+66775a39-ac44-483e-b752-29f035fe8814,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,1895.0,ha,Actual,PL3
+0386c682-30bb-418d-af2f-b190869128f4,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3001.0,ha,Actual,PL3
+70585c0b-1493-40f5-9b5c-7431c03526fa,2009,12,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3291.0,ha,Actual,PL3
+32f3fc6d-fb0f-46fe-83a0-373525301692,2009,12,Bình Dương,Provincial,Cultivation,Lúa,Mùa,Area_Planted,4230.0,ha,Actual,PL3
+f6452511-ac06-4c7b-a93f-4dd434c43844,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,3921.0,ha,Actual,PL3
+87dab7d9-4176-478c-82fd-f3b7f833a1da,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,97.0,ha,Actual,PL3
+2f7b717c-686a-46b4-bbca-129295197d28,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,6202.0,ha,Actual,PL3
+929d265f-0348-4853-aad5-4fd3aab07baa,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,171.0,ha,Actual,PL3
+b4526ba2-06a7-4f19-a916-dbdc565b3c0d,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,5620.0,ha,Actual,PL3
+85c52ad0-e713-4875-bdfa-6d622a6e0c77,2009,12,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,411.0,ha,Actual,PL3
+ba6eb2ab-2390-4ea1-8278-d25428bf39e4,2009,12,Đồng Nai,Provincial,Cultivation,Lúa,Mùa,Area_Planted,29780.0,ha,Actual,PL3
+61944fe1-0697-4fd4-912c-6fe4220f9d24,2009,12,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,25448.0,ha,Actual,PL3
+aec99228-794d-4f8c-b848-2d3280b03dab,2009,12,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,5700.0,ha,Actual,PL3
+95f4b848-dfb7-43e6-a1ac-dd052933f607,2009,12,Bình Thuận,Provincial,Cultivation,Lúa,Mùa,Area_Planted,36700.0,ha,Actual,PL3
+d5c069d8-629b-4799-be40-3699d3fa8c9e,2009,12,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,36700.0,ha,Actual,PL3
+67870196-0cbd-4588-9a4e-79998b462bf3,2009,12,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,15741.0,ha,Actual,PL3
+3a6ae79b-09c3-4ca8-a1e7-ddd3f6de827e,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,Mùa,Area_Planted,12542.0,ha,Actual,PL3
+efd659f4-bcba-499f-9867-29f1a19fa681,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,11647.0,ha,Actual,PL3
+bd3cd6cd-9129-47dd-ab50-d82e39a44097,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,4090.0,ha,Actual,PL3
+dd964b5f-2a58-44b4-b16c-1e4535f7a43b,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,946.0,ha,Actual,PL3
+c66e10b6-8858-41e8-bd01-cb777341d54d,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,871.0,ha,Actual,PL3
+5a19024f-0c19-4d20-9999-bf45952fc126,2009,12,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,75.0,ha,Actual,PL3
+ffd7d4f2-39f7-4c79-beef-128a92dbebb6,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,Mùa,Area_Planted,377835.0,ha,Actual,PL3
+d8b05a3f-c846-4725-8257-515ddad48fdb,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,103945.0,ha,Actual,PL3
+7d0141d4-e2c1-426a-8029-9db8eb314a20,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,1120795.0,ha,Actual,PL3
+804a68de-3045-434d-9852-a7466a3d1d13,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,508.0,ha,Actual,PL3
+a4dff2be-c190-4203-9822-1daee5e57228,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,508.0,ha,Actual,PL3
+0f89804d-b71d-4409-bedb-7e3470ed9026,2009,12,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,211.0,ha,Actual,PL3
+fb39cfc7-20a0-47ce-9d55-1d6809542cdc,2009,12,Long An,Provincial,Cultivation,Lúa,Mùa,Area_Planted,13071.0,ha,Actual,PL3
+80809e05-eeb3-4195-8ed7-a970fa437c85,2009,12,Long An,Provincial,Cultivation,Lúa,,Area_Planted,13071.0,ha,Actual,PL3
+0412d9ac-b889-4d8b-a0da-4cb78f83daca,2009,12,Long An,Provincial,Cultivation,Lúa,,Area_Planted,86794.0,ha,Actual,PL3
+f18702b9-718c-4e7b-bb05-d157554472e9,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,159156.0,ha,Actual,PL3
+3c6c8786-3642-473f-9a11-57525273e7c6,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,474.0,ha,Actual,PL3
+1c68fcd8-51fb-4ce9-9c98-9d5cc2530812,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,263.0,ha,Actual,PL3
+758b8879-930a-4674-9732-1518f48a6807,2009,12,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,211.0,ha,Actual,PL3
+47a410c2-a03e-42c1-9cec-d99438786b29,2009,12,An Giang,Provincial,Cultivation,Lúa,Mùa,Area_Planted,7637.0,ha,Actual,PL3
+73532a1c-56c8-4cc3-87bd-d4ec2e8ac328,2009,12,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,164054.0,ha,Actual,PL3
+f9bb84d3-08f2-43b1-a7c5-651ae6a0c71c,2009,12,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,82747.0,ha,Actual,PL3
+1d5eac44-4319-4491-a9c9-c1e15e2f9c30,2009,12,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,66974.0,ha,Actual,PL3
+19fa3574-2084-45d7-a6a4-bf129b42cd10,2009,12,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,108.0,ha,Actual,PL3
+680ea81a-7b05-4cc5-bbb2-374ad3c07be2,2009,12,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,108.0,ha,Actual,PL3
+faceb447-77a9-429c-b033-fd7a68e4f0bd,2009,12,Bến Tre,Provincial,Cultivation,Lúa,Mùa,Area_Planted,36245.0,ha,Actual,PL3
+c8f3c2f7-6dff-4cbd-b525-33af1ee61ad7,2009,12,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,19293.0,ha,Actual,PL3
+283a9374-1454-4637-b348-3bc8bc9d231f,2009,12,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,636.0,ha,Actual,PL3
+904bd0f5-d26e-4533-9237-dec6bc5c6dbf,2009,12,Kiên Giang,Provincial,Cultivation,Lúa,Mùa,Area_Planted,62782.0,ha,Actual,PL3
+9c58ae51-80af-4601-b786-9f544b923034,2009,12,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,266167.0,ha,Actual,PL3
+6087fab3-6933-4c97-a922-8cd260ca748e,2009,12,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,83707.0,ha,Actual,PL3
+a11c5cad-7cff-4855-bf59-510d43a79893,2009,12,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,42144.0,ha,Actual,PL3
+03530932-73b3-402d-b5c1-20467fe70db7,2009,12,Trà Vinh,Provincial,Cultivation,Lúa,Mùa,Area_Planted,91634.0,ha,Actual,PL3
+80582ad5-2f85-49e6-9a36-67ec809b6f5d,2009,12,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,49400.0,ha,Actual,PL3
+61c884b7-94db-4430-8bbb-e44626193e18,2009,12,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,34257.0,ha,Actual,PL3
+f98b3443-c9bb-4bc3-8c54-f4aedf16dd53,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,Mùa,Area_Planted,21746.0,ha,Actual,PL3
+00a21e99-d7d4-452a-af2c-19c4f906786a,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,9788.0,ha,Actual,PL3
+609db4a5-1f00-4156-be1b-81ed23ce2da5,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,117261.0,ha,Actual,PL3
+37ff41b7-a8ff-4683-a26c-1747b4a5bff1,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,137.0,ha,Actual,PL3
+c5cdea5c-135f-4131-aa7e-b441d7ce2a49,2009,12,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,137.0,ha,Actual,PL3
+987ca8ff-6937-42cc-887c-96eb0316d6b6,2009,12,Bạc Liêu,Provincial,Cultivation,Lúa,Mùa,Area_Planted,68521.0,ha,Actual,PL3
+ddd16845-db3c-4735-bfc4-91a21f8c04d1,2009,12,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,12393.0,ha,Actual,PL3
+55d15b23-dc79-4f58-b7b2-7d5f5c3e8564,2009,12,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,16898.0,ha,Actual,PL3
+26efcbad-20b8-46ce-bf22-577dc11e5f1f,2009,12,Cà Mau,Provincial,Cultivation,Lúa,Mùa,Area_Planted,76199.0,ha,Actual,PL3
+f5f05bff-4d67-4c81-94b6-c66995cfcb1d,2009,1,Cả nước,National,Trade,V,Xuất khẩu,Export_Volume,3496.0,1000_ton,Actual,PL8
+7504ff16-736a-4829-bfc8-3c38794d9345,2009,1,Cả nước,National,Trade,V,Xuất khẩu,Export_Value,11898.0,million_USD,Actual,PL8
+b0d35d96-4749-4998-a229-f39befa70a71,2009,1,Cả nước,National,Trade,32,Xuất khẩu,Export_Volume,20.0,1000_ton,Actual,PL8
+84088b28-c17f-4b2a-a5ff-f390546084d9,2009,1,Cả nước,National,Trade,32,Xuất khẩu,Export_Value,20.0,million_USD,Actual,PL8
+19ade63a-9c04-4990-823c-584a5e0096e9,2009,1,Cả nước,National,Trade,33,Xuất khẩu,Export_Volume,420.0,1000_ton,Actual,PL8
+847e76f7-1648-4d5b-97b3-f94168b79835,2009,1,Cả nước,National,Trade,33,Xuất khẩu,Export_Value,682.0,million_USD,Actual,PL8
+b5ee953d-1480-42eb-be11-88b053c768fd,2009,1,Cả nước,National,Trade,34,Xuất khẩu,Export_Volume,1150.0,1000_ton,Actual,PL8
+91735c38-3aec-4a9d-b227-daa86bad7c04,2009,1,Cả nước,National,Trade,34,Xuất khẩu,Export_Value,3000.0,million_USD,Actual,PL8
+8af55056-c011-49bc-948f-e66ba4b1a0ee,2009,1,Cả nước,National,Trade,35,Xuất khẩu,Export_Volume,881.0,1000_ton,Actual,PL8
+f341e3fe-2264-4d99-b1f6-67ab1f221b63,2009,1,Cả nước,National,Trade,35,Xuất khẩu,Export_Value,4316.0,million_USD,Actual,PL8
+89594dce-0394-47ed-bef6-76ea4e69ae0e,2009,1,Cả nước,National,Trade,36,Xuất khẩu,Export_Volume,824.0,1000_ton,Actual,PL8
+df1f30e0-f95f-4980-968b-fde98f582c95,2009,1,Cả nước,National,Trade,36,Xuất khẩu,Export_Value,2900.0,million_USD,Actual,PL8
+68002e8d-ded4-47a9-9a61-d81f2f2f2945,2009,1,Cả nước,National,Trade,37,Xuất khẩu,Export_Volume,201.0,1000_ton,Actual,PL8
+5a3c2176-d247-4fd9-bfa0-da14a0402d2e,2009,1,Cả nước,National,Trade,37,Xuất khẩu,Export_Value,980.0,million_USD,Actual,PL8
+b4205a32-9d9c-4eb5-bf8b-2167b7fe989a,2009,1,Cả nước,National,Trade,VI,Xuất khẩu,Export_Volume,2428.0,1000_ton,Actual,PL8
+4c601cc1-1d32-4ea6-b393-823c6f7582f2,2009,1,Cả nước,National,Trade,VI,Xuất khẩu,Export_Value,14899.0,million_USD,Actual,PL8
+7de70dce-cd3e-49c3-b176-9abc27c3e5b3,2009,1,Cả nước,National,Trade,38,Xuất khẩu,Export_Volume,765.0,1000_ton,Actual,PL8
+40286cd9-c5d7-4537-b273-18f0a2dc3b05,2009,1,Cả nước,National,Trade,38,Xuất khẩu,Export_Value,3525.0,million_USD,Actual,PL8
+55e9faf4-d1dd-4880-91b8-2b1a091464be,2009,1,Cả nước,National,Trade,39,Xuất khẩu,Export_Volume,689.0,1000_ton,Actual,PL8
+8f8f8360-a99e-4d14-8805-58a333c2fcae,2009,1,Cả nước,National,Trade,39,Xuất khẩu,Export_Value,1254.0,million_USD,Actual,PL8
+1d96907b-cd7c-4d58-87ae-62b85849a79c,2009,1,Cả nước,National,Trade,40,Xuất khẩu,Export_Volume,404.0,1000_ton,Actual,PL8
+6c1ada81-051b-465d-b736-0d3e4c401be9,2009,1,Cả nước,National,Trade,40,Xuất khẩu,Export_Value,6152.0,million_USD,Actual,PL8
+ca640486-dcdf-4315-806b-e1c52ad646b2,2009,1,Cả nước,National,Trade,41,Xuất khẩu,Export_Volume,102.0,1000_ton,Actual,PL8
+a562b99f-b1b5-43ff-b5a3-86be12aa63cc,2009,1,Cả nước,National,Trade,41,Xuất khẩu,Export_Value,1900.0,million_USD,Actual,PL8
+563d0224-3c94-4437-88e6-3403c676d032,2009,1,Cả nước,National,Trade,42,Xuất khẩu,Export_Volume,468.0,1000_ton,Actual,PL8
+4276203c-1a3b-47c6-9921-974737ed7f60,2009,1,Cả nước,National,Trade,42,Xuất khẩu,Export_Value,2068.0,million_USD,Actual,PL8
+9daed8f2-9237-42e6-bbbb-4bdff76dbc4a,2009,1,Cả nước,National,Trade,VII,Xuất khẩu,Export_Volume,3728.0,1000_ton,Actual,PL8
+ad941ed4-7bb2-4129-8880-59f6325d4dc2,2009,1,Cả nước,National,Trade,VII,Xuất khẩu,Export_Value,6942.0,million_USD,Actual,PL8
+dbdd77a0-e3ee-4e12-b508-996ba7b6f124,2009,1,Cả nước,National,Trade,43,Xuất khẩu,Export_Volume,247.0,1000_ton,Actual,PL8
+e9aa2707-dddb-4a93-b6be-201bca51f4ca,2009,1,Cả nước,National,Trade,43,Xuất khẩu,Export_Value,873.0,million_USD,Actual,PL8
+3c04d619-1af5-4c31-9028-e5abae06997b,2009,1,Cả nước,National,Trade,44,Xuất khẩu,Export_Volume,1400.0,1000_ton,Actual,PL8
+1b52a5ee-f973-47d6-ba07-fce20973ca8d,2009,1,Cả nước,National,Trade,44,Xuất khẩu,Export_Value,0.0,million_USD,Actual,PL8
+279d4d0c-a21b-4a27-b244-361c076443ed,2009,1,Cả nước,National,Trade,45,Xuất khẩu,Export_Volume,350.0,1000_ton,Actual,PL8
+bab2cb3d-4cae-4267-bbf0-f05b48dbf3f7,2009,1,Cả nước,National,Trade,46,Xuất khẩu,Export_Volume,843.0,1000_ton,Actual,PL8
+e9e9a25e-2249-48bd-a6d3-804459dd135c,2009,1,Cả nước,National,Trade,46,Xuất khẩu,Export_Value,167.0,million_USD,Actual,PL8
+c1311b8e-4b96-4ff0-a201-691b37281650,2009,1,Cả nước,National,Trade,48,Xuất khẩu,Export_Volume,100.0,1000_ton,Actual,PL8
+492777ac-d4a2-4389-bd7c-85458d7dcefa,2009,1,Cả nước,National,Trade,48,Xuất khẩu,Export_Value,250.0,million_USD,Actual,PL8
+ae8c16ff-25fd-4bbf-b185-713e11e1a02a,2009,1,Cả nước,National,Trade,49,Xuất khẩu,Export_Volume,655.0,1000_ton,Actual,PL8
+9b166558-ae57-41f0-81d2-3268262ea039,2009,1,Cả nước,National,Trade,49,Xuất khẩu,Export_Value,5562.0,million_USD,Actual,PL8
+efd6000b-b57c-4a5f-8677-e87da9ef92c6,2009,1,Cả nước,National,Trade,50,Xuất khẩu,Export_Volume,133.0,1000_ton,Actual,PL8
+4de62abc-7b9a-4600-b323-aedb4435395b,2009,1,Cả nước,National,Trade,50,Xuất khẩu,Export_Value,90.0,million_USD,Actual,PL8
+40f6c0f8-e46b-4395-a582-254f09c3a0a8,2009,1,Cả nước,National,Trade,VIII,Xuất khẩu,Export_Volume,2065.0,1000_ton,Actual,PL8
+efcca2ae-03a3-483b-8541-3064c9bf2613,2009,1,Cả nước,National,Trade,VIII,Xuất khẩu,Export_Value,4347.0,million_USD,Actual,PL8
+0ebcb578-4153-4a42-9e92-e8aeec2b8696,2009,1,Cả nước,National,Trade,52,Xuất khẩu,Export_Volume,20.0,1000_ton,Actual,PL8
+0bc49b5c-c39f-465b-9bdf-d76f88236c59,2009,1,Cả nước,National,Trade,52,Xuất khẩu,Export_Value,380.0,million_USD,Actual,PL8
+a62eeb00-9792-4e85-b2fc-018ccd0143bc,2009,1,Cả nước,National,Trade,53,Xuất khẩu,Export_Volume,500.0,1000_ton,Actual,PL8
+a28ee475-ff77-432e-bb14-7a5b3b20df17,2009,1,Cả nước,National,Trade,53,Xuất khẩu,Export_Value,1074.0,million_USD,Actual,PL8
+a637eca4-c017-426a-84e9-b5f3187c78f2,2009,1,Cả nước,National,Trade,54,Xuất khẩu,Export_Volume,183.0,1000_ton,Actual,PL8
+8db16121-1271-45ce-9681-ca8e4098b8ba,2009,1,Cả nước,National,Trade,56,Xuất khẩu,Export_Volume,75.0,1000_ton,Actual,PL8
+54011d6c-bac3-4eb5-bf5e-404cf48c32df,2009,1,Cả nước,National,Trade,57,Xuất khẩu,Export_Volume,120.0,1000_ton,Actual,PL8
+32beb1ad-1756-4f2f-a890-432bbc9b9562,2009,1,Cả nước,National,Trade,59,Xuất khẩu,Export_Value,500.0,million_USD,Actual,PL8
+df6fecf0-7149-426d-8617-28121f6cabc8,2009,1,Cả nước,National,Trade,60,Xuất khẩu,Export_Volume,134.0,1000_ton,Actual,PL8
+ee603ef5-da24-4169-800b-bd47e66af10c,2009,1,Cả nước,National,Trade,60,Xuất khẩu,Export_Value,550.0,million_USD,Actual,PL8
+fb23b1a6-31bb-4b9b-8645-6b639792c915,2009,1,Cả nước,National,Trade,61,Xuất khẩu,Export_Volume,200.0,1000_ton,Actual,PL8
+06dbd63c-77db-4586-91ea-764f289a27bd,2009,1,Cả nước,National,Trade,61,Xuất khẩu,Export_Value,266.0,million_USD,Actual,PL8
+78c8f681-ce4f-4af0-95a6-96ae7638145a,2009,1,Cả nước,National,Trade,62,Xuất khẩu,Export_Volume,200.0,1000_ton,Actual,PL8
+8b079f0a-3ebd-41a8-82e6-b9afcd24d06f,2009,1,Cả nước,National,Trade,62,Xuất khẩu,Export_Value,295.0,million_USD,Actual,PL8
+d6467759-bd95-4587-82eb-0b797f2ab2c6,2009,1,Cả nước,National,Trade,63,Xuất khẩu,Export_Volume,633.0,1000_ton,Actual,PL8
+515f804e-6987-4bfa-b43b-1f7f5965affc,2009,1,Cả nước,National,Trade,63,Xuất khẩu,Export_Value,1282.0,million_USD,Actual,PL8
+bc033477-7bdb-499b-970d-7c7832e17a3f,2009,12,Cả nước,National,Investment,1,,Investment_Amount,3.0,million_VND,Plan,PL9
+59f45e0d-450c-4a31-972a-f38aa8190532,2009,12,Cả nước,National,Investment,1,,Investment_Amount,6.0,million_VND,Cumulative,PL9
+20268937-33af-414e-a176-8feabb81bfbc,2009,12,Cả nước,National,Investment,Tổng sản lượng,,Investment_Amount,4600.0,million_VND,Plan,PL9
+7db37233-9e21-4a93-a7c3-9acbfc5e51ca,2009,12,Cả nước,National,Investment,Tổng sản lượng,,Investment_Amount,4846.0,million_VND,Cumulative,PL9
+9cd339c7-dbbd-4fbb-bf95-fee320336d5c,2009,12,Cả nước,National,Investment,Sản lượng khai thác,,Investment_Amount,2200.0,million_VND,Plan,PL9
+f1e34eeb-97ca-4967-9df4-abfeea87d278,2009,12,Cả nước,National,Investment,Sản lượng khai thác,,Investment_Amount,2277.0,million_VND,Cumulative,PL9
+86fa8cf4-ab92-490e-8101-9a611ec4dccc,2009,12,Cả nước,National,Investment,Khai thác biển,,Investment_Amount,2000.0,million_VND,Plan,PL9
+6e33407d-8aac-447d-a6fe-c1f60bd8b89a,2009,12,Cả nước,National,Investment,Khai thác biển,,Investment_Amount,2068.0,million_VND,Cumulative,PL9
+894e263d-20ff-450b-9dd6-27e537bca2f2,2009,12,Cả nước,National,Investment,Khai thác nội địa,,Investment_Amount,200.0,million_VND,Plan,PL9
+9efc331f-aade-4311-96d2-37e79ea148c6,2009,12,Cả nước,National,Investment,Khai thác nội địa,,Investment_Amount,209.0,million_VND,Cumulative,PL9
+9a3807c2-6dfc-43e5-a8d1-47624f4b4825,2009,12,Cả nước,National,Investment,Sản lượng nuôi trồng,,Investment_Amount,2400.0,million_VND,Plan,PL9
+367c316a-0989-4758-a349-45124d94cd8f,2009,12,Cả nước,National,Investment,Sản lượng nuôi trồng,,Investment_Amount,2569.0,million_VND,Cumulative,PL9

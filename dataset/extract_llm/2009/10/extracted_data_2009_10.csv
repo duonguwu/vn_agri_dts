@@ -1,881 +1,836 @@
 record_id,year,month,location_name,geo_level,sector,commodity,sub_item,attribute,value,unit,data_type,appendix_number
-d53520dfb1d9d096,2008,10,1. Thu hoạch lúa mùa ở miền Bắc,Provincial,Cultivation,Unknown,,Area_Planted,7047.0,1000_ha,Actual,PL1
-b08e5f827ac8020b,2009,10,1. Thu hoạch lúa mùa ở miền Bắc,Provincial,Cultivation,Unknown,,Area_Planted,8851.0,1000_ha,Actual,PL1
-e672feff0ca7296c,2008,10,+ Vùng Bắc Trung bộ,Provincial,Cultivation,Unknown,,Area_Planted,1356.0,1000_ha,Actual,PL1
-d776fbb9ca4b76cf,2009,10,+ Vùng Bắc Trung bộ,Provincial,Cultivation,Unknown,,Area_Planted,1558.0,1000_ha,Actual,PL1
-f9d22c4e5e746223,2008,10,2. Gieo cấy lúa mùa ở miền Nam,Provincial,Cultivation,Unknown,,Area_Planted,7745.0,1000_ha,Actual,PL1
-684242bb9b96c1b7,2009,10,2. Gieo cấy lúa mùa ở miền Nam,Provincial,Cultivation,Unknown,,Area_Planted,7595.0,1000_ha,Actual,PL1
-c1e386fcd4c07f81,2008,10,3. Gieo cấy lúa đông xuân ở miền Nam,Provincial,Cultivation,Lúa,Đông Xuân,Area_Planted,2349.0,1000_ha,Actual,PL1
-60ceaaa199d4bbd3,2009,10,3. Gieo cấy lúa đông xuân ở miền Nam,Provincial,Cultivation,Lúa,Đông Xuân,Area_Planted,2216.0,1000_ha,Actual,PL1
-54555f31b030ec7d,2008,10,4. Gieo trồng cây vụ đông ở miền Bắc,Provincial,Cultivation,Unknown,,Area_Planted,3374.0,1000_ha,Actual,PL1
-23f6b48764b9484c,2009,10,4. Gieo trồng cây vụ đông ở miền Bắc,Provincial,Cultivation,Unknown,,Area_Planted,3317.0,1000_ha,Actual,PL1
-89e9c71bcfd85d74,2008,10,- Khoai lang,Provincial,Cultivation,Khoai lang,,Area_Planted,357.0,1000_ha,Actual,PL1
-7e9924d2cab89702,2009,10,- Khoai lang,Provincial,Cultivation,Khoai lang,,Area_Planted,308.0,1000_ha,Actual,PL1
-17bc2b82edb8c31b,2008,10,- Đậu tương,Provincial,Cultivation,Đậu tương,,Area_Planted,688.0,1000_ha,Actual,PL1
-69d189807366ce63,2009,10,- Đậu tương,Provincial,Cultivation,Đậu tương,,Area_Planted,728.0,1000_ha,Actual,PL1
-7f5fbf6cef666d6a,2008,10,- Lạc,Provincial,Cultivation,Lạc,,Area_Planted,81.0,1000_ha,Actual,PL1
-d32e7eaf45a51a98,2009,10,- Lạc,Provincial,Cultivation,Lạc,,Area_Planted,70.0,1000_ha,Actual,PL1
-fea3b870768cd61a,2008,10,"- Rau, đậu các loại",Provincial,Cultivation,Rau đậu,,Area_Planted,687.0,1000_ha,Actual,PL1
-46e4458f82818fde,2009,10,"- Rau, đậu các loại",Provincial,Cultivation,Rau đậu,,Area_Planted,695.0,1000_ha,Actual,PL1
-610c27b36e59c60e,2009,10,Miền Bắc,Provincial,Cultivation,Lúa,,Area_Planted,1185883.0,ha,Actual,PL2
-acc2caddc20eaa6e,2009,10,Miền Bắc,Provincial,Cultivation,Lúa,,Area_Harvested,885128.0,ha,Actual,PL2
-610c27b36e59c60e,2009,10,Miền Bắc,Provincial,Cultivation,Lúa,,Area_Planted,331728.0,ha,Actual,PL2
-baea831335ff2997,2009,10,Miền Bắc,Provincial,Cultivation,Ngô,,Area_Planted,137277.0,ha,Actual,PL2
-37cc3dc04335468a,2009,10,Miền Bắc,Provincial,Cultivation,Khoai lang,,Area_Planted,30780.0,ha,Actual,PL2
-3213825376eb07f2,2009,10,Miền Bắc,Provincial,Cultivation,Đậu,,Area_Planted,72846.0,ha,Actual,PL2
-368eb3d3a340f06f,2009,10,Miền Bắc,Provincial,Cultivation,Lạc,,Area_Planted,7004.0,ha,Actual,PL2
-700c7012c2757c75,2009,10,Miền Bắc,Provincial,Cultivation,Rau,,Area_Planted,69526.0,ha,Actual,PL2
-7800c66d6adb75fa,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lúa,,Area_Planted,551892.0,ha,Actual,PL2
-fd84635ad6e86fd4,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lúa,,Area_Harvested,441083.0,ha,Actual,PL2
-7800c66d6adb75fa,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lúa,,Area_Planted,177256.0,ha,Actual,PL2
-2e650a5a997141bb,2009,10,ĐB sông Hồng,Provincial,Cultivation,Ngô,,Area_Planted,50126.0,ha,Actual,PL2
-9c09e847b5acb3a6,2009,10,ĐB sông Hồng,Provincial,Cultivation,Khoai lang,,Area_Planted,7693.0,ha,Actual,PL2
-42cd902b64478ff1,2009,10,ĐB sông Hồng,Provincial,Cultivation,Đậu,,Area_Planted,67683.0,ha,Actual,PL2
-fc2ad84fce9639ec,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lạc,,Area_Planted,1272.0,ha,Actual,PL2
-822c0c945da50d63,2009,10,ĐB sông Hồng,Provincial,Cultivation,Rau,,Area_Planted,36828.0,ha,Actual,PL2
-a8ed5fc365a7e6cd,2009,10,Hà Nội,Provincial,Cultivation,Lúa,,Area_Planted,102889.0,ha,Actual,PL2
-0d6d8f73e3db4aa5,2009,10,Hà Nội,Provincial,Cultivation,Lúa,,Area_Harvested,98487.0,ha,Actual,PL2
-a8ed5fc365a7e6cd,2009,10,Hà Nội,Provincial,Cultivation,Lúa,,Area_Planted,55186.0,ha,Actual,PL2
-a1a00a60a8a24a5e,2009,10,Hà Nội,Provincial,Cultivation,Ngô,,Area_Planted,12284.0,ha,Actual,PL2
-dc25912191d5b53b,2009,10,Hà Nội,Provincial,Cultivation,Khoai lang,,Area_Planted,2570.0,ha,Actual,PL2
-f7c69b3f081b06ef,2009,10,Hà Nội,Provincial,Cultivation,Đậu,,Area_Planted,30668.0,ha,Actual,PL2
-4a21d3ca0d6e1efc,2009,10,Hà Nội,Provincial,Cultivation,Lạc,,Area_Planted,539.0,ha,Actual,PL2
-cf63bec5ecb64fe9,2009,10,Hà Nội,Provincial,Cultivation,Rau,,Area_Planted,7826.0,ha,Actual,PL2
-2efa0adea64bbc06,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Planted,42254.0,ha,Actual,PL2
-7d4ea9a6981077d9,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Harvested,34840.0,ha,Actual,PL2
-2efa0adea64bbc06,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
-2efa0adea64bbc06,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Planted,5247.0,ha,Actual,PL2
-6c709eecfae3b7ce,2009,10,Hải Phòng,Provincial,Cultivation,Ngô,,Area_Planted,1925.0,ha,Actual,PL2
-be1fc83675cf6b85,2009,10,Hải Phòng,Provincial,Cultivation,Rau,,Area_Planted,601.0,ha,Actual,PL2
-8fc3597d3e118b4a,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Planted,28986.0,ha,Actual,PL2
-17d302ffaca891ec,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Harvested,22740.0,ha,Actual,PL2
-8fc3597d3e118b4a,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Planted,51.0,ha,Actual,PL2
-8fc3597d3e118b4a,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Planted,21372.0,ha,Actual,PL2
-573e71f8fd282de8,2009,10,Vĩnh Phúc,Provincial,Cultivation,Ngô,,Area_Planted,12838.0,ha,Actual,PL2
-02d0923e0fe7f369,2009,10,Vĩnh Phúc,Provincial,Cultivation,Khoai lang,,Area_Planted,2141.0,ha,Actual,PL2
-b09126aeb9d77c0b,2009,10,Vĩnh Phúc,Provincial,Cultivation,Đậu,,Area_Planted,3900.0,ha,Actual,PL2
-aa76c1eab44deffe,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lạc,,Area_Planted,366.0,ha,Actual,PL2
-4a0831e6135fedd0,2009,10,Vĩnh Phúc,Provincial,Cultivation,Rau,,Area_Planted,2127.0,ha,Actual,PL2
-4daf8c56b941c3f3,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Planted,37338.0,ha,Actual,PL2
-41ce0e4bf705647e,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Harvested,33000.0,ha,Actual,PL2
-4daf8c56b941c3f3,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
-4daf8c56b941c3f3,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Planted,5010.0,ha,Actual,PL2
-b3dbf22b0745c3f9,2009,10,Bắc Ninh,Provincial,Cultivation,Ngô,,Area_Planted,1288.0,ha,Actual,PL2
-c1b81bce68d0a82a,2009,10,Bắc Ninh,Provincial,Cultivation,Khoai lang,,Area_Planted,156.0,ha,Actual,PL2
-f3aec3966237883f,2009,10,Bắc Ninh,Provincial,Cultivation,Đậu,,Area_Planted,1906.0,ha,Actual,PL2
-273783ad3f5d56da,2009,10,Bắc Ninh,Provincial,Cultivation,Lạc,,Area_Planted,14.0,ha,Actual,PL2
-37f8d9d923e9d6f2,2009,10,Bắc Ninh,Provincial,Cultivation,Rau,,Area_Planted,1647.0,ha,Actual,PL2
-7769389f5e3e48c3,2009,10,Hải Dương,Provincial,Cultivation,Lúa,,Area_Planted,62774.0,ha,Actual,PL2
-a3206e4c32de8702,2009,10,Hải Dương,Provincial,Cultivation,Lúa,,Area_Harvested,56516.0,ha,Actual,PL2
-7769389f5e3e48c3,2009,10,Hải Dương,Provincial,Cultivation,Lúa,,Area_Planted,16091.0,ha,Actual,PL2
-0afef31e9e03d3a8,2009,10,Hải Dương,Provincial,Cultivation,Ngô,,Area_Planted,2885.0,ha,Actual,PL2
-659136303f83533f,2009,10,Hải Dương,Provincial,Cultivation,Đậu,,Area_Planted,197.0,ha,Actual,PL2
-40ce5f6b8a4eefc3,2009,10,Hải Dương,Provincial,Cultivation,Rau,,Area_Planted,9271.0,ha,Actual,PL2
-4125713b316c03f6,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Planted,40671.0,ha,Actual,PL2
-27ed5ef397c520d9,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Harvested,39870.0,ha,Actual,PL2
-4125713b316c03f6,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Planted,61.0,ha,Actual,PL2
-4125713b316c03f6,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Planted,12657.0,ha,Actual,PL2
-0798d4d82294a861,2009,10,Hưng Yên,Provincial,Cultivation,Ngô,,Area_Planted,4396.0,ha,Actual,PL2
-b5fddb4510d4ae6f,2009,10,Hưng Yên,Provincial,Cultivation,Khoai lang,,Area_Planted,443.0,ha,Actual,PL2
-22bb83f17b0a60d6,2009,10,Hưng Yên,Provincial,Cultivation,Đậu,,Area_Planted,2641.0,ha,Actual,PL2
-c844b865d76caa8d,2009,10,Hưng Yên,Provincial,Cultivation,Lạc,,Area_Planted,81.0,ha,Actual,PL2
-743885626aa66dd7,2009,10,Hưng Yên,Provincial,Cultivation,Rau,,Area_Planted,4087.0,ha,Actual,PL2
-c7d203d0c29f0899,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Planted,35403.0,ha,Actual,PL2
-64724e8e4d2fd5e3,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Harvested,35403.0,ha,Actual,PL2
-c7d203d0c29f0899,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
-c7d203d0c29f0899,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Planted,17450.0,ha,Actual,PL2
-5b30e7a535f07f7d,2009,10,Hà Nam,Provincial,Cultivation,Ngô,,Area_Planted,3396.0,ha,Actual,PL2
-87babcbccd0e4886,2009,10,Hà Nam,Provincial,Cultivation,Đậu,,Area_Planted,11010.0,ha,Actual,PL2
-52c30349c2181ebd,2009,10,Hà Nam,Provincial,Cultivation,Rau,,Area_Planted,2039.0,ha,Actual,PL2
-8c731ccfb9e45593,2009,10,Nam Định,Provincial,Cultivation,Lúa,,Area_Planted,78602.0,ha,Actual,PL2
-c3f0585b6f5beab5,2009,10,Nam Định,Provincial,Cultivation,Lúa,,Area_Harvested,51700.0,ha,Actual,PL2
-8c731ccfb9e45593,2009,10,Nam Định,Provincial,Cultivation,Lúa,,Area_Planted,7146.0,ha,Actual,PL2
-c27a19c718aa0c41,2009,10,Nam Định,Provincial,Cultivation,Ngô,,Area_Planted,1681.0,ha,Actual,PL2
-d4b31b09d567e80e,2009,10,Nam Định,Provincial,Cultivation,Đậu,,Area_Planted,593.0,ha,Actual,PL2
-60e8c779fff47f39,2009,10,Nam Định,Provincial,Cultivation,Rau,,Area_Planted,1185.0,ha,Actual,PL2
-7edb326378d5a278,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Planted,83164.0,ha,Actual,PL2
-e4c5adca66f443e2,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Harvested,33500.0,ha,Actual,PL2
-7edb326378d5a278,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Planted,70.0,ha,Actual,PL2
-7edb326378d5a278,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Planted,20770.0,ha,Actual,PL2
-1a01366bad3668a8,2009,10,Thái Bình,Provincial,Cultivation,Ngô,,Area_Planted,6180.0,ha,Actual,PL2
-b8f3e1b5896ef8a7,2009,10,Thái Bình,Provincial,Cultivation,Khoai lang,,Area_Planted,940.0,ha,Actual,PL2
-2f2c154b81dedb98,2009,10,Thái Bình,Provincial,Cultivation,Đậu,,Area_Planted,7830.0,ha,Actual,PL2
-5fd3d1629ce2c3d2,2009,10,Thái Bình,Provincial,Cultivation,Rau,,Area_Planted,5650.0,ha,Actual,PL2
-7f025a4e50483031,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Planted,39811.0,ha,Actual,PL2
-e835f889f3104e0d,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Harvested,35027.0,ha,Actual,PL2
-7f025a4e50483031,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Planted,56.0,ha,Actual,PL2
-7f025a4e50483031,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Planted,16327.0,ha,Actual,PL2
-a993533890bfc35e,2009,10,Ninh Bình,Provincial,Cultivation,Ngô,,Area_Planted,3253.0,ha,Actual,PL2
-4ae9679d710e5de0,2009,10,Ninh Bình,Provincial,Cultivation,Khoai lang,,Area_Planted,1443.0,ha,Actual,PL2
-b043e36ff612872a,2009,10,Ninh Bình,Provincial,Cultivation,Đậu,,Area_Planted,8939.0,ha,Actual,PL2
-1ed2f92729e4a1ad,2009,10,Ninh Bình,Provincial,Cultivation,Lạc,,Area_Planted,272.0,ha,Actual,PL2
-7d8b593126ab83cc,2009,10,Ninh Bình,Provincial,Cultivation,Rau,,Area_Planted,2396.0,ha,Actual,PL2
-4688992f085aaba5,2009,10,Đông Bắc,Provincial,Cultivation,Lúa,,Area_Planted,328842.0,ha,Actual,PL2
-26508aed31f2127c,2009,10,Đông Bắc,Provincial,Cultivation,Lúa,,Area_Harvested,235483.0,ha,Actual,PL2
-4688992f085aaba5,2009,10,Đông Bắc,Provincial,Cultivation,Lúa,,Area_Planted,60757.0,ha,Actual,PL2
-2e345fd71229f851,2009,10,Đông Bắc,Provincial,Cultivation,Ngô,,Area_Planted,36211.0,ha,Actual,PL2
-e73f16e5497c220f,2009,10,Đông Bắc,Provincial,Cultivation,Khoai lang,,Area_Planted,10155.0,ha,Actual,PL2
-b3ab133510b96957,2009,10,Đông Bắc,Provincial,Cultivation,Đậu,,Area_Planted,1005.0,ha,Actual,PL2
-a69c3ed543e078ba,2009,10,Đông Bắc,Provincial,Cultivation,Lạc,,Area_Planted,1566.0,ha,Actual,PL2
-70e619e8b4538238,2009,10,Đông Bắc,Provincial,Cultivation,Rau,,Area_Planted,11697.0,ha,Actual,PL2
-2cf092ae2eccc66a,2009,10,Hà Giang,Provincial,Cultivation,Lúa,,Area_Planted,25600.0,ha,Actual,PL2
-e98e09cd9be08d5e,2009,10,Hà Giang,Provincial,Cultivation,Lúa,,Area_Harvested,21006.0,ha,Actual,PL2
-518955d023ac7dc7,2009,10,Cao Bằng,Provincial,Cultivation,Lúa,,Area_Planted,25516.0,ha,Actual,PL2
-a7b82f4f8f59f851,2009,10,Cao Bằng,Provincial,Cultivation,Lúa,,Area_Harvested,13283.0,ha,Actual,PL2
-0630b6140a3999f8,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Planted,19570.0,ha,Actual,PL2
-206d0d8f78dd5712,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Harvested,10240.0,ha,Actual,PL2
-0630b6140a3999f8,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Planted,42.0,ha,Actual,PL2
-0630b6140a3999f8,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Planted,290.0,ha,Actual,PL2
-256ff4b1abf4de24,2009,10,Lào Cai,Provincial,Cultivation,Rau,,Area_Planted,290.0,ha,Actual,PL2
-4a2c4c4bb55f05a5,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Planted,14002.0,ha,Actual,PL2
-cfd5d0796acaf63d,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Harvested,14002.0,ha,Actual,PL2
-4a2c4c4bb55f05a5,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Planted,42.0,ha,Actual,PL2
-4a2c4c4bb55f05a5,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Planted,602.0,ha,Actual,PL2
-95aad8e2376e0640,2009,10,Bắc Cạn,Provincial,Cultivation,Ngô,,Area_Planted,378.0,ha,Actual,PL2
-795910fb47f0b5ed,2009,10,Bắc Cạn,Provincial,Cultivation,Rau,,Area_Planted,224.0,ha,Actual,PL2
-20d81f62647059f9,2009,10,Lạng Sơn,Provincial,Cultivation,Lúa,,Area_Planted,31200.0,ha,Actual,PL2
-9cf8d21f6b737e8a,2009,10,Lạng Sơn,Provincial,Cultivation,Lúa,,Area_Harvested,4870.0,ha,Actual,PL2
-45048947382df33a,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Planted,25816.0,ha,Actual,PL2
-39c88527a36a524e,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Harvested,25816.0,ha,Actual,PL2
-45048947382df33a,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
-45048947382df33a,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Planted,7058.0,ha,Actual,PL2
-6d89744a1c6fe699,2009,10,Tuyên Quang,Provincial,Cultivation,Ngô,,Area_Planted,5123.0,ha,Actual,PL2
-4d7dc7253d65c1b5,2009,10,Tuyên Quang,Provincial,Cultivation,Khoai lang,,Area_Planted,1123.0,ha,Actual,PL2
-e0ca8b6379c1f995,2009,10,Tuyên Quang,Provincial,Cultivation,Đậu,,Area_Planted,613.0,ha,Actual,PL2
-99bdf395228aeea7,2009,10,Tuyên Quang,Provincial,Cultivation,Lạc,,Area_Planted,51.0,ha,Actual,PL2
-a9b4d1f8b1a2c0b0,2009,10,Tuyên Quang,Provincial,Cultivation,Rau,,Area_Planted,148.0,ha,Actual,PL2
-574c0718509d9123,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Planted,23896.0,ha,Actual,PL2
-3f2b17ea0eee8ed1,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Harvested,23896.0,ha,Actual,PL2
-574c0718509d9123,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Planted,40.0,ha,Actual,PL2
-574c0718509d9123,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Planted,7886.0,ha,Actual,PL2
-193693e857d472b4,2009,10,Yên Bái,Provincial,Cultivation,Ngô,,Area_Planted,6382.0,ha,Actual,PL2
-d776c0ada6a6d1d7,2009,10,Yên Bái,Provincial,Cultivation,Khoai lang,,Area_Planted,677.0,ha,Actual,PL2
-9081ed8253215c43,2009,10,Yên Bái,Provincial,Cultivation,Đậu,,Area_Planted,6.0,ha,Actual,PL2
-4fb79cb602058886,2009,10,Yên Bái,Provincial,Cultivation,Rau,,Area_Planted,784.0,ha,Actual,PL2
-36fb649c06db3f9c,2009,10,Thái Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,41500.0,ha,Actual,PL2
-861fa23d021e1c37,2009,10,Thái Nguyên,Provincial,Cultivation,Lúa,,Area_Harvested,28820.0,ha,Actual,PL2
-36fb649c06db3f9c,2009,10,Thái Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,8204.0,ha,Actual,PL2
-54224f1bf7302e31,2009,10,Thái Nguyên,Provincial,Cultivation,Ngô,,Area_Planted,5658.0,ha,Actual,PL2
-243a9b9d61725044,2009,10,Thái Nguyên,Provincial,Cultivation,Khoai lang,,Area_Planted,1500.0,ha,Actual,PL2
-5510e52c49adcaa0,2009,10,Thái Nguyên,Provincial,Cultivation,Đậu,,Area_Planted,26.0,ha,Actual,PL2
-acb883e93932a41f,2009,10,Thái Nguyên,Provincial,Cultivation,Rau,,Area_Planted,1020.0,ha,Actual,PL2
-ac4fc328408df427,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Planted,34000.0,ha,Actual,PL2
-14e1e5c676f5466b,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Harvested,32123.0,ha,Actual,PL2
-ac4fc328408df427,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Planted,48.0,ha,Actual,PL2
-ac4fc328408df427,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Planted,15069.0,ha,Actual,PL2
-f27b789befdbd265,2009,10,Phú Thọ,Provincial,Cultivation,Ngô,,Area_Planted,10912.0,ha,Actual,PL2
-60df1f7fe76e5a84,2009,10,Phú Thọ,Provincial,Cultivation,Khoai lang,,Area_Planted,1340.0,ha,Actual,PL2
-3aa07b363e79093b,2009,10,Phú Thọ,Provincial,Cultivation,Đậu,,Area_Planted,255.0,ha,Actual,PL2
-aeaf9408cf7de1d3,2009,10,Phú Thọ,Provincial,Cultivation,Rau,,Area_Planted,2563.0,ha,Actual,PL2
-22c6dce31ec94751,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Planted,59442.0,ha,Actual,PL2
-be90497adc5be4fa,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Harvested,44702.0,ha,Actual,PL2
-22c6dce31ec94751,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Planted,49.0,ha,Actual,PL2
-22c6dce31ec94751,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Planted,17732.0,ha,Actual,PL2
-e6b9dd92c21d9671,2009,10,Bắc Giang,Provincial,Cultivation,Ngô,,Area_Planted,6930.0,ha,Actual,PL2
-7698815f32ce9f62,2009,10,Bắc Giang,Provincial,Cultivation,Khoai lang,,Area_Planted,4169.0,ha,Actual,PL2
-be91f4819fb950cd,2009,10,Bắc Giang,Provincial,Cultivation,Đậu,,Area_Planted,106.0,ha,Actual,PL2
-6c4f66e8adb6a3df,2009,10,Bắc Giang,Provincial,Cultivation,Lạc,,Area_Planted,1515.0,ha,Actual,PL2
-e7d4536fd6243f61,2009,10,Bắc Giang,Provincial,Cultivation,Rau,,Area_Planted,4926.0,ha,Actual,PL2
-a5580856af6f8622,2009,10,Quảng Ninh,Provincial,Cultivation,Lúa,,Area_Planted,28300.0,ha,Actual,PL2
-fd4d3a6a7e47cce5,2009,10,Quảng Ninh,Provincial,Cultivation,Lúa,,Area_Harvested,16725.0,ha,Actual,PL2
-a5580856af6f8622,2009,10,Quảng Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3917.0,ha,Actual,PL2
-71cacaef2a3841a9,2009,10,Quảng Ninh,Provincial,Cultivation,Ngô,,Area_Planted,829.0,ha,Actual,PL2
-9e9a28f3f2b9f4d9,2009,10,Quảng Ninh,Provincial,Cultivation,Khoai lang,,Area_Planted,1346.0,ha,Actual,PL2
-8ea9ba0d855f4115,2009,10,Quảng Ninh,Provincial,Cultivation,Rau,,Area_Planted,1742.0,ha,Actual,PL2
-f5d256739c98686b,2009,10,Tây Bắc,Provincial,Cultivation,Lúa,,Area_Planted,122557.0,ha,Actual,PL2
-cd2a9c9162319a24,2009,10,Tây Bắc,Provincial,Cultivation,Lúa,,Area_Harvested,52726.0,ha,Actual,PL2
-f5d256739c98686b,2009,10,Tây Bắc,Provincial,Cultivation,Lúa,,Area_Planted,5025.0,ha,Actual,PL2
-19337b1f4bc67adf,2009,10,Tây Bắc,Provincial,Cultivation,Ngô,,Area_Planted,2153.0,ha,Actual,PL2
-ef0cf6bcc3899d5b,2009,10,Tây Bắc,Provincial,Cultivation,Khoai lang,,Area_Planted,838.0,ha,Actual,PL2
-379daf363d4792d9,2009,10,Tây Bắc,Provincial,Cultivation,Đậu,,Area_Planted,522.0,ha,Actual,PL2
-fd66aa8927210523,2009,10,Tây Bắc,Provincial,Cultivation,Lạc,,Area_Planted,0.0,ha,Actual,PL2
-4ef77ab889a51ca7,2009,10,Tây Bắc,Provincial,Cultivation,Rau,,Area_Planted,1512.0,ha,Actual,PL2
-e6a36aa30faeb944,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Planted,24682.0,ha,Actual,PL2
-c55f1cac9438185a,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Harvested,15000.0,ha,Actual,PL2
-e6a36aa30faeb944,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Planted,33.0,ha,Actual,PL2
-e6a36aa30faeb944,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Planted,239.0,ha,Actual,PL2
-b78a814174455016,2009,10,Lai Châu,Provincial,Cultivation,Ngô,,Area_Planted,210.0,ha,Actual,PL2
-579b56082b0c93d8,2009,10,Lai Châu,Provincial,Cultivation,Đậu,,Area_Planted,29.0,ha,Actual,PL2
-a927502022393213,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Planted,37025.0,ha,Actual,PL2
-a3490d4f3f7a54db,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Harvested,12686.0,ha,Actual,PL2
-a927502022393213,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Planted,32.0,ha,Actual,PL2
-a927502022393213,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Planted,43.0,ha,Actual,PL2
-69dee2b07b43a044,2009,10,Điện Biên,Provincial,Cultivation,Ngô,,Area_Planted,23.0,ha,Actual,PL2
-1e43ebf2f2c4c4ef,2009,10,Điện Biên,Provincial,Cultivation,Khoai lang,,Area_Planted,20.0,ha,Actual,PL2
-3371718fe2fccd75,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Planted,36436.0,ha,Actual,PL2
-a4af618ff16584ff,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Harvested,5678.0,ha,Actual,PL2
-3371718fe2fccd75,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Planted,27.0,ha,Actual,PL2
-3371718fe2fccd75,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Planted,893.0,ha,Actual,PL2
-639516f4ccd8f2e3,2009,10,Sơn La,Provincial,Cultivation,Ngô,,Area_Planted,400.0,ha,Actual,PL2
-b1b8222948b710e2,2009,10,Sơn La,Provincial,Cultivation,Rau,,Area_Planted,493.0,ha,Actual,PL2
-61b7b93a212c31dd,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Planted,24414.0,ha,Actual,PL2
-fd71583d58946303,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Harvested,19362.0,ha,Actual,PL2
-61b7b93a212c31dd,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Planted,50.0,ha,Actual,PL2
-61b7b93a212c31dd,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Planted,3850.0,ha,Actual,PL2
-10bf2d191378f30e,2009,10,Hoà Bình,Provincial,Cultivation,Ngô,,Area_Planted,1520.0,ha,Actual,PL2
-bbf0f87d44b80cf6,2009,10,Hoà Bình,Provincial,Cultivation,Khoai lang,,Area_Planted,818.0,ha,Actual,PL2
-25f178adbb6ee03f,2009,10,Hoà Bình,Provincial,Cultivation,Đậu,,Area_Planted,493.0,ha,Actual,PL2
-08c6f0c6263e1832,2009,10,Hoà Bình,Provincial,Cultivation,Rau,,Area_Planted,1019.0,ha,Actual,PL2
-f4dc572b5f1991f9,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,182592.0,ha,Actual,PL2
-2fee1971a7065d9e,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lúa,,Area_Harvested,155836.0,ha,Actual,PL2
-f4dc572b5f1991f9,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,88690.0,ha,Actual,PL2
-55814b5ff3d2a9f5,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Ngô,,Area_Planted,48788.0,ha,Actual,PL2
-dfdd3a4410e24015,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Khoai lang,,Area_Planted,12094.0,ha,Actual,PL2
-4b92cbeafb45ad30,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Đậu,,Area_Planted,3635.0,ha,Actual,PL2
-b8d21bf19f1cae75,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lạc,,Area_Planted,4166.0,ha,Actual,PL2
-8bbde50f003beafb,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Rau,,Area_Planted,19489.0,ha,Actual,PL2
-f467239ccb7dc266,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Planted,136836.0,ha,Actual,PL2
-68bb683cf2a64f63,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Harvested,136836.0,ha,Actual,PL2
-f467239ccb7dc266,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Planted,53.0,ha,Actual,PL2
-f467239ccb7dc266,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Planted,42672.0,ha,Actual,PL2
-8d122749cb34cf27,2009,10,Thanh Hoá,Provincial,Cultivation,Ngô,,Area_Planted,20788.0,ha,Actual,PL2
-0608dff77d3d01b7,2009,10,Thanh Hoá,Provincial,Cultivation,Khoai lang,,Area_Planted,4594.0,ha,Actual,PL2
-0b74e411aebfa57e,2009,10,Thanh Hoá,Provincial,Cultivation,Đậu,,Area_Planted,3635.0,ha,Actual,PL2
-64db11aa83337ac6,2009,10,Thanh Hoá,Provincial,Cultivation,Lạc,,Area_Planted,1666.0,ha,Actual,PL2
-1068387954a69a71,2009,10,Thanh Hoá,Provincial,Cultivation,Rau,,Area_Planted,11989.0,ha,Actual,PL2
-233173a206ca2048,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Planted,33156.0,ha,Actual,PL2
-25e07c6b71a01bc1,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Harvested,18000.0,ha,Actual,PL2
-233173a206ca2048,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Planted,38.0,ha,Actual,PL2
-233173a206ca2048,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Planted,45500.0,ha,Actual,PL2
-2faf2955c908e6cf,2009,10,Nghệ An,Provincial,Cultivation,Ngô,,Area_Planted,28000.0,ha,Actual,PL2
-03f072866cb2ac63,2009,10,Nghệ An,Provincial,Cultivation,Khoai lang,,Area_Planted,7500.0,ha,Actual,PL2
-610b7e640579692f,2009,10,Nghệ An,Provincial,Cultivation,Lạc,,Area_Planted,2500.0,ha,Actual,PL2
-97a8b07aa6ee13ca,2009,10,Nghệ An,Provincial,Cultivation,Rau,,Area_Planted,7500.0,ha,Actual,PL2
-9a2dbd4bde0f1986,2009,10,Hà Tĩnh,Provincial,Cultivation,Lúa,,Area_Planted,6500.0,ha,Actual,PL2
-0be5ee818147c7a7,2009,10,Quảng Bình,Provincial,Cultivation,Lúa,,Area_Planted,1000.0,ha,Actual,PL2
-0933f2bdbf75d2cf,2009,10,Quảng Bình,Provincial,Cultivation,Lúa,,Area_Harvested,1000.0,ha,Actual,PL2
-0be5ee818147c7a7,2009,10,Quảng Bình,Provincial,Cultivation,Lúa,,Area_Planted,518.0,ha,Actual,PL2
-5cabf43fd8ad09ba,2009,10,Quảng Trị,Provincial,Cultivation,Lúa,,Area_Planted,4500.0,ha,Actual,PL2
-0aa116556f2adf59,2009,10,Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL2
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,759524.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,221623.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,687237.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,345748.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,30087.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,305893.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,14375.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,87820.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,26712.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,104342.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,38545.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,4723.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,60433.0,ha,Actual,PL3
-2908955ace472ee5,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,641.0,ha,Actual,PL3
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,2225.0,ha,Actual,PL3
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,1187.0,ha,Actual,PL3
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,664.0,ha,Actual,PL3
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,437.0,ha,Actual,PL3
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,86.0,ha,Actual,PL3
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,45128.0,ha,Actual,PL3
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,28851.0,ha,Actual,PL3
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,12051.0,ha,Actual,PL3
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3700.0,ha,Actual,PL3
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,13100.0,ha,Actual,PL3
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5900.0,ha,Actual,PL3
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,21875.0,ha,Actual,PL3
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,7818.0,ha,Actual,PL3
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,200.0,ha,Actual,PL3
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,13857.0,ha,Actual,PL3
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,25505.0,ha,Actual,PL3
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,18265.0,ha,Actual,PL3
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,7712.0,ha,Actual,PL3
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,10553.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,7262.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,26712.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,22634.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,6000.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,226.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,16125.0,ha,Actual,PL3
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,283.0,ha,Actual,PL3
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,1800.0,ha,Actual,PL3
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,11530.0,ha,Actual,PL3
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,4300.0,ha,Actual,PL3
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,160.0,ha,Actual,PL3
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,6712.0,ha,Actual,PL3
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,358.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,131280.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,342862.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,208881.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,12185.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,121796.0,ha,Actual,PL3
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,16700.0,ha,Actual,PL3
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,43637.0,ha,Actual,PL3
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,7630.0,ha,Actual,PL3
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,935.0,ha,Actual,PL3
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,35072.0,ha,Actual,PL3
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,46843.0,ha,Actual,PL3
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,101976.0,ha,Actual,PL3
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,49116.0,ha,Actual,PL3
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,1165.0,ha,Actual,PL3
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,51695.0,ha,Actual,PL3
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,44167.0,ha,Actual,PL3
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,142344.0,ha,Actual,PL3
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,113937.0,ha,Actual,PL3
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,6471.0,ha,Actual,PL3
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,21936.0,ha,Actual,PL3
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,34975.0,ha,Actual,PL3
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,21575.0,ha,Actual,PL3
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,2100.0,ha,Actual,PL3
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,11300.0,ha,Actual,PL3
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,16570.0,ha,Actual,PL3
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,19930.0,ha,Actual,PL3
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,16623.0,ha,Actual,PL3
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,1514.0,ha,Actual,PL3
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,1793.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,132938.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,50539.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,198721.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,70449.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,2246.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,121158.0,ha,Actual,PL3
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,4868.0,ha,Actual,PL3
-7715e6abb8dcc78d,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,13500.0,ha,Actual,PL3
-7715e6abb8dcc78d,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,6967.0,ha,Actual,PL3
-7715e6abb8dcc78d,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,1100.0,ha,Actual,PL3
-7715e6abb8dcc78d,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,1100.0,ha,Actual,PL3
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,6800.0,ha,Actual,PL3
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,10900.0,ha,Actual,PL3
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,7900.0,ha,Actual,PL3
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,3000.0,ha,Actual,PL3
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,867.0,ha,Actual,PL3
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,98.0,ha,Actual,PL3
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,55886.0,ha,Actual,PL3
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,43572.0,ha,Actual,PL3
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,49731.0,ha,Actual,PL3
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,7207.0,ha,Actual,PL3
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,42524.0,ha,Actual,PL3
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,4230.0,ha,Actual,PL3
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,7351.0,ha,Actual,PL3
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,242.0,ha,Actual,PL3
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,385.0,ha,Actual,PL3
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,2447.0,ha,Actual,PL3
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,4277.0,ha,Actual,PL3
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,29780.0,ha,Actual,PL3
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,41258.0,ha,Actual,PL3
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,25337.0,ha,Actual,PL3
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,374.0,ha,Actual,PL3
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,15429.0,ha,Actual,PL3
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,118.0,ha,Actual,PL3
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,300.0,ha,Actual,PL3
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,31141.0,ha,Actual,PL3
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4671.0,ha,Actual,PL3
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,391.0,ha,Actual,PL3
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,25704.0,ha,Actual,PL3
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,375.0,ha,Actual,PL3
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,12542.0,ha,Actual,PL3
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,25432.0,ha,Actual,PL3
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,17320.0,ha,Actual,PL3
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,229.0,ha,Actual,PL3
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,7883.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,407486.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,144372.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,41312.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,27873.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,10933.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,2506.0,ha,Actual,PL3
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,8866.0,ha,Actual,PL3
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,8233.0,ha,Actual,PL3
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,41990.0,ha,Actual,PL3
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,900.0,ha,Actual,PL3
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,900.0,ha,Actual,PL3
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,6278.0,ha,Actual,PL3
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,4234.0,ha,Actual,PL3
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,1187.0,ha,Actual,PL3
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,857.0,ha,Actual,PL3
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,2100.0,ha,Actual,PL3
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,6799.0,ha,Actual,PL3
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,6179.0,ha,Actual,PL3
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,120.0,ha,Actual,PL3
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,500.0,ha,Actual,PL3
-ec1de6dadee48eb0,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,6426.0,ha,Actual,PL3
-ec1de6dadee48eb0,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,4654.0,ha,Actual,PL3
-ec1de6dadee48eb0,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,153.0,ha,Actual,PL3
-ec1de6dadee48eb0,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,1619.0,ha,Actual,PL3
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,12375.0,ha,Actual,PL3
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,1266.0,ha,Actual,PL3
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,5211.0,ha,Actual,PL3
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,156.0,ha,Actual,PL3
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,5742.0,ha,Actual,PL3
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,33806.0,ha,Actual,PL3
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,1394.0,ha,Actual,PL3
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,818.0,ha,Actual,PL3
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,149.0,ha,Actual,PL3
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,299.0,ha,Actual,PL3
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,128.0,ha,Actual,PL3
-43814a7c22f5e8aa,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,56130.0,ha,Actual,PL3
-43814a7c22f5e8aa,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,15428.0,ha,Actual,PL3
-43814a7c22f5e8aa,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,700.0,ha,Actual,PL3
-43814a7c22f5e8aa,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,700.0,ha,Actual,PL3
-f7b6cd23543b9b75,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,629.0,ha,Actual,PL3
-f7b6cd23543b9b75,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,629.0,ha,Actual,PL3
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,45552.0,ha,Actual,PL3
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,7022.0,ha,Actual,PL3
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,2071.0,ha,Actual,PL3
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,1551.0,ha,Actual,PL3
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,520.0,ha,Actual,PL3
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,91634.0,ha,Actual,PL3
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,7279.0,ha,Actual,PL3
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,4871.0,ha,Actual,PL3
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1606.0,ha,Actual,PL3
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,802.0,ha,Actual,PL3
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,25899.0,ha,Actual,PL3
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,74897.0,ha,Actual,PL3
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,4727.0,ha,Actual,PL3
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,2171.0,ha,Actual,PL3
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,1960.0,ha,Actual,PL3
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,596.0,ha,Actual,PL3
-2e1f8854503b37a3,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,67933.0,ha,Actual,PL3
-2e1f8854503b37a3,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,5035.0,ha,Actual,PL3
-2e1f8854503b37a3,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL3
-2e1f8854503b37a3,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL3
-2d44b6abe318ad95,2009,10,Cà Mau,Provincial,Cultivation,Lúa,,Area_Planted,76199.0,ha,Actual,PL3
-2d44b6abe318ad95,2009,10,Cà Mau,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,264623.0,ha,Actual,PL4
-7e05598e3373ed96,2009,10,Miền Nam,Provincial,Cultivation,Đậu,,Area_Planted,27085.0,ha,Actual,PL4
-b6a1d1bf93d8d266,2009,10,Miền Nam,Provincial,Cultivation,Lạc,,Area_Planted,76485.0,ha,Actual,PL4
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,22272.0,ha,Actual,PL4
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,14142.0,ha,Actual,PL4
-6e8649f08c9c3a1c,2009,10,Miền Nam,Provincial,Cultivation,Mía,,Area_Planted,119117.0,ha,Actual,PL4
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,1270.0,ha,Actual,PL4
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,4252.0,ha,Actual,PL4
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,281940.0,ha,Actual,PL4
-9f131cab1d8b24b1,2009,10,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,6025313319.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,79029.0,ha,Actual,PL4
-298bffe3c080f22b,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Đậu,,Area_Planted,1175.0,ha,Actual,PL4
-c182cf0fe561092f,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lạc,,Area_Planted,26275.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,6441.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,439.0,ha,Actual,PL4
-e0c0ec30efa2477e,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Mía,,Area_Planted,43729.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,874.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,96.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,32324.0,ha,Actual,PL4
-960137e48144b399,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,32324.0,ha,Actual,PL4
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,1308.0,ha,Actual,PL4
-2a7c0466be806f03,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lạc,,Area_Planted,722.0,ha,Actual,PL4
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,255.0,ha,Actual,PL4
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,56.0,ha,Actual,PL4
-e3b0b4fa6a02eae1,2009,10,TP Đà Nẵng,Provincial,Cultivation,Mía,,Area_Planted,275.0,ha,Actual,PL4
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,837.0,ha,Actual,PL4
-debedf704ec25ba9,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,200.0,ha,Actual,PL4
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,13464.0,ha,Actual,PL4
-4f21c84881376080,2009,10,Quảng Nam,Provincial,Cultivation,Lạc,,Area_Planted,9860.0,ha,Actual,PL4
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,2520.0,ha,Actual,PL4
-33eb09de855d2a84,2009,10,Quảng Nam,Provincial,Cultivation,Mía,,Area_Planted,780.0,ha,Actual,PL4
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,250.0,ha,Actual,PL4
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,54.0,ha,Actual,PL4
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,6900.0,ha,Actual,PL4
-5acb771b71590ef4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3500.0,ha,Actual,PL4
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,12900.0,ha,Actual,PL4
-5517877626f6e6a8,2009,10,Quảng Ngãi,Provincial,Cultivation,Lạc,,Area_Planted,5620.0,ha,Actual,PL4
-e752ab484d7ec048,2009,10,Quảng Ngãi,Provincial,Cultivation,Mía,,Area_Planted,7280.0,ha,Actual,PL4
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,8651.0,ha,Actual,PL4
-3bd3d207075239ba,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5210.0,ha,Actual,PL4
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,13943.0,ha,Actual,PL4
-d58e7c1f8db62f05,2009,10,Bình Định,Provincial,Cultivation,Đậu,,Area_Planted,859.0,ha,Actual,PL4
-fc69e459b0950d7c,2009,10,Bình Định,Provincial,Cultivation,Lạc,,Area_Planted,8982.0,ha,Actual,PL4
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,1259.0,ha,Actual,PL4
-0ff12c5f53984fcc,2009,10,Bình Định,Provincial,Cultivation,Mía,,Area_Planted,2843.0,ha,Actual,PL4
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,13146.0,ha,Actual,PL4
-1bc3bb76616445e3,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,1929.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,19929.0,ha,Actual,PL4
-f137b4510e803044,2009,10,Phú Yên,Provincial,Cultivation,Đậu,,Area_Planted,316.0,ha,Actual,PL4
-c1eed0025601b77b,2009,10,Phú Yên,Provincial,Cultivation,Lạc,,Area_Planted,891.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,2407.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,383.0,ha,Actual,PL4
-f444f1402cded077,2009,10,Phú Yên,Provincial,Cultivation,Mía,,Area_Planted,15525.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,365.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,42.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,2690.0,ha,Actual,PL4
-878e658843914729,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,1980.0,ha,Actual,PL4
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,17485.0,ha,Actual,PL4
-f5c09a4b8ac5e007,2009,10,Khánh Hoà,Provincial,Cultivation,Lạc,,Area_Planted,200.0,ha,Actual,PL4
-c9341bfb2dd8e791,2009,10,Khánh Hoà,Provincial,Cultivation,Mía,,Area_Planted,17026.0,ha,Actual,PL4
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,259.0,ha,Actual,PL4
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,100.0,ha,Actual,PL4
-919ed4562da68904,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,500.0,ha,Actual,PL4
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,49559.0,ha,Actual,PL4
-0b0078999213ca5c,2009,10,Tây Nguyên,Provincial,Cultivation,Đậu,,Area_Planted,15858.0,ha,Actual,PL4
-88cf6eb4ead93bac,2009,10,Tây Nguyên,Provincial,Cultivation,Lạc,,Area_Planted,10031.0,ha,Actual,PL4
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,4209.0,ha,Actual,PL4
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,9113.0,ha,Actual,PL4
-0dc94324d27e5421,2009,10,Tây Nguyên,Provincial,Cultivation,Mía,,Area_Planted,9805.0,ha,Actual,PL4
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,48975.0,ha,Actual,PL4
-88b6c3d45a804c93,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,19623.0,ha,Actual,PL4
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,2880.0,ha,Actual,PL4
-663d6329487a99c9,2009,10,Kon Tum,Provincial,Cultivation,Lạc,,Area_Planted,165.0,ha,Actual,PL4
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,2158.0,ha,Actual,PL4
-92c3eb9109bc10d4,2009,10,Kon Tum,Provincial,Cultivation,Mía,,Area_Planted,557.0,ha,Actual,PL4
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,630.0,ha,Actual,PL4
-0e04719f0a5d93f2,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL4
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,8987.0,ha,Actual,PL4
-7d44f3be72d91b26,2009,10,Gia Lai,Provincial,Cultivation,Lạc,,Area_Planted,1378.0,ha,Actual,PL4
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,3226.0,ha,Actual,PL4
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,3457.0,ha,Actual,PL4
-fad8b6e33c8c7349,2009,10,Gia Lai,Provincial,Cultivation,Mía,,Area_Planted,926.0,ha,Actual,PL4
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,10933.0,ha,Actual,PL4
-345c18a73463f3f2,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,8138.0,ha,Actual,PL4
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,22537.0,ha,Actual,PL4
-8fb9431ed3124274,2009,10,Đắc Lắc,Provincial,Cultivation,Đậu,,Area_Planted,5960.0,ha,Actual,PL4
-058ef14e68fc29f2,2009,10,Đắc Lắc,Provincial,Cultivation,Lạc,,Area_Planted,5096.0,ha,Actual,PL4
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,983.0,ha,Actual,PL4
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,3498.0,ha,Actual,PL4
-7652531044a67a32,2009,10,Đắc Lắc,Provincial,Cultivation,Mía,,Area_Planted,7000.0,ha,Actual,PL4
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,3689.0,ha,Actual,PL4
-320644add0c1f381,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,10929.0,ha,Actual,PL4
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,13497.0,ha,Actual,PL4
-53c82a1e736a2f41,2009,10,Đắc Nông,Provincial,Cultivation,Đậu,,Area_Planted,9698.0,ha,Actual,PL4
-0bcf74d9115896c0,2009,10,Đắc Nông,Provincial,Cultivation,Lạc,,Area_Planted,3178.0,ha,Actual,PL4
-46d359de518ef790,2009,10,Đắc Nông,Provincial,Cultivation,Mía,,Area_Planted,78.0,ha,Actual,PL4
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,543.0,ha,Actual,PL4
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,1550.0,ha,Actual,PL4
-32690ad171f7eb93,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,201.0,ha,Actual,PL4
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,1658.0,ha,Actual,PL4
-693656b45f27a081,2009,10,Lâm Đồng,Provincial,Cultivation,Đậu,,Area_Planted,200.0,ha,Actual,PL4
-ada945ef4d8ff61c,2009,10,Lâm Đồng,Provincial,Cultivation,Lạc,,Area_Planted,214.0,ha,Actual,PL4
-b35df035c2c930b0,2009,10,Lâm Đồng,Provincial,Cultivation,Mía,,Area_Planted,1244.0,ha,Actual,PL4
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,32173.0,ha,Actual,PL4
-6a4560552167967f,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,298.0,ha,Actual,PL4
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,44984.0,ha,Actual,PL4
-e661f995d0cdc5b6,2009,10,Đông Nam Bộ,Provincial,Cultivation,Đậu,,Area_Planted,1120.0,ha,Actual,PL4
-4f2f703ef0452ac1,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lạc,,Area_Planted,24863.0,ha,Actual,PL4
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,2540.0,ha,Actual,PL4
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,4404.0,ha,Actual,PL4
-3bcdfd7e32fe89fe,2009,10,Đông Nam Bộ,Provincial,Cultivation,Mía,,Area_Planted,11661.0,ha,Actual,PL4
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,396.0,ha,Actual,PL4
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,51753.0,ha,Actual,PL4
-5da66e8ae87030d9,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,22310.0,ha,Actual,PL4
-7715e6abb8dcc78d,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,3110.0,ha,Actual,PL4
-528a43a72a20a994,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lạc,,Area_Planted,910.0,ha,Actual,PL4
-c37835df33cbb758,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Mía,,Area_Planted,2200.0,ha,Actual,PL4
-7715e6abb8dcc78d,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,11270.0,ha,Actual,PL4
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,1367.0,ha,Actual,PL4
-864882098026352e,2009,10,Ninh Thuận,Provincial,Cultivation,Lạc,,Area_Planted,200.0,ha,Actual,PL4
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,35.0,ha,Actual,PL4
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,480.0,ha,Actual,PL4
-251beca68af22640,2009,10,Ninh Thuận,Provincial,Cultivation,Mía,,Area_Planted,620.0,ha,Actual,PL4
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,32.0,ha,Actual,PL4
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,6900.0,ha,Actual,PL4
-c67b8749a5f22bd3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,2500.0,ha,Actual,PL4
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,1737.0,ha,Actual,PL4
-69ce50aa23d27f65,2009,10,Bình Phước,Provincial,Cultivation,Đậu,,Area_Planted,287.0,ha,Actual,PL4
-0d2db2811bcfb020,2009,10,Bình Phước,Provincial,Cultivation,Lạc,,Area_Planted,1276.0,ha,Actual,PL4
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,11.0,ha,Actual,PL4
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,163.0,ha,Actual,PL4
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,701.0,ha,Actual,PL4
-a57ea739681bacd8,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,2987.0,ha,Actual,PL4
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,30758.0,ha,Actual,PL4
-73553a93d61abc4d,2009,10,Tây Ninh,Provincial,Cultivation,Lạc,,Area_Planted,18092.0,ha,Actual,PL4
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,1143.0,ha,Actual,PL4
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3276.0,ha,Actual,PL4
-d3aab739727e8b4a,2009,10,Tây Ninh,Provincial,Cultivation,Mía,,Area_Planted,8247.0,ha,Actual,PL4
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,17870.0,ha,Actual,PL4
-6ba0a32b25cfebd1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,6351.0,ha,Actual,PL4
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,106.0,ha,Actual,PL4
-589dc99e496f7839,2009,10,Bình Dương,Provincial,Cultivation,Lạc,,Area_Planted,106.0,ha,Actual,PL4
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,2024.0,ha,Actual,PL4
-479365acd6cb3d29,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,170.0,ha,Actual,PL4
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,2351.0,ha,Actual,PL4
-b134eae82009421a,2009,10,Đồng Nai,Provincial,Cultivation,Đậu,,Area_Planted,582.0,ha,Actual,PL4
-766b6b4054935ce5,2009,10,Đồng Nai,Provincial,Cultivation,Lạc,,Area_Planted,579.0,ha,Actual,PL4
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,151.0,ha,Actual,PL4
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,510.0,ha,Actual,PL4
-7a09f3fdf0748520,2009,10,Đồng Nai,Provincial,Cultivation,Mía,,Area_Planted,340.0,ha,Actual,PL4
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,189.0,ha,Actual,PL4
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,4101.0,ha,Actual,PL4
-b5c1d2fd5188d1aa,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,3124.0,ha,Actual,PL4
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4206.0,ha,Actual,PL4
-1bdfcc852e607743,2009,10,Bình Thuận,Provincial,Cultivation,Đậu,,Area_Planted,242.0,ha,Actual,PL4
-477c539d01103196,2009,10,Bình Thuận,Provincial,Cultivation,Lạc,,Area_Planted,2699.0,ha,Actual,PL4
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,1109.0,ha,Actual,PL4
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,35.0,ha,Actual,PL4
-6424b1ed29a2b05d,2009,10,Bình Thuận,Provincial,Cultivation,Mía,,Area_Planted,109.0,ha,Actual,PL4
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,12.0,ha,Actual,PL4
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4869.0,ha,Actual,PL4
-4ed02d1c8049b7bd,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4210.0,ha,Actual,PL4
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,1349.0,ha,Actual,PL4
-8302afab14837b49,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Đậu,,Area_Planted,9.0,ha,Actual,PL4
-72b53384492a1faa,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lạc,,Area_Planted,1001.0,ha,Actual,PL4
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,91.0,ha,Actual,PL4
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,103.0,ha,Actual,PL4
-0bb1a45500cb26a4,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Mía,,Area_Planted,145.0,ha,Actual,PL4
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,4018.0,ha,Actual,PL4
-fd88228c696312d0,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,2968.0,ha,Actual,PL4
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,92608.0,ha,Actual,PL4
-bd9dca3d11939a13,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Đậu,,Area_Planted,8932.0,ha,Actual,PL4
-0969aae2cb86ea1a,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lạc,,Area_Planted,15316.0,ha,Actual,PL4
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,9082.0,ha,Actual,PL4
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,186.0,ha,Actual,PL4
-7726361b996b50c2,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Mía,,Area_Planted,53922.0,ha,Actual,PL4
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,4156.0,ha,Actual,PL4
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,148888.0,ha,Actual,PL4
-d10283803fe8a753,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,5001.0,ha,Actual,PL4
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,24797.0,ha,Actual,PL4
-09fbe0c9b490265d,2009,10,Long An,Provincial,Cultivation,Lạc,,Area_Planted,6966.0,ha,Actual,PL4
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,1752.0,ha,Actual,PL4
-e1a5fddecee7b44b,2009,10,Long An,Provincial,Cultivation,Mía,,Area_Planted,14381.0,ha,Actual,PL4
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,1698.0,ha,Actual,PL4
-32301cef4daec7be,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,6510.0,ha,Actual,PL4
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,8632.0,ha,Actual,PL4
-316407a1411ac18f,2009,10,Đồng Tháp,Provincial,Cultivation,Đậu,,Area_Planted,5355.0,ha,Actual,PL4
-de55cbb11de9a117,2009,10,Đồng Tháp,Provincial,Cultivation,Lạc,,Area_Planted,190.0,ha,Actual,PL4
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,2748.0,ha,Actual,PL4
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,9.0,ha,Actual,PL4
-a4c1146a8b77a1a1,2009,10,Đồng Tháp,Provincial,Cultivation,Mía,,Area_Planted,249.0,ha,Actual,PL4
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,81.0,ha,Actual,PL4
-208350d8f59d82da,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,9239.0,ha,Actual,PL4
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,1205.0,ha,Actual,PL4
-eb68ab95b3eedecc,2009,10,An Giang,Provincial,Cultivation,Đậu,,Area_Planted,546.0,ha,Actual,PL4
-3cfd2c261e70da5d,2009,10,An Giang,Provincial,Cultivation,Lạc,,Area_Planted,215.0,ha,Actual,PL4
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,420.0,ha,Actual,PL4
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,6.0,ha,Actual,PL4
-861df1067cc63a6d,2009,10,An Giang,Provincial,Cultivation,Mía,,Area_Planted,18.0,ha,Actual,PL4
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,8433.0,ha,Actual,PL4
-0e160d90e06e0961,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,1090.0,ha,Actual,PL4
-f7506e627c3d802b,2009,10,Tiền Giang,Provincial,Cultivation,Mía,,Area_Planted,119.0,ha,Actual,PL4
-ec1de6dadee48eb0,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,25200.0,ha,Actual,PL4
-ec1de6dadee48eb0,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,132.0,ha,Actual,PL4
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,2742.0,ha,Actual,PL4
-92cd07681db36a0e,2009,10,Vĩnh Long,Provincial,Cultivation,Đậu,,Area_Planted,1532.0,ha,Actual,PL4
-0c8cfb6e81537850,2009,10,Vĩnh Long,Provincial,Cultivation,Lạc,,Area_Planted,28.0,ha,Actual,PL4
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,329.0,ha,Actual,PL4
-46cb403b5894f9bf,2009,10,Vĩnh Long,Provincial,Cultivation,Mía,,Area_Planted,199.0,ha,Actual,PL4
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,654.0,ha,Actual,PL4
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,20259.0,ha,Actual,PL4
-406a0f69961eca5b,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,370.0,ha,Actual,PL4
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,7628.0,ha,Actual,PL4
-5e1f33e611884f21,2009,10,Bến Tre,Provincial,Cultivation,Lạc,,Area_Planted,221.0,ha,Actual,PL4
-e7bb99f9a027c3f1,2009,10,Bến Tre,Provincial,Cultivation,Mía,,Area_Planted,6969.0,ha,Actual,PL4
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,438.0,ha,Actual,PL4
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,3690.0,ha,Actual,PL4
-c373e16f0d2387de,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,128.0,ha,Actual,PL4
-43814a7c22f5e8aa,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL4
-f7b6cd23543b9b75,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,8182.0,ha,Actual,PL4
-d1fc96a1066ed1eb,2009,10,Cần Thơ,Provincial,Cultivation,Đậu,,Area_Planted,751.0,ha,Actual,PL4
-8074b2ecd1411a46,2009,10,Cần Thơ,Provincial,Cultivation,Lạc,,Area_Planted,3587.0,ha,Actual,PL4
-f7b6cd23543b9b75,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,3833.0,ha,Actual,PL4
-f7b6cd23543b9b75,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,11.0,ha,Actual,PL4
-f7b6cd23543b9b75,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,6342.0,ha,Actual,PL4
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,13453.0,ha,Actual,PL4
-fa0758d8fd1d412a,2009,10,Hậu Giang,Provincial,Cultivation,Mía,,Area_Planted,13453.0,ha,Actual,PL4
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,10556.0,ha,Actual,PL4
-361d35bd5b2a98e2,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,1247.0,ha,Actual,PL4
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,11972.0,ha,Actual,PL4
-5376554b6b8fca1b,2009,10,Trà Vinh,Provincial,Cultivation,Lạc,,Area_Planted,3914.0,ha,Actual,PL4
-34d6f51778d86b69,2009,10,Trà Vinh,Provincial,Cultivation,Mía,,Area_Planted,5640.0,ha,Actual,PL4
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1133.0,ha,Actual,PL4
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1285.0,ha,Actual,PL4
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,24159.0,ha,Actual,PL4
-c63af830b37e43db,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,841.0,ha,Actual,PL4
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,13997.0,ha,Actual,PL4
-d4d1af85369b6758,2009,10,Sóc Trăng,Provincial,Cultivation,Đậu,,Area_Planted,748.0,ha,Actual,PL4
-a8cb30d205f5699a,2009,10,Sóc Trăng,Provincial,Cultivation,Lạc,,Area_Planted,195.0,ha,Actual,PL4
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,160.0,ha,Actual,PL4
-8d4b17a8a2a175a2,2009,10,Sóc Trăng,Provincial,Cultivation,Mía,,Area_Planted,12894.0,ha,Actual,PL4
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,25300.0,ha,Actual,PL4
-1797de79efcb4289,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,1193.0,ha,Actual,PL4
-2e1f8854503b37a3,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,9200.0,ha,Actual,PL4
-2e508c78ac8ba083,2009,10,1,Provincial,Cultivation,Lúa,,Area_Planted,2273.0,ha,Actual,PL5
-2e508c78ac8ba083,2009,10,1,Provincial,Cultivation,Lúa,,Area_Planted,1571.0,ha,Actual,PL5
-2e508c78ac8ba083,2009,10,1,Provincial,Cultivation,Lúa,,Area_Planted,17222009.0,ha,Actual,PL5
-804b91588ec98c35,2009,10,1,Provincial,Cultivation,Lúa,,Harvest_Percentage,1096.0,percent,Actual,PL5
-2e508c78ac8ba083,2009,10,1,Provincial,Cultivation,Lúa,,Area_Planted,758.0,ha,Actual,PL5
-6363672d8b191679,2009,10,1.1,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL5
-6363672d8b191679,2009,10,1.1,Provincial,Cultivation,Lúa,,Area_Planted,254.0,ha,Actual,PL5
-6363672d8b191679,2009,10,1.1,Provincial,Cultivation,Lúa,,Area_Planted,404.0,ha,Actual,PL5
-b49b62d7197f63c1,2009,10,1.1,Provincial,Cultivation,Lúa,,Harvest_Percentage,1592.0,percent,Actual,PL5
-6363672d8b191679,2009,10,1.1,Provincial,Cultivation,Lúa,,Area_Planted,674.0,ha,Actual,PL5
-77ffecae8730b087,2009,10,1.2,Provincial,Cultivation,Lúa,,Area_Planted,1673.0,ha,Actual,PL5
-77ffecae8730b087,2009,10,1.2,Provincial,Cultivation,Lúa,,Area_Planted,1318.0,ha,Actual,PL5
-77ffecae8730b087,2009,10,1.2,Provincial,Cultivation,Lúa,,Area_Planted,1318.0,ha,Actual,PL5
-b9995e4e4158fdd0,2009,10,1.2,Provincial,Cultivation,Lúa,,Harvest_Percentage,1000.0,percent,Actual,PL5
-77ffecae8730b087,2009,10,1.2,Provincial,Cultivation,Lúa,,Area_Planted,788.0,ha,Actual,PL5
-6e41347a41ecc04e,2009,10,2,Provincial,Cultivation,Lúa,,Area_Planted,1497.0,ha,Actual,PL5
-6e41347a41ecc04e,2009,10,2,Provincial,Cultivation,Lúa,,Area_Planted,2438.0,ha,Actual,PL5
-6e41347a41ecc04e,2009,10,2,Provincial,Cultivation,Lúa,,Area_Planted,2190.0,ha,Actual,PL5
-0b8571de42699768,2009,10,2,Provincial,Cultivation,Lúa,,Harvest_Percentage,898.0,percent,Actual,PL5
-6e41347a41ecc04e,2009,10,2,Provincial,Cultivation,Lúa,,Area_Planted,1463.0,ha,Actual,PL5
-40046069ab685ae5,2009,10,3,Provincial,Cultivation,Lúa,,Area_Planted,200.0,ha,Actual,PL5
-40046069ab685ae5,2009,10,3,Provincial,Cultivation,Lúa,,Area_Planted,1720.0,ha,Actual,PL5
-40046069ab685ae5,2009,10,3,Provincial,Cultivation,Lúa,,Area_Planted,1700.0,ha,Actual,PL5
-ebf2590cd475a023,2009,10,3,Provincial,Cultivation,Lúa,,Harvest_Percentage,988.0,percent,Actual,PL5
-40046069ab685ae5,2009,10,3,Provincial,Cultivation,Lúa,,Area_Planted,850.0,ha,Actual,PL5
-96226886b30f8df8,2009,10,4,Provincial,Cultivation,Lúa,,Area_Planted,506.0,ha,Actual,PL5
-96226886b30f8df8,2009,10,4,Provincial,Cultivation,Lúa,,Area_Planted,6494.0,ha,Actual,PL5
-96226886b30f8df8,2009,10,4,Provincial,Cultivation,Lúa,,Area_Planted,7544.0,ha,Actual,PL5
-22f6d8617b3fe463,2009,10,4,Provincial,Cultivation,Lúa,,Harvest_Percentage,1162.0,percent,Actual,PL5
-96226886b30f8df8,2009,10,4,Provincial,Cultivation,Lúa,,Area_Planted,1491.0,ha,Actual,PL5
-6516ec71b03c18d7,2009,10,5,Provincial,Cultivation,Lúa,,Area_Planted,1524.0,ha,Actual,PL5
-6516ec71b03c18d7,2009,10,5,Provincial,Cultivation,Lúa,,Area_Planted,21270.0,ha,Actual,PL5
-6516ec71b03c18d7,2009,10,5,Provincial,Cultivation,Lúa,,Area_Planted,25164.0,ha,Actual,PL5
-8b4f1b79399272e6,2009,10,5,Provincial,Cultivation,Lúa,,Harvest_Percentage,1183.0,percent,Actual,PL5
-6516ec71b03c18d7,2009,10,5,Provincial,Cultivation,Lúa,,Area_Planted,1651.0,ha,Actual,PL5
-f16e91d39d998015,2009,10,6,Provincial,Cultivation,Lúa,,Area_Planted,4380.0,ha,Actual,PL5
-f16e91d39d998015,2009,10,6,Provincial,Cultivation,Lúa,,Area_Planted,27609.0,ha,Actual,PL5
-f16e91d39d998015,2009,10,6,Provincial,Cultivation,Lúa,,Area_Planted,29550.0,ha,Actual,PL5
-db4e6be47a15fa39,2009,10,6,Provincial,Cultivation,Lúa,,Harvest_Percentage,1070.0,percent,Actual,PL5
-f16e91d39d998015,2009,10,6,Provincial,Cultivation,Lúa,,Area_Planted,675.0,ha,Actual,PL5
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,218962.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,40430.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,148542.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,28393.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,3643.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,1564.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,500.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,342.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,973.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,146.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,30.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,15.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,1090.0,1000_ha,Estimated,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,230.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,26.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,520.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,268.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,200.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,625.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,100.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,143.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,96067.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,16718.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,20582.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,2900.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,2230.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,445.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,1640.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,631.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,9975.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,713.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,8540.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,2388.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,3354.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,2000.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,6009.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,2640.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,2116.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,10170.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,2812.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,244.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,2838.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,616.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,35971.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,3124.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,19644.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,5390.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,1108.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,1111.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,100067528.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,3290.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,8336.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,2931.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,9200.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,1019.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,29188.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,4721.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,5062.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,2280.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,17600.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,868.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,50.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,50.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,712.0,1000_ha,Estimated,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,3098.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,1223.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,2666.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,300.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,55971.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,8721.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,32622.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,741.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,169.0,1000_ha,Estimated,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,1632.0,1000_ha,Estimated,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,9801.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,400.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,10405.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,40.0,1000_ha,Plan,PL6
-d446cc50180f328c,2009,10,Cả nước,National,Forestry,Rừng,,Area,9435.0,1000_ha,Estimated,PL6
-fb262b09f11874c2,2009,10,Cả nước,National,Forestry,Rừng,,Area,100.0,1000_ha,Plan,PL6
-8c399f87f1cb4f06,2009,1,Cả nước,National,Trade,"1. Nông sản chính,trong đó:",Xuất khẩu,Export_Value,513.0,million_USD,Actual,PL8
-31bbb876183cacb0,2009,1,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Volume,48.0,1000_ton,Actual,PL8
-c6f04eff3e7c58a4,2009,1,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Value,71.0,million_USD,Actual,PL8
-d74872253f2d7f4a,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Volume,69.0,1000_ton,Actual,PL8
-ec1298c3eda6a539,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Value,117.0,million_USD,Actual,PL8
-34f15c3b7c8fc811,2009,1,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Volume,341.0,1000_ton,Actual,PL8
-1f153bf4bc6f9ff0,2009,1,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Value,126.0,million_USD,Actual,PL8
-9c890a4daf94a1a8,2009,1,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Volume,14.0,1000_ton,Actual,PL8
-b57b4808b36af64e,2009,1,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Value,19.0,million_USD,Actual,PL8
-82677053c86b5766,2009,1,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Volume,15.0,1000_ton,Actual,PL8
-970583d53fc308c7,2009,1,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Value,76.0,million_USD,Actual,PL8
-ba17953f5f8e073a,2009,1,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,11.0,1000_ton,Actual,PL8
-7b75a9a185d6deff,2009,1,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Value,33.0,million_USD,Actual,PL8
-25cbafbddd1977d8,2009,1,Cả nước,National,Trade,Hàng rau quả,Xuất khẩu,Export_Value,39.0,million_USD,Actual,PL8
-e33025251e09c651,2009,1,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Volume,147.0,1000_ton,Actual,PL8
-8476d4f45017b301,2009,1,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Value,33.0,million_USD,Actual,PL8
-4587782a8253156e,2009,1,Cả nước,National,Trade,2. Thuỷ sản,Xuất khẩu,Export_Value,426.0,million_USD,Actual,PL8
-e1f7380327ae4c44,2009,1,Cả nước,National,Trade,"3. Lâm sản chính,trong đó:Quế12.1",Xuất khẩu,Export_Value,231.0,million_USD,Actual,PL8
-885a93734ad69f43,2009,1,Cả nước,National,Trade,Quế,Xuất khẩu,Export_Value,2.0,million_USD,Actual,PL8
-396cd7b0ef23a567,2009,1,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Xuất khẩu,Export_Value,21414.0,million_USD,Actual,PL8
-b2bb359a7211e4e6,2009,1,Cả nước,National,Trade,Các mặt hàng nông lâm sản khác,Xuất khẩu,Export_Value,60.0,million_USD,Actual,PL8
-92ca3573c78831fb,2009,1,Cả nước,National,Trade,Các mặt hàng nhập khẩu chính,Xuất khẩu,Export_Value,571.0,million_USD,Actual,PL8
-ee56fc14430c8bba,2009,1,Cả nước,National,Trade,Phân bón các loại,Xuất khẩu,Export_Volume,514.0,1000_ton,Actual,PL8
-22449e1dff376adc,2009,1,Cả nước,National,Trade,Phân bón các loại,Xuất khẩu,Export_Value,135.0,million_USD,Actual,PL8
-0d99e027a77b70c7,2009,1,Cả nước,National,Trade,- U RE,Xuất khẩu,Export_Volume,187.0,1000_ton,Actual,PL8
-77980f25cd152d40,2009,1,Cả nước,National,Trade,- U RE,Xuất khẩu,Export_Value,51.0,million_USD,Actual,PL8
-909b9c03043465fe,2009,1,Cả nước,National,Trade,- S A,Xuất khẩu,Export_Volume,160.0,1000_ton,Actual,PL8
-093d49f0524b1a54,2009,1,Cả nước,National,Trade,- S A,Xuất khẩu,Export_Value,19.0,million_USD,Actual,PL8
-b41effd55cb9d6ae,2009,1,Cả nước,National,Trade,- D A P,Xuất khẩu,Export_Volume,90.0,1000_ton,Actual,PL8
-0d84192f4ea01a3e,2009,1,Cả nước,National,Trade,- D A P,Xuất khẩu,Export_Value,33.0,million_USD,Actual,PL8
-067ad68770e94047,2009,1,Cả nước,National,Trade,- N P K,Xuất khẩu,Export_Volume,16.0,1000_ton,Actual,PL8
-5cd4bb5f0df2e45f,2009,1,Cả nước,National,Trade,- N P K,Xuất khẩu,Export_Value,7.0,million_USD,Actual,PL8
-751bc08d3ec400df,2009,1,Cả nước,National,Trade,- Các loại phân bón khác,Xuất khẩu,Export_Volume,60.0,1000_ton,Actual,PL8
-2f70f8e2c63427a9,2009,1,Cả nước,National,Trade,- Các loại phân bón khác,Xuất khẩu,Export_Value,25.0,million_USD,Actual,PL8
-c737ec0b728083d0,2009,1,Cả nước,National,Trade,Thuốc trừ sâu & nguyên liệu,Xuất khẩu,Export_Value,28.0,million_USD,Actual,PL8
-87320e4e9c4c2a93,2009,1,Cả nước,National,Trade,Lúa mỳ,Xuất khẩu,Export_Volume,140.0,1000_ton,Actual,PL8
-9c61b094d73bab47,2009,1,Cả nước,National,Trade,Lúa mỳ,Xuất khẩu,Export_Value,36.0,million_USD,Actual,PL8
-a3a6434897603ef9,2009,1,Cả nước,National,Trade,Thức ăn gia súc và nguyên liệu,Xuất khẩu,Export_Value,117.0,million_USD,Actual,PL8
-df9166757e6bbe20,2009,1,Cả nước,National,Trade,"Dầu mỡ động, thực vật",Xuất khẩu,Export_Value,38.0,million_USD,Actual,PL8
-d74872253f2d7f4a,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Volume,32.0,1000_ton,Actual,PL8
-ec1298c3eda6a539,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Value,34.0,million_USD,Actual,PL8
-40f65ae579c2d615,2009,1,Cả nước,National,Trade,Bông các loại,Xuất khẩu,Export_Volume,33.0,1000_ton,Actual,PL8
-98b0a6be898b7078,2009,1,Cả nước,National,Trade,Bông các loại,Xuất khẩu,Export_Value,44.0,million_USD,Actual,PL8
-e81cd94e8978527a,2009,1,Cả nước,National,Trade,Sữa &sản phẩm sữa,Xuất khẩu,Export_Value,52.0,million_USD,Actual,PL8
-396cd7b0ef23a567,2009,1,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Xuất khẩu,Export_Value,86.0,million_USD,Actual,PL8
-dadeefd14a65245d,2009,1,Cả nước,National,Trade,Muối,Xuất khẩu,Export_Value,13.0,million_USD,Actual,PL8
-26fcc162f121e1ef,2009,10,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,2611500.0,million_VND,Plan,PL9
-115483dbc0bebb70,2009,10,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,2611211.0,million_VND,Cumulative,PL9
-d1fde1df63aa69b7,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,1483500.0,million_VND,Plan,PL9
-bead78acbfbb6e0d,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,1863086.0,million_VND,Cumulative,PL9
-3f6594ef84af7917,2009,10,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,493000.0,million_VND,Plan,PL9
-83399012eb7a8646,2009,10,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,379220.0,million_VND,Cumulative,PL9
-abf9c78f307cb174,2009,10,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,230000.0,million_VND,Plan,PL9
-24366fb116d443e8,2009,10,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,123607.0,million_VND,Cumulative,PL9
-1da5c0177c824691,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,24000.0,million_VND,Plan,PL9
-f4b733eacab3521a,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,25500.0,million_VND,Cumulative,PL9
-d15cbf7a52f2eab8,2009,10,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,230000.0,million_VND,Plan,PL9
-08adc107f2a6d619,2009,10,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,114300.0,million_VND,Cumulative,PL9
-ab09b401fb470755,2009,10,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,90000.0,million_VND,Plan,PL9
-156201e878d8ccea,2009,10,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,59998.0,million_VND,Cumulative,PL9
-1f20be6f4273e56a,2009,10,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,61000.0,million_VND,Plan,PL9
-78b8b9054f9c1d2e,2009,10,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,45500.0,million_VND,Cumulative,PL9
-2e4310b46926addf,2009,10,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,40263.0,million_VND,Plan,PL9
-6fcca85a54f30cae,2009,10,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,21750.0,million_VND,Cumulative,PL9
-8a49e7b598699972,2009,10,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,208000.0,million_VND,Plan,PL9
-1270ff235f0e80a5,2009,10,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,134720.0,million_VND,Cumulative,PL9
-57762b427b3cf21e,2009,10,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Plan,PL9
-ee9591032024ac86,2009,10,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Cumulative,PL9
-58ebbeecd5b0611c,2009,10,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,30000.0,million_VND,Plan,PL9
-aa8eb4a50efca64a,2009,10,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,47280.0,million_VND,Cumulative,PL9
-51f0f2746295c54e,2009,10,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,1308000.0,million_VND,Plan,PL9
-287eacf39eb596a7,2009,10,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,782660.0,million_VND,Cumulative,PL9
-6cce9b521c6b22a7,2009,10,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,3954763.0,million_VND,Plan,PL9
-18169ccf044e03d8,2009,10,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,3662621.0,million_VND,Cumulative,PL9
-b46acf5098404f19,2009,10,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,3250000.0,million_VND,Plan,PL9
-d090fef472974335,2009,10,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,2075625.0,million_VND,Cumulative,PL9
-bf42ef747d067dde,2009,10,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,200000.0,million_VND,Plan,PL9
-22641876d600b344,2009,10,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,125890.0,million_VND,Cumulative,PL9
-cf700a692fe6ba81,2009,10,Cả nước,National,Investment,Các dự án thuỷ lợi ĐBSôngHồng,,Investment_Amount,400000.0,million_VND,Plan,PL9
-ce964f18186f5f3c,2009,10,Cả nước,National,Investment,Các dự án thuỷ lợi ĐBSôngHồng,,Investment_Amount,144176.0,million_VND,Cumulative,PL9
-68e55de21d8ada1e,2009,10,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,3850000.0,million_VND,Plan,PL9
-b0803d1129b53171,2009,10,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,2345691.0,million_VND,Cumulative,PL9
+e61a25f3-1fd1-4a19-8c7b-7581ab168b18,2008,10,Miền Bắc,Regional,Cultivation,Lúa,Mùa,Area_Harvested,704.7,1000_ha,Actual,PL1
+412a242a-c320-47e8-8e08-746b87a5ffae,2009,10,Miền Bắc,Regional,Cultivation,Lúa,Mùa,Area_Harvested,885.1,1000_ha,Actual,PL1
+49be970f-bb51-4657-b8e0-5824e0e1e3bf,2008,10,Miền Nam,Regional,Cultivation,Lúa,Mùa,Area_Planted,774.5,1000_ha,Actual,PL1
+9ac9ee7b-070f-453d-8929-e1a5346fd252,2009,10,Miền Nam,Regional,Cultivation,Lúa,Mùa,Area_Planted,759.5,1000_ha,Actual,PL1
+6c279432-4087-407c-ac88-551611f209c0,2008,10,Miền Nam,Regional,Cultivation,Lúa,Đông Xuân,Area_Planted,234.9,1000_ha,Actual,PL1
+d4c649b4-3de9-4928-a196-73d3d7368a52,2009,10,Miền Nam,Regional,Cultivation,Lúa,Đông Xuân,Area_Planted,221.6,1000_ha,Actual,PL1
+852cbc87-7f57-43d1-a5ea-86ab2878a1ec,2008,10,Cả nước,National,Cultivation,Khoai lang,,Area_Planted,35.7,1000_ha,Actual,PL1
+79436e0f-1265-42c7-b2c0-16b57f7701eb,2009,10,Cả nước,National,Cultivation,Khoai lang,,Area_Planted,30.8,1000_ha,Actual,PL1
+a0195cb1-9ecb-40ca-9778-ac1605ca2cb4,2008,10,Cả nước,National,Cultivation,Đậu tương,,Area_Planted,68.8,1000_ha,Actual,PL1
+f5c398d0-e9da-466d-aa3a-68ffb1b421d4,2009,10,Cả nước,National,Cultivation,Đậu tương,,Area_Planted,72.8,1000_ha,Actual,PL1
+81115fd4-a1bb-4336-a74a-4f249638d00f,2008,10,Cả nước,National,Cultivation,Lạc,,Area_Planted,8.1,1000_ha,Actual,PL1
+0c55aeea-a485-4103-bb5b-3e5a762e0458,2009,10,Cả nước,National,Cultivation,Lạc,,Area_Planted,7.0,1000_ha,Actual,PL1
+38ee16ed-4ade-4c8b-9292-c9cf7a514d1a,2008,10,Cả nước,National,Cultivation,Rau đậu,,Area_Planted,68.7,1000_ha,Actual,PL1
+46ff780e-13ea-4e4b-9d96-8272eb331c90,2009,10,Cả nước,National,Cultivation,Rau đậu,,Area_Planted,69.5,1000_ha,Actual,PL1
+7043ea5f-04a3-44b6-b765-4b1ae996b16a,2009,10,Miền Bắc,Regional,Cultivation,Lúa,,Area_Planted,1185883.0,ha,Actual,PL2
+6c4b6ecd-033a-4a4d-895b-b1e17a0765d2,2009,10,Miền Bắc,Regional,Cultivation,Lúa,,Area_Harvested,885128.0,ha,Actual,PL2
+2cabc6e3-d81d-4cab-bad7-67887f55923b,2009,10,Miền Bắc,Regional,Cultivation,Lúa,,Area_Planted,331728.0,ha,Actual,PL2
+ff48b7e2-3489-4e6f-99cd-855198c2cc20,2009,10,Miền Bắc,Regional,Cultivation,Ngô,,Area_Planted,137277.0,ha,Actual,PL2
+f75c4d28-5877-4757-a6b5-16e2d81e3fac,2009,10,Miền Bắc,Regional,Cultivation,Khoai lang,,Area_Planted,30780.0,ha,Actual,PL2
+234727d3-e1a8-4cdc-906e-279dc6072351,2009,10,Miền Bắc,Regional,Cultivation,Đậu,,Area_Planted,72846.0,ha,Actual,PL2
+b7999139-aba9-4f55-8374-213d7f96ecf7,2009,10,Miền Bắc,Regional,Cultivation,Lạc,,Area_Planted,7004.0,ha,Actual,PL2
+3350dc7b-42e2-4e59-bfe6-f202959f7c35,2009,10,Miền Bắc,Regional,Cultivation,Rau,,Area_Planted,69526.0,ha,Actual,PL2
+1af75889-8ab7-45b0-bb02-b6afb9d186ab,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lúa,,Area_Planted,551892.0,ha,Actual,PL2
+dd792ef0-e30e-4cb1-a6b3-4fd91b37fe62,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lúa,,Area_Harvested,441083.0,ha,Actual,PL2
+4ffde7d2-cfdb-406e-8401-e7bf89cb12c0,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lúa,,Area_Planted,177256.0,ha,Actual,PL2
+60599976-9d1d-4061-9a6d-c31e1d54d5fc,2009,10,ĐB sông Hồng,Provincial,Cultivation,Ngô,,Area_Planted,50126.0,ha,Actual,PL2
+91cab6c5-9eff-42d9-a2d9-aa1c6c929aa7,2009,10,ĐB sông Hồng,Provincial,Cultivation,Khoai lang,,Area_Planted,7693.0,ha,Actual,PL2
+db23af72-aaa5-4ed6-afc9-0b79e870cb9c,2009,10,ĐB sông Hồng,Provincial,Cultivation,Đậu,,Area_Planted,67683.0,ha,Actual,PL2
+1a90fb87-efa9-441c-b0e1-63f0896e98b7,2009,10,ĐB sông Hồng,Provincial,Cultivation,Lạc,,Area_Planted,1272.0,ha,Actual,PL2
+44a11e80-c6e0-42e9-9fac-e41feedb3b43,2009,10,ĐB sông Hồng,Provincial,Cultivation,Rau,,Area_Planted,36828.0,ha,Actual,PL2
+dfdad31d-d2ce-4f10-9df0-239ba0c7e88a,2009,10,Hà Nội,Provincial,Cultivation,Lúa,,Area_Planted,102889.0,ha,Actual,PL2
+bf00b0a2-73f3-4c05-ba00-f49267369c09,2009,10,Hà Nội,Provincial,Cultivation,Lúa,,Area_Harvested,98487.0,ha,Actual,PL2
+13f43d1b-353d-49a1-a27d-c41fad47499e,2009,10,Hà Nội,Provincial,Cultivation,Lúa,,Area_Planted,55186.0,ha,Actual,PL2
+2e0fc9a5-e1e0-4a25-9c94-477a03e22815,2009,10,Hà Nội,Provincial,Cultivation,Ngô,,Area_Planted,12284.0,ha,Actual,PL2
+7dbe0dd8-532f-4f22-9dcf-2a2cc1918dbc,2009,10,Hà Nội,Provincial,Cultivation,Khoai lang,,Area_Planted,2570.0,ha,Actual,PL2
+ae58759f-828d-46d9-852a-8d0a2d590452,2009,10,Hà Nội,Provincial,Cultivation,Đậu,,Area_Planted,30668.0,ha,Actual,PL2
+fad91a7c-5749-4593-accb-ec5b33480827,2009,10,Hà Nội,Provincial,Cultivation,Lạc,,Area_Planted,539.0,ha,Actual,PL2
+4cef8cd4-20e8-4403-ba97-34ad31d93c6f,2009,10,Hà Nội,Provincial,Cultivation,Rau,,Area_Planted,7826.0,ha,Actual,PL2
+d76a4400-2e5f-4fd0-a909-eef7666fa201,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Planted,42254.0,ha,Actual,PL2
+b9ec4351-6c4f-49ff-93dc-c344a10ade21,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Harvested,34840.0,ha,Actual,PL2
+88f5936e-dcaf-4284-a012-d31e8c3d6ad9,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
+040bfc8b-1973-4d5c-99e0-650391e95f29,2009,10,Hải Phòng,Provincial,Cultivation,Lúa,,Area_Planted,5247.0,ha,Actual,PL2
+ba354e76-7851-4135-95f8-76e0ab47929b,2009,10,Hải Phòng,Provincial,Cultivation,Ngô,,Area_Planted,1925.0,ha,Actual,PL2
+3750e0c2-8fc7-47bd-9111-9dc212d4a903,2009,10,Hải Phòng,Provincial,Cultivation,Rau,,Area_Planted,601.0,ha,Actual,PL2
+513b5934-e4a0-4858-811e-561adb526983,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Planted,28986.0,ha,Actual,PL2
+e023076c-d1c4-48f2-963e-9b9c9d6578b1,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Harvested,22740.0,ha,Actual,PL2
+6da26ae8-0817-4c74-9791-3934f59358ee,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Planted,51.0,ha,Actual,PL2
+d73c40c1-c082-4622-8c2f-e3d0175c15b6,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lúa,,Area_Planted,21372.0,ha,Actual,PL2
+ce5d2329-5695-4240-97d9-6304f0cfc35d,2009,10,Vĩnh Phúc,Provincial,Cultivation,Ngô,,Area_Planted,12838.0,ha,Actual,PL2
+19923d8f-f3d2-47fb-852c-9683b2a7380a,2009,10,Vĩnh Phúc,Provincial,Cultivation,Khoai lang,,Area_Planted,2141.0,ha,Actual,PL2
+176ea9e6-d07c-42e5-911a-463e67d01a65,2009,10,Vĩnh Phúc,Provincial,Cultivation,Đậu,,Area_Planted,3900.0,ha,Actual,PL2
+d3c2419e-1cf2-4972-b759-aa7cdeba70b7,2009,10,Vĩnh Phúc,Provincial,Cultivation,Lạc,,Area_Planted,366.0,ha,Actual,PL2
+371f9a40-745b-47c0-b8c9-bc0c3cd11f6a,2009,10,Vĩnh Phúc,Provincial,Cultivation,Rau,,Area_Planted,2127.0,ha,Actual,PL2
+47771fd1-281c-489a-91bc-3263b42b5bc9,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Planted,37338.0,ha,Actual,PL2
+d083987f-e2d8-4ef1-972f-dce1f309a44d,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Harvested,33000.0,ha,Actual,PL2
+b37627f7-796c-4b02-b061-680df11d73fe,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
+be1722f5-10e0-411b-aaa4-4fd7ad09c7c3,2009,10,Bắc Ninh,Provincial,Cultivation,Lúa,,Area_Planted,5010.0,ha,Actual,PL2
+8f01dcb8-190a-4f30-8f29-7278af96790b,2009,10,Bắc Ninh,Provincial,Cultivation,Ngô,,Area_Planted,1288.0,ha,Actual,PL2
+c096f0fd-a1cf-49cf-93fe-d7fbcc46c458,2009,10,Bắc Ninh,Provincial,Cultivation,Khoai lang,,Area_Planted,156.0,ha,Actual,PL2
+faf2b663-0db7-48e9-847e-0a67592048e4,2009,10,Bắc Ninh,Provincial,Cultivation,Đậu,,Area_Planted,1906.0,ha,Actual,PL2
+460be846-fbe5-4791-84f4-26d02c72f0b7,2009,10,Bắc Ninh,Provincial,Cultivation,Lạc,,Area_Planted,14.0,ha,Actual,PL2
+0ec2fe45-081d-4fab-8513-8843dc9dd349,2009,10,Bắc Ninh,Provincial,Cultivation,Rau,,Area_Planted,1647.0,ha,Actual,PL2
+a0f16290-17d0-4eda-a088-e13c506903cf,2009,10,Hải Dương,Provincial,Cultivation,Lúa,,Area_Planted,62774.0,ha,Actual,PL2
+0c503d30-3143-4beb-a3c0-a143cebdbf68,2009,10,Hải Dương,Provincial,Cultivation,Lúa,,Area_Harvested,56516.0,ha,Actual,PL2
+05ad0b50-21ab-4a4d-af79-a6d31743321f,2009,10,Hải Dương,Provincial,Cultivation,Lúa,,Area_Planted,16091.0,ha,Actual,PL2
+97291891-856b-48a2-8cc4-c192a5b41312,2009,10,Hải Dương,Provincial,Cultivation,Ngô,,Area_Planted,2885.0,ha,Actual,PL2
+d4a7f055-762b-4e23-85da-f5506d91379b,2009,10,Hải Dương,Provincial,Cultivation,Đậu,,Area_Planted,197.0,ha,Actual,PL2
+e0a38548-8c8d-46c1-a403-52414de5db71,2009,10,Hải Dương,Provincial,Cultivation,Rau,,Area_Planted,9271.0,ha,Actual,PL2
+ae3d17d4-0eb0-42a4-997b-334ce8a05e45,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Planted,40671.0,ha,Actual,PL2
+dafaf8d7-c559-4a21-bb2b-7af15cd2fdca,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Harvested,39870.0,ha,Actual,PL2
+4d6185d9-f27e-45f7-a8f4-950e54560f1e,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Planted,61.0,ha,Actual,PL2
+6fa6cdfc-d0b3-48db-9acb-867899d35b53,2009,10,Hưng Yên,Provincial,Cultivation,Lúa,,Area_Planted,12657.0,ha,Actual,PL2
+11635e33-f3a4-40c8-89df-1a4940d3b4e4,2009,10,Hưng Yên,Provincial,Cultivation,Ngô,,Area_Planted,4396.0,ha,Actual,PL2
+8a63407d-17a7-4f7e-8e17-8038933abe2b,2009,10,Hưng Yên,Provincial,Cultivation,Khoai lang,,Area_Planted,443.0,ha,Actual,PL2
+f8a46fb9-95d7-43f0-8cdf-73b49a02867e,2009,10,Hưng Yên,Provincial,Cultivation,Đậu,,Area_Planted,2641.0,ha,Actual,PL2
+05f1fb2b-ca10-45d2-979c-5c5a66446d45,2009,10,Hưng Yên,Provincial,Cultivation,Lạc,,Area_Planted,81.0,ha,Actual,PL2
+e6acf04d-0632-467e-b157-ef1c336334f3,2009,10,Hưng Yên,Provincial,Cultivation,Rau,,Area_Planted,4087.0,ha,Actual,PL2
+175b07e9-20a3-4a2d-987b-f8aff39975f6,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Planted,35403.0,ha,Actual,PL2
+36368b36-b267-4b87-bd15-ca111ddceb3d,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Harvested,35403.0,ha,Actual,PL2
+904ce246-4e35-4848-88d9-16897c9e22e3,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
+7c0d81ad-4075-4504-ab4c-a4e515ddc065,2009,10,Hà Nam,Provincial,Cultivation,Lúa,,Area_Planted,17450.0,ha,Actual,PL2
+2ae80299-d286-4389-bcc0-8df05fdbbaa8,2009,10,Hà Nam,Provincial,Cultivation,Ngô,,Area_Planted,3396.0,ha,Actual,PL2
+d7ff1177-7f0b-4987-8d51-d30c7dad4db7,2009,10,Hà Nam,Provincial,Cultivation,Đậu,,Area_Planted,11010.0,ha,Actual,PL2
+dba98470-64e3-42e4-8622-a029042b90d3,2009,10,Hà Nam,Provincial,Cultivation,Rau,,Area_Planted,2039.0,ha,Actual,PL2
+e041a16e-eefa-4182-9eca-c35e68b8ee96,2009,10,Nam Định,Provincial,Cultivation,Lúa,,Area_Planted,78602.0,ha,Actual,PL2
+24f10176-78b1-44d5-a5b2-482159e5fc3c,2009,10,Nam Định,Provincial,Cultivation,Lúa,,Area_Harvested,51700.0,ha,Actual,PL2
+dd062e7b-1b91-4ec1-bddc-9979a4a42a64,2009,10,Nam Định,Provincial,Cultivation,Lúa,,Area_Planted,7146.0,ha,Actual,PL2
+756bec7c-a9a4-41ce-9b75-c24014cac01e,2009,10,Nam Định,Provincial,Cultivation,Ngô,,Area_Planted,1681.0,ha,Actual,PL2
+9098c03a-8034-4807-8f6c-0c399064a28a,2009,10,Nam Định,Provincial,Cultivation,Đậu,,Area_Planted,593.0,ha,Actual,PL2
+06787ac7-7d99-478e-9621-69a6221776ed,2009,10,Nam Định,Provincial,Cultivation,Rau,,Area_Planted,1185.0,ha,Actual,PL2
+5e9f38e5-f975-42d8-a0df-530d06bf9e80,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Planted,83164.0,ha,Actual,PL2
+9f9230c6-541e-48af-937f-2b6d6a8f2bf4,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Harvested,33500.0,ha,Actual,PL2
+a86a1ee6-96c3-447a-9bf1-cf075d20e3dd,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Planted,70.0,ha,Actual,PL2
+a052110f-9be2-4954-8376-158676dbda6b,2009,10,Thái Bình,Provincial,Cultivation,Lúa,,Area_Planted,20770.0,ha,Actual,PL2
+eb7bcb24-ddb1-4610-acba-b3e139ea1f24,2009,10,Thái Bình,Provincial,Cultivation,Ngô,,Area_Planted,6180.0,ha,Actual,PL2
+15465bae-bba2-4819-bcf5-f6221e1f4a19,2009,10,Thái Bình,Provincial,Cultivation,Khoai lang,,Area_Planted,940.0,ha,Actual,PL2
+d7e093ad-21c5-41c3-b0ad-47250e488832,2009,10,Thái Bình,Provincial,Cultivation,Đậu,,Area_Planted,7830.0,ha,Actual,PL2
+d2b70605-922a-4cc6-b87b-2dfb12929c15,2009,10,Thái Bình,Provincial,Cultivation,Rau,,Area_Planted,5650.0,ha,Actual,PL2
+30d1017a-f1aa-415e-84a7-1ac6222e8d62,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Planted,39811.0,ha,Actual,PL2
+78d54aa4-6f7b-4b98-ae98-7d611e18656a,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Harvested,35027.0,ha,Actual,PL2
+27c72400-cf53-40f6-8938-eda73d8d1ca5,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Planted,56.0,ha,Actual,PL2
+c820f1b8-7315-4246-9dfc-bc8b215fc880,2009,10,Ninh Bình,Provincial,Cultivation,Lúa,,Area_Planted,16327.0,ha,Actual,PL2
+700ec140-994f-48c2-bfbe-8107658fde03,2009,10,Ninh Bình,Provincial,Cultivation,Ngô,,Area_Planted,3253.0,ha,Actual,PL2
+e01a0639-b0e3-446c-8a0c-31a4203c0092,2009,10,Ninh Bình,Provincial,Cultivation,Khoai lang,,Area_Planted,1443.0,ha,Actual,PL2
+d9d8b3fd-4a33-4038-85cc-4ff40ad81af1,2009,10,Ninh Bình,Provincial,Cultivation,Đậu,,Area_Planted,8939.0,ha,Actual,PL2
+9735b2a7-70fa-4e9d-b285-45312dd10fe5,2009,10,Ninh Bình,Provincial,Cultivation,Lạc,,Area_Planted,272.0,ha,Actual,PL2
+fad11425-b0e9-4477-aca2-5947d5dcecba,2009,10,Ninh Bình,Provincial,Cultivation,Rau,,Area_Planted,2396.0,ha,Actual,PL2
+b58dfbd1-ea73-4828-b764-40f129da7abc,2009,10,Đông Bắc,Provincial,Cultivation,Lúa,,Area_Planted,328842.0,ha,Actual,PL2
+e526c952-f6e0-445d-90e7-9598492d99b4,2009,10,Đông Bắc,Provincial,Cultivation,Lúa,,Area_Harvested,235483.0,ha,Actual,PL2
+d117707f-35d0-49fa-b728-68adb6276ec7,2009,10,Đông Bắc,Provincial,Cultivation,Lúa,,Area_Planted,60757.0,ha,Actual,PL2
+edbfb583-8e23-466a-9f8b-5eece080c05d,2009,10,Đông Bắc,Provincial,Cultivation,Ngô,,Area_Planted,36211.0,ha,Actual,PL2
+841bb297-3ea3-48c0-af56-420e8a27b0a6,2009,10,Đông Bắc,Provincial,Cultivation,Khoai lang,,Area_Planted,10155.0,ha,Actual,PL2
+41d4bc3c-0d7e-46a0-a1d3-57e0f05abb36,2009,10,Đông Bắc,Provincial,Cultivation,Đậu,,Area_Planted,1005.0,ha,Actual,PL2
+8a6111d0-41d9-4fe7-a413-cb4e64bc5a29,2009,10,Đông Bắc,Provincial,Cultivation,Lạc,,Area_Planted,1566.0,ha,Actual,PL2
+27c6dba8-8161-446a-8d2c-330115a3ab53,2009,10,Đông Bắc,Provincial,Cultivation,Rau,,Area_Planted,11697.0,ha,Actual,PL2
+59addadf-f8be-4103-a81e-94d6811e7c29,2009,10,Hà Giang,Provincial,Cultivation,Lúa,,Area_Planted,25600.0,ha,Actual,PL2
+5df310e8-3118-4c15-a749-1114bbb8bfeb,2009,10,Hà Giang,Provincial,Cultivation,Lúa,,Area_Harvested,21006.0,ha,Actual,PL2
+877b4ee4-cea0-4f51-86b8-adc20c6986c6,2009,10,Cao Bằng,Provincial,Cultivation,Lúa,,Area_Planted,25516.0,ha,Actual,PL2
+e4851c29-6f3f-41dd-965a-582a5f6f01f1,2009,10,Cao Bằng,Provincial,Cultivation,Lúa,,Area_Harvested,13283.0,ha,Actual,PL2
+e9b875c3-a567-41f8-8237-880e34878114,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Planted,19570.0,ha,Actual,PL2
+326c33ea-1af8-49aa-8e74-30d945a15e78,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Harvested,10240.0,ha,Actual,PL2
+d3a4cfbb-5dcb-4312-853f-a46f2430004e,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Planted,42.0,ha,Actual,PL2
+10650602-6cca-4c7e-b54f-77e06476fc29,2009,10,Lào Cai,Provincial,Cultivation,Lúa,,Area_Planted,290.0,ha,Actual,PL2
+645346f5-3db1-4704-bd72-615ab8d6028c,2009,10,Lào Cai,Provincial,Cultivation,Rau,,Area_Planted,290.0,ha,Actual,PL2
+a67925a5-b19c-40e0-bc7e-8e21fca3a45f,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Planted,14002.0,ha,Actual,PL2
+10386519-4c84-45f9-851c-35e9d5cd3419,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Harvested,14002.0,ha,Actual,PL2
+725e63bd-acd1-4ba6-8533-bfdc01eadde0,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Planted,42.0,ha,Actual,PL2
+adae670d-dfb1-4d76-b62e-00cf5a28b6b2,2009,10,Bắc Cạn,Provincial,Cultivation,Lúa,,Area_Planted,602.0,ha,Actual,PL2
+e29810df-c449-4613-8b52-a8715372dec5,2009,10,Bắc Cạn,Provincial,Cultivation,Ngô,,Area_Planted,378.0,ha,Actual,PL2
+6e898af5-7452-4194-8d9c-7eb732d8a7f8,2009,10,Bắc Cạn,Provincial,Cultivation,Rau,,Area_Planted,224.0,ha,Actual,PL2
+593eff16-481b-4be0-b4f1-c5b736e4b09f,2009,10,Lạng Sơn,Provincial,Cultivation,Lúa,,Area_Planted,31200.0,ha,Actual,PL2
+c31549f8-566d-44de-a9b1-df889f9982da,2009,10,Lạng Sơn,Provincial,Cultivation,Lúa,,Area_Harvested,4870.0,ha,Actual,PL2
+6bc661a0-7ad9-40e9-929a-ba62b52f71e7,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Planted,25816.0,ha,Actual,PL2
+9267506e-ae46-41dc-b5ae-1d9f4bcd82b4,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Harvested,25816.0,ha,Actual,PL2
+fe1a6272-98e9-4a7e-9e52-2d6773131237,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL2
+d99cc5aa-c8b9-4f39-a917-018aeb04af4e,2009,10,Tuyên Quang,Provincial,Cultivation,Lúa,,Area_Planted,7058.0,ha,Actual,PL2
+e59c0336-7161-4443-93fe-3b5fc75ecbbe,2009,10,Tuyên Quang,Provincial,Cultivation,Ngô,,Area_Planted,5123.0,ha,Actual,PL2
+e2ccd8cf-c10c-41c5-90c9-c9963727d27a,2009,10,Tuyên Quang,Provincial,Cultivation,Khoai lang,,Area_Planted,1123.0,ha,Actual,PL2
+e4994a0e-f86c-4b21-bbfa-db2b4531bb1d,2009,10,Tuyên Quang,Provincial,Cultivation,Đậu,,Area_Planted,613.0,ha,Actual,PL2
+1d1ff507-219e-4472-a823-d4b1f1a428e1,2009,10,Tuyên Quang,Provincial,Cultivation,Lạc,,Area_Planted,51.0,ha,Actual,PL2
+280d3517-689a-4242-bd33-2135532e667f,2009,10,Tuyên Quang,Provincial,Cultivation,Rau,,Area_Planted,148.0,ha,Actual,PL2
+69ecd670-88af-4353-8782-0fdc7a409c5b,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Planted,23896.0,ha,Actual,PL2
+e4d6f200-17a8-42b0-94df-0264cfff0a76,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Harvested,23896.0,ha,Actual,PL2
+3f9fcd30-bd92-458d-a4d2-3f6b5a91582c,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Planted,40.0,ha,Actual,PL2
+fb572420-9166-4bc2-8943-02bfd6f08040,2009,10,Yên Bái,Provincial,Cultivation,Lúa,,Area_Planted,7886.0,ha,Actual,PL2
+73ba2108-b246-4547-815e-e1ad0f674b13,2009,10,Yên Bái,Provincial,Cultivation,Ngô,,Area_Planted,6382.0,ha,Actual,PL2
+3ca7c18e-c3f3-4ad2-8b6a-c8772036b99e,2009,10,Yên Bái,Provincial,Cultivation,Khoai lang,,Area_Planted,677.0,ha,Actual,PL2
+63b0bc7c-c1e3-44cf-97ec-d9c79785f658,2009,10,Yên Bái,Provincial,Cultivation,Đậu,,Area_Planted,6.0,ha,Actual,PL2
+48647464-0346-4080-b169-f31b08a2f607,2009,10,Yên Bái,Provincial,Cultivation,Rau,,Area_Planted,784.0,ha,Actual,PL2
+d7736ace-a5d7-44dd-9a92-44251ca7e22c,2009,10,Thái Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,41500.0,ha,Actual,PL2
+ac2f775f-77d3-41eb-a8f5-6eb3603e0417,2009,10,Thái Nguyên,Provincial,Cultivation,Lúa,,Area_Harvested,28820.0,ha,Actual,PL2
+eaad5e11-60a1-4381-8ce1-8b3178c9b723,2009,10,Thái Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,8204.0,ha,Actual,PL2
+7a45da2c-61ee-4976-9f02-d960d0c1b606,2009,10,Thái Nguyên,Provincial,Cultivation,Ngô,,Area_Planted,5658.0,ha,Actual,PL2
+d564889d-a4c5-4e97-a832-a582b1055629,2009,10,Thái Nguyên,Provincial,Cultivation,Khoai lang,,Area_Planted,1500.0,ha,Actual,PL2
+f3ac7419-ccd3-4777-90c1-a6719b935d63,2009,10,Thái Nguyên,Provincial,Cultivation,Đậu,,Area_Planted,26.0,ha,Actual,PL2
+a0cab0b2-95ec-4412-a7ae-3a648b3c1952,2009,10,Thái Nguyên,Provincial,Cultivation,Rau,,Area_Planted,1020.0,ha,Actual,PL2
+5e126c57-6592-4ff8-8528-3ddde1a841ec,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Planted,34000.0,ha,Actual,PL2
+16cd4181-b314-4ef3-b0ec-f77d249b5d88,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Harvested,32123.0,ha,Actual,PL2
+21ff48f3-c55e-4a14-950b-c99576727d83,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Planted,48.0,ha,Actual,PL2
+9ada29a9-67cd-4661-8c23-031daecbf1b6,2009,10,Phú Thọ,Provincial,Cultivation,Lúa,,Area_Planted,15069.0,ha,Actual,PL2
+2ac08138-4957-43ef-a440-77dd0122cbf0,2009,10,Phú Thọ,Provincial,Cultivation,Ngô,,Area_Planted,10912.0,ha,Actual,PL2
+bf03e2cb-f26b-4b87-ac29-2b5b06106c7b,2009,10,Phú Thọ,Provincial,Cultivation,Khoai lang,,Area_Planted,1340.0,ha,Actual,PL2
+96e177c3-7b63-49e5-bafc-7d35f9f4642e,2009,10,Phú Thọ,Provincial,Cultivation,Đậu,,Area_Planted,255.0,ha,Actual,PL2
+55353122-58de-4a33-a9fd-19aaa1d4a1ad,2009,10,Phú Thọ,Provincial,Cultivation,Rau,,Area_Planted,2563.0,ha,Actual,PL2
+43af8c8f-2205-4f20-a7ec-11791a726cec,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Planted,59442.0,ha,Actual,PL2
+28b42b20-1b09-4db2-9f24-c6b60b87a2d1,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Harvested,44702.0,ha,Actual,PL2
+3780b01f-91ca-4a78-b332-b1b1beffc5e8,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Planted,49.0,ha,Actual,PL2
+733b906d-a484-4ba5-94e6-b14429fd55e0,2009,10,Bắc Giang,Provincial,Cultivation,Lúa,,Area_Planted,17732.0,ha,Actual,PL2
+dafe8daf-50e6-42f7-b231-049dc82482eb,2009,10,Bắc Giang,Provincial,Cultivation,Ngô,,Area_Planted,6930.0,ha,Actual,PL2
+1ef8b8df-6bb1-4589-96d7-4573ac64801a,2009,10,Bắc Giang,Provincial,Cultivation,Khoai lang,,Area_Planted,4169.0,ha,Actual,PL2
+11b97b81-458f-45f6-a347-d59ccac6ba42,2009,10,Bắc Giang,Provincial,Cultivation,Đậu,,Area_Planted,106.0,ha,Actual,PL2
+015cb4b8-f1b8-41bc-8aa4-513e3159b5b6,2009,10,Bắc Giang,Provincial,Cultivation,Lạc,,Area_Planted,1515.0,ha,Actual,PL2
+a55a4845-dbce-4b63-9096-e3b06e8c4522,2009,10,Bắc Giang,Provincial,Cultivation,Rau,,Area_Planted,4926.0,ha,Actual,PL2
+6749c11d-d390-4a78-8715-e532674043e3,2009,10,Quảng Ninh,Provincial,Cultivation,Lúa,,Area_Planted,28300.0,ha,Actual,PL2
+316f348c-4d1d-42e6-a2a2-c60e769d1585,2009,10,Quảng Ninh,Provincial,Cultivation,Lúa,,Area_Harvested,16725.0,ha,Actual,PL2
+29d6b4fb-3507-4b85-9ceb-de8395e4ff13,2009,10,Quảng Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3917.0,ha,Actual,PL2
+932c1e09-9015-4154-9e42-147d994330c9,2009,10,Quảng Ninh,Provincial,Cultivation,Ngô,,Area_Planted,829.0,ha,Actual,PL2
+bc5854a2-7d86-429e-9469-4ddc8ed2bc07,2009,10,Quảng Ninh,Provincial,Cultivation,Khoai lang,,Area_Planted,1346.0,ha,Actual,PL2
+934a4311-6a95-4676-a727-b21ff0db2cf6,2009,10,Quảng Ninh,Provincial,Cultivation,Rau,,Area_Planted,1742.0,ha,Actual,PL2
+3dda94d0-19ca-4454-94fe-22243c9aeb19,2009,10,Tây Bắc,Provincial,Cultivation,Lúa,,Area_Planted,122557.0,ha,Actual,PL2
+893a3d35-a739-455e-ba77-0381d935ba36,2009,10,Tây Bắc,Provincial,Cultivation,Lúa,,Area_Harvested,52726.0,ha,Actual,PL2
+4735c699-ebc3-4f40-81b3-7d23a7edbec8,2009,10,Tây Bắc,Provincial,Cultivation,Lúa,,Area_Planted,5025.0,ha,Actual,PL2
+4fd6c6fb-69e5-419d-a539-05badf7f532d,2009,10,Tây Bắc,Provincial,Cultivation,Ngô,,Area_Planted,2153.0,ha,Actual,PL2
+7542320a-e99f-4048-a359-45cc7f89a65a,2009,10,Tây Bắc,Provincial,Cultivation,Khoai lang,,Area_Planted,838.0,ha,Actual,PL2
+aec2b8fd-27b4-4b8f-a3a6-5d2a13db3002,2009,10,Tây Bắc,Provincial,Cultivation,Đậu,,Area_Planted,522.0,ha,Actual,PL2
+1382b966-0958-4a3c-b563-7279514adce2,2009,10,Tây Bắc,Provincial,Cultivation,Lạc,,Area_Planted,0.0,ha,Actual,PL2
+65226b20-6423-42d3-8203-5673cb9553f7,2009,10,Tây Bắc,Provincial,Cultivation,Rau,,Area_Planted,1512.0,ha,Actual,PL2
+fcd1076f-26a7-4a25-893e-f3692d2f014c,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Planted,24682.0,ha,Actual,PL2
+36be4e4d-495f-4b44-a55d-350287e6df46,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Harvested,15000.0,ha,Actual,PL2
+e0fa8a83-bed6-4d4d-a77f-60868cbfe095,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Planted,33.0,ha,Actual,PL2
+56e425e6-5057-487a-8468-15ea1ed0beb7,2009,10,Lai Châu,Provincial,Cultivation,Lúa,,Area_Planted,239.0,ha,Actual,PL2
+4c6368d9-cc88-4bf2-a5c6-c9c7501f6ee8,2009,10,Lai Châu,Provincial,Cultivation,Ngô,,Area_Planted,210.0,ha,Actual,PL2
+6e8e85b1-e87e-4df7-9668-efce28ec2931,2009,10,Lai Châu,Provincial,Cultivation,Đậu,,Area_Planted,29.0,ha,Actual,PL2
+77e05aac-0bd5-4eab-86e9-5aa0ac7130a7,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Planted,37025.0,ha,Actual,PL2
+36f33da1-6409-4747-9727-9add0b3d2405,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Harvested,12686.0,ha,Actual,PL2
+f7505386-880f-40be-a161-88acbdd0c23f,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Planted,32.0,ha,Actual,PL2
+950871ae-3683-4d1a-be6d-88803c522366,2009,10,Điện Biên,Provincial,Cultivation,Lúa,,Area_Planted,43.0,ha,Actual,PL2
+60bbadf0-30d8-4c8e-9acc-8295b096fcb1,2009,10,Điện Biên,Provincial,Cultivation,Ngô,,Area_Planted,23.0,ha,Actual,PL2
+dffd0494-7716-434b-888c-d6e9aa463266,2009,10,Điện Biên,Provincial,Cultivation,Khoai lang,,Area_Planted,20.0,ha,Actual,PL2
+7075527d-0b33-4bf0-b45f-f6ae8ac9db82,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Planted,36436.0,ha,Actual,PL2
+d8a9d492-6f67-4928-824c-92dec854e166,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Harvested,5678.0,ha,Actual,PL2
+e456aacb-bb6b-4f3d-8475-095d2d0a7c2b,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Planted,27.0,ha,Actual,PL2
+2b228176-be21-430f-b552-710ba4e3cb52,2009,10,Sơn La,Provincial,Cultivation,Lúa,,Area_Planted,893.0,ha,Actual,PL2
+4fe2f0a7-2741-4819-98cb-e7182384f255,2009,10,Sơn La,Provincial,Cultivation,Ngô,,Area_Planted,400.0,ha,Actual,PL2
+564250e9-8c67-41b6-b5ba-e014d228be84,2009,10,Sơn La,Provincial,Cultivation,Rau,,Area_Planted,493.0,ha,Actual,PL2
+4ce2df11-0ecd-44b5-8cc9-63b09e6112c6,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Planted,24414.0,ha,Actual,PL2
+6f27d45f-1d73-4c94-8df1-07571281c97b,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Harvested,19362.0,ha,Actual,PL2
+31a9e232-c101-4a6f-8dbf-e553cc1f03c5,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Planted,50.0,ha,Actual,PL2
+7470bb09-3b94-4ef7-b9d1-d8f0ee3ec37c,2009,10,Hoà Bình,Provincial,Cultivation,Lúa,,Area_Planted,3850.0,ha,Actual,PL2
+db2c7d62-8189-42ab-a414-35b308e8b8fa,2009,10,Hoà Bình,Provincial,Cultivation,Ngô,,Area_Planted,1520.0,ha,Actual,PL2
+f806a40a-ae95-4ea9-a2a7-ed78759fffd6,2009,10,Hoà Bình,Provincial,Cultivation,Khoai lang,,Area_Planted,818.0,ha,Actual,PL2
+ec228c37-f01a-438d-b10b-8092ccadad10,2009,10,Hoà Bình,Provincial,Cultivation,Đậu,,Area_Planted,493.0,ha,Actual,PL2
+221df87d-4e0d-4e2a-a8aa-0edfbff292f7,2009,10,Hoà Bình,Provincial,Cultivation,Rau,,Area_Planted,1019.0,ha,Actual,PL2
+ff1588f4-a80c-4e89-a64c-477af5216474,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,182592.0,ha,Actual,PL2
+3c7c5039-1927-4b02-823d-5f858dd88596,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lúa,,Area_Harvested,155836.0,ha,Actual,PL2
+7e5703b0-43b3-4f10-9fd8-782919b0b4c6,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,88690.0,ha,Actual,PL2
+cf576938-33b7-4323-b5c8-59e59517c857,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Ngô,,Area_Planted,48788.0,ha,Actual,PL2
+d5398cae-b345-4693-ad2c-f2978f2baaab,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Khoai lang,,Area_Planted,12094.0,ha,Actual,PL2
+1b5043ac-b974-4f48-9c9b-2d440468957d,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Đậu,,Area_Planted,3635.0,ha,Actual,PL2
+2990c207-34bc-432e-8853-7e10ebd2b55d,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Lạc,,Area_Planted,4166.0,ha,Actual,PL2
+a4cf3a3c-54da-4d7a-b2ec-712353cabe50,2009,10,Bắc Trung Bộ,Provincial,Cultivation,Rau,,Area_Planted,19489.0,ha,Actual,PL2
+5cf28b8b-636c-4cbc-8dd1-519b1c08e3d2,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Planted,136836.0,ha,Actual,PL2
+d2d2849a-5b5b-4331-a79a-664b605816c0,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Harvested,136836.0,ha,Actual,PL2
+e60b7659-9a1f-49fa-8be6-82ac2e693302,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Planted,53.0,ha,Actual,PL2
+b2e5521c-a2f5-473d-8b5b-71e717a3dcf6,2009,10,Thanh Hoá,Provincial,Cultivation,Lúa,,Area_Planted,42672.0,ha,Actual,PL2
+c74a9e3e-3a9e-4ca1-b6aa-ba50a35d0d5a,2009,10,Thanh Hoá,Provincial,Cultivation,Ngô,,Area_Planted,20788.0,ha,Actual,PL2
+b36d7fa5-c163-4305-865b-64fd6b5b7a39,2009,10,Thanh Hoá,Provincial,Cultivation,Khoai lang,,Area_Planted,4594.0,ha,Actual,PL2
+db9c4e48-863d-4f66-a4ed-284254c2127c,2009,10,Thanh Hoá,Provincial,Cultivation,Đậu,,Area_Planted,3635.0,ha,Actual,PL2
+d133dfb8-5dd5-40d8-a2d6-572f600cbb89,2009,10,Thanh Hoá,Provincial,Cultivation,Lạc,,Area_Planted,1666.0,ha,Actual,PL2
+d12eadcf-9754-4266-b446-1126849ffeec,2009,10,Thanh Hoá,Provincial,Cultivation,Rau,,Area_Planted,11989.0,ha,Actual,PL2
+c0644a12-b1fc-461d-83ca-d083d52f9d71,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Planted,33156.0,ha,Actual,PL2
+3e4c9b2e-e543-4e42-808b-d8d9503733ea,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Harvested,18000.0,ha,Actual,PL2
+584b73f6-cc9a-4f6e-8931-a76520bc89fb,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Planted,38.0,ha,Actual,PL2
+97c4afb8-5e30-4804-9f83-ed88b0db0ef7,2009,10,Nghệ An,Provincial,Cultivation,Lúa,,Area_Planted,45500.0,ha,Actual,PL2
+2df3723d-fb50-4beb-8d3f-3c3b907850d2,2009,10,Nghệ An,Provincial,Cultivation,Ngô,,Area_Planted,28000.0,ha,Actual,PL2
+6ea3a1ee-015b-4f87-9feb-492e020cde35,2009,10,Nghệ An,Provincial,Cultivation,Khoai lang,,Area_Planted,7500.0,ha,Actual,PL2
+d37dc3e6-2765-4bfe-950f-e82a3ab58853,2009,10,Nghệ An,Provincial,Cultivation,Lạc,,Area_Planted,2500.0,ha,Actual,PL2
+dc7aba24-fdd6-4305-a05d-42d9222379a5,2009,10,Nghệ An,Provincial,Cultivation,Rau,,Area_Planted,7500.0,ha,Actual,PL2
+b67ad17a-d7ce-4e88-b150-7d505114c3d5,2009,10,Hà Tĩnh,Provincial,Cultivation,Lúa,,Area_Planted,6500.0,ha,Actual,PL2
+ebea9075-addf-42a6-92b6-31493af0d446,2009,10,Quảng Bình,Provincial,Cultivation,Lúa,,Area_Planted,1000.0,ha,Actual,PL2
+d3234444-dd33-40c4-8556-b1e1e12dd7a8,2009,10,Quảng Bình,Provincial,Cultivation,Lúa,,Area_Harvested,1000.0,ha,Actual,PL2
+d70d0d06-8bd2-4143-bf9b-9945c6077fcb,2009,10,Quảng Bình,Provincial,Cultivation,Lúa,,Area_Planted,518.0,ha,Actual,PL2
+e0855d4c-a19e-4971-86fd-db41411742b8,2009,10,Quảng Trị,Provincial,Cultivation,Lúa,,Area_Planted,4500.0,ha,Actual,PL2
+a63d26ef-17f7-4b43-8ccf-c70b8f11254f,2009,10,Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL2
+c830cf19-0d1e-49ff-97af-ea18c4f17670,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,759524.0,ha,Actual,PL3
+09223f57-0068-4cb8-9648-8bcdea3a302c,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,221623.0,ha,Actual,PL3
+b68de3e2-4f84-4a7b-a425-24b2782bfdb2,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,687237.0,ha,Actual,PL3
+53ff9d48-88e1-40e1-95ea-e2795433e8c8,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,345748.0,ha,Actual,PL3
+a5710c5d-abf0-49bc-ade7-be6833248ba2,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,30087.0,ha,Actual,PL3
+b97b2c9a-df0c-42ad-95c0-4ece56042870,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,305893.0,ha,Actual,PL3
+b7827897-6d46-4c8f-be9a-5cf90950b835,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,14375.0,ha,Actual,PL3
+6269fb6c-c087-4c5a-9a57-5115b44ff855,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,87820.0,ha,Actual,PL3
+46949b0b-b408-4bc3-a287-1999d992c4bb,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,26712.0,ha,Actual,PL3
+717eb3a4-74af-49de-96b0-05a127023626,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,104342.0,ha,Actual,PL3
+27404ed3-1d9e-4d50-9ec0-fc7ce5991371,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,38545.0,ha,Actual,PL3
+4184b286-b5c4-425b-8372-6ce7d3f4d8d8,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,4723.0,ha,Actual,PL3
+57ed3289-74ea-4136-b8c7-4a543ad7668c,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,60433.0,ha,Actual,PL3
+aa313e28-c921-4f98-a325-4280456b9055,2009,10,D.H Nam Trung Bộ,Provincial,Cultivation,Lúa,,Area_Planted,641.0,ha,Actual,PL3
+c7ec71a3-1348-4a38-b09a-4cdb4d71a492,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,2225.0,ha,Actual,PL3
+316b162e-9938-453a-abe5-8724d396bd2c,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,1187.0,ha,Actual,PL3
+3d99f75c-fec9-4843-a68f-ecd22a43f9b2,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,664.0,ha,Actual,PL3
+1e14edb3-81d6-4a3d-bc33-2770eb1224a3,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,437.0,ha,Actual,PL3
+0bc4430e-feb0-4e10-a19b-f8f516916320,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,86.0,ha,Actual,PL3
+37394a4a-1572-4bf9-8c76-28f2aad36c70,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,45128.0,ha,Actual,PL3
+f66a0079-73d1-452c-b89e-3daf7b36efb3,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,28851.0,ha,Actual,PL3
+3b438480-954d-41e9-836e-419d0a246f27,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,12051.0,ha,Actual,PL3
+9d7c623d-a879-4205-bb90-d348ddc4f54f,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3700.0,ha,Actual,PL3
+87bdb673-d91a-4195-9cac-89fadd3e0950,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,13100.0,ha,Actual,PL3
+cb927e90-0094-45ff-aea6-8c322b2fbb7a,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5900.0,ha,Actual,PL3
+998ba1cd-5ce6-4783-a035-354a16fe698c,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,21875.0,ha,Actual,PL3
+693db397-34bf-43dd-847f-fdc5f95632e5,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,7818.0,ha,Actual,PL3
+e26f78a4-f6bc-4d4e-a810-76d873633082,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,200.0,ha,Actual,PL3
+5cd2784d-f383-407e-9825-94d0f3a486fb,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,13857.0,ha,Actual,PL3
+db75433a-0d6b-48a7-bd9c-d894b185a69d,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,25505.0,ha,Actual,PL3
+56761910-fefd-4119-9b3d-c988c5ab033f,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,18265.0,ha,Actual,PL3
+6233010c-a1a0-4084-b5df-94f6ba8a746a,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,7712.0,ha,Actual,PL3
+6634f090-a45b-49c3-9fd0-15b2598752e4,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,10553.0,ha,Actual,PL3
+ec6d1922-0d6e-44a3-b89e-68dab6379a20,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,7262.0,ha,Actual,PL3
+1cb3d125-0761-460c-8359-bafc2972fb28,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,26712.0,ha,Actual,PL3
+d68d3dcc-4d92-4e2e-b601-9673cb368e69,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,22634.0,ha,Actual,PL3
+f70df7e3-a020-4912-8b32-4c0e618ec446,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,6000.0,ha,Actual,PL3
+d343ea9c-8665-4db8-aeae-45f03d91775c,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,226.0,ha,Actual,PL3
+09d0c679-d7b1-4c0a-bd93-dd8d6180b4fb,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,16125.0,ha,Actual,PL3
+e61fe123-7e3b-49b0-b3fd-b03136f4d832,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,283.0,ha,Actual,PL3
+b7d37867-e118-4867-bb59-1334b9078115,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,1800.0,ha,Actual,PL3
+aa05169b-9b4f-46e2-953f-f7981e051fa9,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,11530.0,ha,Actual,PL3
+f8e0c51d-a6aa-4137-93df-c93b69f7bd7c,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,4300.0,ha,Actual,PL3
+dad419f5-0643-46a4-b115-91b64542ba82,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,160.0,ha,Actual,PL3
+bb35ff29-47c6-4e1c-9409-4cfa2cff8db9,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,6712.0,ha,Actual,PL3
+8efbd543-b2fc-4248-abc8-ddc9d9598cf6,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,358.0,ha,Actual,PL3
+d2bade27-d02d-4691-8f86-ba16eb9511ef,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,131280.0,ha,Actual,PL3
+aa8180fa-a691-478a-887d-420235e81571,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
+b8e2921a-4dd2-4b31-b1fe-dd485dccc3e2,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,342862.0,ha,Actual,PL3
+b4f1d46b-4258-423f-bcd2-c0f7ea35055d,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,208881.0,ha,Actual,PL3
+1fd2d6e8-9379-433e-9006-20476471a36a,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,12185.0,ha,Actual,PL3
+4555483f-2a42-41f8-a078-6562b4cf499b,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,121796.0,ha,Actual,PL3
+5348d87b-fb7d-478e-8fd4-6cb398ec4b7f,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
+10360564-ac71-4bfb-868c-2f0c00e59abc,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,16700.0,ha,Actual,PL3
+65a1289e-849a-43f5-b860-2c2e92a9b7e3,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,43637.0,ha,Actual,PL3
+d4557445-7f88-4c1e-8e94-ddeef061f5c4,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,7630.0,ha,Actual,PL3
+b7570f02-89e9-4d4d-9ef8-65d84d8ebbbd,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,935.0,ha,Actual,PL3
+03c2d863-be95-47db-9d9f-34de9cbeee9a,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,35072.0,ha,Actual,PL3
+53eb05f0-bb11-48c9-a0ff-d4763e014e44,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,46843.0,ha,Actual,PL3
+a766545f-1e50-4622-a301-03b35cdeb912,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,101976.0,ha,Actual,PL3
+fb7ede7c-2449-45cd-9f29-4eca08a0d9af,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,49116.0,ha,Actual,PL3
+404dd375-b398-4572-b804-307e6d846925,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,1165.0,ha,Actual,PL3
+c73bfa63-da80-4004-b2c7-be0293d1d9ac,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,51695.0,ha,Actual,PL3
+60c6589d-1a8c-4894-98c8-1e016e1891fb,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,44167.0,ha,Actual,PL3
+c1448866-b934-494a-8aff-dd458d4022fc,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,142344.0,ha,Actual,PL3
+a8c8f8b0-507d-472e-afb9-82c5e23ea3db,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,113937.0,ha,Actual,PL3
+3ccc5501-b45c-4ce8-8b99-b3121844ef72,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,6471.0,ha,Actual,PL3
+8a5afeeb-03ae-4a31-8579-66cd8d63185f,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,21936.0,ha,Actual,PL3
+02a2bad6-5b65-46e5-91d0-2631d332026f,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,7000.0,ha,Actual,PL3
+b39e774b-c462-4011-be93-623f3e16522d,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,34975.0,ha,Actual,PL3
+5428f659-35fe-47e7-9616-49b4a5731026,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,21575.0,ha,Actual,PL3
+83014e22-eda3-4131-8715-05734cf3674b,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,2100.0,ha,Actual,PL3
+2a90446c-9c97-4c5a-ac4d-18136fa29d31,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,11300.0,ha,Actual,PL3
+4515d10d-4f2c-4473-aa96-f445b8e03be9,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,16570.0,ha,Actual,PL3
+80350bfc-346a-4247-b08a-ec3119085eb4,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,19930.0,ha,Actual,PL3
+a84585ee-1050-4937-8421-89f0074c9a4e,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,16623.0,ha,Actual,PL3
+af027a12-fec7-401f-af72-dca64eab4665,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,1514.0,ha,Actual,PL3
+e2eafd2f-8920-4f75-8db0-f9fa96f482ac,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,1793.0,ha,Actual,PL3
+15c46281-ac74-4c7a-a2d3-00d1d9dc6a70,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,132938.0,ha,Actual,PL3
+433ea55e-f2e8-44ff-baa4-8033103bb6a7,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,50539.0,ha,Actual,PL3
+a2b9e1c6-a79a-49e8-8e4c-d67464bcc895,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,198721.0,ha,Actual,PL3
+e9c156fe-b7f5-42d5-b157-8cf374337ba5,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,70449.0,ha,Actual,PL3
+07e2f359-8783-4b94-b241-5c3917723bae,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,2246.0,ha,Actual,PL3
+158431ba-f11e-46cf-839c-01ff3b7ebbaf,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,121158.0,ha,Actual,PL3
+9a1fda43-3e63-4b20-9053-67f07c049429,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,4868.0,ha,Actual,PL3
+bfe8c9ef-ec2c-4909-9530-4de3ef1ec9ba,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,13500.0,ha,Actual,PL3
+affedfa0-7747-4c53-8bc1-8a3a4f062cfd,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,6967.0,ha,Actual,PL3
+c2426188-5a70-4874-a7c7-d3c5609b7d8f,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,1100.0,ha,Actual,PL3
+f9acbeb9-a2e1-4966-a4ed-872525af919b,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,1100.0,ha,Actual,PL3
+8986849c-25dd-4115-bf52-206cc446b93f,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,6800.0,ha,Actual,PL3
+5a2b84dd-2a62-42da-86c1-3b67188ab043,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,10900.0,ha,Actual,PL3
+eeed5cbc-5de8-4afa-a217-092e28edf888,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,7900.0,ha,Actual,PL3
+25ec454a-f66c-46aa-b87e-57663be0ed86,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,3000.0,ha,Actual,PL3
+9d438a8b-38c3-4c3f-bec2-7bd17793bd89,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,867.0,ha,Actual,PL3
+cc663e9b-5c5c-4195-aa9d-8514a49aeb2e,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,98.0,ha,Actual,PL3
+347fbcca-0c1f-4bff-bdee-90b35c00be8a,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,55886.0,ha,Actual,PL3
+874aeef1-0dfd-4a51-9710-3d95348336b1,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,43572.0,ha,Actual,PL3
+9480e6be-fcbe-4307-92e2-a89830589472,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,49731.0,ha,Actual,PL3
+c15652c7-394c-402e-9c06-9f66be942b26,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,7207.0,ha,Actual,PL3
+fa3bbfd3-f533-492a-9763-11b810992138,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,42524.0,ha,Actual,PL3
+26e31125-b3c4-41e0-810e-d4e027fd6e6e,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,4230.0,ha,Actual,PL3
+9691bca7-58d5-4419-95df-ac49031af2c4,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,7351.0,ha,Actual,PL3
+cf7f9900-285a-4583-a8dc-014df991efd9,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,242.0,ha,Actual,PL3
+d7349b56-3430-4510-b2ce-8fa2097592d3,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,385.0,ha,Actual,PL3
+e19de964-f753-4357-a49f-6ded0e428a62,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,2447.0,ha,Actual,PL3
+f97b93ae-e9b1-4507-8461-3721befcadcd,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,4277.0,ha,Actual,PL3
+76c61b4d-ed60-4174-8387-db34f9348f27,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,29780.0,ha,Actual,PL3
+da5ad645-1566-4059-8801-cc9c51731062,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,41258.0,ha,Actual,PL3
+0856a45c-80f1-4812-b321-9ce8a63c5376,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,25337.0,ha,Actual,PL3
+140c29fa-105d-4838-bd79-321166d6f152,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,374.0,ha,Actual,PL3
+8d6e7fba-5097-424d-8111-34e46b7cc949,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,15429.0,ha,Actual,PL3
+13bd8a6d-8cc2-489e-b869-ab85831484da,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,118.0,ha,Actual,PL3
+43c2c09f-247d-4ec5-b898-a4b7c983f58a,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,300.0,ha,Actual,PL3
+d86ac2ae-b930-41f2-a222-a0e6bd541a26,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,31141.0,ha,Actual,PL3
+3185ed2a-0a1a-45cd-9dc0-4122927a0623,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4671.0,ha,Actual,PL3
+bfd71b82-ccee-48c9-a345-3e802fb49af0,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,391.0,ha,Actual,PL3
+47a4a9b9-25d9-45c4-b215-3463fd02965c,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,25704.0,ha,Actual,PL3
+2f3f132c-18e6-40e2-bb14-30788b8df97c,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,375.0,ha,Actual,PL3
+ea569fb4-68ba-4d47-bd67-d24bfd25872c,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,12542.0,ha,Actual,PL3
+6fa87af0-15ea-4094-a3b0-b47561b7d00b,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,25432.0,ha,Actual,PL3
+46a5dfc2-b3f8-423f-90f2-732eff6c494b,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,17320.0,ha,Actual,PL3
+cd6cbbff-7546-4786-a161-8dc1d7e402ca,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,229.0,ha,Actual,PL3
+bae1e909-06d6-4de8-b155-3ee965d734be,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,7883.0,ha,Actual,PL3
+cebe80e4-773d-453c-a9b5-70b35b0d5c81,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,407486.0,ha,Actual,PL3
+f5c80588-2523-48fb-8424-86b3fe4f8b49,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,144372.0,ha,Actual,PL3
+0ecc97a2-bf9b-48a8-85c4-a6b22ca97573,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,41312.0,ha,Actual,PL3
+76d5468d-4d76-436e-9449-608b58c5e718,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,27873.0,ha,Actual,PL3
+a7651d7b-a25a-460a-a72d-9ae2bb3e1b68,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,10933.0,ha,Actual,PL3
+6ed1c465-713a-4d8f-8ba8-12451d9e9bb0,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,2506.0,ha,Actual,PL3
+ea0ff0e1-0e42-4b75-a701-1040d39755fd,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,8866.0,ha,Actual,PL3
+d67591a0-3d20-400c-a355-6d1f843061fe,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,8233.0,ha,Actual,PL3
+61876a71-c249-4c06-be6c-365548b8b6b5,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,41990.0,ha,Actual,PL3
+c3009526-9d50-447e-b650-8edca4f6d408,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,900.0,ha,Actual,PL3
+b7c5c5b4-4431-4eb1-bc88-d74761b92501,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,900.0,ha,Actual,PL3
+3316515d-1b3e-48a5-9096-d17653f669e8,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,6278.0,ha,Actual,PL3
+6b988428-71f6-4993-a6e8-39334d1616b5,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,4234.0,ha,Actual,PL3
+142fa236-b5f6-497a-a385-2da311b112e6,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,1187.0,ha,Actual,PL3
+05d6b882-9c2a-436e-aae8-42fb9efaaf19,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,857.0,ha,Actual,PL3
+8907414a-1ec4-4886-b50d-9d95029670ad,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,2100.0,ha,Actual,PL3
+51565889-ed64-4259-90c8-6508c2b5078b,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,6799.0,ha,Actual,PL3
+2c89e4a0-3d06-42cf-bd27-47636780e42c,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,6179.0,ha,Actual,PL3
+9b781055-685b-4051-8205-05ebf4953174,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,120.0,ha,Actual,PL3
+d0493dc3-f4ed-4914-8cec-9f6a5bba67d7,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,500.0,ha,Actual,PL3
+b751695a-6366-4d9c-bb03-fab38c13f96d,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,6426.0,ha,Actual,PL3
+e3cdea41-2717-4b91-9f4f-d546d6e14440,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,4654.0,ha,Actual,PL3
+c3cc18e6-1bd9-45fd-ac6a-587437e89aa7,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,153.0,ha,Actual,PL3
+0c430a56-edfe-46f5-abd7-e4dcd0b331c3,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,1619.0,ha,Actual,PL3
+847f545c-2fba-41ab-a430-756cc8e69add,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,12375.0,ha,Actual,PL3
+f1b31bf0-4671-469d-a42c-51d5f427498e,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,1266.0,ha,Actual,PL3
+5521eea3-5bef-4cf8-9e09-11dcc0ccaf06,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,5211.0,ha,Actual,PL3
+9999d67f-b557-421b-9257-8d743d2bb015,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,156.0,ha,Actual,PL3
+1e8be4a1-a67c-410f-9de4-84131a3353a2,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,5742.0,ha,Actual,PL3
+7d84f2c8-0bab-4163-a375-6a36fb3af6e8,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,33806.0,ha,Actual,PL3
+67ad0f4c-ffd5-45f6-b014-e7603a388c37,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,1394.0,ha,Actual,PL3
+d3c08620-9468-48a7-a7b9-bf2ac0c72bb7,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,818.0,ha,Actual,PL3
+6fdd1465-2df1-4b5b-b33b-1a5b56a68957,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,149.0,ha,Actual,PL3
+6ac869cf-60a2-4b8b-acc8-45308dedb81c,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,299.0,ha,Actual,PL3
+2d0321ed-da03-4671-a3c4-bc6936dbc49c,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,128.0,ha,Actual,PL3
+49f544c3-8078-417f-b3ad-1aa95565624a,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,56130.0,ha,Actual,PL3
+74e15fad-b978-49d7-809e-614ca4dad0ac,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,15428.0,ha,Actual,PL3
+11fe2203-c1c7-4031-ba04-bbdc983f8d3c,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,700.0,ha,Actual,PL3
+34e8b868-8f92-49b0-a1c0-9b66bc8b1d02,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,700.0,ha,Actual,PL3
+ca185925-6d7c-46ee-8147-b07a2d931d10,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,629.0,ha,Actual,PL3
+f88d8783-0b5a-4f15-9a1f-2b4ea55dedca,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,629.0,ha,Actual,PL3
+22e59383-1584-4d43-8efd-00631867c254,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,45552.0,ha,Actual,PL3
+1076c9fb-bb7a-4f2b-9564-d68bd98c83bf,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,7022.0,ha,Actual,PL3
+93f474b2-5584-48a6-8ce3-a657a63db431,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,2071.0,ha,Actual,PL3
+589e9d65-c19e-4a44-97cf-a42e5adfbf0c,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,1551.0,ha,Actual,PL3
+471722f9-7a8f-4db1-ae08-3789d425f806,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,520.0,ha,Actual,PL3
+b8e643c9-dff8-450c-9fce-1e90f6866e74,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,91634.0,ha,Actual,PL3
+7ce22534-0def-48ec-9f3c-51896c86de11,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,7279.0,ha,Actual,PL3
+2189de3d-ab9e-491b-ae18-f33967438659,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,4871.0,ha,Actual,PL3
+3b124201-ae43-476d-ba58-12ffb1f687a0,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1606.0,ha,Actual,PL3
+e8fbb737-5f36-488f-b642-3577ee639985,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,802.0,ha,Actual,PL3
+e7c4d6fd-a35c-4551-921c-6f632831c5ed,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,25899.0,ha,Actual,PL3
+af680ddc-4281-4b3c-8184-32435589a648,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,74897.0,ha,Actual,PL3
+9a3a5981-d628-416b-9ae4-de2335a328b4,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,4727.0,ha,Actual,PL3
+d0e55bd6-6905-481e-bd02-555dfd0a5208,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,2171.0,ha,Actual,PL3
+a6a0cadf-2304-46d0-8608-26edb780c29a,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,1960.0,ha,Actual,PL3
+e15dd263-e2f8-44c9-aad7-d8ae3cf22abd,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,596.0,ha,Actual,PL3
+072de52d-76b7-4716-8bcc-06e4e80b6b67,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,67933.0,ha,Actual,PL3
+45b9800e-c8dd-4159-b0fb-85cfb90e555d,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,5035.0,ha,Actual,PL3
+32dd3afa-dcbe-4778-a79f-2d07f91ea1db,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL3
+36d2c323-bd4a-48f7-a662-0f9bdceb72ba,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,600.0,ha,Actual,PL3
+e9bac1f2-a8a2-4762-a6fe-5e0ecb210d5c,2009,10,Cà Mau,Provincial,Cultivation,Lúa,,Area_Planted,76199.0,ha,Actual,PL3
+b809d247-3f92-41fd-aee9-25e55af305db,2009,10,Cà Mau,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
+ffa1872d-821e-42cc-bb41-6831da42b370,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,264623.0,ha,Actual,PL4
+d50e8dbf-26fd-4142-8cc7-15e0f71c2d35,2009,10,Miền Nam,Regional,Cultivation,Đậu,,Area_Planted,27085.0,ha,Actual,PL4
+fcd6ebbc-e129-4c92-a231-072e04e48cda,2009,10,Miền Nam,Regional,Cultivation,Lạc,,Area_Planted,76485.0,ha,Actual,PL4
+1267da71-ba03-4a34-a48e-18475106a057,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,22272.0,ha,Actual,PL4
+3251c7cb-dec2-4649-bec6-e3a868991397,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,14142.0,ha,Actual,PL4
+2a3272fd-f976-4614-bc4d-5a3f093579fd,2009,10,Miền Nam,Regional,Cultivation,Mía,,Area_Planted,119117.0,ha,Actual,PL4
+a4f2635f-a8a6-478d-8dc7-2cb2410f49a7,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,1270.0,ha,Actual,PL4
+c68c8ebf-ff6d-4691-9e00-8c05c22e1eba,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,4252.0,ha,Actual,PL4
+24e3eab7-6ae0-45ce-8866-7d98af288db9,2009,10,Miền Nam,Regional,Cultivation,Lúa,,Area_Planted,281940.0,ha,Actual,PL4
+31ae8a7b-e1ef-4cbb-9ce1-c08ea6005f9e,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,79029.0,ha,Actual,PL4
+ffa833d0-f67b-42ac-aa84-079dae5c87ea,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Đậu,,Area_Planted,1175.0,ha,Actual,PL4
+eeb0818a-3e42-4fee-8929-c91834f4aafe,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lạc,,Area_Planted,26275.0,ha,Actual,PL4
+b8c010f9-88c5-412a-ad35-ac5b39749eae,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,6441.0,ha,Actual,PL4
+42181459-0989-4d51-b6c3-39fbb43aa16b,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,439.0,ha,Actual,PL4
+50de3a70-4ea8-40be-9f8a-8e4efa7b9ddf,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Mía,,Area_Planted,43729.0,ha,Actual,PL4
+1a0b9cb6-df08-478d-b2b9-4b2fcb323427,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,874.0,ha,Actual,PL4
+2882a958-3c82-43d6-9fea-71b61b77487d,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,96.0,ha,Actual,PL4
+6b2d8310-1860-41e7-9b7d-2e11ae2e9e08,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,32324.0,ha,Actual,PL4
+85bd66fd-138e-49b8-ae54-181eaced33c1,2009,10,D.H Nam Trg Bộ,Provincial,Cultivation,Lúa,,Area_Planted,32324.0,ha,Actual,PL4
+bd4233f4-99b7-4f9d-9157-85d5074061ba,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,1308.0,ha,Actual,PL4
+4d30a66d-6e5f-4561-94a8-5a37db675c06,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lạc,,Area_Planted,722.0,ha,Actual,PL4
+e21ffa78-6572-4f2a-87a9-2de37f6898f5,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,255.0,ha,Actual,PL4
+2379c528-b706-4867-8731-28401aeb0e0f,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,56.0,ha,Actual,PL4
+1608d746-5ce8-482f-a812-e62b692ed05e,2009,10,TP Đà Nẵng,Provincial,Cultivation,Mía,,Area_Planted,275.0,ha,Actual,PL4
+7c0e026b-b104-4ce6-b2f2-6cb1731f37c1,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,837.0,ha,Actual,PL4
+84383675-b153-44f4-9fd8-0f4f65a9e99a,2009,10,TP Đà Nẵng,Provincial,Cultivation,Lúa,,Area_Planted,200.0,ha,Actual,PL4
+f1729816-e737-45cd-945a-de0b8f1ee0ee,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,13464.0,ha,Actual,PL4
+3e76de17-d181-4c87-add3-57baac2dc4af,2009,10,Quảng Nam,Provincial,Cultivation,Lạc,,Area_Planted,9860.0,ha,Actual,PL4
+efc4fd2b-f1a9-4b41-b8f0-566118242af4,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,2520.0,ha,Actual,PL4
+69a8861f-ac44-4ef1-8ca1-8d3def295204,2009,10,Quảng Nam,Provincial,Cultivation,Mía,,Area_Planted,780.0,ha,Actual,PL4
+ac8e8eac-8aae-4070-bf31-5bb5c0d8036d,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,250.0,ha,Actual,PL4
+88baaa81-263f-486a-837a-a81c4a898345,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,54.0,ha,Actual,PL4
+d76f0b93-2cf7-4c1a-a83a-27412a8d8bfe,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,6900.0,ha,Actual,PL4
+ee955132-11c9-4bd5-b55f-a9fabdcf94c2,2009,10,Quảng Nam,Provincial,Cultivation,Lúa,,Area_Planted,3500.0,ha,Actual,PL4
+23d12570-27c9-4479-abc7-5497116653f5,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,12900.0,ha,Actual,PL4
+2f165e47-3d94-41cd-8581-4bdf732caf9c,2009,10,Quảng Ngãi,Provincial,Cultivation,Lạc,,Area_Planted,5620.0,ha,Actual,PL4
+776c75ef-9ed0-46f9-81a0-202bf1103988,2009,10,Quảng Ngãi,Provincial,Cultivation,Mía,,Area_Planted,7280.0,ha,Actual,PL4
+05e60679-c5fd-49b7-b1a7-97173f66b4cb,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,8651.0,ha,Actual,PL4
+728158c8-4786-4e88-b916-970d55405311,2009,10,Quảng Ngãi,Provincial,Cultivation,Lúa,,Area_Planted,5210.0,ha,Actual,PL4
+d494d448-f5b2-4823-b494-302fba4b6411,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,13943.0,ha,Actual,PL4
+4aa8f142-161f-434f-9be8-22aaa9f0eb00,2009,10,Bình Định,Provincial,Cultivation,Đậu,,Area_Planted,859.0,ha,Actual,PL4
+374676d9-cf88-43d1-b3f6-79ca65e460ef,2009,10,Bình Định,Provincial,Cultivation,Lạc,,Area_Planted,8982.0,ha,Actual,PL4
+399f37d0-b3ca-4101-86a1-a3a68ee70f8d,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,1259.0,ha,Actual,PL4
+1740e9f6-4d40-430e-9412-936822406af8,2009,10,Bình Định,Provincial,Cultivation,Mía,,Area_Planted,2843.0,ha,Actual,PL4
+539023a0-8cd8-4d65-8b43-92b46f829b88,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,13146.0,ha,Actual,PL4
+a852212b-00a5-4472-86ee-09997d20affc,2009,10,Bình Định,Provincial,Cultivation,Lúa,,Area_Planted,1929.0,ha,Actual,PL4
+a8de37f7-9d16-41dd-8b5b-055dc75bc369,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,19929.0,ha,Actual,PL4
+f1df5b35-4acb-4e52-b6c5-62dce8b6d8e6,2009,10,Phú Yên,Provincial,Cultivation,Đậu,,Area_Planted,316.0,ha,Actual,PL4
+80f85971-23a9-4c62-9b3e-75ca6b948f29,2009,10,Phú Yên,Provincial,Cultivation,Lạc,,Area_Planted,891.0,ha,Actual,PL4
+167391d6-8b7c-4093-9750-4725e4f0af5c,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,2407.0,ha,Actual,PL4
+4881bc94-f80b-46d2-a86f-639f71c40612,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,383.0,ha,Actual,PL4
+c824d8f2-621d-4f49-8899-2d6cb10a0fa7,2009,10,Phú Yên,Provincial,Cultivation,Mía,,Area_Planted,15525.0,ha,Actual,PL4
+0b1b0242-7b6e-47e1-8345-4175124b131d,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,365.0,ha,Actual,PL4
+7f2195b9-b0d3-4162-8666-140a1570d7e3,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,42.0,ha,Actual,PL4
+be9550cf-0bc4-4098-a9db-97841dceaa97,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,2690.0,ha,Actual,PL4
+f264150a-177d-439d-8632-2cf010e56711,2009,10,Phú Yên,Provincial,Cultivation,Lúa,,Area_Planted,1980.0,ha,Actual,PL4
+87b2e983-1e3f-459b-a340-0c93cb4e6d9e,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,17485.0,ha,Actual,PL4
+6e13110d-d5a9-4831-be71-9b2c34720303,2009,10,Khánh Hoà,Provincial,Cultivation,Lạc,,Area_Planted,200.0,ha,Actual,PL4
+b7c7cc99-fbfa-4ed3-ab83-2a4edc047798,2009,10,Khánh Hoà,Provincial,Cultivation,Mía,,Area_Planted,17026.0,ha,Actual,PL4
+2fa45fd3-c18c-47c9-a454-6f1d7843f439,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,259.0,ha,Actual,PL4
+eaaac5fc-acc4-459c-abef-4ec4cf86ef42,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,100.0,ha,Actual,PL4
+e0fe98f7-c424-4d62-92aa-bbb88c99d201,2009,10,Khánh Hoà,Provincial,Cultivation,Lúa,,Area_Planted,500.0,ha,Actual,PL4
+819e8bf9-8eb0-49f5-a761-0a4ce3a57794,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,49559.0,ha,Actual,PL4
+f074f725-1d0a-4298-bbfb-9c85db443b42,2009,10,Tây Nguyên,Provincial,Cultivation,Đậu,,Area_Planted,15858.0,ha,Actual,PL4
+f983c0ef-741f-4873-bb70-3b6ca9a17769,2009,10,Tây Nguyên,Provincial,Cultivation,Lạc,,Area_Planted,10031.0,ha,Actual,PL4
+32892ffa-f78d-41eb-8f16-220d47e05863,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,4209.0,ha,Actual,PL4
+98422580-19ec-468f-97ac-f3f73360e8bc,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,9113.0,ha,Actual,PL4
+ad64f61c-063e-4957-b02a-b9e001b785be,2009,10,Tây Nguyên,Provincial,Cultivation,Mía,,Area_Planted,9805.0,ha,Actual,PL4
+eca9c4a7-b712-4dbb-abde-9f7cde0dcb19,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,48975.0,ha,Actual,PL4
+c88efd27-226a-4c98-90f4-a5d017e49110,2009,10,Tây Nguyên,Provincial,Cultivation,Lúa,,Area_Planted,19623.0,ha,Actual,PL4
+f3391d46-478e-46fb-ac98-a36c74968f39,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,2880.0,ha,Actual,PL4
+e2a5fb17-a0e6-460a-a0b3-7cd654315265,2009,10,Kon Tum,Provincial,Cultivation,Lạc,,Area_Planted,165.0,ha,Actual,PL4
+358c89cc-de78-418c-8941-c9db330e465c,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,2158.0,ha,Actual,PL4
+fc107f46-3f10-4813-95da-9020a9151e19,2009,10,Kon Tum,Provincial,Cultivation,Mía,,Area_Planted,557.0,ha,Actual,PL4
+c6e34d1d-2f47-4a82-a69c-25bd71b87289,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,630.0,ha,Actual,PL4
+6a26725c-1bb4-490f-aa33-d7471fb57a60,2009,10,Kon Tum,Provincial,Cultivation,Lúa,,Area_Planted,57.0,ha,Actual,PL4
+b72dddea-483a-4982-82ce-5ae8fca0ba96,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,8987.0,ha,Actual,PL4
+a48b0f9f-4a2b-4155-819a-2d0b3794df6e,2009,10,Gia Lai,Provincial,Cultivation,Lạc,,Area_Planted,1378.0,ha,Actual,PL4
+843f3d77-96e3-439b-bc04-be7c2aa0ea41,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,3226.0,ha,Actual,PL4
+4a0a8c1f-5402-4082-ba03-c9afc339f599,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,3457.0,ha,Actual,PL4
+0cad32e0-5d34-411d-aac7-4fb350d349fe,2009,10,Gia Lai,Provincial,Cultivation,Mía,,Area_Planted,926.0,ha,Actual,PL4
+1f9ac35d-6ddb-400d-a917-540d0e768c0c,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,10933.0,ha,Actual,PL4
+a1cd690e-9186-49e3-9ac6-7cebb347d02f,2009,10,Gia Lai,Provincial,Cultivation,Lúa,,Area_Planted,8138.0,ha,Actual,PL4
+cf7ffeb7-e890-4710-acae-084d41a739c3,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,22537.0,ha,Actual,PL4
+2cffd5f1-16d7-41fd-a901-715e7216498f,2009,10,Đắc Lắc,Provincial,Cultivation,Đậu,,Area_Planted,5960.0,ha,Actual,PL4
+8e0e5360-3d7c-4328-86c4-4631c6943623,2009,10,Đắc Lắc,Provincial,Cultivation,Lạc,,Area_Planted,5096.0,ha,Actual,PL4
+a36aca4a-d2eb-4be9-9308-3ece2bb14e14,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,983.0,ha,Actual,PL4
+59afdf62-9b13-4916-abe0-9045d6ca379c,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,3498.0,ha,Actual,PL4
+e98154e2-906f-40a4-b45a-e223bc6f52ef,2009,10,Đắc Lắc,Provincial,Cultivation,Mía,,Area_Planted,7000.0,ha,Actual,PL4
+c0d67c7b-b538-419a-aa15-a024b2bbd88a,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,3689.0,ha,Actual,PL4
+cd7e6354-830e-4184-91c1-1a66f02b87e4,2009,10,Đắc Lắc,Provincial,Cultivation,Lúa,,Area_Planted,10929.0,ha,Actual,PL4
+33a0e0e9-3850-42c9-bb7c-6d2b07deb031,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,13497.0,ha,Actual,PL4
+e57bcbd1-8928-4c85-ab27-74d6aa5640f2,2009,10,Đắc Nông,Provincial,Cultivation,Đậu,,Area_Planted,9698.0,ha,Actual,PL4
+7421b0a7-1b26-424f-be47-d3dee8c0c722,2009,10,Đắc Nông,Provincial,Cultivation,Lạc,,Area_Planted,3178.0,ha,Actual,PL4
+6b1bd7fa-2b08-49a7-843c-12e5db9ff58c,2009,10,Đắc Nông,Provincial,Cultivation,Mía,,Area_Planted,78.0,ha,Actual,PL4
+9b26763f-f08e-40f7-83fb-af7dc94226d6,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,543.0,ha,Actual,PL4
+f1590477-31fc-46ca-b788-cc9098507e8e,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,1550.0,ha,Actual,PL4
+3cc6217b-53bc-42f5-b584-552332b32bc6,2009,10,Đắc Nông,Provincial,Cultivation,Lúa,,Area_Planted,201.0,ha,Actual,PL4
+c7367aaa-849b-4f8f-a190-5e810c73ce5b,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,1658.0,ha,Actual,PL4
+3be94f2c-5646-4109-a771-2d623bd8e5b4,2009,10,Lâm Đồng,Provincial,Cultivation,Đậu,,Area_Planted,200.0,ha,Actual,PL4
+a231530c-e91c-4b88-85a8-1894887dade5,2009,10,Lâm Đồng,Provincial,Cultivation,Lạc,,Area_Planted,214.0,ha,Actual,PL4
+95a19c9d-b91b-4db6-a88e-d7c23532c659,2009,10,Lâm Đồng,Provincial,Cultivation,Mía,,Area_Planted,1244.0,ha,Actual,PL4
+feb49c4e-4913-4d9e-8f80-66b8f2a59baa,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,32173.0,ha,Actual,PL4
+0cc674ad-71a2-4a1e-adfa-6590c0871aff,2009,10,Lâm Đồng,Provincial,Cultivation,Lúa,,Area_Planted,298.0,ha,Actual,PL4
+ab328d4c-ecbd-4b39-9f51-3f35e0b30f9f,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,44984.0,ha,Actual,PL4
+4a7a7f37-9234-4ac1-b381-cb2dd8622673,2009,10,Đông Nam Bộ,Provincial,Cultivation,Đậu,,Area_Planted,1120.0,ha,Actual,PL4
+b5b45203-9f09-4ebb-93a2-e2bd243df3e1,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lạc,,Area_Planted,24863.0,ha,Actual,PL4
+1459b71b-9b64-4dec-b83b-f2249aa97e3b,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,2540.0,ha,Actual,PL4
+5da6788a-a13b-4bf1-8122-8e431076a82d,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,4404.0,ha,Actual,PL4
+e030b574-519b-4408-8933-f1b4cba494f7,2009,10,Đông Nam Bộ,Provincial,Cultivation,Mía,,Area_Planted,11661.0,ha,Actual,PL4
+a9f748c3-5d48-43a9-85e7-e0882634377f,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,396.0,ha,Actual,PL4
+c60b3d80-7693-4f54-83a9-e46e90554d39,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,51753.0,ha,Actual,PL4
+595f3538-228d-48d4-8cbf-929051738c07,2009,10,Đông Nam Bộ,Provincial,Cultivation,Lúa,,Area_Planted,22310.0,ha,Actual,PL4
+2d8bc4c9-c82c-415b-b8a5-d0f2a9b53167,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,3110.0,ha,Actual,PL4
+826eb186-45c0-430d-a80e-9e87a4f1b46b,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lạc,,Area_Planted,910.0,ha,Actual,PL4
+614f026f-966e-47ba-9de0-ced2bfdf5c4f,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Mía,,Area_Planted,2200.0,ha,Actual,PL4
+f12f91b6-e618-465e-8dfa-9fdcb4940b9a,2009,10,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,11270.0,ha,Actual,PL4
+707c61a8-bc8a-4244-9427-f528df24770b,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,1367.0,ha,Actual,PL4
+dfc56760-c293-47a7-8a58-a7dcf95da269,2009,10,Ninh Thuận,Provincial,Cultivation,Lạc,,Area_Planted,200.0,ha,Actual,PL4
+8d35808e-9f08-4305-89f9-0b231fed6a13,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,35.0,ha,Actual,PL4
+4c37ab12-499d-4810-bb9d-0be30d3e81c3,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,480.0,ha,Actual,PL4
+fa2da175-4455-4d97-bc90-b781c6fd7bf4,2009,10,Ninh Thuận,Provincial,Cultivation,Mía,,Area_Planted,620.0,ha,Actual,PL4
+8b2a1ae1-8712-43bf-b75c-b85f436cc31f,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,32.0,ha,Actual,PL4
+d3987dad-883a-49f6-8335-6c1db0cf4bc4,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,6900.0,ha,Actual,PL4
+77e1c6e2-bcee-4dc3-8f22-6213182d6027,2009,10,Ninh Thuận,Provincial,Cultivation,Lúa,,Area_Planted,2500.0,ha,Actual,PL4
+2a359845-0dce-4e3e-b934-d720f4b536d1,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,1737.0,ha,Actual,PL4
+f62db1f3-afbf-45c2-aac9-57a23138c135,2009,10,Bình Phước,Provincial,Cultivation,Đậu,,Area_Planted,287.0,ha,Actual,PL4
+ca51f1df-0fb1-4f19-a51f-ddc4e504c976,2009,10,Bình Phước,Provincial,Cultivation,Lạc,,Area_Planted,1276.0,ha,Actual,PL4
+ac5c8005-95f7-422f-aafb-0a79e20194d3,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,11.0,ha,Actual,PL4
+f8fe51e2-62b7-4313-8de4-3982253aa24c,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,163.0,ha,Actual,PL4
+8cdf8c2e-c5fd-4dff-91cb-a50be96a6205,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,701.0,ha,Actual,PL4
+c3b43751-97c4-4eac-8c8a-ff402534002c,2009,10,Bình Phước,Provincial,Cultivation,Lúa,,Area_Planted,2987.0,ha,Actual,PL4
+097d29c8-71de-4623-8f7e-63cc5cf4e9a4,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,30758.0,ha,Actual,PL4
+11b5068a-ef69-4fcd-9901-ddd697ac8074,2009,10,Tây Ninh,Provincial,Cultivation,Lạc,,Area_Planted,18092.0,ha,Actual,PL4
+bc3bba72-af0b-4d6c-8baf-33ff46c6b8aa,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,1143.0,ha,Actual,PL4
+84bf8620-ead9-41eb-b102-a99e13a767b7,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,3276.0,ha,Actual,PL4
+51803ae9-2a12-4e3e-8011-f494f334e468,2009,10,Tây Ninh,Provincial,Cultivation,Mía,,Area_Planted,8247.0,ha,Actual,PL4
+3890a2a6-bf31-4434-89b7-0560440d6fd9,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,17870.0,ha,Actual,PL4
+400bff2a-a813-4569-8cf6-dc6524a83c92,2009,10,Tây Ninh,Provincial,Cultivation,Lúa,,Area_Planted,6351.0,ha,Actual,PL4
+6d3ffbf5-dcb1-4fe2-9da5-4342000b842a,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,106.0,ha,Actual,PL4
+2f6f5cf3-7e21-4e1f-b1a3-82cf3a90c4f2,2009,10,Bình Dương,Provincial,Cultivation,Lạc,,Area_Planted,106.0,ha,Actual,PL4
+3f04d2eb-808d-4a87-a006-86c432df94b2,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,2024.0,ha,Actual,PL4
+15f9c494-c485-4592-9104-93fc03947bdf,2009,10,Bình Dương,Provincial,Cultivation,Lúa,,Area_Planted,170.0,ha,Actual,PL4
+2412d08a-5251-4a13-9feb-4c70706a1b48,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,2351.0,ha,Actual,PL4
+d364ce6d-7bb5-4e5b-8eb1-5647f971cf09,2009,10,Đồng Nai,Provincial,Cultivation,Đậu,,Area_Planted,582.0,ha,Actual,PL4
+7a80775d-87c7-43c0-8f4f-cdaa3218da2b,2009,10,Đồng Nai,Provincial,Cultivation,Lạc,,Area_Planted,579.0,ha,Actual,PL4
+5e8b02b3-64b9-403d-9fa2-4227e2dfe5f8,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,151.0,ha,Actual,PL4
+b92b0c12-e64f-4392-b374-53dc52612539,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,510.0,ha,Actual,PL4
+710efdb7-5969-4e8b-8a2c-df5d2ee2adb8,2009,10,Đồng Nai,Provincial,Cultivation,Mía,,Area_Planted,340.0,ha,Actual,PL4
+17c8cd51-8417-4cbf-9fe0-061f595da277,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,189.0,ha,Actual,PL4
+7ceccad1-6f45-4729-aae4-5d33f8bf1773,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,4101.0,ha,Actual,PL4
+7c7d3a28-8790-4832-af83-835af307e0a0,2009,10,Đồng Nai,Provincial,Cultivation,Lúa,,Area_Planted,3124.0,ha,Actual,PL4
+dcb0a519-0eaf-40d9-a282-3de0f8ab3987,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4206.0,ha,Actual,PL4
+eaf8bf7a-e8f7-4dfb-b74b-e8a89d5bb937,2009,10,Bình Thuận,Provincial,Cultivation,Đậu,,Area_Planted,242.0,ha,Actual,PL4
+af65e95b-1d50-4818-a4e9-38d97f1f67d3,2009,10,Bình Thuận,Provincial,Cultivation,Lạc,,Area_Planted,2699.0,ha,Actual,PL4
+52e829ba-d333-48fd-bf4b-9018fb7a11cb,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,1109.0,ha,Actual,PL4
+7ea4dbe3-5890-493f-9043-ff3064b3065c,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,35.0,ha,Actual,PL4
+3c052d93-b07c-477c-bed3-95d63623020b,2009,10,Bình Thuận,Provincial,Cultivation,Mía,,Area_Planted,109.0,ha,Actual,PL4
+72f0643a-85aa-4853-82b6-26abe72dfacc,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,12.0,ha,Actual,PL4
+717932bf-88a7-48da-a005-4370ea910ace,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4869.0,ha,Actual,PL4
+9dc494f6-3b8e-4ca4-9295-321607304f61,2009,10,Bình Thuận,Provincial,Cultivation,Lúa,,Area_Planted,4210.0,ha,Actual,PL4
+95d88760-fef7-4225-979c-629e61b1c7c2,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,1349.0,ha,Actual,PL4
+6de51ebf-65bb-4e53-8c78-35ffb650ea5d,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Đậu,,Area_Planted,9.0,ha,Actual,PL4
+9033f2ba-55d3-4665-a191-1f5ef79c50c5,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lạc,,Area_Planted,1001.0,ha,Actual,PL4
+a75209fc-9ca6-46c8-b6fa-f25be89229c4,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,91.0,ha,Actual,PL4
+44bb992c-a440-4a1a-b044-047d71df5d91,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,103.0,ha,Actual,PL4
+16737f7c-5728-4f16-9639-2f4fda8f570b,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Mía,,Area_Planted,145.0,ha,Actual,PL4
+3b77398a-a39a-4172-910f-1e83e67c0791,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,4018.0,ha,Actual,PL4
+6d4ec278-838a-4131-91ac-c75f1d17ac2c,2009,10,Bà Rịa-V.Tàu,Provincial,Cultivation,Lúa,,Area_Planted,2968.0,ha,Actual,PL4
+ea0e7709-2995-4949-88e2-17c64a75bac6,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,92608.0,ha,Actual,PL4
+8ade5ed8-298e-4356-9e97-79c677baa4ca,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Đậu,,Area_Planted,8932.0,ha,Actual,PL4
+4a657124-fab0-446c-88e1-9435b77116f2,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lạc,,Area_Planted,15316.0,ha,Actual,PL4
+41493e47-fc45-400f-a947-ca718d8b0d31,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,9082.0,ha,Actual,PL4
+e8108682-bece-4028-927c-3bedffc8f2bc,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,186.0,ha,Actual,PL4
+65f35d9d-9f9b-4b6c-af8b-6db5ae264d4b,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Mía,,Area_Planted,53922.0,ha,Actual,PL4
+2ebfb575-4720-4bad-8fdd-619696478e3a,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,4156.0,ha,Actual,PL4
+3afc2306-8ba2-44c9-869f-35a6e72cc94b,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,148888.0,ha,Actual,PL4
+14ad7cd8-6c03-428c-afc6-57bfe9dadd4a,2009,10,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,5001.0,ha,Actual,PL4
+9eebbd8f-85e7-4afe-8aa6-13e4e89b6a93,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,24797.0,ha,Actual,PL4
+b0e1ef21-bfbd-4287-9d34-48b08a803ba6,2009,10,Long An,Provincial,Cultivation,Lạc,,Area_Planted,6966.0,ha,Actual,PL4
+03322333-6ba1-4e93-b3a9-8c59d53eae34,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,1752.0,ha,Actual,PL4
+dc67ca0b-2cb6-4f20-a0f3-58c3f1adcb86,2009,10,Long An,Provincial,Cultivation,Mía,,Area_Planted,14381.0,ha,Actual,PL4
+ac8fb416-147c-42f1-962b-6312ece0a761,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,1698.0,ha,Actual,PL4
+f0b42a73-06d6-4b45-9754-965f102a0206,2009,10,Long An,Provincial,Cultivation,Lúa,,Area_Planted,6510.0,ha,Actual,PL4
+cd0658e3-2532-4d5f-aab7-3142c5ab5580,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,8632.0,ha,Actual,PL4
+f43be221-713a-494b-b67d-4922ac48c3c8,2009,10,Đồng Tháp,Provincial,Cultivation,Đậu,,Area_Planted,5355.0,ha,Actual,PL4
+bf404a5d-e0a6-4db2-8490-d69c9a30f074,2009,10,Đồng Tháp,Provincial,Cultivation,Lạc,,Area_Planted,190.0,ha,Actual,PL4
+7218d76d-12d7-4409-a2f6-2cdad54fa964,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,2748.0,ha,Actual,PL4
+c2e65473-6c91-4a74-b5d4-2dc8a00fc98a,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,9.0,ha,Actual,PL4
+101cc710-7f8c-4687-8966-da7fe37dbf9c,2009,10,Đồng Tháp,Provincial,Cultivation,Mía,,Area_Planted,249.0,ha,Actual,PL4
+ddce1d76-42e8-4b1b-a6fc-3e75b4a1bf8e,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,81.0,ha,Actual,PL4
+e9ea83ae-295d-4414-bd40-a51dda33a6fb,2009,10,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,9239.0,ha,Actual,PL4
+583d01cd-2176-4fbb-a094-e4330f07bbf1,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,1205.0,ha,Actual,PL4
+c5de352a-862f-4efb-a095-fae54875fd14,2009,10,An Giang,Provincial,Cultivation,Đậu,,Area_Planted,546.0,ha,Actual,PL4
+3206e77e-9c5e-45a2-8e59-22199589944c,2009,10,An Giang,Provincial,Cultivation,Lạc,,Area_Planted,215.0,ha,Actual,PL4
+2d141178-8966-4d7c-83d0-3963391aa472,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,420.0,ha,Actual,PL4
+9e3903cc-83a5-421d-b456-7af4af82245e,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,6.0,ha,Actual,PL4
+efbb9e80-a02f-4a84-bbce-0942b017e3b7,2009,10,An Giang,Provincial,Cultivation,Mía,,Area_Planted,18.0,ha,Actual,PL4
+5ddc646e-813f-49e9-9c65-479f519e3459,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,8433.0,ha,Actual,PL4
+5e75b8ad-319c-4b83-b2ba-9c85f81276b5,2009,10,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,1090.0,ha,Actual,PL4
+73312e77-eb03-4f3b-9a6d-18854542601c,2009,10,Tiền Giang,Provincial,Cultivation,Mía,,Area_Planted,119.0,ha,Actual,PL4
+6c7501a5-e7ea-4d9a-8b04-40e3c6c08718,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,25200.0,ha,Actual,PL4
+54490e6e-6fb3-4f55-a2db-a604d0939606,2009,10,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,132.0,ha,Actual,PL4
+2deaaad7-e047-4878-81ef-f172fd2cc045,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,2742.0,ha,Actual,PL4
+d2e30f1a-9abf-427a-8c0f-595f569d13a8,2009,10,Vĩnh Long,Provincial,Cultivation,Đậu,,Area_Planted,1532.0,ha,Actual,PL4
+24d68ec3-9db3-4024-b7e9-8e3515f447e8,2009,10,Vĩnh Long,Provincial,Cultivation,Lạc,,Area_Planted,28.0,ha,Actual,PL4
+f040afe1-57a1-4f2e-a694-a03a3f5bcab5,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,329.0,ha,Actual,PL4
+7ee13c69-961c-407d-9b3e-c7307bf46f30,2009,10,Vĩnh Long,Provincial,Cultivation,Mía,,Area_Planted,199.0,ha,Actual,PL4
+ba3a4653-ebea-4a79-bba2-0ec83812d75a,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,654.0,ha,Actual,PL4
+824966c9-c143-4d50-b379-f32f433ebb8a,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,20259.0,ha,Actual,PL4
+20df73c0-66fc-4530-8e27-624d9d445a12,2009,10,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,370.0,ha,Actual,PL4
+bbfbdf14-99b8-45ff-930c-d6a15d726dcb,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,7628.0,ha,Actual,PL4
+ba44cb6e-df0f-4449-8067-b26e607245fa,2009,10,Bến Tre,Provincial,Cultivation,Lạc,,Area_Planted,221.0,ha,Actual,PL4
+34a975e2-6c44-4313-b392-109c5763115f,2009,10,Bến Tre,Provincial,Cultivation,Mía,,Area_Planted,6969.0,ha,Actual,PL4
+0f8c61a5-acc6-43f3-9536-b97d1199efef,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,438.0,ha,Actual,PL4
+f8fdd5a3-ade5-42bc-a891-b300a42664a6,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,3690.0,ha,Actual,PL4
+0b130837-f49a-450a-bc99-b7f3da4a6ebd,2009,10,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,128.0,ha,Actual,PL4
+606c034e-5f4a-4fb6-ac39-9a543f3c4399,2009,10,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL4
+602db97f-7c65-4dbd-8bd7-265ebdc3ccf2,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,8182.0,ha,Actual,PL4
+56f3f198-1939-4a79-9416-32444d035f40,2009,10,Cần Thơ,Provincial,Cultivation,Đậu,,Area_Planted,751.0,ha,Actual,PL4
+2b1a21d2-042b-4d8e-a936-0bcac5e50563,2009,10,Cần Thơ,Provincial,Cultivation,Lạc,,Area_Planted,3587.0,ha,Actual,PL4
+94460796-c5cb-4173-bfda-bf73199f9820,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,3833.0,ha,Actual,PL4
+8282e1ee-01b1-44d1-98f1-e542bbb00be9,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,11.0,ha,Actual,PL4
+0d2fb554-960b-4cae-aa8c-2b969ec8aa61,2009,10,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,6342.0,ha,Actual,PL4
+00cbf4df-f7f4-4c72-950d-c760fcbc99fc,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,13453.0,ha,Actual,PL4
+88c85b69-12c7-4f1c-9745-fa33fcff9983,2009,10,Hậu Giang,Provincial,Cultivation,Mía,,Area_Planted,13453.0,ha,Actual,PL4
+acbf12ae-7fcc-42f1-beb5-15991526c500,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,10556.0,ha,Actual,PL4
+a1447aa1-7726-4bc3-a3ac-5f052d37f6c6,2009,10,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,1247.0,ha,Actual,PL4
+3a0abbb4-8dbf-40c4-b29a-4bd67c0383b1,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,11972.0,ha,Actual,PL4
+d3501ff5-3af3-421d-83ae-b12e9f2765f7,2009,10,Trà Vinh,Provincial,Cultivation,Lạc,,Area_Planted,3914.0,ha,Actual,PL4
+eeec1131-128d-46df-af89-f22ed7c72466,2009,10,Trà Vinh,Provincial,Cultivation,Mía,,Area_Planted,5640.0,ha,Actual,PL4
+85a46c46-a258-4ad6-a406-24f93a86c4aa,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1133.0,ha,Actual,PL4
+38e5c730-d52b-4607-8c11-eac5a2149454,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1285.0,ha,Actual,PL4
+19a9a520-f7ff-48d1-bf7c-0856e01e492f,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,24159.0,ha,Actual,PL4
+906388ba-a246-44ac-a9c2-42d2ec24677c,2009,10,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,841.0,ha,Actual,PL4
+0f93adef-dedd-4040-a6d3-965ba8a79e45,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,13997.0,ha,Actual,PL4
+1e0cbde8-b0a2-489a-ba35-2027514f4cc7,2009,10,Sóc Trăng,Provincial,Cultivation,Đậu,,Area_Planted,748.0,ha,Actual,PL4
+ada4a582-66c7-49c3-bba0-ee89f4220b3d,2009,10,Sóc Trăng,Provincial,Cultivation,Lạc,,Area_Planted,195.0,ha,Actual,PL4
+c12b1ce4-dbc9-404a-ad2b-025dc02d018b,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,160.0,ha,Actual,PL4
+ccaf4f40-dee1-4ff0-a533-766031057add,2009,10,Sóc Trăng,Provincial,Cultivation,Mía,,Area_Planted,12894.0,ha,Actual,PL4
+cdb0194a-21fa-4d20-b94c-be01a15e00c4,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,25300.0,ha,Actual,PL4
+0467acd1-f5a4-4cd5-a1f8-a29812e0a497,2009,10,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,1193.0,ha,Actual,PL4
+4ea11226-7022-4114-99a6-b4f68b0f7dcf,2009,10,Bạc Liêu,Provincial,Cultivation,Lúa,,Area_Planted,9200.0,ha,Actual,PL4
+e79b600f-ab2c-432b-b9e5-32ea679c5c09,2009,10,Cả nước,National,Forestry,Rừng,,Area,218962.0,1000_ha,Estimated,PL6
+320b6c4e-50b5-4641-9625-cf2b4de1f941,2009,10,Cả nước,National,Forestry,Rừng,,Area,40430.0,1000_ha,Plan,PL6
+c68ae993-fd5c-4a00-a79d-92da6b88004b,2009,10,Cả nước,National,Forestry,Rừng,,Area,148542.0,1000_ha,Estimated,PL6
+159c204b-b613-45a1-b714-7c2e65a89be3,2009,10,Cả nước,National,Forestry,Rừng,,Area,28393.0,1000_ha,Plan,PL6
+542e4c8d-d64b-400a-9b8d-72be78b874f7,2009,10,Cả nước,National,Forestry,Rừng,,Area,3643.0,1000_ha,Estimated,PL6
+34a1d77f-ac4b-49b7-93be-f1d7fa7de5cd,2009,10,Cả nước,National,Forestry,Rừng,,Area,1564.0,1000_ha,Plan,PL6
+0cf896b2-bcde-4deb-84ca-608d8c371ed5,2009,10,Cả nước,National,Forestry,Rừng,,Area,500.0,1000_ha,Estimated,PL6
+2e84631a-bc4f-477b-bb36-70b546cb5f58,2009,10,Cả nước,National,Forestry,Rừng,,Area,342.0,1000_ha,Plan,PL6
+438d3c54-6a9f-48d7-aa7e-665223b6dd33,2009,10,Cả nước,National,Forestry,Rừng,,Area,973.0,1000_ha,Estimated,PL6
+895a6a16-c417-4a57-9505-79ab87c3e7f8,2009,10,Cả nước,National,Forestry,Rừng,,Area,146.0,1000_ha,Plan,PL6
+81d23bd1-cb64-42f0-ad6e-42c639f0a20b,2009,10,Cả nước,National,Forestry,Rừng,,Area,30.0,1000_ha,Estimated,PL6
+0919072c-0590-4413-ac4e-fbb1684655a6,2009,10,Cả nước,National,Forestry,Rừng,,Area,15.0,1000_ha,Plan,PL6
+51b2fab3-2533-47ba-9815-506d821a225f,2009,10,Cả nước,National,Forestry,Rừng,,Area,1090.0,1000_ha,Estimated,PL6
+43e21e39-66bb-436c-b067-4f6fab6e586e,2009,10,Cả nước,National,Forestry,Rừng,,Area,230.0,1000_ha,Estimated,PL6
+c5b52f47-d513-403d-9080-388c5f0b614a,2009,10,Cả nước,National,Forestry,Rừng,,Area,26.0,1000_ha,Plan,PL6
+be51967d-73d8-4320-975a-1d49b810e20c,2009,10,Cả nước,National,Forestry,Rừng,,Area,520.0,1000_ha,Estimated,PL6
+32c4b037-0319-4f06-9a09-d921b46d2725,2009,10,Cả nước,National,Forestry,Rừng,,Area,268.0,1000_ha,Plan,PL6
+21060312-d7e6-4eb8-ba43-c1acd3012b2f,2009,10,Cả nước,National,Forestry,Rừng,,Area,200.0,1000_ha,Estimated,PL6
+9c1e0183-bb36-4ae9-b374-75c3f0b85afe,2009,10,Cả nước,National,Forestry,Rừng,,Area,625.0,1000_ha,Plan,PL6
+1170a246-b08c-4bd8-ba79-fd257282e01b,2009,10,Cả nước,National,Forestry,Rừng,,Area,100.0,1000_ha,Estimated,PL6
+c6858a04-06a1-43ed-83b8-6d54bda65f31,2009,10,Cả nước,National,Forestry,Rừng,,Area,143.0,1000_ha,Plan,PL6
+f8965242-6f30-4d81-8a37-39cd8d184eb9,2009,10,Cả nước,National,Forestry,Rừng,,Area,96067.0,1000_ha,Estimated,PL6
+025c8e1e-4085-4d3e-b2ec-9b04d6b3b832,2009,10,Cả nước,National,Forestry,Rừng,,Area,16718.0,1000_ha,Plan,PL6
+6f6067ee-e292-4902-826a-ace6219e3eab,2009,10,Cả nước,National,Forestry,Rừng,,Area,20582.0,1000_ha,Estimated,PL6
+1660c9ed-22ca-4228-bf4e-ad445d212e06,2009,10,Cả nước,National,Forestry,Rừng,,Area,2900.0,1000_ha,Plan,PL6
+baa7c4a2-83ce-46b5-aa83-1dd4a0b35650,2009,10,Cả nước,National,Forestry,Rừng,,Area,2230.0,1000_ha,Estimated,PL6
+4e8728ec-7674-46be-9de1-1db445ab1434,2009,10,Cả nước,National,Forestry,Rừng,,Area,445.0,1000_ha,Plan,PL6
+8651eb3b-d4c4-48ab-a18a-9e19e2cd7385,2009,10,Cả nước,National,Forestry,Rừng,,Area,1640.0,1000_ha,Estimated,PL6
+10210791-3de5-42be-b268-83e5650eb589,2009,10,Cả nước,National,Forestry,Rừng,,Area,631.0,1000_ha,Plan,PL6
+ad887983-63f7-4c8e-85ac-805ccbdfa19c,2009,10,Cả nước,National,Forestry,Rừng,,Area,9975.0,1000_ha,Estimated,PL6
+3bf6e700-0662-48ca-b1b0-beffa86bd2f4,2009,10,Cả nước,National,Forestry,Rừng,,Area,713.0,1000_ha,Plan,PL6
+5dfb1d8e-11f1-4bd4-8cea-0ce7eb4339c5,2009,10,Cả nước,National,Forestry,Rừng,,Area,8540.0,1000_ha,Estimated,PL6
+99a6ff4f-a3d0-47c4-b50d-f5b0b963694f,2009,10,Cả nước,National,Forestry,Rừng,,Area,2388.0,1000_ha,Plan,PL6
+d3a29788-5af5-4266-9ab9-1feeebb79753,2009,10,Cả nước,National,Forestry,Rừng,,Area,3354.0,1000_ha,Estimated,PL6
+e10fb9c8-3041-48b7-b110-7e531a4277cc,2009,10,Cả nước,National,Forestry,Rừng,,Area,2000.0,1000_ha,Plan,PL6
+0628f69c-b09e-47bb-9f03-260f78601b9e,2009,10,Cả nước,National,Forestry,Rừng,,Area,6009.0,1000_ha,Estimated,PL6
+3a681b74-e2f7-46af-9555-d8229290ce3a,2009,10,Cả nước,National,Forestry,Rừng,,Area,2640.0,1000_ha,Plan,PL6
+d76120cc-22d6-4ad3-a10a-05c8f5e51673,2009,10,Cả nước,National,Forestry,Rừng,,Area,2116.0,1000_ha,Estimated,PL6
+92703533-6120-4a32-9296-fae003557580,2009,10,Cả nước,National,Forestry,Rừng,,Area,1017.0,1000_ha,Plan,PL6
+c5279f81-bafb-496d-a589-283222fc0229,2009,10,Cả nước,National,Forestry,Rừng,,Area,2812.0,1000_ha,Estimated,PL6
+da9a8297-6d85-45b8-a32c-7f954df81699,2009,10,Cả nước,National,Forestry,Rừng,,Area,244.0,1000_ha,Plan,PL6
+5fe24e10-9156-480f-b410-d959a87b688f,2009,10,Cả nước,National,Forestry,Rừng,,Area,2838.0,1000_ha,Estimated,PL6
+9bba7c9b-8699-4de5-9c08-02f6e800d944,2009,10,Cả nước,National,Forestry,Rừng,,Area,616.0,1000_ha,Plan,PL6
+70e82a5c-db8e-4be3-b3fd-f33b4b539466,2009,10,Cả nước,National,Forestry,Rừng,,Area,35971.0,1000_ha,Estimated,PL6
+9d88f8c0-f577-48e4-8792-782b49d4cb03,2009,10,Cả nước,National,Forestry,Rừng,,Area,3124.0,1000_ha,Plan,PL6
+039bfb87-61d4-4dce-b8e2-d244293ca045,2009,10,Cả nước,National,Forestry,Rừng,,Area,19644.0,1000_ha,Estimated,PL6
+10480da6-d700-48ba-ae89-7a0207f597d2,2009,10,Cả nước,National,Forestry,Rừng,,Area,5390.0,1000_ha,Plan,PL6
+a403cfcb-d0bc-49f1-9472-da37baa5f635,2009,10,Cả nước,National,Forestry,Rừng,,Area,1108.0,1000_ha,Estimated,PL6
+a776e0b7-204d-48a3-a65d-35a1809dad4c,2009,10,Cả nước,National,Forestry,Rừng,,Area,1111.0,1000_ha,Plan,PL6
+8bee1d56-6e9d-4a05-96fb-8293a7ee8ad6,2009,10,Cả nước,National,Forestry,Rừng,,Area,100067528.0,1000_ha,Estimated,PL6
+8730817c-7ac5-4532-bc06-e18fb728fffe,2009,10,Cả nước,National,Forestry,Rừng,,Area,329.0,1000_ha,Plan,PL6
+cef8776e-2402-4591-a0e9-c421c07be980,2009,10,Cả nước,National,Forestry,Rừng,,Area,8336.0,1000_ha,Estimated,PL6
+318a0061-3d4e-4b38-ae45-9af06b085452,2009,10,Cả nước,National,Forestry,Rừng,,Area,2931.0,1000_ha,Plan,PL6
+e29db6a1-4c4b-42aa-98e4-cea6290291f6,2009,10,Cả nước,National,Forestry,Rừng,,Area,9200.0,1000_ha,Estimated,PL6
+f54356db-2325-483e-af30-504ff80152e3,2009,10,Cả nước,National,Forestry,Rừng,,Area,1019.0,1000_ha,Plan,PL6
+53cbd474-c9c3-46d5-b534-b33e8cf81b25,2009,10,Cả nước,National,Forestry,Rừng,,Area,29188.0,1000_ha,Estimated,PL6
+543dc78e-7dad-495a-a06d-d9b81a4c593c,2009,10,Cả nước,National,Forestry,Rừng,,Area,4721.0,1000_ha,Plan,PL6
+f1642fa7-8a11-40f1-bc17-87b90b583288,2009,10,Cả nước,National,Forestry,Rừng,,Area,5062.0,1000_ha,Estimated,PL6
+72d71f37-9c5d-4946-97da-d68520cee992,2009,10,Cả nước,National,Forestry,Rừng,,Area,2280.0,1000_ha,Plan,PL6
+98931065-18f8-4238-ae7a-8348d214f79e,2009,10,Cả nước,National,Forestry,Rừng,,Area,17600.0,1000_ha,Estimated,PL6
+6db59113-8ef3-494c-a125-0dd9f060272a,2009,10,Cả nước,National,Forestry,Rừng,,Area,868.0,1000_ha,Plan,PL6
+96249b1b-cda0-42fc-8d1b-e494e6452053,2009,10,Cả nước,National,Forestry,Rừng,,Area,50.0,1000_ha,Estimated,PL6
+8c463098-d0aa-49b6-9ec3-7166a4540891,2009,10,Cả nước,National,Forestry,Rừng,,Area,50.0,1000_ha,Plan,PL6
+bc2ce624-98bf-4f70-9737-926fbb24dab4,2009,10,Cả nước,National,Forestry,Rừng,,Area,712.0,1000_ha,Estimated,PL6
+08fbe6f9-0ee4-4191-9562-a60cff1ee6b3,2009,10,Cả nước,National,Forestry,Rừng,,Area,3098.0,1000_ha,Estimated,PL6
+efdf86f0-8d23-4f15-80e1-7e7f936b66f6,2009,10,Cả nước,National,Forestry,Rừng,,Area,1223.0,1000_ha,Plan,PL6
+589d6f0f-22df-4f20-bcf3-ed64a9161141,2009,10,Cả nước,National,Forestry,Rừng,,Area,2666.0,1000_ha,Estimated,PL6
+9594d8d6-847e-43ad-a4f4-9b5e29358067,2009,10,Cả nước,National,Forestry,Rừng,,Area,300.0,1000_ha,Plan,PL6
+947402ce-05db-4782-b7df-07a747c8bfec,2009,10,Cả nước,National,Forestry,Rừng,,Area,55971.0,1000_ha,Estimated,PL6
+67c307f3-0af6-4628-9a53-b7e54035a7b4,2009,10,Cả nước,National,Forestry,Rừng,,Area,8721.0,1000_ha,Plan,PL6
+9ff05e70-98fe-4b33-80b7-ae8d6627cdb1,2009,10,Cả nước,National,Forestry,Rừng,,Area,32622.0,1000_ha,Estimated,PL6
+cc5bcc6b-6c06-4fcf-8b3e-b52739ca4a86,2009,10,Cả nước,National,Forestry,Rừng,,Area,741.0,1000_ha,Plan,PL6
+b187a5fb-e1e9-4266-a6fd-6de67a5c88d7,2009,10,Cả nước,National,Forestry,Rừng,,Area,169.0,1000_ha,Estimated,PL6
+b889b126-74b4-467d-a09b-9c763a80e64a,2009,10,Cả nước,National,Forestry,Rừng,,Area,1632.0,1000_ha,Estimated,PL6
+d7828e22-da44-4819-9403-7a4c61628808,2009,10,Cả nước,National,Forestry,Rừng,,Area,9801.0,1000_ha,Estimated,PL6
+df5eda38-9829-4e63-8c0a-cec996a81b42,2009,10,Cả nước,National,Forestry,Rừng,,Area,400.0,1000_ha,Plan,PL6
+4c908de0-ed58-4a9e-8d5b-f11a81620715,2009,10,Cả nước,National,Forestry,Rừng,,Area,10405.0,1000_ha,Estimated,PL6
+ef8fb33b-73ff-4a4c-a18d-542b1ddf9ec7,2009,10,Cả nước,National,Forestry,Rừng,,Area,40.0,1000_ha,Plan,PL6
+c36a4c70-9925-4557-b8f9-e4bf74dab176,2009,10,Cả nước,National,Forestry,Rừng,,Area,9435.0,1000_ha,Estimated,PL6
+ba5b6056-c1e6-406a-8524-6043e3416734,2009,10,Cả nước,National,Forestry,Rừng,,Area,100.0,1000_ha,Plan,PL6
+ea594293-ab30-4842-9250-7d0bbf177946,2009,1,Cả nước,National,Trade,"1. Nông sản chính,trong đó:",Xuất khẩu,Export_Value,513.0,million_USD,Actual,PL8
+f154dd1a-a6c2-4093-963a-6429e8433f44,2009,1,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Volume,48.0,1000_ton,Actual,PL8
+3e0ae996-8457-4767-8350-92b9f9060463,2009,1,Cả nước,National,Trade,Cà phê,Xuất khẩu,Export_Value,71.0,million_USD,Actual,PL8
+08ae75e0-f3bc-4887-9fb0-cebd5b4ef2d0,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Volume,69.0,1000_ton,Actual,PL8
+43ab75dc-3d90-40df-82cf-20c7cca56747,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Value,117.0,million_USD,Actual,PL8
+0cbf406e-899d-44e5-9e68-f19fc5cf80ae,2009,1,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Volume,341.0,1000_ton,Actual,PL8
+5aced8e9-3f13-4ffb-9fe2-d92e10bc4e8f,2009,1,Cả nước,National,Trade,Gạo,Xuất khẩu,Export_Value,126.0,million_USD,Actual,PL8
+0a70ac5b-cb6f-4a89-8081-e84f9ebc8cea,2009,1,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Volume,14.0,1000_ton,Actual,PL8
+fed25524-0dd9-47e6-860b-18afbdc2449f,2009,1,Cả nước,National,Trade,Chè,Xuất khẩu,Export_Value,19.0,million_USD,Actual,PL8
+bcdc257b-58a1-4d83-ba59-fae2d29356c3,2009,1,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Volume,15.0,1000_ton,Actual,PL8
+61ee6eed-b4f1-4eb5-baf9-fd6af0ffda2c,2009,1,Cả nước,National,Trade,Hạt điều,Xuất khẩu,Export_Value,76.0,million_USD,Actual,PL8
+7bd49247-f96a-4960-b679-ac61b1f91eca,2009,1,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Volume,11.0,1000_ton,Actual,PL8
+0dd334dc-1514-4dcc-aee0-ea3c1d390420,2009,1,Cả nước,National,Trade,Hạt tiêu,Xuất khẩu,Export_Value,33.0,million_USD,Actual,PL8
+5656977f-a88c-44f5-8bd9-45c6182fd322,2009,1,Cả nước,National,Trade,Hàng rau quả,Xuất khẩu,Export_Value,39.0,million_USD,Actual,PL8
+fcbef47d-983c-4bd1-adb5-0f2d47d86185,2009,1,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Volume,147.0,1000_ton,Actual,PL8
+11fb97cf-0ad1-4d50-9597-c1b4c6a06f0e,2009,1,Cả nước,National,Trade,Sắn và sản phẩm từ sắn,Xuất khẩu,Export_Value,33.0,million_USD,Actual,PL8
+52b2357f-3aa9-4c1a-8264-06c6a8c46753,2009,1,Cả nước,National,Trade,2. Thuỷ sản,Xuất khẩu,Export_Value,426.0,million_USD,Actual,PL8
+2da0ea64-bf26-4ed7-bef6-007cd1391c69,2009,1,Cả nước,National,Trade,"3. Lâm sản chính,trong đó:Quế12.1",Xuất khẩu,Export_Value,231.0,million_USD,Actual,PL8
+2801e00d-f55d-4dc2-8f86-a42f67cfb603,2009,1,Cả nước,National,Trade,Quế,Xuất khẩu,Export_Value,2.0,million_USD,Actual,PL8
+ccee7c70-46af-4a1b-802b-23df9e4333fa,2009,1,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Xuất khẩu,Export_Value,21414.0,million_USD,Actual,PL8
+ee653203-77ed-4a4a-8fa8-5f23394cd954,2009,1,Cả nước,National,Trade,Các mặt hàng nông lâm sản khác,Xuất khẩu,Export_Value,60.0,million_USD,Actual,PL8
+76991822-743a-45bc-a45c-1d1252a3289f,2009,1,Cả nước,National,Trade,Các mặt hàng nhập khẩu chính,Xuất khẩu,Export_Value,571.0,million_USD,Actual,PL8
+251a38d9-c7cc-4061-a432-0732e271d78c,2009,1,Cả nước,National,Trade,Phân bón các loại,Xuất khẩu,Export_Volume,514.0,1000_ton,Actual,PL8
+3eb86764-2205-4885-9324-249c6b10b23b,2009,1,Cả nước,National,Trade,Phân bón các loại,Xuất khẩu,Export_Value,135.0,million_USD,Actual,PL8
+1863aebf-2726-4280-8ad4-51f6aa911272,2009,1,Cả nước,National,Trade,- U RE,Xuất khẩu,Export_Volume,187.0,1000_ton,Actual,PL8
+a7d6c6fe-5dd4-434b-bb69-bb35db9d1651,2009,1,Cả nước,National,Trade,- U RE,Xuất khẩu,Export_Value,51.0,million_USD,Actual,PL8
+97c463f1-3f19-45c4-9d56-3c37b5d768f0,2009,1,Cả nước,National,Trade,- S A,Xuất khẩu,Export_Volume,160.0,1000_ton,Actual,PL8
+835dd845-1260-4b28-9284-115688160cca,2009,1,Cả nước,National,Trade,- S A,Xuất khẩu,Export_Value,19.0,million_USD,Actual,PL8
+aef26a29-db25-4409-96ef-cbb42873fba8,2009,1,Cả nước,National,Trade,- D A P,Xuất khẩu,Export_Volume,90.0,1000_ton,Actual,PL8
+844b498e-82ce-49d1-bc64-38ab3128dbe0,2009,1,Cả nước,National,Trade,- D A P,Xuất khẩu,Export_Value,33.0,million_USD,Actual,PL8
+f5086f78-a0b2-480f-8cb5-448788f1cbf6,2009,1,Cả nước,National,Trade,- N P K,Xuất khẩu,Export_Volume,16.0,1000_ton,Actual,PL8
+1f758754-5ce7-40ea-92bf-527528d17013,2009,1,Cả nước,National,Trade,- N P K,Xuất khẩu,Export_Value,7.0,million_USD,Actual,PL8
+feeefd36-861e-4963-9ae6-76660ec2c397,2009,1,Cả nước,National,Trade,- Các loại phân bón khác,Xuất khẩu,Export_Volume,60.0,1000_ton,Actual,PL8
+94e3f4a8-f29b-4f69-883b-00b7790670eb,2009,1,Cả nước,National,Trade,- Các loại phân bón khác,Xuất khẩu,Export_Value,25.0,million_USD,Actual,PL8
+75dedbd0-1aae-4f26-907c-28a19013f228,2009,1,Cả nước,National,Trade,Thuốc trừ sâu & nguyên liệu,Xuất khẩu,Export_Value,28.0,million_USD,Actual,PL8
+34dfed4b-c2ab-4fdc-8591-8e07d4800ebb,2009,1,Cả nước,National,Trade,Lúa mỳ,Xuất khẩu,Export_Volume,140.0,1000_ton,Actual,PL8
+1a8d3c5d-4080-4a4e-b905-240aaf0fbf9d,2009,1,Cả nước,National,Trade,Lúa mỳ,Xuất khẩu,Export_Value,36.0,million_USD,Actual,PL8
+8f3f22ea-78e0-48da-a9e0-c5543f16e0b9,2009,1,Cả nước,National,Trade,Thức ăn gia súc và nguyên liệu,Xuất khẩu,Export_Value,117.0,million_USD,Actual,PL8
+96051d29-ae20-4697-bc2f-36c67cad0517,2009,1,Cả nước,National,Trade,"Dầu mỡ động, thực vật",Xuất khẩu,Export_Value,38.0,million_USD,Actual,PL8
+5b3fb29d-9892-4deb-bd09-605b712f18df,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Volume,32.0,1000_ton,Actual,PL8
+27eafd12-8878-44a5-8886-57c411e52595,2009,1,Cả nước,National,Trade,Cao su,Xuất khẩu,Export_Value,34.0,million_USD,Actual,PL8
+d45e738e-8d10-4745-9f8a-bac22036ad7d,2009,1,Cả nước,National,Trade,Bông các loại,Xuất khẩu,Export_Volume,33.0,1000_ton,Actual,PL8
+99021c3e-51ad-4e14-be5e-c9511b11f703,2009,1,Cả nước,National,Trade,Bông các loại,Xuất khẩu,Export_Value,44.0,million_USD,Actual,PL8
+4bdeadae-17e2-486d-8999-087c09c2d241,2009,1,Cả nước,National,Trade,Sữa &sản phẩm sữa,Xuất khẩu,Export_Value,52.0,million_USD,Actual,PL8
+1386dbab-ef1b-4a40-93e5-e99fd4eb9f64,2009,1,Cả nước,National,Trade,Gỗ & sản phẩm gỗ,Xuất khẩu,Export_Value,86.0,million_USD,Actual,PL8
+074aa203-a977-4752-89c7-021d81fc50ef,2009,1,Cả nước,National,Trade,Muối,Xuất khẩu,Export_Value,1.3,million_USD,Actual,PL8
+9a5a2968-e38c-40b6-8708-5974a506c7da,2009,10,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,2611500.0,million_VND,Plan,PL9
+2e702e9d-9ffe-42b6-98d9-aa5b9b8b617d,2009,10,Cả nước,National,Investment,Vốn thực hiện đầu tư,,Investment_Amount,2611211.0,million_VND,Cumulative,PL9
+8ef48653-b1ed-4573-901d-38c625748d90,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,1483500.0,million_VND,Plan,PL9
+8275380d-79df-4e2b-96ba-29548df24beb,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ lợi,,Investment_Amount,1863086.0,million_VND,Cumulative,PL9
+2be920c6-ba9f-4935-adb0-7fb44ca470d7,2009,10,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,493000.0,million_VND,Plan,PL9
+3c1dfe29-2a4b-42be-9ef2-d3bec0c7d305,2009,10,Cả nước,National,Investment,Đầu tư Nông nghiệp,,Investment_Amount,379220.0,million_VND,Cumulative,PL9
+3db943eb-6f40-4641-8437-8d5c40d3effb,2009,10,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,230000.0,million_VND,Plan,PL9
+95570d16-7d36-41d4-8817-011ef7423ec2,2009,10,Cả nước,National,Investment,Đầu tư Lâm nghiệp,,Investment_Amount,123607.0,million_VND,Cumulative,PL9
+e69a6826-255a-4d46-9296-df62d8a2d588,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,24000.0,million_VND,Plan,PL9
+30964abf-a92d-408f-a702-e5cd80b34f8f,2009,10,Cả nước,National,Investment,Đầu tư Thuỷ sản,,Investment_Amount,25500.0,million_VND,Cumulative,PL9
+ae192bb7-bce2-4b9e-8b31-fd0896d5aec7,2009,10,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,230000.0,million_VND,Plan,PL9
+16c0b738-3df5-4846-95dc-011722185524,2009,10,Cả nước,National,Investment,Khoa học - Công nghệ,,Investment_Amount,114300.0,million_VND,Cumulative,PL9
+be6647a8-268e-4cf7-8360-8b75f77a9185,2009,10,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,90000.0,million_VND,Plan,PL9
+cb0db91e-997a-4d44-be2d-774e5577931d,2009,10,Cả nước,National,Investment,Giáo dục - Đào tạo,,Investment_Amount,59998.0,million_VND,Cumulative,PL9
+29495ad7-1164-429e-be54-3baab3e9708c,2009,10,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,61000.0,million_VND,Plan,PL9
+afe62ca3-c564-4e97-9f36-9eb41823b7e9,2009,10,Cả nước,National,Investment,Các ngành khác,,Investment_Amount,45500.0,million_VND,Cumulative,PL9
+927404ce-d251-465d-a617-516b6576a5ca,2009,10,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,40263.0,million_VND,Plan,PL9
+8e440d5d-e2ae-4c8f-b0ca-f2b44a3d3555,2009,10,Cả nước,National,Investment,Chương trình mục tiêu,,Investment_Amount,21750.0,million_VND,Cumulative,PL9
+69dd386c-e464-403a-a007-5cde12a672d2,2009,10,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,208000.0,million_VND,Plan,PL9
+52d8c59e-b91c-4bdb-b1ca-1c98c1790112,2009,10,Cả nước,National,Investment,Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể,,Investment_Amount,134720.0,million_VND,Cumulative,PL9
+e528e1e1-1a47-44be-9682-95f2debd0044,2009,10,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Plan,PL9
+912504fc-4bd7-4fef-bbdf-07641249bb1d,2009,10,Cả nước,National,Investment,Bổ sung dự trữ Quốc gia,,Investment_Amount,65000.0,million_VND,Cumulative,PL9
+cae15eb1-85d9-42c5-96ac-54f453477cf7,2009,10,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,30000.0,million_VND,Plan,PL9
+19c3dcbd-0d09-4320-9bf1-481442fed804,2009,10,Cả nước,National,Investment,Vốn chuẩn bị đầu tư,,Investment_Amount,47280.0,million_VND,Cumulative,PL9
+eedcb5fe-13b8-46d8-92b1-2157565dd704,2009,10,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,1308000.0,million_VND,Plan,PL9
+6bae03ec-b23d-43d9-bc00-6e63573f1e8c,2009,10,Cả nước,National,Investment,Vốn ứng trước cho các dự áncấp bách,,Investment_Amount,782660.0,million_VND,Cumulative,PL9
+cc19306d-fc21-4a81-8a01-3be477fa6af2,2009,10,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,3954763.0,million_VND,Plan,PL9
+d1015a5a-4499-4df7-ae0c-2f063dac2388,2009,10,Cả nước,National,Investment,Tổng vốn NS (A+B),,Investment_Amount,3662621.0,million_VND,Cumulative,PL9
+424580db-7e42-44dd-acc3-7bbd1dff24f7,2009,10,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,3250000.0,million_VND,Plan,PL9
+f60cda01-f6fd-4ec4-8fab-5e021544f181,2009,10,Cả nước,National,Investment,Vốn TPCP theo quyết định171/2006/QĐ-TTg,,Investment_Amount,2075625.0,million_VND,Cumulative,PL9
+832c55e4-6f0c-4d2e-ab7a-d1aca474b403,2009,10,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,200000.0,million_VND,Plan,PL9
+530c2713-8fe9-4905-a3ea-febd2018f444,2009,10,Cả nước,National,Investment,Các dự án cấp bách bổ sung,,Investment_Amount,125890.0,million_VND,Cumulative,PL9
+83a4619b-2c98-4b68-a3f2-b6149c119c65,2009,10,Cả nước,National,Investment,Các dự án thuỷ lợi ĐBSôngHồng,,Investment_Amount,400000.0,million_VND,Plan,PL9
+cd7dbaa6-c3c1-4c58-9a0d-8041dbf79230,2009,10,Cả nước,National,Investment,Các dự án thuỷ lợi ĐBSôngHồng,,Investment_Amount,144176.0,million_VND,Cumulative,PL9
+f33ff7a1-e79d-41a4-8a97-d440851b3d67,2009,10,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,3850000.0,million_VND,Plan,PL9
+b783d134-5c78-4b91-8119-1c866441a729,2009,10,Cả nước,National,Investment,Tổng vốn TPCP (C+D+E),,Investment_Amount,2345691.0,million_VND,Cumulative,PL9

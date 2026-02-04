@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "extraction_date": "2026-01-09T00:04:03.098432",
-    "total_records": 179,
+    "extraction_date": "2026-01-29T22:01:18.032168",
+    "total_records": 157,
     "total_files_processed": 16,
     "year": 2013,
     "month": 6,
@@ -10,7 +10,7 @@
   },
   "records": [
     {
-      "record_id": "ccbab95d78d6a231",
+      "record_id": "0732faa7-89dd-4efe-abed-1f12d138fa3c",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -18,10 +18,10 @@
         "period_type": "Seasonal"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1. Thu hoạch lúa đông xuân miền Bắc",
-        "region_id": null,
-        "region_name_vn": null
+        "geo_level": "Regional",
+        "location_name": "Miền Bắc",
+        "region_id": "North",
+        "region_name_vn": "Miền Bắc"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -32,7 +32,7 @@
       },
       "metric_context": {
         "attribute": "Area_Harvested",
-        "value": 8461.0,
+        "value": 846.1,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -50,16 +50,16 @@
         "row_number": 2,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 1. Thu hoạch lúa đông xuân miền Bắc"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "799b5f3f41851804",
+      "record_id": "6543fe72-1326-4a0f-9421-3950d222e664",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -67,10 +67,10 @@
         "period_type": "Seasonal"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1. Thu hoạch lúa đông xuân miền Bắc",
-        "region_id": null,
-        "region_name_vn": null
+        "geo_level": "Regional",
+        "location_name": "Miền Bắc",
+        "region_id": "North",
+        "region_name_vn": "Miền Bắc"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -81,7 +81,7 @@
       },
       "metric_context": {
         "attribute": "Area_Harvested",
-        "value": 11173.0,
+        "value": 1117.3,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -99,136 +99,38 @@
         "row_number": 2,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 1. Thu hoạch lúa đông xuân miền Bắc"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "59a63f9ad99dadff",
+      "record_id": "99ebd8f5-a343-4362-a8e0-5af4860575aa",
       "time_context": {
         "year": 2012,
         "month": 6,
         "report_date": "2012-06-15",
-        "period_type": "Monthly"
+        "period_type": "Seasonal"
       },
       "geo_context": {
         "geo_level": "Provincial",
-        "location_name": "- Bắc Trung bộ",
+        "location_name": "Cả Nước",
         "region_id": null,
         "region_name_vn": null
       },
       "item_context": {
         "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu",
         "variety": null,
         "processing_level": "Raw"
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 3468.0,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "b04377b24443ae67",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Bắc Trung bộ",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3482.0,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "10bfe859e1cc3433",
-      "time_context": {
-        "year": 2012,
-        "month": 6,
-        "report_date": "2012-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "2. Gieo cấy lúa hè thu cả nước",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 20903.0,
+        "value": 2090.3,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -246,7 +148,7 @@
         "row_number": 5,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 2. Gieo cấy lúa hè thu cả nước"
       },
       "data_quality": {
         "is_aggregated": false,
@@ -255,29 +157,29 @@
       }
     },
     {
-      "record_id": "1a26c87db8ab9098",
+      "record_id": "6243053d-2669-49c0-a15b-f4a0c373e300",
       "time_context": {
         "year": 2013,
         "month": 6,
         "report_date": "2013-06-15",
-        "period_type": "Monthly"
+        "period_type": "Seasonal"
       },
       "geo_context": {
         "geo_level": "Provincial",
-        "location_name": "2. Gieo cấy lúa hè thu cả nước",
+        "location_name": "Cả Nước",
         "region_id": null,
         "region_name_vn": null
       },
       "item_context": {
         "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu",
         "variety": null,
         "processing_level": "Raw"
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 20165.0,
+        "value": 2016.5,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -295,7 +197,7 @@
         "row_number": 5,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 2. Gieo cấy lúa hè thu cả nước"
       },
       "data_quality": {
         "is_aggregated": false,
@@ -304,7 +206,7 @@
       }
     },
     {
-      "record_id": "1c36c0289449c2d9",
+      "record_id": "d944130e-fd10-40c0-93d8-56320d8f4c99",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -312,106 +214,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Miền Nam",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 18809.0,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 7,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "7a6dd3b6bf2cd647",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Miền Nam",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 18723.0,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 7,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "cdf703c4e6f152d5",
-      "time_context": {
-        "year": 2012,
-        "month": 6,
-        "report_date": "2012-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3.1 Gieo trồng màu lương thực",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -424,7 +228,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 12051.0,
+        "value": 1205.1,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -442,16 +246,16 @@
         "row_number": 10,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 3.1 Gieo trồng màu lương thực"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "1ca04634bdb88bae",
+      "record_id": "503617fe-9df8-4318-a027-a43be338d2c8",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -459,8 +263,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3.1 Gieo trồng màu lương thực",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -473,7 +277,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 12958.0,
+        "value": 1295.8,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -491,16 +295,16 @@
         "row_number": 10,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 3.1 Gieo trồng màu lương thực"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "1be52c2bdb76532f",
+      "record_id": "ed561687-a2dc-4991-a04c-845ddf2caafa",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -508,8 +312,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Khoai lang",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -522,7 +326,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 1006.0,
+        "value": 100.6,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -540,16 +344,16 @@
         "row_number": 12,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Khoai lang"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "cfbc94352bdddf0c",
+      "record_id": "7f39645f-7a51-46ad-a0f5-0228995b0f4e",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -557,8 +361,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Khoai lang",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -571,7 +375,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 1004.0,
+        "value": 100.4,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -589,16 +393,16 @@
         "row_number": 12,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Khoai lang"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "64bfaadaa4a17c24",
+      "record_id": "06d6bf64-8d2a-4638-aa84-bdacc43ce283",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -606,8 +410,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Sắn",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -620,7 +424,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 3698.0,
+        "value": 369.8,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -638,16 +442,16 @@
         "row_number": 13,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Sắn"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "965a02d050d763f2",
+      "record_id": "7322c266-653f-413a-9855-e51708d91f15",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -655,8 +459,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Sắn",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -669,7 +473,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 3597.0,
+        "value": 359.7,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -687,16 +491,16 @@
         "row_number": 13,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Sắn"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "30f2c0c68c026ed6",
+      "record_id": "68ff179b-08b4-4ca3-93b7-8175c78be465",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -704,8 +508,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3.2 Gieo trồng cây công nghiệp ngắn ngày",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -718,7 +522,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 4662.0,
+        "value": 466.2,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -736,16 +540,16 @@
         "row_number": 14,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 3.2 Gieo trồng cây công nghiệp ngắn ngày"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "d554a1d86eea91ee",
+      "record_id": "6fccd500-c948-4c89-be17-26ee54181ccb",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -753,8 +557,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3.2 Gieo trồng cây công nghiệp ngắn ngày",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -767,7 +571,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 4769.0,
+        "value": 476.9,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -785,16 +589,16 @@
         "row_number": 14,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 3.2 Gieo trồng cây công nghiệp ngắn ngày"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "30653d1240af7873",
+      "record_id": "676e8bc0-7179-4b95-b54c-1153bd9ddf36",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -802,8 +606,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Đậu tương",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -816,7 +620,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 827.0,
+        "value": 82.7,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -834,16 +638,16 @@
         "row_number": 16,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Đậu tương"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "59380134268b4d2a",
+      "record_id": "067271d1-2ff0-45a4-a962-87596f13b085",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -851,8 +655,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Đậu tương",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -865,7 +669,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 785.0,
+        "value": 78.5,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -883,16 +687,16 @@
         "row_number": 16,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Đậu tương"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "d8951d6937cbda1e",
+      "record_id": "d3008286-f009-4212-8914-78a856e1eb9b",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -900,119 +704,21 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Thuốc lá",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
       "item_context": {
         "sector": "Cultivation",
-        "commodity": "Unknown",
+        "commodity": "Mía",
         "sub_item": null,
         "variety": null,
         "processing_level": "Raw"
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 210.0,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 17,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "17f73e4cb6f05e7b",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Thuốc lá",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 256.0,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 17,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "62b4a0761ad137df",
-      "time_context": {
-        "year": 2012,
-        "month": 6,
-        "report_date": "2012-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Mía",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Unknown",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1557.0,
+        "value": 155.7,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -1030,16 +736,16 @@
         "row_number": 18,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Mía"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "8fe48784f7f9dd84",
+      "record_id": "8dc7060f-0bbe-4b01-ad61-b5cca31c7664",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -1047,21 +753,21 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "- Mía",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
       "item_context": {
         "sector": "Cultivation",
-        "commodity": "Unknown",
+        "commodity": "Mía",
         "sub_item": null,
         "variety": null,
         "processing_level": "Raw"
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 1590.0,
+        "value": 159.0,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -1079,16 +785,16 @@
         "row_number": 18,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: - Mía"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "115cf3e1f9ff9eb7",
+      "record_id": "55166de7-7a71-4593-aa5e-9733fa7a3ac6",
       "time_context": {
         "year": 2012,
         "month": 6,
@@ -1096,8 +802,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3.3 Gieo trồng rau, đậu các loại",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -1110,7 +816,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 5821.0,
+        "value": 582.1,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -1128,16 +834,16 @@
         "row_number": 19,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 3.3 Gieo trồng rau, đậu các loại"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "d7fdbe581553c926",
+      "record_id": "5890ef4d-ce94-4958-b0db-21fe888788fc",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -1145,8 +851,8 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3.3 Gieo trồng rau, đậu các loại",
+        "geo_level": "National",
+        "location_name": "Cả nước",
         "region_id": null,
         "region_name_vn": null
       },
@@ -1159,7 +865,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 6084.0,
+        "value": 608.4,
         "unit": "1000_ha",
         "data_type": "Actual"
       },
@@ -1177,16 +883,16 @@
         "row_number": 19,
         "extraction_method": "LLM_Extraction",
         "extraction_confidence": 0.9,
-        "notes": null
+        "notes": "Original text: 3.3 Gieo trồng rau, đậu các loại"
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "8665696aa2908c25",
+      "record_id": "a4b8fde9-6fe9-43fd-a7af-7a564d3d2dff",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1235,7 +941,7 @@
       }
     },
     {
-      "record_id": "eaadaba18dbc7fd4",
+      "record_id": "a4f4a88a-d8c6-417c-8721-c8a083ce4a75",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1284,7 +990,7 @@
       }
     },
     {
-      "record_id": "546d0ae4c442e3c8",
+      "record_id": "a120cfdc-2b7a-4309-b622-f736ff68b07f",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1333,7 +1039,7 @@
       }
     },
     {
-      "record_id": "81c902817bff83b8",
+      "record_id": "92c84533-178a-49b4-b839-aa7b3e72f92e",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1382,7 +1088,7 @@
       }
     },
     {
-      "record_id": "30b028c259503c7d",
+      "record_id": "12a95e3e-9114-423f-931a-205f554bc25a",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1431,7 +1137,7 @@
       }
     },
     {
-      "record_id": "5798ad2193b119fc",
+      "record_id": "2a788f98-d055-4b83-8e71-d120ed51395e",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1480,7 +1186,7 @@
       }
     },
     {
-      "record_id": "daa3ce586ec89278",
+      "record_id": "21e9b30b-0909-43f1-8174-0e728d4e0316",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1529,7 +1235,7 @@
       }
     },
     {
-      "record_id": "fa3d22943ee42f42",
+      "record_id": "4cfcddd3-dc52-4771-817c-51c7bafd303b",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1578,7 +1284,7 @@
       }
     },
     {
-      "record_id": "50be9b59c67c462c",
+      "record_id": "4b7cf513-af96-4366-bc44-ec3f866d50eb",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1627,7 +1333,7 @@
       }
     },
     {
-      "record_id": "cc369d4a8f3e17f4",
+      "record_id": "4bc57970-5b9f-4141-a162-8cdd7dd13cf6",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1676,7 +1382,7 @@
       }
     },
     {
-      "record_id": "9cc0ced25a45f32b",
+      "record_id": "93252aa9-1dcd-4719-a831-9a8d577e0013",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1725,7 +1431,7 @@
       }
     },
     {
-      "record_id": "7871df5174221b24",
+      "record_id": "58ef820e-4a60-4ca8-bbbf-b8465d413fba",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1774,7 +1480,7 @@
       }
     },
     {
-      "record_id": "dd45942367a487d8",
+      "record_id": "fca95e8c-29be-4bcc-9c2b-df776650480b",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1823,7 +1529,7 @@
       }
     },
     {
-      "record_id": "ee86a8f1d18710b7",
+      "record_id": "dee3bbd4-bac1-4a8d-8bf9-9dd82c9a4d18",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1872,7 +1578,7 @@
       }
     },
     {
-      "record_id": "845419e7c5652475",
+      "record_id": "4ba469be-2d1a-48cc-a6e4-e0e38ececeab",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1921,7 +1627,7 @@
       }
     },
     {
-      "record_id": "57b578e8784cff3f",
+      "record_id": "6e628878-8b14-489d-a3a2-c0e4063308d3",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -1970,7 +1676,7 @@
       }
     },
     {
-      "record_id": "ee2dd30c8f2a5289",
+      "record_id": "c80ecf7f-8a57-4f1c-b3bc-92d56ab45a11",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2019,7 +1725,7 @@
       }
     },
     {
-      "record_id": "149359f96ceb3ef8",
+      "record_id": "43237d3d-06a4-4c28-9058-e1a4102880ce",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2068,7 +1774,7 @@
       }
     },
     {
-      "record_id": "392741c7e5a36233",
+      "record_id": "f99b7a62-7c3d-48d4-b3cc-789571fa11f3",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2117,7 +1823,7 @@
       }
     },
     {
-      "record_id": "2fe75d6ee23ecdfd",
+      "record_id": "9329d83b-2f95-479b-937d-f0021274c63a",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2166,7 +1872,7 @@
       }
     },
     {
-      "record_id": "ba893002d1e29d0b",
+      "record_id": "32dc86ed-b129-49fc-a96c-0666cdafc4d0",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2215,7 +1921,7 @@
       }
     },
     {
-      "record_id": "4db3674b54c55abf",
+      "record_id": "e2a57bdb-ff81-441a-b1b0-20d96d3fd907",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2264,7 +1970,7 @@
       }
     },
     {
-      "record_id": "d08a6ae11e7510e1",
+      "record_id": "bc25430c-9a19-4dcb-88db-dc1e9e960340",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2313,7 +2019,7 @@
       }
     },
     {
-      "record_id": "e842be70033e7426",
+      "record_id": "5b8bb70d-7c5c-4b0d-90d8-f9520a365c98",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2362,7 +2068,7 @@
       }
     },
     {
-      "record_id": "c5b7fbf8b97a272c",
+      "record_id": "78bcd2bc-8790-4934-b668-7545f100399f",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2411,7 +2117,7 @@
       }
     },
     {
-      "record_id": "5e311992d573edff",
+      "record_id": "ade39105-5623-4739-82bf-aa67de1fdab7",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2460,7 +2166,7 @@
       }
     },
     {
-      "record_id": "19154891c352c1f2",
+      "record_id": "4a1038ef-b83e-4c46-96f0-686fdb06c0e8",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2509,7 +2215,7 @@
       }
     },
     {
-      "record_id": "9cb4122697c8ccca",
+      "record_id": "42678ea3-2839-4209-8ee0-668cc20f737c",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2558,7 +2264,7 @@
       }
     },
     {
-      "record_id": "38ff2360efc925a6",
+      "record_id": "8e4a5ae2-b6b5-4eb9-9821-14c896cb3fc4",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2607,7 +2313,7 @@
       }
     },
     {
-      "record_id": "c91483dd33905ba7",
+      "record_id": "191bbcad-8651-4b57-b2f6-964138c76fe0",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2656,7 +2362,7 @@
       }
     },
     {
-      "record_id": "32dcdec7094ebb49",
+      "record_id": "31e75190-e115-489d-86c0-155419fbd223",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2705,7 +2411,7 @@
       }
     },
     {
-      "record_id": "b7d4d734d240e82c",
+      "record_id": "99817ce3-f919-472d-8e48-4bc256371ac1",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2754,7 +2460,7 @@
       }
     },
     {
-      "record_id": "e3e3edf021293c1e",
+      "record_id": "c835e0af-81b4-430f-8c8e-9c353f64db64",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2803,7 +2509,7 @@
       }
     },
     {
-      "record_id": "fe02548a5ccfbd6e",
+      "record_id": "51771fd9-6fbd-4a5a-920f-9dbad3739ecb",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2852,7 +2558,7 @@
       }
     },
     {
-      "record_id": "d1716242864c9337",
+      "record_id": "253852b4-8095-4d11-b0b2-c826fc81d243",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2901,7 +2607,7 @@
       }
     },
     {
-      "record_id": "333976a844ee5cad",
+      "record_id": "cc255400-7d14-4c66-9c18-a7c620a2d42f",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2950,7 +2656,7 @@
       }
     },
     {
-      "record_id": "422548b393ebde1b",
+      "record_id": "73b7ccb1-d4b7-42db-8629-b6983cfd8721",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -2999,7 +2705,7 @@
       }
     },
     {
-      "record_id": "851337fd8c727458",
+      "record_id": "f5898f56-13c8-4831-b7be-e107752d0e61",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -3048,7 +2754,7 @@
       }
     },
     {
-      "record_id": "132910bb25c26eeb",
+      "record_id": "52bddf97-aa82-473e-ae99-53988233761c",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -3097,7 +2803,7 @@
       }
     },
     {
-      "record_id": "e42c13c33c7b4167",
+      "record_id": "665e1c6f-8eb7-4fc2-affa-ba83005ecec9",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -3146,7 +2852,7 @@
       }
     },
     {
-      "record_id": "77540af63f8765ff",
+      "record_id": "61b06c19-f43f-4d57-baba-5db1bdd1b1c3",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -3195,7 +2901,7 @@
       }
     },
     {
-      "record_id": "5c3d69849e263537",
+      "record_id": "7fc9d1be-d3fb-420a-a448-88cf2211e852",
       "time_context": {
         "year": 2013,
         "month": 11,
@@ -3244,791 +2950,7 @@
       }
     },
     {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.1558925606531023e+175,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 6.246586126916016e+104,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.4012021584779013e+61,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.442160014421643e+38,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 7.798701097152175e+170,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 5.48696755001589e+161,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.4546361853565819e+113,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "58d1cc45b090c66c",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.4029618715102575e+65,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 2.4106470135256092e+151,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.2231624891497416e+139,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 6.785638173194041e+114,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.533126702223484e+58,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3.0491912892117996e+62,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 5.070348912311505e+54,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 2.7281413777215905e+143,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "73bc8f423d192121",
-      "time_context": {
-        "year": 2013,
-        "month": 6,
-        "report_date": "2013-06-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.4288121271518146e+66,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2013_06_Phuluc_06_2013_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "24b42b03-7ac1-47b1-a7b3-6122294f64ce",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4050,7 +2972,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1006.0,
+        "value": 100.6,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4077,7 +2999,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "40322f78-2a43-4596-ab29-f8dc01480d87",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4126,7 +3048,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "aa03a973-4519-44a1-b0f6-9f225684c00e",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4148,7 +3070,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 994.0,
+        "value": 99.4,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4175,7 +3097,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "8df7d639-e402-4345-92c4-8070a77e73ca",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4197,7 +3119,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 659.0,
+        "value": 65.9,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4224,7 +3146,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "40245eb7-c1bc-4a1d-ad73-afe6a13f93a5",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4246,7 +3168,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 994.0,
+        "value": 99.4,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4273,7 +3195,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "e7f28d8b-4f8e-46ce-9484-82240bef6e0d",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4295,7 +3217,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1028.0,
+        "value": 102.8,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4322,7 +3244,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "fde94414-7457-41e7-9f3c-48f0e5f948bb",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4344,7 +3266,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 711.0,
+        "value": 71.1,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4371,7 +3293,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "5555b736-9d41-403d-8402-0b0ec7ebebb7",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4420,7 +3342,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "c1174140-f388-4488-a28a-5d10308a885d",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4442,7 +3364,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 559.0,
+        "value": 55.9,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4469,7 +3391,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "a78030db-509b-4d40-9a70-f509de3a4fba",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4491,7 +3413,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1049.0,
+        "value": 104.9,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4518,7 +3440,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "721e91f2-bec0-47d5-ace4-bd4ed7f2ed64",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4540,7 +3462,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 3974.0,
+        "value": 397.4,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4567,7 +3489,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "8861c06e-5237-4700-9b7c-020ac03dd1d8",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4589,7 +3511,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 972.0,
+        "value": 97.2,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4616,7 +3538,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "bd456568-d7dc-41d1-b2c6-42c14e8d6f48",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4638,7 +3560,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 175.0,
+        "value": 17.5,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4665,7 +3587,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "62ec900a-d0e3-4e1e-8eeb-05e48ee4b88a",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4687,7 +3609,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 989.0,
+        "value": 98.9,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4714,7 +3636,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "61feab36-3e93-4452-9a08-40296e9e210d",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4736,7 +3658,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1739.0,
+        "value": 173.9,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4763,7 +3685,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "adda5a14-88b9-42fd-b8cb-b132e58fd8d2",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4785,7 +3707,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 961.0,
+        "value": 96.1,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -4812,7 +3734,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "6ab8f8b0-e93d-44c6-a091-0c82c198293a",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4834,7 +3756,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 3044.0,
+        "value": 304.4,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -4861,7 +3783,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "12e9caa3-059a-4c6b-a104-a8e5899ec0c9",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4910,7 +3832,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "4a6da519-4b0d-40f1-8f51-f2e3b1b3b3c3",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4959,7 +3881,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "13fec15b-a128-493e-81cf-28280ef29ba5",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -4981,7 +3903,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 999.0,
+        "value": 99.9,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5008,7 +3930,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "496348ce-bd23-43f1-a272-9a3a0448d2b2",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5057,7 +3979,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "8fbc7cac-3e96-4be5-b5ec-682c5d391041",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5079,7 +4001,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1129.0,
+        "value": 112.9,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5106,7 +4028,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "19a04214-cdb2-4529-8a15-70820b459745",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5128,7 +4050,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 23.0,
+        "value": 2.3,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -5155,7 +4077,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "56d58cd7-e7a4-430a-9a94-68c411b84544",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5177,7 +4099,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 987.0,
+        "value": 98.7,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5204,7 +4126,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "4f5ef486-0318-44cc-901c-0636bd90e066",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5226,7 +4148,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 395.0,
+        "value": 39.5,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -5253,7 +4175,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "bca7f62c-0d2d-4d84-8624-e1c94337a5d4",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5275,7 +4197,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1062.0,
+        "value": 106.2,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5302,7 +4224,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "022e88bc-e265-401e-bad0-9f1fcb4500ca",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5324,7 +4246,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 284.0,
+        "value": 28.4,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -5351,7 +4273,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "8877ca2e-6ea3-4d8e-b6e5-57ce26a043f3",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5373,7 +4295,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1048.0,
+        "value": 104.8,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5400,7 +4322,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "0aecd271-89f4-4a5a-9b7b-89167906f47f",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5422,7 +4344,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1123.0,
+        "value": 112.3,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -5449,7 +4371,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "7470a8d0-fd54-4f6f-bbce-e6e4cb866042",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5471,7 +4393,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 985.0,
+        "value": 98.5,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5498,7 +4420,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "829be38d-5625-41ef-8481-746df0326acf",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5520,7 +4442,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1893.0,
+        "value": 189.3,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -5547,7 +4469,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "14e34e94-6e63-4e23-8088-cc32bd26f51d",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5596,7 +4518,7 @@
       }
     },
     {
-      "record_id": "6558a759818e01bb",
+      "record_id": "bdfe2f5f-e555-4138-92af-1aafc2d5e11b",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5618,7 +4540,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1829.0,
+        "value": 182.9,
         "unit": "1000_ha",
         "data_type": "Plan"
       },
@@ -5645,7 +4567,7 @@
       }
     },
     {
-      "record_id": "05d7f7f625d7f104",
+      "record_id": "09945bdf-7cc1-44b1-bee8-dfb13a4edff6",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -5667,7 +4589,7 @@
       },
       "metric_context": {
         "attribute": "Area",
-        "value": 1015.0,
+        "value": 101.5,
         "unit": "1000_ha",
         "data_type": "Estimated"
       },
@@ -5694,7 +4616,7 @@
       }
     },
     {
-      "record_id": "85c413852d734967",
+      "record_id": "3b3c5484-eab7-47f8-8d37-4c77d2311bf6",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -5716,7 +4638,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 562.0,
+        "value": 56.2,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -5743,7 +4665,7 @@
       }
     },
     {
-      "record_id": "1f2e5b28e9150bec",
+      "record_id": "b86bd5ff-62ef-4c19-9646-45f693ba52fa",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -5765,7 +4687,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 681.0,
+        "value": 68.1,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -5792,7 +4714,7 @@
       }
     },
     {
-      "record_id": "5d8d2cc99f10fe4a",
+      "record_id": "e07053ba-4ea6-49e0-b2bc-dbe28c5b6ff1",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -5814,7 +4736,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 47.0,
+        "value": 4.7,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -5841,7 +4763,7 @@
       }
     },
     {
-      "record_id": "d6a7fdd39a204316",
+      "record_id": "4b7792be-f91c-4a34-83a0-b620e8599b85",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -5863,7 +4785,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 55.0,
+        "value": 5.5,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -5890,7 +4812,7 @@
       }
     },
     {
-      "record_id": "b65e3c22549bf6a2",
+      "record_id": "8d6865b9-eb74-4c47-9482-7395295c0364",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -5912,7 +4834,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 515.0,
+        "value": 51.5,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -5939,7 +4861,7 @@
       }
     },
     {
-      "record_id": "92faeb8c503c22c1",
+      "record_id": "24a9d8aa-dc2f-4bfc-8d1d-50b21e22446d",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -5961,7 +4883,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 626.0,
+        "value": 62.6,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -5988,7 +4910,7 @@
       }
     },
     {
-      "record_id": "eb888afddd66dc3f",
+      "record_id": "5ef284ff-686c-410a-890b-2cf96ddd3478",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6010,7 +4932,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 2275.0,
+        "value": 227.5,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -6037,7 +4959,7 @@
       }
     },
     {
-      "record_id": "aebe03ea88411234",
+      "record_id": "51cb6a3c-fd22-4813-82af-156370a94e0c",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6059,7 +4981,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 2903.0,
+        "value": 290.3,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -6086,7 +5008,7 @@
       }
     },
     {
-      "record_id": "3df69d3bcacd4f02",
+      "record_id": "3641b994-32ed-4957-a51e-ed25f50bbc2b",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6108,7 +5030,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 1087.0,
+        "value": 108.7,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -6135,7 +5057,7 @@
       }
     },
     {
-      "record_id": "0c7fd99047b72ea2",
+      "record_id": "e358856b-3ec9-4550-8467-ce811b4311de",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6157,7 +5079,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 1113.0,
+        "value": 111.3,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -6184,7 +5106,7 @@
       }
     },
     {
-      "record_id": "8025f6b788e0d65e",
+      "record_id": "86bd66e6-1e2d-4834-97ec-9024b40e75e6",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6206,7 +5128,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 6152.0,
+        "value": 615.2,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -6233,7 +5155,7 @@
       }
     },
     {
-      "record_id": "98f8ffec302bdcd5",
+      "record_id": "954f95b1-565b-47bf-ad52-2808b02d5b8a",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6255,7 +5177,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 6086.0,
+        "value": 608.6,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -6282,7 +5204,7 @@
       }
     },
     {
-      "record_id": "8a8758e3b1150cad",
+      "record_id": "780a9b9a-3f0b-4f84-a8de-6db7fa3e5fc9",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6304,7 +5226,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 18800.0,
+        "value": 1880.0,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -6331,7 +5253,7 @@
       }
     },
     {
-      "record_id": "90afa74c2910d2cc",
+      "record_id": "84794fdd-fc52-4026-aaba-7d7201944f91",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6353,7 +5275,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 32251.0,
+        "value": 3225.1,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -6380,7 +5302,7 @@
       }
     },
     {
-      "record_id": "e7106c49b23ee75c",
+      "record_id": "59bc3dff-f345-4634-b5c7-3daf65026bf2",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6402,7 +5324,7 @@
       },
       "metric_context": {
         "attribute": "Export_Volume",
-        "value": 22488.0,
+        "value": 2248.8,
         "unit": "1000_ton",
         "data_type": "Actual"
       },
@@ -6429,7 +5351,7 @@
       }
     },
     {
-      "record_id": "21037575dd8734bd",
+      "record_id": "75de7bd5-0bd8-4ee9-b80f-73ec1ec5885a",
       "time_context": {
         "year": 2013,
         "month": 1,
@@ -6451,7 +5373,7 @@
       },
       "metric_context": {
         "attribute": "Export_Value",
-        "value": 24106.0,
+        "value": 2410.6,
         "unit": "million_USD",
         "data_type": "Actual"
       },
@@ -6478,7 +5400,7 @@
       }
     },
     {
-      "record_id": "998d0aeec20b29fe",
+      "record_id": "7d78d095-aa63-4c3d-8416-4adce112b073",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6527,7 +5449,7 @@
       }
     },
     {
-      "record_id": "4661917f0ccee75b",
+      "record_id": "6e981595-f7b5-4090-9c16-3f5a8e9b08ac",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6576,7 +5498,7 @@
       }
     },
     {
-      "record_id": "e820db30f9d3eaf4",
+      "record_id": "a49478b5-f299-4509-9e79-43cf21c26365",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6625,7 +5547,7 @@
       }
     },
     {
-      "record_id": "e2690572be7d64b9",
+      "record_id": "3d2e0a23-13b4-4995-8cef-a7a28d835961",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6674,7 +5596,7 @@
       }
     },
     {
-      "record_id": "4cb2e5bc44682710",
+      "record_id": "ab0f7ad8-5ea7-41d1-8be8-42b5887f39bf",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6723,7 +5645,7 @@
       }
     },
     {
-      "record_id": "f937380de45060a9",
+      "record_id": "9c753489-2d74-4a0f-9382-c987d4a4c5ad",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6772,7 +5694,7 @@
       }
     },
     {
-      "record_id": "647287d5058eb3b3",
+      "record_id": "2a46222f-5191-4e1b-b6f7-4652c035bf6c",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6821,7 +5743,7 @@
       }
     },
     {
-      "record_id": "631cca9e28d14fdc",
+      "record_id": "9c37a211-1002-408c-ac82-f9625cad4e52",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6870,7 +5792,7 @@
       }
     },
     {
-      "record_id": "34b0a8e588f74036",
+      "record_id": "15eedc92-d4eb-4840-9821-86196c6ef8f7",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6919,7 +5841,7 @@
       }
     },
     {
-      "record_id": "f0c91f95dca56f40",
+      "record_id": "9b4908da-4eb8-473c-9f26-28378a83d1a9",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -6968,7 +5890,7 @@
       }
     },
     {
-      "record_id": "02278932916d51b6",
+      "record_id": "a09585f5-9134-480f-aa85-f9a447aa3c00",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7017,7 +5939,7 @@
       }
     },
     {
-      "record_id": "0afd16a423bffd84",
+      "record_id": "1ee857c9-00aa-4d3b-a049-9fc5811b30c4",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7066,7 +5988,7 @@
       }
     },
     {
-      "record_id": "58f10c38b7706f6a",
+      "record_id": "b3928ac5-a00f-4eed-82d9-c921feabf038",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7115,7 +6037,7 @@
       }
     },
     {
-      "record_id": "3300fe7adc317e63",
+      "record_id": "187ae718-e2a4-4dc0-9f86-2c62bb7b5ae2",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7164,7 +6086,7 @@
       }
     },
     {
-      "record_id": "ec60080103c124f7",
+      "record_id": "87c45789-8836-4f19-9365-b91f9040a2e9",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7213,7 +6135,7 @@
       }
     },
     {
-      "record_id": "a6308cf3a873c867",
+      "record_id": "d0addfca-d468-4eb6-ac37-20537165769f",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7262,7 +6184,7 @@
       }
     },
     {
-      "record_id": "1ec98e039da1bac4",
+      "record_id": "fb6a5adc-bbd2-4ddb-8656-ed1c778939f6",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7311,7 +6233,7 @@
       }
     },
     {
-      "record_id": "0bfb883b0c6d1b59",
+      "record_id": "2338ff1c-e67c-4777-8686-2b7a88c8f27c",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7360,7 +6282,7 @@
       }
     },
     {
-      "record_id": "cc83270393d87749",
+      "record_id": "f3a1f130-5768-4902-a74e-c9c1de96fdba",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7409,7 +6331,7 @@
       }
     },
     {
-      "record_id": "50ec3320258b6c3d",
+      "record_id": "131f2b0e-4e2a-4a33-9ed2-16c80f922eeb",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7458,7 +6380,7 @@
       }
     },
     {
-      "record_id": "af81fe45747b2888",
+      "record_id": "9b108fc3-aa4e-4a01-8eb1-4c4d9375eb9a",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7507,7 +6429,7 @@
       }
     },
     {
-      "record_id": "dd4b67501f896019",
+      "record_id": "8e74e290-ccc4-4cfb-aae7-5e9d8f8c8009",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7556,7 +6478,7 @@
       }
     },
     {
-      "record_id": "348a0fc96de09f87",
+      "record_id": "d933fda4-a6c0-40bc-97f1-31dcf65efa99",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7605,7 +6527,7 @@
       }
     },
     {
-      "record_id": "0c2a23fb4188eb3a",
+      "record_id": "5b866ed9-4bb3-43f8-8a05-6333b4b569e3",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7654,7 +6576,7 @@
       }
     },
     {
-      "record_id": "d0b02000c31e5c7c",
+      "record_id": "7be21ded-376a-4b43-98c5-18e2554f00cf",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7703,7 +6625,7 @@
       }
     },
     {
-      "record_id": "49a9c10b60a7a1a7",
+      "record_id": "313094a4-7a7a-4894-9349-11ab8151e2a6",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7752,7 +6674,7 @@
       }
     },
     {
-      "record_id": "2051d6323ad4ca8c",
+      "record_id": "756b49a3-64fa-455d-9f99-e21a9520cbd5",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7801,7 +6723,7 @@
       }
     },
     {
-      "record_id": "08a571e1fdbb3a7f",
+      "record_id": "e86d5bc0-72c0-41aa-8d8c-1608fa91ad21",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7850,7 +6772,7 @@
       }
     },
     {
-      "record_id": "c8b396f64034c46a",
+      "record_id": "bee6f9dc-31f7-49f7-8218-9ecc7d125399",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7899,7 +6821,7 @@
       }
     },
     {
-      "record_id": "3e7fed20cfb49a3e",
+      "record_id": "c78c287c-0390-483a-8647-e72ca1fef3af",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7948,7 +6870,7 @@
       }
     },
     {
-      "record_id": "bcdcfeefa103f9e4",
+      "record_id": "69594094-295b-4dc7-bf98-1e443613dde1",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -7997,7 +6919,7 @@
       }
     },
     {
-      "record_id": "31cf5213fa5773f7",
+      "record_id": "96e8c864-4607-446d-8d74-fc93d62300fb",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8046,7 +6968,7 @@
       }
     },
     {
-      "record_id": "420cf72464a4bb70",
+      "record_id": "b8eaeb36-2239-4f9f-ae86-313d500e3ee2",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8095,7 +7017,7 @@
       }
     },
     {
-      "record_id": "3cd33e9f7bc9cba0",
+      "record_id": "dfd9acb7-c0d9-4ee4-b388-757e0b4988c5",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8144,7 +7066,7 @@
       }
     },
     {
-      "record_id": "10c8f3bfb2cc92df",
+      "record_id": "608b016d-152d-42bc-adc5-4c8633ae8ced",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8193,7 +7115,7 @@
       }
     },
     {
-      "record_id": "00ddb87761bd7de5",
+      "record_id": "00ac8eac-64b2-4bf9-9021-f8d9f441472b",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8242,7 +7164,7 @@
       }
     },
     {
-      "record_id": "8045a7693cbde3af",
+      "record_id": "687e6294-d049-42b0-ab92-2b502309b57c",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8291,7 +7213,7 @@
       }
     },
     {
-      "record_id": "a957ac2b6ea48b7b",
+      "record_id": "0f4b7ed1-2fa3-4158-bc10-00ee93c24a1c",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8340,7 +7262,7 @@
       }
     },
     {
-      "record_id": "f088d237d997d81b",
+      "record_id": "5bb5e07b-ced3-41d0-9855-5bef3aaa4acc",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8389,7 +7311,7 @@
       }
     },
     {
-      "record_id": "236638210f6fce47",
+      "record_id": "8d507784-1733-4437-9c22-fd6096069e07",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8438,7 +7360,7 @@
       }
     },
     {
-      "record_id": "31ffa1cfa39cae2f",
+      "record_id": "3b731573-aedc-4b62-ab0e-dc43cf5b0518",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8487,7 +7409,7 @@
       }
     },
     {
-      "record_id": "8e4f8c9127ff4a95",
+      "record_id": "2e27a526-1053-4b99-b2b7-3bf1764fa529",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8536,7 +7458,7 @@
       }
     },
     {
-      "record_id": "451de13676ad515f",
+      "record_id": "184ac4bf-09d6-477d-96a1-a6839cb4ff28",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8585,7 +7507,7 @@
       }
     },
     {
-      "record_id": "734765c126f28d28",
+      "record_id": "4e27a238-83f6-4c4a-8f35-93d831419fdd",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8634,7 +7556,7 @@
       }
     },
     {
-      "record_id": "78e7582361eebb1f",
+      "record_id": "66bfc453-5e34-4634-89c4-d540cb773cdb",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8683,7 +7605,7 @@
       }
     },
     {
-      "record_id": "4ecce2a516b8d8d3",
+      "record_id": "9d4ae9e5-3ba5-4488-a919-beb5dcbfeeae",
       "time_context": {
         "year": 2013,
         "month": 6,
@@ -8732,7 +7654,7 @@
       }
     },
     {
-      "record_id": "e78a3cb2b3fc2911",
+      "record_id": "d4fb7491-216d-4005-9d70-d34edf24067b",
       "time_context": {
         "year": 2013,
         "month": 6,

@@ -1,0 +1,4668 @@
+{
+  "metadata": {
+    "extraction_date": "2026-01-08T23:53:07.129796",
+    "total_records": 95,
+    "total_files_processed": 13,
+    "year": 2012,
+    "month": 6,
+    "schema_version": "2.0",
+    "extraction_method": "LLM_Extraction"
+  },
+  "records": [
+    {
+      "record_id": "06b6e44bc56c4bba",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Seasonal"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "1. Thu hoạch lúa đông xuân miền Bắc",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân",
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 4808.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "ccbab95d78d6a231",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Seasonal"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "1. Thu hoạch lúa đông xuân miền Bắc",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân",
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 8461.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "202d572013383808",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Bắc Trung bộ",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2157.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "59a63f9ad99dadff",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Bắc Trung bộ",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3468.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "2428299f0f324782",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "2. Gieo cấy lúa hè thu cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20178.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "10bfe859e1cc3433",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "2. Gieo cấy lúa hè thu cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20903.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "cc9832ba60f797f8",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Miền Nam",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 19378.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "1c36c0289449c2d9",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Miền Nam",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 19660.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "465ed260836ae74e",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "3.1 Gieo trồng màu lương thực",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 13202.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "cdf703c4e6f152d5",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "3.1 Gieo trồng màu lương thực",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 12051.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "55c0fc9a5ae908af",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Khoai lang",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1144.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "1be52c2bdb76532f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Khoai lang",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1006.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "628c4ca3e397c339",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Sắn",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3800.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "64bfaadaa4a17c24",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Sắn",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3698.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "019202c3afa0938b",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "3.2 Gieo trồng cây công nghiệp ngắn ngày",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây công nghiệp ngắn ngày",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5450.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "30f2c0c68c026ed6",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "3.2 Gieo trồng cây công nghiệp ngắn ngày",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây công nghiệp ngắn ngày",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4662.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "b96552cb07f312de",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Đậu tương",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Đậu tương",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1227.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "30653d1240af7873",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Đậu tương",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Đậu tương",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 827.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "6c1f46b5d2b1b373",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Thuốc lá",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 194.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "d8951d6937cbda1e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Thuốc lá",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 210.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "8244bc4927d2de6f",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Mía",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1691.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 18,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "62b4a0761ad137df",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "- Mía",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Unknown",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1557.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 18,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "0a70e68267268fa7",
+      "time_context": {
+        "year": 2011,
+        "month": 6,
+        "report_date": "2011-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "3.3 Gieo trồng rau, đậu các loại",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Rau đậu",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5964.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 19,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "115cf3e1f9ff9eb7",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "3.3 Gieo trồng rau, đậu các loại",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Rau đậu",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5821.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 19,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.1564005632051004e+175,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 8.460923909498932e+154,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "60fe9da7dc301fb1",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Harvest_Percentage",
+        "value": 7.326948907791e+109,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7.230871010682455e+169,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a749af72a2ea3cb7",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.835457196218582e+161,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "889499e4ca7ea096",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7.305819598357314e+131,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "d0591b9e7ab7c095",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.5160451888181865e+116,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.4881432015821598e+70,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL2.md",
+        "appendix_number": "PL2",
+        "appendix_title": "Phụ lục 2",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.5481670182144962e+153,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 6.736936775996134e+112,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.2387524285453512e+139,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.595421552155128e+54,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.7612153753948584e+66,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "bd60a36d60b04a7b",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.000754301592729e+79,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "7d4a0b2fdf7b30f5",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Rau",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.502121320802063e+149,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL3.md",
+        "appendix_number": "PL3",
+        "appendix_title": "Phụ lục 3",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.85,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 1045.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 538.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 1617.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 29.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 1013.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 509.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 869.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 2617.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 1006.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 1080.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 951.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 6472.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 900.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 20883.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a9f337ce11d9921e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 1120.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "24d922779a48637f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Rừng",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": "Raw"
+      },
+      "metric_context": {
+        "attribute": "Area",
+        "value": 20070.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL6.md",
+        "appendix_number": "PL6",
+        "appendix_title": "TÌNH HÌNH THỰC HIỆN LÂM NGHIỆP",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.88,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "4c69d32728e34a42",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "0",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "c8abe3d6400b2bf2",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "0",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 4.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "b0c66c16aebcd741",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "I",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2512.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "6232964843d3ea55",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "I",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 2067.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "c5c9b9984fb5b50c",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "1",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1252.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "22fbd2193b7a8eeb",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "1",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 1051.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "4b1d511df68290b2",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "1.1",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1170.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "b2dd89277b4c3b04",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "1.1",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 986.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "3d4297a5a5fb6d26",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "1.2",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 82.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "776e98f5ea9cef4c",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "1.2",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 65.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "ab27cef591a69fcd",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "2",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1260.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "4e870957eb43ec2c",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "report_date": "2012-01-31",
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "2",
+        "sub_item": "Xuất khẩu",
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 1016.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL8.md",
+        "appendix_number": "PL8",
+        "appendix_title": "TÌNH HÌNH XUẤT, NHẬP KHẨU NÔNG LÂM THUỶ SẢN",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.8,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "ba84e894ad094a33",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "TỔNG CỘNG : ( = A + B )",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 7999196.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "d0ebb20b09c56f00",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "TỔNG CỘNG : ( = A + B )",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2826138.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "0cc1fdd8c93e9784",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện dự án",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 4300300.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "4fa423f0de984af4",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện dự án",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2066848.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "944f0916e1617973",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy lợi",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2466000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "6d1befbb3a008f4e",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy lợi",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1300000.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "92f8f5fb11aa742a",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Nông nghiệp",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 930000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "2f61834d9d68cbe6",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Nông nghiệp",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 430362.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "04270f4b63d8ba94",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Lâm nghiệp",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 334000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "24ca7285b346059f",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Lâm nghiệp",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 149257.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "8bedf83b332ec3ff",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy sản",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 85000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "a21c664bcb17b3c1",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy sản",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 36000.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "dc620f3645239060",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 140000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "1d22f86cb7b05d06",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 51529.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "ef97fe98e51d5939",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Khoa học - Công nghệ",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 65800.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "09753481020428da",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Khoa học - Công nghệ",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 17000.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "b0b758babc341b10",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình trọng điểm pháttriển và ứng dụng công nghệsinh học",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 30000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "2e43100a4b52a7a8",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình trọng điểm pháttriển và ứng dụng công nghệsinh học",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 5500.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "20daa0fb0401c67d",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Dự án tăng cường năng lựcquản lý chất lượng nông lâmthủy sản và muối",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 15000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "6e6a6d40b1890d88",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư khác",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 224500.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "42f4bbe599eefacd",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư khác",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 77200.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "340a59351fbb8060",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Tài nguyên môi trường",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 10000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "75d43aafa137dc18",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 416500.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "161e148b03882864",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn đầu tư theo các mục tiêunhiệm vụ cụ thể",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 84790.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": true,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "27f6265d826aeb06",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình nuôi trồng thủysản",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 180000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "57f693b43625b8e9",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình nuôi trồng thủysản",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 33090.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    },
+    {
+      "record_id": "3b1b38a0a6f202e3",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-15",
+        "period_type": "YTD"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình giống",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 110000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Complete"
+      }
+    },
+    {
+      "record_id": "230cb9d0d30d99e5",
+      "time_context": {
+        "year": 2012,
+        "month": 6,
+        "report_date": "2012-06-28",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": null,
+        "region_name_vn": null
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình giống",
+        "sub_item": null,
+        "variety": null,
+        "processing_level": null
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 28000.0,
+        "unit": "million_VND",
+        "data_type": "Cumulative"
+      },
+      "comparison_context": {
+        "comparison_type": "None",
+        "comparison_value": null,
+        "base_period": null,
+        "base_value": null
+      },
+      "metadata": {
+        "source_file": "2012_06_Phuluc_06_2012_PL9.md",
+        "appendix_number": "PL9",
+        "appendix_title": "BÁO CÁO THỰC HIỆN KẾ HOẠCH ĐẦU TƯ XDCB",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "notes": null
+      },
+      "data_quality": {
+        "is_aggregated": false,
+        "has_missing_values": false,
+        "data_status": "Estimated"
+      }
+    }
+  ]
+}

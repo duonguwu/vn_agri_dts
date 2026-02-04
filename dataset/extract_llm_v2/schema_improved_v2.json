@@ -1,0 +1,257 @@
+{
+  "version": "2.0",
+  "description": "Improved schema for Vietnamese Agricultural Data - Long Format",
+  "structure": {
+    "record_id": {
+      "type": "string",
+      "description": "Mã định danh duy nhất (UUID)",
+      "constraint": "Unique",
+      "required": true
+    },
+    "time_context": {
+      "year": {
+        "type": "integer",
+        "constraint": "2008-2022",
+        "required": true
+      },
+      "month": {
+        "type": "integer",
+        "constraint": "1-12",
+        "required": true
+      },
+      "report_date": {
+        "type": "string",
+        "format": "YYYY-MM-DD",
+        "description": "Ngày chốt số liệu trong báo cáo",
+        "required": true
+      },
+      "period_type": {
+        "type": "string",
+        "enum": ["Monthly", "Seasonal", "Yearly", "Cumulative"],
+        "description": "Loại kỳ báo cáo",
+        "required": false
+      }
+    },
+    "geo_context": {
+      "geo_level": {
+        "type": "string",
+        "enum": ["National", "Regional", "Provincial"],
+        "required": true
+      },
+      "location_name": {
+        "type": "string",
+        "description": "Tên Tỉnh/Thành phố hoặc Vùng (ví dụ: An Giang, ĐBSCL)",
+        "required": true
+      },
+      "region_id": {
+        "type": "string",
+        "description": "ID vùng (ví dụ: North_Central, Mekong_Delta)",
+        "required": false
+      },
+      "region_name_vn": {
+        "type": "string",
+        "description": "Tên vùng tiếng Việt",
+        "required": false
+      }
+    },
+    "item_context": {
+      "sector": {
+        "type": "string",
+        "enum": [
+          "Cultivation",
+          "Livestock",
+          "Fishery",
+          "Forestry",
+          "Trade",
+          "Pest",
+          "Investment",
+          "Compliance",
+          "Sugar_Production"
+        ],
+        "required": true
+      },
+      "commodity": {
+        "type": "string",
+        "description": "Sản phẩm chính (ví dụ: Lúa, Lợn, Cá tra)",
+        "required": false
+      },
+      "sub_item": {
+        "type": "string",
+        "description": "Chi tiết trà lúa/loại hình (ví dụ: Đông Xuân, Thẻ chân trắng)",
+        "required": false
+      },
+      "variety": {
+        "type": "string",
+        "description": "Giống cụ thể (ví dụ: IR50404, ST25) - Nếu có",
+        "required": false
+      },
+      "processing_level": {
+        "type": "string",
+        "enum": ["Raw", "Processed", "Semi_Processed"],
+        "description": "Mức độ chế biến",
+        "required": false,
+        "default": "Raw"
+      }
+    },
+    "metric_context": {
+      "attribute": {
+        "type": "string",
+        "enum": [
+          "Area_Planted",
+          "Area_Harvested",
+          "Area_Seedling",
+          "Production",
+          "Yield",
+          "Export_Value",
+          "Export_Volume",
+          "Import_Value",
+          "Import_Volume",
+          "Headcount",
+          "Price",
+          "Investment_Amount",
+          "Percentage",
+          "Forest_Area_Planted",
+          "Forest_Area_Protected",
+          "Wood_Volume",
+          "Other"
+        ],
+        "description": "Tên chỉ tiêu",
+        "required": true
+      },
+      "value": {
+        "type": "float",
+        "constraint": ">= 0",
+        "required": true
+      },
+      "unit": {
+        "type": "string",
+        "enum": [
+          "ha",
+          "1000_ha",
+          "ton",
+          "1000_ton",
+          "ton_per_ha",
+          "1000_heads",
+          "USD",
+          "million_USD",
+          "VND",
+          "VND_per_kg",
+          "percent",
+          "m3",
+          "1000_m3",
+          "million_trees",
+          "million_VND"
+        ],
+        "description": "Đơn vị",
+        "required": true
+      },
+      "data_type": {
+        "type": "string",
+        "enum": ["Actual", "Plan", "Cumulative", "Estimated"],
+        "description": "Số thực hiện, kế hoạch, lũy kế hay ước tính",
+        "required": true
+      }
+    },
+    "comparison_context": {
+      "comparison_type": {
+        "type": "string",
+        "enum": ["None", "YoY", "MoM", "vs_Plan", "vs_Previous_Period"],
+        "description": "Loại so sánh",
+        "required": false,
+        "default": "None"
+      },
+      "comparison_value": {
+        "type": "float",
+        "description": "Giá trị so sánh (%, tỷ lệ)",
+        "required": false
+      },
+      "base_period": {
+        "type": "string",
+        "description": "Kỳ gốc để so sánh",
+        "required": false
+      },
+      "base_value": {
+        "type": "float",
+        "description": "Giá trị kỳ gốc",
+        "required": false
+      }
+    },
+    "metadata": {
+      "source_file": {
+        "type": "string",
+        "required": true
+      },
+      "appendix_number": {
+        "type": "string",
+        "description": "Số phụ lục (PL1, PL2, ...)",
+        "required": true
+      },
+      "appendix_title": {
+        "type": "string",
+        "description": "Tiêu đề phụ lục",
+        "required": false
+      },
+      "table_index": {
+        "type": "integer",
+        "description": "Thứ tự bảng trong file gốc",
+        "required": true
+      },
+      "row_number": {
+        "type": "integer",
+        "description": "Số dòng trong bảng gốc",
+        "required": false
+      },
+      "extraction_method": {
+        "type": "string",
+        "enum": ["Table_Parsing", "Text_NER", "LLM_Extraction", "Manual"],
+        "required": true
+      },
+      "extraction_confidence": {
+        "type": "float",
+        "constraint": "0.0-1.0",
+        "description": "Độ tin cậy của extraction (0-1)",
+        "required": false
+      },
+      "notes": {
+        "type": "string",
+        "description": "Ghi chú bổ sung",
+        "required": false
+      }
+    },
+    "data_quality": {
+      "is_aggregated": {
+        "type": "boolean",
+        "description": "Dữ liệu có phải là tổng hợp không",
+        "required": false,
+        "default": false
+      },
+      "has_missing_values": {
+        "type": "boolean",
+        "description": "Có giá trị bị thiếu không",
+        "required": false,
+        "default": false
+      },
+      "data_status": {
+        "type": "string",
+        "enum": ["Complete", "Partial", "Missing", "Estimated"],
+        "description": "Trạng thái dữ liệu",
+        "required": false,
+        "default": "Complete"
+      }
+    }
+  },
+  "validation_rules": {
+    "unique_keys": ["year", "month", "location_name", "sector", "commodity", "attribute", "data_type"],
+    "required_combinations": {
+      "cultivation": ["commodity", "attribute"],
+      "trade": ["commodity", "attribute"],
+      "investment": ["attribute"]
+    }
+  },
+  "notes": [
+    "Schema này được thiết kế cho long-format data, mỗi record là một observation",
+    "Tất cả các field trong time_context, geo_context, item_context, metric_context đều bắt buộc",
+    "comparison_context và data_quality là optional nhưng nên có để tracking quality",
+    "Đơn vị cần được normalize về cùng một hệ thống (1000_ha, 1000_ton, ...)"
+  ]
+}

@@ -1,180 +1,158 @@
 record_id,year,month,location_name,geo_level,sector,commodity,sub_item,attribute,value,unit,data_type,appendix_number
-ccbab95d78d6a231,2012,6,1. Thu hoạch lúa đông xuân miền Bắc,Provincial,Cultivation,Lúa,Đông Xuân,Area_Harvested,8461.0,1000_ha,Actual,PL1
-799b5f3f41851804,2013,6,1. Thu hoạch lúa đông xuân miền Bắc,Provincial,Cultivation,Lúa,Đông Xuân,Area_Harvested,11173.0,1000_ha,Actual,PL1
-59a63f9ad99dadff,2012,6,- Bắc Trung bộ,Provincial,Cultivation,Unknown,,Area_Planted,3468.0,1000_ha,Actual,PL1
-b04377b24443ae67,2013,6,- Bắc Trung bộ,Provincial,Cultivation,Unknown,,Area_Planted,3482.0,1000_ha,Actual,PL1
-10bfe859e1cc3433,2012,6,2. Gieo cấy lúa hè thu cả nước,Provincial,Cultivation,Unknown,,Area_Planted,20903.0,1000_ha,Actual,PL1
-1a26c87db8ab9098,2013,6,2. Gieo cấy lúa hè thu cả nước,Provincial,Cultivation,Unknown,,Area_Planted,20165.0,1000_ha,Actual,PL1
-1c36c0289449c2d9,2012,6,- Miền Nam,Provincial,Cultivation,Unknown,,Area_Planted,18809.0,1000_ha,Actual,PL1
-7a6dd3b6bf2cd647,2013,6,- Miền Nam,Provincial,Cultivation,Unknown,,Area_Planted,18723.0,1000_ha,Actual,PL1
-cdf703c4e6f152d5,2012,6,3.1 Gieo trồng màu lương thực,Provincial,Cultivation,Màu lương thực,,Area_Planted,12051.0,1000_ha,Actual,PL1
-1ca04634bdb88bae,2013,6,3.1 Gieo trồng màu lương thực,Provincial,Cultivation,Màu lương thực,,Area_Planted,12958.0,1000_ha,Actual,PL1
-1be52c2bdb76532f,2012,6,- Khoai lang,Provincial,Cultivation,Khoai lang,,Area_Planted,1006.0,1000_ha,Actual,PL1
-cfbc94352bdddf0c,2013,6,- Khoai lang,Provincial,Cultivation,Khoai lang,,Area_Planted,1004.0,1000_ha,Actual,PL1
-64bfaadaa4a17c24,2012,6,- Sắn,Provincial,Cultivation,Sắn,,Area_Planted,3698.0,1000_ha,Actual,PL1
-965a02d050d763f2,2013,6,- Sắn,Provincial,Cultivation,Sắn,,Area_Planted,3597.0,1000_ha,Actual,PL1
-30f2c0c68c026ed6,2012,6,3.2 Gieo trồng cây công nghiệp ngắn ngày,Provincial,Cultivation,Cây công nghiệp ngắn ngày,,Area_Planted,4662.0,1000_ha,Actual,PL1
-d554a1d86eea91ee,2013,6,3.2 Gieo trồng cây công nghiệp ngắn ngày,Provincial,Cultivation,Cây công nghiệp ngắn ngày,,Area_Planted,4769.0,1000_ha,Actual,PL1
-30653d1240af7873,2012,6,- Đậu tương,Provincial,Cultivation,Đậu tương,,Area_Planted,827.0,1000_ha,Actual,PL1
-59380134268b4d2a,2013,6,- Đậu tương,Provincial,Cultivation,Đậu tương,,Area_Planted,785.0,1000_ha,Actual,PL1
-d8951d6937cbda1e,2012,6,- Thuốc lá,Provincial,Cultivation,Unknown,,Area_Planted,210.0,1000_ha,Actual,PL1
-17f73e4cb6f05e7b,2013,6,- Thuốc lá,Provincial,Cultivation,Unknown,,Area_Planted,256.0,1000_ha,Actual,PL1
-62b4a0761ad137df,2012,6,- Mía,Provincial,Cultivation,Unknown,,Area_Planted,1557.0,1000_ha,Actual,PL1
-8fe48784f7f9dd84,2013,6,- Mía,Provincial,Cultivation,Unknown,,Area_Planted,1590.0,1000_ha,Actual,PL1
-115cf3e1f9ff9eb7,2012,6,"3.3 Gieo trồng rau, đậu các loại",Provincial,Cultivation,Rau đậu,,Area_Planted,5821.0,1000_ha,Actual,PL1
-d7fdbe581553c926,2013,6,"3.3 Gieo trồng rau, đậu các loại",Provincial,Cultivation,Rau đậu,,Area_Planted,6084.0,1000_ha,Actual,PL1
-8665696aa2908c25,2013,11,VỐN NGÂN SÁCH NHÀ NƯỚC,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,3722428.0,ton,Actual,PL11
-eaadaba18dbc7fd4,2013,11,VỐN NGÂN SÁCH NHÀ NƯỚC,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,1709428.0,1000_USD,Actual,PL11
-546d0ae4c442e3c8,2013,11,Vốn thực hiện dự án,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,3158036.0,ton,Actual,PL11
-81c902817bff83b8,2013,11,Vốn thực hiện dự án,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,1145036.0,1000_USD,Actual,PL11
-30b028c259503c7d,2013,11,Thủy lợi,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,1759340.0,ton,Actual,PL11
-5798ad2193b119fc,2013,11,Thủy lợi,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,546340.0,1000_USD,Actual,PL11
-daa3ce586ec89278,2013,11,Nông nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,607423.0,ton,Actual,PL11
-fa3d22943ee42f42,2013,11,Nông nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,107423.0,1000_USD,Actual,PL11
-50be9b59c67c462c,2013,11,Lâm nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,260773.0,ton,Actual,PL11
-cc369d4a8f3e17f4,2013,11,Lâm nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,60773.0,1000_USD,Actual,PL11
-9cc0ced25a45f32b,2013,11,Thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,190000.0,ton,Actual,PL11
-7871df5174221b24,2013,11,Thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,90000.0,1000_USD,Actual,PL11
-dd45942367a487d8,2013,11,Giáo dục - Đào tạo,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,126000.0,ton,Actual,PL11
-ee86a8f1d18710b7,2013,11,Giáo dục - Đào tạo,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,126000.0,1000_USD,Actual,PL11
-845419e7c5652475,2013,11,Khoa học - Công nghệ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,50000.0,ton,Actual,PL11
-57b578e8784cff3f,2013,11,Khoa học - Công nghệ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,50000.0,1000_USD,Actual,PL11
-ee2dd30c8f2a5289,2013,11,Chương trình trọng điểm phát triển vàứng dụng công nghệ sinh học,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,30000.0,ton,Actual,PL11
-149359f96ceb3ef8,2013,11,Chương trình trọng điểm phát triển vàứng dụng công nghệ sinh học,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,30000.0,1000_USD,Actual,PL11
-392741c7e5a36233,2013,11,Quản lý chất lượng NLT Sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,15000.0,ton,Actual,PL11
-2fe75d6ee23ecdfd,2013,11,Quản lý chất lượng NLT Sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,15000.0,1000_USD,Actual,PL11
-ba893002d1e29d0b,2013,11,Đầu tư khác,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,119500.0,ton,Actual,PL11
-4db3674b54c55abf,2013,11,Đầu tư khác,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,119500.0,1000_USD,Actual,PL11
-d08a6ae11e7510e1,2013,11,Các dự án đầu tư sử dụng vốn hỗtrợ có mục tiêu ngân sách trungương,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,489292.0,ton,Actual,PL11
-e842be70033e7426,2013,11,Các dự án đầu tư sử dụng vốn hỗtrợ có mục tiêu ngân sách trungương,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,489292.0,1000_USD,Actual,PL11
-c5b7fbf8b97a272c,2013,11,Chương trình nuôi trồng thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,145360.0,ton,Actual,PL11
-5e311992d573edff,2013,11,Chương trình nuôi trồng thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,145360.0,1000_USD,Actual,PL11
-19154891c352c1f2,2013,11,Chương trình phát triển giống,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,101000.0,ton,Actual,PL11
-9cb4122697c8ccca,2013,11,Chương trình phát triển giống,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,101000.0,1000_USD,Actual,PL11
-38ff2360efc925a6,2013,11,"Chương trình neo đậu, tránh trú bão",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,82800.0,ton,Actual,PL11
-c91483dd33905ba7,2013,11,"Chương trình neo đậu, tránh trú bão",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,82800.0,1000_USD,Actual,PL11
-32dcdec7094ebb49,2013,11,"Chương trình phát triển, bảo vệ rừng",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,10132.0,ton,Actual,PL11
-b7d4d734d240e82c,2013,11,"Chương trình phát triển, bảo vệ rừng",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,10132.0,1000_USD,Actual,PL11
-e3e3edf021293c1e,2013,11,"Chương trình Biển Đông, Hải đảo",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,150000.0,ton,Actual,PL11
-fe02548a5ccfbd6e,2013,11,"Chương trình Biển Đông, Hải đảo",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,150000.0,1000_USD,Actual,PL11
-d1716242864c9337,2013,11,Chương trình mục tiêu quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,7400.0,ton,Actual,PL11
-333976a844ee5cad,2013,11,Chương trình mục tiêu quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,7400.0,1000_USD,Actual,PL11
-422548b393ebde1b,2013,11,Vốn chuẩn bị đầu tư,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,7700.0,ton,Actual,PL11
-851337fd8c727458,2013,11,Vốn chuẩn bị đầu tư,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,7700.0,1000_USD,Actual,PL11
-132910bb25c26eeb,2013,11,Bổ sung dự trữ Quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,60000.0,ton,Actual,PL11
-e42c13c33c7b4167,2013,11,Bổ sung dự trữ Quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,60000.0,1000_USD,Actual,PL11
-77540af63f8765ff,2013,11,VỐN TP CHÍNH PHỦ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,4498720.0,ton,Actual,PL11
-5c3d69849e263537,2013,11,VỐN TP CHÍNH PHỦ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,4498720.0,1000_USD,Actual,PL11
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.1558925606531023e+175,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,6.246586126916016e+104,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.4012021584779013e+61,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.442160014421643e+38,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,7.798701097152175e+170,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,5.48696755001589e+161,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.4546361853565819e+113,ha,Actual,PL2
-58d1cc45b090c66c,2013,6,Miền BắcĐB sông Hồng Hà Nội Hải Phòng Vĩnh Phúc Bắc Ninh Hải Dương Hưng Yên Hà Nam Nam Định Thái Bình Ninh Bình Quảng NinhTD và MN Hà Giang Cao Bằng Lào Cai Bắc Cạn Lạng Sơn Tuyên Quang Yên Bái Thái Nguyên Phú Thọ Bắc Giang Lai Châu Điện Biên Sơn La Hoà BìnhBắc Trung Bộ Thanh Hoá Nghệ An Hà Tĩnh Quảng Bình Quảng Trị Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.4029618715102575e+65,ha,Actual,PL2
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,2.4106470135256092e+151,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.2231624891497416e+139,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,6.785638173194041e+114,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.533126702223484e+58,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,3.0491912892117996e+62,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,5.070348912311505e+54,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,2.7281413777215905e+143,ha,Actual,PL3
-73bc8f423d192121,2013,6,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Provincial,Cultivation,Lúa,,Area_Planted,1.4288121271518146e+66,ha,Actual,PL3
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1006.0,1000_ha,Estimated,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,100.0,1000_ha,Estimated,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,994.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,659.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,994.0,1000_ha,Estimated,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1028.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,711.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,102.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,559.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1049.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,3974.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,972.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,175.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,989.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,1739.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,961.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,3044.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,113.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,1.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,999.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,23.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1129.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,23.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,987.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,395.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1062.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,284.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1048.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,1123.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,985.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,1893.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,103.0,1000_ha,Estimated,PL6
-6558a759818e01bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,1829.0,1000_ha,Plan,PL6
-05d7f7f625d7f104,2013,6,Cả nước,National,Forestry,Rừng,,Area,1015.0,1000_ha,Estimated,PL6
-85c413852d734967,2013,1,Cả nước,National,Trade,1,Xuất khẩu,Export_Volume,562.0,1000_ton,Actual,PL8
-1f2e5b28e9150bec,2013,1,Cả nước,National,Trade,1,Xuất khẩu,Export_Value,681.0,million_USD,Actual,PL8
-5d8d2cc99f10fe4a,2013,1,Cả nước,National,Trade,1.1,Xuất khẩu,Export_Volume,47.0,1000_ton,Actual,PL8
-d6a7fdd39a204316,2013,1,Cả nước,National,Trade,1.1,Xuất khẩu,Export_Value,55.0,million_USD,Actual,PL8
-b65e3c22549bf6a2,2013,1,Cả nước,National,Trade,1.2,Xuất khẩu,Export_Volume,515.0,1000_ton,Actual,PL8
-92faeb8c503c22c1,2013,1,Cả nước,National,Trade,1.2,Xuất khẩu,Export_Value,626.0,million_USD,Actual,PL8
-eb888afddd66dc3f,2013,1,Cả nước,National,Trade,2,Xuất khẩu,Export_Volume,2275.0,1000_ton,Actual,PL8
-aebe03ea88411234,2013,1,Cả nước,National,Trade,2,Xuất khẩu,Export_Value,2903.0,million_USD,Actual,PL8
-3df69d3bcacd4f02,2013,1,Cả nước,National,Trade,3,Xuất khẩu,Export_Volume,1087.0,1000_ton,Actual,PL8
-0c7fd99047b72ea2,2013,1,Cả nước,National,Trade,3,Xuất khẩu,Export_Value,1113.0,million_USD,Actual,PL8
-8025f6b788e0d65e,2013,1,Cả nước,National,Trade,4,Xuất khẩu,Export_Volume,6152.0,1000_ton,Actual,PL8
-98f8ffec302bdcd5,2013,1,Cả nước,National,Trade,4,Xuất khẩu,Export_Value,6086.0,million_USD,Actual,PL8
-8a8758e3b1150cad,2013,1,Cả nước,National,Trade,5,Xuất khẩu,Export_Volume,18800.0,1000_ton,Actual,PL8
-90afa74c2910d2cc,2013,1,Cả nước,National,Trade,5,Xuất khẩu,Export_Value,32251.0,million_USD,Actual,PL8
-e7106c49b23ee75c,2013,1,Cả nước,National,Trade,6,Xuất khẩu,Export_Volume,22488.0,1000_ton,Actual,PL8
-21037575dd8734bd,2013,1,Cả nước,National,Trade,6,Xuất khẩu,Export_Value,24106.0,million_USD,Actual,PL8
-998d0aeec20b29fe,2013,6,Cả nước,National,Investment,Cả nước,,Investment_Amount,68031.0,million_VND,Plan,PL9
-4661917f0ccee75b,2013,6,Cả nước,National,Investment,Cả nước,,Investment_Amount,62568.0,million_VND,Cumulative,PL9
-e820db30f9d3eaf4,2013,6,Cả nước,National,Investment,Miền bắc,,Investment_Amount,67293.0,million_VND,Plan,PL9
-e2690572be7d64b9,2013,6,Cả nước,National,Investment,Miền bắc,,Investment_Amount,62208.0,million_VND,Cumulative,PL9
-4cb2e5bc44682710,2013,6,Cả nước,National,Investment,ĐB. sông Hồng,,Investment_Amount,9572.0,million_VND,Plan,PL9
-f937380de45060a9,2013,6,Cả nước,National,Investment,ĐB. sông Hồng,,Investment_Amount,8794.0,million_VND,Cumulative,PL9
-647287d5058eb3b3,2013,6,Cả nước,National,Investment,Hà Nội,,Investment_Amount,21.0,million_VND,Plan,PL9
-631cca9e28d14fdc,2013,6,Cả nước,National,Investment,Vĩnh Phúc,,Investment_Amount,364.0,million_VND,Plan,PL9
-34b0a8e588f74036,2013,6,Cả nước,National,Investment,Vĩnh Phúc,,Investment_Amount,364.0,million_VND,Cumulative,PL9
-f0c91f95dca56f40,2013,6,Cả nước,National,Investment,Bắc Ninh,,Investment_Amount,25.0,million_VND,Plan,PL9
-02278932916d51b6,2013,6,Cả nước,National,Investment,Quảng Ninh,,Investment_Amount,9122.0,million_VND,Plan,PL9
-0afd16a423bffd84,2013,6,Cả nước,National,Investment,Quảng Ninh,,Investment_Amount,8430.0,million_VND,Cumulative,PL9
-58f10c38b7706f6a,2013,6,Cả nước,National,Investment,Nam Định,,Investment_Amount,40.0,million_VND,Plan,PL9
-3300fe7adc317e63,2013,6,Cả nước,National,Investment,Hà Giang,,Investment_Amount,1013.0,million_VND,Plan,PL9
-ec60080103c124f7,2013,6,Cả nước,National,Investment,Hà Giang,,Investment_Amount,983.0,million_VND,Cumulative,PL9
-a6308cf3a873c867,2013,6,Cả nước,National,Investment,Cao Bằng,,Investment_Amount,58.0,million_VND,Plan,PL9
-1ec98e039da1bac4,2013,6,Cả nước,National,Investment,Cao Bằng,,Investment_Amount,23.0,million_VND,Cumulative,PL9
-0bfb883b0c6d1b59,2013,6,Cả nước,National,Investment,Bắc Kạn,,Investment_Amount,1667.0,million_VND,Plan,PL9
-cc83270393d87749,2013,6,Cả nước,National,Investment,Bắc Kạn,,Investment_Amount,1597.0,million_VND,Cumulative,PL9
-50ec3320258b6c3d,2013,6,Cả nước,National,Investment,Tuyên Quang,,Investment_Amount,8534.0,million_VND,Plan,PL9
-af81fe45747b2888,2013,6,Cả nước,National,Investment,Tuyên Quang,,Investment_Amount,8230.0,million_VND,Cumulative,PL9
-dd4b67501f896019,2013,6,Cả nước,National,Investment,Lào Cai,,Investment_Amount,1340.0,million_VND,Plan,PL9
-348a0fc96de09f87,2013,6,Cả nước,National,Investment,Lào Cai,,Investment_Amount,1191.0,million_VND,Cumulative,PL9
-0c2a23fb4188eb3a,2013,6,Cả nước,National,Investment,Yên Bái,,Investment_Amount,9630.0,million_VND,Plan,PL9
-d0b02000c31e5c7c,2013,6,Cả nước,National,Investment,Yên Bái,,Investment_Amount,9630.0,million_VND,Cumulative,PL9
-49a9c10b60a7a1a7,2013,6,Cả nước,National,Investment,Thái Nguyên,,Investment_Amount,5671.0,million_VND,Plan,PL9
-2051d6323ad4ca8c,2013,6,Cả nước,National,Investment,Thái Nguyên,,Investment_Amount,5422.0,million_VND,Cumulative,PL9
-08a571e1fdbb3a7f,2013,6,Cả nước,National,Investment,Lạng Sơn,,Investment_Amount,2593.0,million_VND,Plan,PL9
-c8b396f64034c46a,2013,6,Cả nước,National,Investment,Lạng Sơn,,Investment_Amount,2273.0,million_VND,Cumulative,PL9
-3e7fed20cfb49a3e,2013,6,Cả nước,National,Investment,Bắc Giang,,Investment_Amount,4124.0,million_VND,Plan,PL9
-bcdcfeefa103f9e4,2013,6,Cả nước,National,Investment,Bắc Giang,,Investment_Amount,4044.0,million_VND,Cumulative,PL9
-31cf5213fa5773f7,2013,6,Cả nước,National,Investment,Phú Thọ,,Investment_Amount,6363.0,million_VND,Plan,PL9
-420cf72464a4bb70,2013,6,Cả nước,National,Investment,Phú Thọ,,Investment_Amount,5836.0,million_VND,Cumulative,PL9
-3cd33e9f7bc9cba0,2013,6,Cả nước,National,Investment,Lai Châu,,Investment_Amount,30.0,million_VND,Plan,PL9
-10c8f3bfb2cc92df,2013,6,Cả nước,National,Investment,Lai Châu,,Investment_Amount,30.0,million_VND,Cumulative,PL9
-00ddb87761bd7de5,2013,6,Cả nước,National,Investment,Hoà Bình,,Investment_Amount,4155.0,million_VND,Plan,PL9
-8045a7693cbde3af,2013,6,Cả nước,National,Investment,Hoà Bình,,Investment_Amount,2000.0,million_VND,Cumulative,PL9
-a957ac2b6ea48b7b,2013,6,Cả nước,National,Investment,Bắc Trung Bộ,,Investment_Amount,12543.0,million_VND,Plan,PL9
-f088d237d997d81b,2013,6,Cả nước,National,Investment,Bắc Trung Bộ,,Investment_Amount,12155.0,million_VND,Cumulative,PL9
-236638210f6fce47,2013,6,Cả nước,National,Investment,Thanh Hoá,,Investment_Amount,4932.0,million_VND,Plan,PL9
-31ffa1cfa39cae2f,2013,6,Cả nước,National,Investment,Thanh Hoá,,Investment_Amount,4907.0,million_VND,Cumulative,PL9
-8e4f8c9127ff4a95,2013,6,Cả nước,National,Investment,Nghệ An,,Investment_Amount,7131.0,million_VND,Plan,PL9
-451de13676ad515f,2013,6,Cả nước,National,Investment,Nghệ An,,Investment_Amount,6768.0,million_VND,Cumulative,PL9
-734765c126f28d28,2013,6,Cả nước,National,Investment,Hà Tĩnh,,Investment_Amount,300.0,million_VND,Plan,PL9
-78e7582361eebb1f,2013,6,Cả nước,National,Investment,Hà Tĩnh,,Investment_Amount,300.0,million_VND,Cumulative,PL9
-4ecce2a516b8d8d3,2013,6,Cả nước,National,Investment,Thừa Thiên Huế,,Investment_Amount,180.0,million_VND,Plan,PL9
-e78a3cb2b3fc2911,2013,6,Cả nước,National,Investment,Thừa Thiên Huế,,Investment_Amount,180.0,million_VND,Cumulative,PL9
+0732faa7-89dd-4efe-abed-1f12d138fa3c,2012,6,Miền Bắc,Regional,Cultivation,Lúa,Đông Xuân,Area_Harvested,846.1,1000_ha,Actual,PL1
+6543fe72-1326-4a0f-9421-3950d222e664,2013,6,Miền Bắc,Regional,Cultivation,Lúa,Đông Xuân,Area_Harvested,1117.3,1000_ha,Actual,PL1
+99ebd8f5-a343-4362-a8e0-5af4860575aa,2012,6,Cả Nước,Provincial,Cultivation,Lúa,Hè Thu,Area_Planted,2090.3,1000_ha,Actual,PL1
+6243053d-2669-49c0-a15b-f4a0c373e300,2013,6,Cả Nước,Provincial,Cultivation,Lúa,Hè Thu,Area_Planted,2016.5,1000_ha,Actual,PL1
+d944130e-fd10-40c0-93d8-56320d8f4c99,2012,6,Cả nước,National,Cultivation,Màu lương thực,,Area_Planted,1205.1,1000_ha,Actual,PL1
+503617fe-9df8-4318-a027-a43be338d2c8,2013,6,Cả nước,National,Cultivation,Màu lương thực,,Area_Planted,1295.8,1000_ha,Actual,PL1
+ed561687-a2dc-4991-a04c-845ddf2caafa,2012,6,Cả nước,National,Cultivation,Khoai lang,,Area_Planted,100.6,1000_ha,Actual,PL1
+7f39645f-7a51-46ad-a0f5-0228995b0f4e,2013,6,Cả nước,National,Cultivation,Khoai lang,,Area_Planted,100.4,1000_ha,Actual,PL1
+06d6bf64-8d2a-4638-aa84-bdacc43ce283,2012,6,Cả nước,National,Cultivation,Sắn,,Area_Planted,369.8,1000_ha,Actual,PL1
+7322c266-653f-413a-9855-e51708d91f15,2013,6,Cả nước,National,Cultivation,Sắn,,Area_Planted,359.7,1000_ha,Actual,PL1
+68ff179b-08b4-4ca3-93b7-8175c78be465,2012,6,Cả nước,National,Cultivation,Cây công nghiệp ngắn ngày,,Area_Planted,466.2,1000_ha,Actual,PL1
+6fccd500-c948-4c89-be17-26ee54181ccb,2013,6,Cả nước,National,Cultivation,Cây công nghiệp ngắn ngày,,Area_Planted,476.9,1000_ha,Actual,PL1
+676e8bc0-7179-4b95-b54c-1153bd9ddf36,2012,6,Cả nước,National,Cultivation,Đậu tương,,Area_Planted,82.7,1000_ha,Actual,PL1
+067271d1-2ff0-45a4-a962-87596f13b085,2013,6,Cả nước,National,Cultivation,Đậu tương,,Area_Planted,78.5,1000_ha,Actual,PL1
+d3008286-f009-4212-8914-78a856e1eb9b,2012,6,Cả nước,National,Cultivation,Mía,,Area_Planted,155.7,1000_ha,Actual,PL1
+8dc7060f-0bbe-4b01-ad61-b5cca31c7664,2013,6,Cả nước,National,Cultivation,Mía,,Area_Planted,159.0,1000_ha,Actual,PL1
+55166de7-7a71-4593-aa5e-9733fa7a3ac6,2012,6,Cả nước,National,Cultivation,Rau đậu,,Area_Planted,582.1,1000_ha,Actual,PL1
+5890ef4d-ce94-4958-b0db-21fe888788fc,2013,6,Cả nước,National,Cultivation,Rau đậu,,Area_Planted,608.4,1000_ha,Actual,PL1
+a4b8fde9-6fe9-43fd-a7af-7a564d3d2dff,2013,11,VỐN NGÂN SÁCH NHÀ NƯỚC,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,3722428.0,ton,Actual,PL11
+a4f4a88a-d8c6-417c-8721-c8a083ce4a75,2013,11,VỐN NGÂN SÁCH NHÀ NƯỚC,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,1709428.0,1000_USD,Actual,PL11
+a120cfdc-2b7a-4309-b622-f736ff68b07f,2013,11,Vốn thực hiện dự án,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,3158036.0,ton,Actual,PL11
+92c84533-178a-49b4-b839-aa7b3e72f92e,2013,11,Vốn thực hiện dự án,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,1145036.0,1000_USD,Actual,PL11
+12a95e3e-9114-423f-931a-205f554bc25a,2013,11,Thủy lợi,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,1759340.0,ton,Actual,PL11
+2a788f98-d055-4b83-8e71-d120ed51395e,2013,11,Thủy lợi,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,546340.0,1000_USD,Actual,PL11
+21e9b30b-0909-43f1-8174-0e728d4e0316,2013,11,Nông nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,607423.0,ton,Actual,PL11
+4cfcddd3-dc52-4771-817c-51c7bafd303b,2013,11,Nông nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,107423.0,1000_USD,Actual,PL11
+4b7cf513-af96-4366-bc44-ec3f866d50eb,2013,11,Lâm nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,260773.0,ton,Actual,PL11
+4bc57970-5b9f-4141-a162-8cdd7dd13cf6,2013,11,Lâm nghiệp,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,60773.0,1000_USD,Actual,PL11
+93252aa9-1dcd-4719-a831-9a8d577e0013,2013,11,Thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,190000.0,ton,Actual,PL11
+58ef820e-4a60-4ca8-bbbf-b8465d413fba,2013,11,Thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,90000.0,1000_USD,Actual,PL11
+fca95e8c-29be-4bcc-9c2b-df776650480b,2013,11,Giáo dục - Đào tạo,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,126000.0,ton,Actual,PL11
+dee3bbd4-bac1-4a8d-8bf9-9dd82c9a4d18,2013,11,Giáo dục - Đào tạo,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,126000.0,1000_USD,Actual,PL11
+4ba469be-2d1a-48cc-a6e4-e0e38ececeab,2013,11,Khoa học - Công nghệ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,50000.0,ton,Actual,PL11
+6e628878-8b14-489d-a3a2-c0e4063308d3,2013,11,Khoa học - Công nghệ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,50000.0,1000_USD,Actual,PL11
+c80ecf7f-8a57-4f1c-b3bc-92d56ab45a11,2013,11,Chương trình trọng điểm phát triển vàứng dụng công nghệ sinh học,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,30000.0,ton,Actual,PL11
+43237d3d-06a4-4c28-9058-e1a4102880ce,2013,11,Chương trình trọng điểm phát triển vàứng dụng công nghệ sinh học,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,30000.0,1000_USD,Actual,PL11
+f99b7a62-7c3d-48d4-b3cc-789571fa11f3,2013,11,Quản lý chất lượng NLT Sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,15000.0,ton,Actual,PL11
+9329d83b-2f95-479b-937d-f0021274c63a,2013,11,Quản lý chất lượng NLT Sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,15000.0,1000_USD,Actual,PL11
+32dc86ed-b129-49fc-a96c-0666cdafc4d0,2013,11,Đầu tư khác,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,119500.0,ton,Actual,PL11
+e2a57bdb-ff81-441a-b1b0-20d96d3fd907,2013,11,Đầu tư khác,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,119500.0,1000_USD,Actual,PL11
+bc25430c-9a19-4dcb-88db-dc1e9e960340,2013,11,Các dự án đầu tư sử dụng vốn hỗtrợ có mục tiêu ngân sách trungương,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,489292.0,ton,Actual,PL11
+5b8bb70d-7c5c-4b0d-90d8-f9520a365c98,2013,11,Các dự án đầu tư sử dụng vốn hỗtrợ có mục tiêu ngân sách trungương,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,489292.0,1000_USD,Actual,PL11
+78bcd2bc-8790-4934-b668-7545f100399f,2013,11,Chương trình nuôi trồng thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,145360.0,ton,Actual,PL11
+ade39105-5623-4739-82bf-aa67de1fdab7,2013,11,Chương trình nuôi trồng thủy sản,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,145360.0,1000_USD,Actual,PL11
+4a1038ef-b83e-4c46-96f0-686fdb06c0e8,2013,11,Chương trình phát triển giống,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,101000.0,ton,Actual,PL11
+42678ea3-2839-4209-8ee0-668cc20f737c,2013,11,Chương trình phát triển giống,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,101000.0,1000_USD,Actual,PL11
+8e4a5ae2-b6b5-4eb9-9821-14c896cb3fc4,2013,11,"Chương trình neo đậu, tránh trú bão",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,82800.0,ton,Actual,PL11
+191bbcad-8651-4b57-b2f6-964138c76fe0,2013,11,"Chương trình neo đậu, tránh trú bão",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,82800.0,1000_USD,Actual,PL11
+31e75190-e115-489d-86c0-155419fbd223,2013,11,"Chương trình phát triển, bảo vệ rừng",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,10132.0,ton,Actual,PL11
+99817ce3-f919-472d-8e48-4bc256371ac1,2013,11,"Chương trình phát triển, bảo vệ rừng",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,10132.0,1000_USD,Actual,PL11
+c835e0af-81b4-430f-8c8e-9c353f64db64,2013,11,"Chương trình Biển Đông, Hải đảo",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,150000.0,ton,Actual,PL11
+51771fd9-6fbd-4a5a-920f-9dbad3739ecb,2013,11,"Chương trình Biển Đông, Hải đảo",International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,150000.0,1000_USD,Actual,PL11
+253852b4-8095-4d11-b0b2-c826fc81d243,2013,11,Chương trình mục tiêu quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,7400.0,ton,Actual,PL11
+cc255400-7d14-4c66-9c18-a7c620a2d42f,2013,11,Chương trình mục tiêu quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,7400.0,1000_USD,Actual,PL11
+73b7ccb1-d4b7-42db-8629-b6983cfd8721,2013,11,Vốn chuẩn bị đầu tư,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,7700.0,ton,Actual,PL11
+f5898f56-13c8-4831-b7be-e107752d0e61,2013,11,Vốn chuẩn bị đầu tư,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,7700.0,1000_USD,Actual,PL11
+52bddf97-aa82-473e-ae99-53988233761c,2013,11,Bổ sung dự trữ Quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,60000.0,ton,Actual,PL11
+665e1c6f-8eb7-4fc2-affa-ba83005ecec9,2013,11,Bổ sung dự trữ Quốc gia,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,60000.0,1000_USD,Actual,PL11
+61b06c19-f43f-4d57-baba-5db1bdd1b1c3,2013,11,VỐN TP CHÍNH PHỦ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Volume,4498720.0,ton,Actual,PL11
+7fc9d1be-d3fb-420a-a448-88cf2211e852,2013,11,VỐN TP CHÍNH PHỦ,International,Trade,TỔNG CỘNG : ( = A + B ),Xuất khẩu,Export_Value,4498720.0,1000_USD,Actual,PL11
+24b42b03-7ac1-47b1-a7b3-6122294f64ce,2013,6,Cả nước,National,Forestry,Rừng,,Area,100.6,1000_ha,Estimated,PL6
+40322f78-2a43-4596-ab29-f8dc01480d87,2013,6,Cả nước,National,Forestry,Rừng,,Area,100.0,1000_ha,Estimated,PL6
+aa03a973-4519-44a1-b0f6-9f225684c00e,2013,6,Cả nước,National,Forestry,Rừng,,Area,99.4,1000_ha,Estimated,PL6
+8df7d639-e402-4345-92c4-8070a77e73ca,2013,6,Cả nước,National,Forestry,Rừng,,Area,65.9,1000_ha,Plan,PL6
+40245eb7-c1bc-4a1d-ad73-afe6a13f93a5,2013,6,Cả nước,National,Forestry,Rừng,,Area,99.4,1000_ha,Estimated,PL6
+e7f28d8b-4f8e-46ce-9484-82240bef6e0d,2013,6,Cả nước,National,Forestry,Rừng,,Area,102.8,1000_ha,Estimated,PL6
+fde94414-7457-41e7-9f3c-48f0e5f948bb,2013,6,Cả nước,National,Forestry,Rừng,,Area,71.1,1000_ha,Plan,PL6
+5555b736-9d41-403d-8402-0b0ec7ebebb7,2013,6,Cả nước,National,Forestry,Rừng,,Area,102.0,1000_ha,Estimated,PL6
+c1174140-f388-4488-a28a-5d10308a885d,2013,6,Cả nước,National,Forestry,Rừng,,Area,55.9,1000_ha,Plan,PL6
+a78030db-509b-4d40-9a70-f509de3a4fba,2013,6,Cả nước,National,Forestry,Rừng,,Area,104.9,1000_ha,Estimated,PL6
+721e91f2-bec0-47d5-ace4-bd4ed7f2ed64,2013,6,Cả nước,National,Forestry,Rừng,,Area,397.4,1000_ha,Plan,PL6
+8861c06e-5237-4700-9b7c-020ac03dd1d8,2013,6,Cả nước,National,Forestry,Rừng,,Area,97.2,1000_ha,Estimated,PL6
+bd456568-d7dc-41d1-b2c6-42c14e8d6f48,2013,6,Cả nước,National,Forestry,Rừng,,Area,17.5,1000_ha,Plan,PL6
+62ec900a-d0e3-4e1e-8eeb-05e48ee4b88a,2013,6,Cả nước,National,Forestry,Rừng,,Area,98.9,1000_ha,Estimated,PL6
+61feab36-3e93-4452-9a08-40296e9e210d,2013,6,Cả nước,National,Forestry,Rừng,,Area,173.9,1000_ha,Plan,PL6
+adda5a14-88b9-42fd-b8cb-b132e58fd8d2,2013,6,Cả nước,National,Forestry,Rừng,,Area,96.1,1000_ha,Estimated,PL6
+6ab8f8b0-e93d-44c6-a091-0c82c198293a,2013,6,Cả nước,National,Forestry,Rừng,,Area,304.4,1000_ha,Plan,PL6
+12e9caa3-059a-4c6b-a104-a8e5899ec0c9,2013,6,Cả nước,National,Forestry,Rừng,,Area,113.0,1000_ha,Estimated,PL6
+4a6da519-4b0d-40f1-8f51-f2e3b1b3b3c3,2013,6,Cả nước,National,Forestry,Rừng,,Area,1.0,1000_ha,Plan,PL6
+13fec15b-a128-493e-81cf-28280ef29ba5,2013,6,Cả nước,National,Forestry,Rừng,,Area,99.9,1000_ha,Estimated,PL6
+496348ce-bd23-43f1-a272-9a3a0448d2b2,2013,6,Cả nước,National,Forestry,Rừng,,Area,23.0,1000_ha,Plan,PL6
+8fbc7cac-3e96-4be5-b5ec-682c5d391041,2013,6,Cả nước,National,Forestry,Rừng,,Area,112.9,1000_ha,Estimated,PL6
+19a04214-cdb2-4529-8a15-70820b459745,2013,6,Cả nước,National,Forestry,Rừng,,Area,2.3,1000_ha,Plan,PL6
+56d58cd7-e7a4-430a-9a94-68c411b84544,2013,6,Cả nước,National,Forestry,Rừng,,Area,98.7,1000_ha,Estimated,PL6
+4f5ef486-0318-44cc-901c-0636bd90e066,2013,6,Cả nước,National,Forestry,Rừng,,Area,39.5,1000_ha,Plan,PL6
+bca7f62c-0d2d-4d84-8624-e1c94337a5d4,2013,6,Cả nước,National,Forestry,Rừng,,Area,106.2,1000_ha,Estimated,PL6
+022e88bc-e265-401e-bad0-9f1fcb4500ca,2013,6,Cả nước,National,Forestry,Rừng,,Area,28.4,1000_ha,Plan,PL6
+8877ca2e-6ea3-4d8e-b6e5-57ce26a043f3,2013,6,Cả nước,National,Forestry,Rừng,,Area,104.8,1000_ha,Estimated,PL6
+0aecd271-89f4-4a5a-9b7b-89167906f47f,2013,6,Cả nước,National,Forestry,Rừng,,Area,112.3,1000_ha,Plan,PL6
+7470a8d0-fd54-4f6f-bbce-e6e4cb866042,2013,6,Cả nước,National,Forestry,Rừng,,Area,98.5,1000_ha,Estimated,PL6
+829be38d-5625-41ef-8481-746df0326acf,2013,6,Cả nước,National,Forestry,Rừng,,Area,189.3,1000_ha,Plan,PL6
+14e34e94-6e63-4e23-8088-cc32bd26f51d,2013,6,Cả nước,National,Forestry,Rừng,,Area,103.0,1000_ha,Estimated,PL6
+bdfe2f5f-e555-4138-92af-1aafc2d5e11b,2013,6,Cả nước,National,Forestry,Rừng,,Area,182.9,1000_ha,Plan,PL6
+09945bdf-7cc1-44b1-bee8-dfb13a4edff6,2013,6,Cả nước,National,Forestry,Rừng,,Area,101.5,1000_ha,Estimated,PL6
+3b3c5484-eab7-47f8-8d37-4c77d2311bf6,2013,1,Cả nước,National,Trade,1,Xuất khẩu,Export_Volume,56.2,1000_ton,Actual,PL8
+b86bd5ff-62ef-4c19-9646-45f693ba52fa,2013,1,Cả nước,National,Trade,1,Xuất khẩu,Export_Value,68.1,million_USD,Actual,PL8
+e07053ba-4ea6-49e0-b2bc-dbe28c5b6ff1,2013,1,Cả nước,National,Trade,1.1,Xuất khẩu,Export_Volume,4.7,1000_ton,Actual,PL8
+4b7792be-f91c-4a34-83a0-b620e8599b85,2013,1,Cả nước,National,Trade,1.1,Xuất khẩu,Export_Value,5.5,million_USD,Actual,PL8
+8d6865b9-eb74-4c47-9482-7395295c0364,2013,1,Cả nước,National,Trade,1.2,Xuất khẩu,Export_Volume,51.5,1000_ton,Actual,PL8
+24a9d8aa-dc2f-4bfc-8d1d-50b21e22446d,2013,1,Cả nước,National,Trade,1.2,Xuất khẩu,Export_Value,62.6,million_USD,Actual,PL8
+5ef284ff-686c-410a-890b-2cf96ddd3478,2013,1,Cả nước,National,Trade,2,Xuất khẩu,Export_Volume,227.5,1000_ton,Actual,PL8
+51cb6a3c-fd22-4813-82af-156370a94e0c,2013,1,Cả nước,National,Trade,2,Xuất khẩu,Export_Value,290.3,million_USD,Actual,PL8
+3641b994-32ed-4957-a51e-ed25f50bbc2b,2013,1,Cả nước,National,Trade,3,Xuất khẩu,Export_Volume,108.7,1000_ton,Actual,PL8
+e358856b-3ec9-4550-8467-ce811b4311de,2013,1,Cả nước,National,Trade,3,Xuất khẩu,Export_Value,111.3,million_USD,Actual,PL8
+86bd66e6-1e2d-4834-97ec-9024b40e75e6,2013,1,Cả nước,National,Trade,4,Xuất khẩu,Export_Volume,615.2,1000_ton,Actual,PL8
+954f95b1-565b-47bf-ad52-2808b02d5b8a,2013,1,Cả nước,National,Trade,4,Xuất khẩu,Export_Value,608.6,million_USD,Actual,PL8
+780a9b9a-3f0b-4f84-a8de-6db7fa3e5fc9,2013,1,Cả nước,National,Trade,5,Xuất khẩu,Export_Volume,1880.0,1000_ton,Actual,PL8
+84794fdd-fc52-4026-aaba-7d7201944f91,2013,1,Cả nước,National,Trade,5,Xuất khẩu,Export_Value,3225.1,million_USD,Actual,PL8
+59bc3dff-f345-4634-b5c7-3daf65026bf2,2013,1,Cả nước,National,Trade,6,Xuất khẩu,Export_Volume,2248.8,1000_ton,Actual,PL8
+75de7bd5-0bd8-4ee9-b80f-73ec1ec5885a,2013,1,Cả nước,National,Trade,6,Xuất khẩu,Export_Value,2410.6,million_USD,Actual,PL8
+7d78d095-aa63-4c3d-8416-4adce112b073,2013,6,Cả nước,National,Investment,Cả nước,,Investment_Amount,68031.0,million_VND,Plan,PL9
+6e981595-f7b5-4090-9c16-3f5a8e9b08ac,2013,6,Cả nước,National,Investment,Cả nước,,Investment_Amount,62568.0,million_VND,Cumulative,PL9
+a49478b5-f299-4509-9e79-43cf21c26365,2013,6,Cả nước,National,Investment,Miền bắc,,Investment_Amount,67293.0,million_VND,Plan,PL9
+3d2e0a23-13b4-4995-8cef-a7a28d835961,2013,6,Cả nước,National,Investment,Miền bắc,,Investment_Amount,62208.0,million_VND,Cumulative,PL9
+ab0f7ad8-5ea7-41d1-8be8-42b5887f39bf,2013,6,Cả nước,National,Investment,ĐB. sông Hồng,,Investment_Amount,9572.0,million_VND,Plan,PL9
+9c753489-2d74-4a0f-9382-c987d4a4c5ad,2013,6,Cả nước,National,Investment,ĐB. sông Hồng,,Investment_Amount,8794.0,million_VND,Cumulative,PL9
+2a46222f-5191-4e1b-b6f7-4652c035bf6c,2013,6,Cả nước,National,Investment,Hà Nội,,Investment_Amount,21.0,million_VND,Plan,PL9
+9c37a211-1002-408c-ac82-f9625cad4e52,2013,6,Cả nước,National,Investment,Vĩnh Phúc,,Investment_Amount,364.0,million_VND,Plan,PL9
+15eedc92-d4eb-4840-9821-86196c6ef8f7,2013,6,Cả nước,National,Investment,Vĩnh Phúc,,Investment_Amount,364.0,million_VND,Cumulative,PL9
+9b4908da-4eb8-473c-9f26-28378a83d1a9,2013,6,Cả nước,National,Investment,Bắc Ninh,,Investment_Amount,25.0,million_VND,Plan,PL9
+a09585f5-9134-480f-aa85-f9a447aa3c00,2013,6,Cả nước,National,Investment,Quảng Ninh,,Investment_Amount,9122.0,million_VND,Plan,PL9
+1ee857c9-00aa-4d3b-a049-9fc5811b30c4,2013,6,Cả nước,National,Investment,Quảng Ninh,,Investment_Amount,8430.0,million_VND,Cumulative,PL9
+b3928ac5-a00f-4eed-82d9-c921feabf038,2013,6,Cả nước,National,Investment,Nam Định,,Investment_Amount,40.0,million_VND,Plan,PL9
+187ae718-e2a4-4dc0-9f86-2c62bb7b5ae2,2013,6,Cả nước,National,Investment,Hà Giang,,Investment_Amount,1013.0,million_VND,Plan,PL9
+87c45789-8836-4f19-9365-b91f9040a2e9,2013,6,Cả nước,National,Investment,Hà Giang,,Investment_Amount,983.0,million_VND,Cumulative,PL9
+d0addfca-d468-4eb6-ac37-20537165769f,2013,6,Cả nước,National,Investment,Cao Bằng,,Investment_Amount,58.0,million_VND,Plan,PL9
+fb6a5adc-bbd2-4ddb-8656-ed1c778939f6,2013,6,Cả nước,National,Investment,Cao Bằng,,Investment_Amount,23.0,million_VND,Cumulative,PL9
+2338ff1c-e67c-4777-8686-2b7a88c8f27c,2013,6,Cả nước,National,Investment,Bắc Kạn,,Investment_Amount,1667.0,million_VND,Plan,PL9
+f3a1f130-5768-4902-a74e-c9c1de96fdba,2013,6,Cả nước,National,Investment,Bắc Kạn,,Investment_Amount,1597.0,million_VND,Cumulative,PL9
+131f2b0e-4e2a-4a33-9ed2-16c80f922eeb,2013,6,Cả nước,National,Investment,Tuyên Quang,,Investment_Amount,8534.0,million_VND,Plan,PL9
+9b108fc3-aa4e-4a01-8eb1-4c4d9375eb9a,2013,6,Cả nước,National,Investment,Tuyên Quang,,Investment_Amount,8230.0,million_VND,Cumulative,PL9
+8e74e290-ccc4-4cfb-aae7-5e9d8f8c8009,2013,6,Cả nước,National,Investment,Lào Cai,,Investment_Amount,1340.0,million_VND,Plan,PL9
+d933fda4-a6c0-40bc-97f1-31dcf65efa99,2013,6,Cả nước,National,Investment,Lào Cai,,Investment_Amount,1191.0,million_VND,Cumulative,PL9
+5b866ed9-4bb3-43f8-8a05-6333b4b569e3,2013,6,Cả nước,National,Investment,Yên Bái,,Investment_Amount,9630.0,million_VND,Plan,PL9
+7be21ded-376a-4b43-98c5-18e2554f00cf,2013,6,Cả nước,National,Investment,Yên Bái,,Investment_Amount,9630.0,million_VND,Cumulative,PL9
+313094a4-7a7a-4894-9349-11ab8151e2a6,2013,6,Cả nước,National,Investment,Thái Nguyên,,Investment_Amount,5671.0,million_VND,Plan,PL9
+756b49a3-64fa-455d-9f99-e21a9520cbd5,2013,6,Cả nước,National,Investment,Thái Nguyên,,Investment_Amount,5422.0,million_VND,Cumulative,PL9
+e86d5bc0-72c0-41aa-8d8c-1608fa91ad21,2013,6,Cả nước,National,Investment,Lạng Sơn,,Investment_Amount,2593.0,million_VND,Plan,PL9
+bee6f9dc-31f7-49f7-8218-9ecc7d125399,2013,6,Cả nước,National,Investment,Lạng Sơn,,Investment_Amount,2273.0,million_VND,Cumulative,PL9
+c78c287c-0390-483a-8647-e72ca1fef3af,2013,6,Cả nước,National,Investment,Bắc Giang,,Investment_Amount,4124.0,million_VND,Plan,PL9
+69594094-295b-4dc7-bf98-1e443613dde1,2013,6,Cả nước,National,Investment,Bắc Giang,,Investment_Amount,4044.0,million_VND,Cumulative,PL9
+96e8c864-4607-446d-8d74-fc93d62300fb,2013,6,Cả nước,National,Investment,Phú Thọ,,Investment_Amount,6363.0,million_VND,Plan,PL9
+b8eaeb36-2239-4f9f-ae86-313d500e3ee2,2013,6,Cả nước,National,Investment,Phú Thọ,,Investment_Amount,5836.0,million_VND,Cumulative,PL9
+dfd9acb7-c0d9-4ee4-b388-757e0b4988c5,2013,6,Cả nước,National,Investment,Lai Châu,,Investment_Amount,30.0,million_VND,Plan,PL9
+608b016d-152d-42bc-adc5-4c8633ae8ced,2013,6,Cả nước,National,Investment,Lai Châu,,Investment_Amount,30.0,million_VND,Cumulative,PL9
+00ac8eac-64b2-4bf9-9021-f8d9f441472b,2013,6,Cả nước,National,Investment,Hoà Bình,,Investment_Amount,4155.0,million_VND,Plan,PL9
+687e6294-d049-42b0-ab92-2b502309b57c,2013,6,Cả nước,National,Investment,Hoà Bình,,Investment_Amount,2000.0,million_VND,Cumulative,PL9
+0f4b7ed1-2fa3-4158-bc10-00ee93c24a1c,2013,6,Cả nước,National,Investment,Bắc Trung Bộ,,Investment_Amount,12543.0,million_VND,Plan,PL9
+5bb5e07b-ced3-41d0-9855-5bef3aaa4acc,2013,6,Cả nước,National,Investment,Bắc Trung Bộ,,Investment_Amount,12155.0,million_VND,Cumulative,PL9
+8d507784-1733-4437-9c22-fd6096069e07,2013,6,Cả nước,National,Investment,Thanh Hoá,,Investment_Amount,4932.0,million_VND,Plan,PL9
+3b731573-aedc-4b62-ab0e-dc43cf5b0518,2013,6,Cả nước,National,Investment,Thanh Hoá,,Investment_Amount,4907.0,million_VND,Cumulative,PL9
+2e27a526-1053-4b99-b2b7-3bf1764fa529,2013,6,Cả nước,National,Investment,Nghệ An,,Investment_Amount,7131.0,million_VND,Plan,PL9
+184ac4bf-09d6-477d-96a1-a6839cb4ff28,2013,6,Cả nước,National,Investment,Nghệ An,,Investment_Amount,6768.0,million_VND,Cumulative,PL9
+4e27a238-83f6-4c4a-8f35-93d831419fdd,2013,6,Cả nước,National,Investment,Hà Tĩnh,,Investment_Amount,300.0,million_VND,Plan,PL9
+66bfc453-5e34-4634-89c4-d540cb773cdb,2013,6,Cả nước,National,Investment,Hà Tĩnh,,Investment_Amount,300.0,million_VND,Cumulative,PL9
+9d4ae9e5-3ba5-4488-a919-beb5dcbfeeae,2013,6,Cả nước,National,Investment,Thừa Thiên Huế,,Investment_Amount,180.0,million_VND,Plan,PL9
+d4fb7491-216d-4005-9d70-d34edf24067b,2013,6,Cả nước,National,Investment,Thừa Thiên Huế,,Investment_Amount,180.0,million_VND,Cumulative,PL9

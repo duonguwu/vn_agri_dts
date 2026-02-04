@@ -1,0 +1,449 @@
+﻿year,month,appendix_number,location_name,sector,commodity,error_number_prefix,error_empty_parens,error_unclosed_parens,error_leading_space,error_trailing_space,error_multiple_spaces
+2008,2,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2009,2,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2008,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,2,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2009,2,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2008,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(,Cultivation,Cây công nghiệp ngắn ngày,True,False,True,False,False,False
+2009,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(,Cultivation,Cây công nghiệp ngắn ngày,True,False,True,False,False,False
+2008,2,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2009,2,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2008,3,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2009,3,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2008,3,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,3,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,3,PL1,3. Gieo cấy lúa hè thu ở ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2009,3,PL1,3. Gieo cấy lúa hè thu ở ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2008,3,PL1,4. Gieo trồng màu(*),Cultivation,Unknown,True,False,False,False,False,False
+2009,3,PL1,4. Gieo trồng màu(*),Cultivation,Unknown,True,False,False,False,False,False
+2008,3,PL1,5. Gieo trồng cây công nghiệp ngắn ngày(*),Cultivation,Cây công nghiệp ngắn ngày,True,False,False,False,False,False
+2009,3,PL1,5. Gieo trồng cây công nghiệp ngắn ngày(*),Cultivation,Cây công nghiệp ngắn ngày,True,False,False,False,False,False
+2008,3,PL1,"6. Gieo trồng rau, đậu các loại(*)",Cultivation,Rau đậu,True,False,False,False,False,False
+2009,3,PL1,"6. Gieo trồng rau, đậu các loại(*)",Cultivation,Rau đậu,True,False,False,False,False,False
+2008,4,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,4,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,4,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,4,PL1,-  Khoai lang,Cultivation,Khoai lang,False,False,False,False,False,True
+2008,4,PL1,-  Sắn,Cultivation,Sắn,False,False,False,False,False,True
+2008,4,PL1,-  Lạc,Cultivation,Lạc,False,False,False,False,False,True
+2008,4,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2008,5,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,5,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,5,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,5,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2008,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc658.8,Cultivation,Lúa,True,False,False,False,False,False
+2009,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc658.8,Cultivation,Lúa,True,False,False,False,False,False
+2008,6,PL1,"2. Gieo cấy lúa hè thu cả nước2,044.9",Cultivation,Unknown,True,False,False,False,False,False
+2008,6,Actual,4.Tổng sản lượng lương thực sơ bộ ĐX 2009 ,Provincial,Cultivation,False,False,False,False,True,False
+2008,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,7,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2008,7,PL1,-  Miền Nam,Cultivation,Unknown,False,False,False,False,False,True
+2008,7,PL1,-  Đậu tương,Cultivation,Đậu tương,False,False,False,False,False,True
+2008,7,PL1,-  Thuốc lá,Cultivation,Unknown,False,False,False,False,False,True
+2008,7,PL1,-  Mía (trồng mới),Cultivation,Unknown,False,False,False,False,False,True
+2009,7,PL3,i  Hà Gang,Cultivation,Lúa,False,False,False,False,False,True
+2009,7,PL3,i  Hà Gang,Cultivation,Đậu tương,False,False,False,False,False,True
+2009,7,PL3,i  Hà Gang,Cultivation,Lạc,False,False,False,False,False,True
+2009,7,PL3,i  Hà Gang,Cultivation,Thuốc lá,False,False,False,False,False,True
+2008,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,8,PL1,Trong đó: ‐  Đồng bằng sông Cửu Long,Cultivation,Unknown,False,False,False,False,False,True
+2009,8,PL1,Trong đó: ‐  Đồng bằng sông Cửu Long,Cultivation,Unknown,False,False,False,False,False,True
+2008,8,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2008,8,PL1,Chia ra:    ‐  Miền Bắc,Cultivation,Unknown,False,False,False,False,False,True
+2008,8,PL1,‐  Miền Nam,Cultivation,Unknown,False,False,False,False,False,True
+2008,8,PL1,Trong đó:  ‐  Lạc,Cultivation,Lạc,False,False,False,False,False,True
+2008,8,PL1,‐  Đậu tương,Cultivation,Unknown,False,False,False,False,False,True
+2008,8,PL1,‐  Thuốc lá,Cultivation,Unknown,False,False,False,False,False,True
+2009,8,PL3,CBằ  ao ng,Cultivation,Lúa,False,False,False,False,False,True
+2008,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,9,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2008,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2008,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2008,11,PL1,1. Thu hoạch lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2009,11,PL1,1. Thu hoạch lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2008,11,PL1,2. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,11,PL1,2. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,11,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,11,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2008,12,PL1,1. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,12,PL1,1. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2008,12,PL1,2. Thu hoạch lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,12,PL1,2. Thu hoạch lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2008,12,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,12,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,12,PL4,BôngDiện  tíchNăng suấtSản lượngĐayDiện  tíchNăng suấtSản lượngCóiDiện  tíchNăng suấtSản lượngLạcDiện  tíchNăng suấtSản lượngĐậu tươngDiện  tíchNăng suấtSản lượngRau các loạiDiện  tíchNăng suấtSản lượngĐậu các loạiDiện  tíchNăng suấtSản lượng,Cultivation,Lúa,False,False,False,False,False,True
+2009,12,PL4,BôngDiện  tíchNăng suấtSản lượngĐayDiện  tíchNăng suấtSản lượngCóiDiện  tíchNăng suấtSản lượngLạcDiện  tíchNăng suấtSản lượngĐậu tươngDiện  tíchNăng suấtSản lượngRau các loạiDiện  tíchNăng suấtSản lượngĐậu các loạiDiện  tíchNăng suấtSản lượng,Cultivation,Lúa,False,False,False,False,False,True
+2009,1,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2010,1,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2009,1,PL1,2. Thu hoạch lúa mùa miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,1,PL1,2. Thu hoạch lúa mùa miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,1,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2010,1,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2009,1,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2010,1,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2009,1,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2010,1,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2009,2,PL1,1. Gieo cấy lúa đông xuân cả nước1000ha,Cultivation,Lúa,True,False,False,False,False,False
+2010,2,PL1,1. Gieo cấy lúa đông xuân cả nước1000ha,Cultivation,Lúa,True,False,False,False,False,False
+2009,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam1000ha,Cultivation,Lúa,True,False,False,False,False,False
+2010,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam1000ha,Cultivation,Lúa,True,False,False,False,False,False
+2009,2,PL1,3. Gieo trồng màu lương thực() 1000ha,Cultivation,Màu lương thực,True,True,False,False,False,False
+2010,2,PL1,3. Gieo trồng màu lương thực() 1000ha,Cultivation,Màu lương thực,True,True,False,False,False,False
+2009,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày() 1000ha,Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2010,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày() 1000ha,Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2009,2,PL1,"5. Gieo trồng rau, đậu các loại() """,Cultivation,Rau đậu,True,True,False,False,False,False
+2010,2,PL1,"5. Gieo trồng rau, đậu các loại() """,Cultivation,Rau đậu,True,True,False,False,False,False
+2009,4,PL1,1. Gieo cấy lúa hè thu miền Nam441.2,Cultivation,Unknown,True,False,False,False,False,False
+2009,4,PL1,"2. Thu hoạch lúa đông xuân miền Nam1,653.2",Cultivation,Lúa,True,False,False,False,False,False
+2010,4,PL1,"2. Thu hoạch lúa đông xuân miền Nam1,653.2",Cultivation,Lúa,True,False,False,False,False,False
+2009,4,PL1,"4. Gieo trồng rau, đậu các loại432.0",Cultivation,Rau đậu,True,False,False,False,False,False
+2009,5,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,5,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,5,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,5,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,5,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2010,5,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2009,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc,Cultivation,Lúa,True,False,False,False,False,False
+2010,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc,Cultivation,Lúa,True,False,False,False,False,False
+2009,6,PL1,2. Gieo cấy lúa hè thu cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2010,6,PL1,2. Gieo cấy lúa hè thu cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2009,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,7,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2009,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,8,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2009,8,PL1,"3. Gieo trồng rau, màu, CCN ngắn ngày (*)",Cultivation,Unknown,True,False,False,False,False,False
+2009,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,9,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2010,9,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2009,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2010,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2009,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2010,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2009,11,PL1,1. Thu hoạch lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2010,11,PL1,1. Thu hoạch lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2009,11,PL1,-  Mi ền Nam,Cultivation,Unknown,False,False,False,False,False,True
+2010,11,PL1,-  Mi ền Nam,Cultivation,Unknown,False,False,False,False,False,True
+2009,11,PL1,2. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,11,PL1,2. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2009,11,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2010,11,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Ngô,False,False,False,False,False,True
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Đậu,False,False,False,False,False,True
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lạc,False,False,False,False,False,True
+2010,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Rau,False,False,False,False,False,True
+2009,12,PL1,"1. Gieo cấy lúa đông xuân ở miềnNam   Trong đó: + Đồng bằng sông CửuLong 2. Thu hoạch lúa mùa ở miền Nam   Trong đó: + Đồng bằng sông CửuLong 3. Gieo trồng cây vụ đông ở miền Bắc   Trong đó: - Ngô           - Khoai lang           - Đ ậu tương           - Rau, đ ậu các loại",Cultivation,Lúa,True,False,False,False,False,True
+2010,12,PL1,"1. Gieo cấy lúa đông xuân ở miềnNam   Trong đó: + Đồng bằng sông CửuLong 2. Thu hoạch lúa mùa ở miền Nam   Trong đó: + Đồng bằng sông CửuLong 3. Gieo trồng cây vụ đông ở miền Bắc   Trong đó: - Ngô           - Khoai lang           - Đ ậu tương           - Rau, đ ậu các loại",Cultivation,Lúa,True,False,False,False,False,True
+2010,12,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Ngô,False,False,False,False,False,True
+2010,12,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Đậu,False,False,False,False,False,True
+2010,12,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lạc,False,False,False,False,False,True
+2010,12,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Rau,False,False,False,False,False,True
+2010,12,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL3,Miền NamD.H Nam Trung B  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL3,Miền NamD.H Nam Trung B  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL3,Miền NamD.H Nam Trung B  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL4,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL4,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL4,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Mía,False,False,False,False,False,True
+2010,12,PL4,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Trong đó:  + Lúa,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Trong đó:  + Lúa,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Trong đó:  + Lúa,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL5,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2010,1,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2011,1,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2010,1,PL1,2. Thu hoạch lúa mùa miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,1,PL1,2. Thu hoạch lúa mùa miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,1,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2011,1,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2010,1,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2011,1,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2010,1,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2011,1,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2011,1,PL5,LâĐồ  m ng,Cultivation,Lúa,False,False,False,False,False,True
+2010,2,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2011,2,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2010,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,2,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2011,2,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2010,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2011,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2010,2,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2011,2,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2011,2,PL2,ThừThiê H ế  a n u,Cultivation,Lúa,False,False,False,False,False,True
+2010,3,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2010,3,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,3,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,3,PL1,3. Gieo cấy lúa hè thu ở ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2010,3,PL1,4. Gieo trồng màu lương thực(*),Cultivation,Màu lương thực,True,False,False,False,False,False
+2010,3,PL1,5. Gieo trồng cây công nghiệp ngắn ngày(*),Cultivation,Cây công nghiệp ngắn ngày,True,False,False,False,False,False
+2010,3,PL1,"6. Gieo trồng rau, đậu các loại(*)",Cultivation,Rau đậu,True,False,False,False,False,False
+2010,4,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,4,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,4,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,4,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2010,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc,Cultivation,Lúa,True,False,False,False,False,False
+2011,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc,Cultivation,Lúa,True,False,False,False,False,False
+2010,6,PL1,2. Gieo cấy lúa hè thu cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,6,PL1,2. Gieo cấy lúa hè thu cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Khoai lang,False,False,False,False,False,True
+2011,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Sắn,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Đậu tương,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lạc,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Mía,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Thuốc lá,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN phía Bắc  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL4,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL4,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL4,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL4,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL4,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Đậu,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Mía,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,6,PL5,Miền NamD.H Nam Trg Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh HoàTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  TP Hồ Chí Minh  Ninh Thuận  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bình Thuận  Bà Rịa-V.TàuĐBS Cửu Long  Long An  Đồng Tháp  An Giang  Tiền Giang  Vĩnh Long  Bến Tre  Kiên Giang  Cần Thơ  Hậu Giang  Trà Vinh  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,7,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,7,PL5,ồ  Lâm Đng,Cultivation,Lúa,False,False,False,False,False,True
+2011,7,PL5,ồ  Lâm Đng,Cultivation,Lúa,False,False,False,False,False,True
+2011,7,PL5,ồ  Lâm Đng,Cultivation,Lúa,False,False,False,False,False,True
+2010,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,8,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,8,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2010,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,9,PL1,2. Gieo trồng lúa thu đông ở vùng ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2011,9,PL1,2. Gieo trồng lúa thu đông ở vùng ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2010,9,PL1,3. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,9,PL1,3. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2010,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2011,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2010,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2011,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2010,11,PL1,"1. Thu hoạch lúa mùa cả nước      Chia ra:    -  Miền Bắc Trong đó : Đồng bằng sông Hồng                      -  Miền Nam Trong đó : Đồng bằng sông Cửu Long 2. Gieo cấy lúa đông xuân ở miền Nam      Trong đó: Đồng bằng sông Cửu Long 3. Gieo trồng cây vụ đông ở miền Bắc  Trong đó:     - Ngô                      - Khoai lang                      - Đậu tương                      - Rau, đậu các loại                      - Khoai tây",Cultivation,Lúa,True,False,False,False,False,True
+2011,11,PL1,"1. Thu hoạch lúa mùa cả nước      Chia ra:    -  Miền Bắc Trong đó : Đồng bằng sông Hồng                      -  Miền Nam Trong đó : Đồng bằng sông Cửu Long 2. Gieo cấy lúa đông xuân ở miền Nam      Trong đó: Đồng bằng sông Cửu Long 3. Gieo trồng cây vụ đông ở miền Bắc  Trong đó:     - Ngô                      - Khoai lang                      - Đậu tương                      - Rau, đậu các loại                      - Khoai tây",Cultivation,Lúa,True,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Ngô,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Khoai lang,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lạc,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Rau,False,False,False,False,False,True
+2011,11,PL3,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL3,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL3,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL3,Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau,Cultivation,Lúa,False,False,False,False,False,True
+2010,12,PL1,1. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,12,PL1,1. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2010,12,PL1,2. Thu hoạch lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,12,PL1,2. Thu hoạch lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2010,12,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2011,12,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2011,1,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2012,1,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2011,1,PL1,2. Thu hoạch lúa mùa miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,1,PL1,2. Thu hoạch lúa mùa miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,1,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2012,1,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2011,1,PL1,4. G.trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2012,1,PL1,4. G.trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2011,1,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2012,1,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2011,2,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2012,2,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2011,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,2,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,2,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2012,2,PL1,3. Gieo trồng màu lương thực(),Cultivation,Màu lương thực,True,True,False,False,False,False
+2011,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2012,2,PL1,4. Gieo trồng cây công nghiệp ngắn ngày(),Cultivation,Cây công nghiệp ngắn ngày,True,True,False,False,False,False
+2011,2,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2012,2,PL1,"5. Gieo trồng rau, đậu các loại()",Cultivation,Rau đậu,True,True,False,False,False,False
+2011,3,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2012,3,PL1,1. Gieo cấy lúa đông xuân cả nước,Cultivation,Lúa,True,False,False,False,False,False
+2011,3,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,3,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,3,PL1,3. Gieo cấy lúa hè thu ở ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2012,3,PL1,3. Gieo cấy lúa hè thu ở ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2011,3,PL1,4. Gieo trồng màu lương thực(*),Cultivation,Màu lương thực,True,False,False,False,False,False
+2012,3,PL1,4. Gieo trồng màu lương thực(*),Cultivation,Màu lương thực,True,False,False,False,False,False
+2011,3,PL1,5. Gieo trồng cây công nghiệp ngắn ngày(*),Cultivation,Cây công nghiệp ngắn ngày,True,False,False,False,False,False
+2012,3,PL1,5. Gieo trồng cây công nghiệp ngắn ngày(*),Cultivation,Cây công nghiệp ngắn ngày,True,False,False,False,False,False
+2011,3,PL1,"6. Gieo trồng rau, đậu các loại(*)",Cultivation,Rau đậu,True,False,False,False,False,False
+2012,3,PL1,"6. Gieo trồng rau, đậu các loại(*)",Cultivation,Rau đậu,True,False,False,False,False,False
+2012,3,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,3,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,3,PL2,ằ  Cao Bng,Cultivation,Ngô,False,False,False,False,False,True
+2012,3,PL2,ằ  Cao Bng,Cultivation,Khoai lang,False,False,False,False,False,True
+2012,3,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2011,4,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,4,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,4,PL1,2. Thu hoạch lúa đông xuân miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,4,PL1,"3. Gieo trồng hoa màu, CCN ngắn ngày (*)",Cultivation,Unknown,True,False,False,False,False,False
+2011,4,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2011,5,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,5,PL1,1. Gieo cấy lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,5,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,5,PL1,2. Thu hoạch lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,5,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2012,5,PL1,"4. Gieo trồng rau, đậu các loại",Cultivation,Rau đậu,True,False,False,False,False,False
+2011,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc,Cultivation,Lúa,True,False,False,False,False,False
+2012,6,PL1,1. Thu hoạch lúa đông xuân miền Bắc,Cultivation,Lúa,True,False,False,False,False,False
+2011,6,PL1,2. Gieo cấy lúa hè thu cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,6,PL1,2. Gieo cấy lúa hè thu cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Ngô,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Khoai lang,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Sắn,False,False,False,False,False,True
+2012,6,PL2,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Lúa,False,False,False,False,False,True
+2012,6,PL3,Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế,Cultivation,Rau,False,False,False,False,False,True
+2011,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,7,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,7,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,7,PL3,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,7,PL3,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,7,PL3,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,7,PL3,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,7,PL3,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,7,PL3,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,7,PL3,ằ  Cao Bng,Cultivation,Rau,False,False,False,False,False,True
+2011,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,8,PL1,1. Thu hoạch lúa hè thu miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,8,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,8,PL1,2. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,9,PL1,1. Thu hoạch lúa hè thu ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,9,PL1,2. Gieo trồng lúa thu đông ở vùng ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2012,9,PL1,2. Gieo trồng lúa thu đông ở vùng ĐBSCL,Cultivation,Unknown,True,False,False,False,False,False
+2011,9,PL1,3. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,9,PL1,3. Gieo cấy lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,9,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,9,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,9,PL2,ằ  Cao Bng,Cultivation,Ngô,False,False,False,False,False,True
+2012,9,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,9,PL2,ằ  Cao Bng,Cultivation,Sắn,False,False,False,False,False,True
+2012,9,PL2,ằ  Cao Bng,Cultivation,Lúa,False,False,False,False,False,True
+2012,9,PL3,CBằ  ao ng,Cultivation,Lúa,False,False,False,False,False,True
+2011,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2012,10,PL1,1. Thu hoạch lúa mùa ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2011,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,10,PL1,2. Gieo cấy lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,10,PL1,3. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2012,10,PL1,4. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2012,10,PL3,T à Vi h  rn,Cultivation,Sắn,False,False,False,False,False,True
+2012,10,PL3,T à Vi h  rn,Cultivation,Lúa,False,False,False,False,False,True
+2011,11,PL1,1. Thu hoạch lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2012,11,PL1,1. Thu hoạch lúa mùa cả nước,Cultivation,Unknown,True,False,False,False,False,False
+2011,11,PL1,-  Miền Nam,Cultivation,Unknown,False,False,False,False,False,True
+2012,11,PL1,-  Miền Nam,Cultivation,Unknown,False,False,False,False,False,True
+2011,11,PL1,2. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,11,PL1,2. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,11,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2012,11,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2011,12,PL1,1. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2012,12,PL1,1. Gieo cấy lúa đông xuân ở miền Nam,Cultivation,Lúa,True,False,False,False,False,False
+2011,12,PL1,2. Thu hoạch lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2012,12,PL1,2. Thu hoạch lúa mùa ở miền Nam,Cultivation,Unknown,True,False,False,False,False,False
+2011,12,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2012,12,PL1,3. Gieo trồng cây vụ đông ở miền Bắc,Cultivation,Unknown,True,False,False,False,False,False
+2012,12,PL2,Là C i  o a,Cultivation,Ngô,False,False,False,False,False,True
+2012,12,PL2,Là C i  o a,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL2,Là C i  o a,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True
+2012,12,PL4,Diện  tích,Cultivation,Lúa,False,False,False,False,False,True

@@ -1,0 +1,21 @@
+﻿Error_Type,Description,Count,Percentage,Sample_1,Sample_2,Sample_3
+typo_spacing,Không có khoảng trắng giữa từ (viết liền),39423,97.9,1. Gieo cấy lúa đông xuân cả nước,#NAME?,#NAME?
+space_in_word,Khoảng trắng trong từ,38831,96.43,1. Gieo cấy lúa đông xuân cả nước,#NAME?,#NAME?
+only_numbers,Chỉ toàn số (không phải location),800,1.99,1,1.1,1.2
+location_list,Danh sách nhiều location,418,1.04,1. Gieo cấy lúa đông xuân cả nước,#NAME?,2. Thu hoạch lúa đông xuân ở miền Nam
+minus_prefix,Dấu - ở đầu,337,0.84,#NAME?,#NAME?,#NAME?
+number_prefix,"Số thứ tự ở đầu (1., 2., 3., ...)",267,0.66,1. Gieo cấy lúa đông xuân cả nước,2. Thu hoạch lúa đông xuân ở miền Nam,3. Gieo trồng màu lương thực()
+contains_metadata,Chứa metadata (header/column names),197,0.49,4.Tổng sản lượng lương thực sơ bộ ĐX 2009 ,BôngDiện  tíchNăng suấtSản lượngĐayDiện  tíchNăng suấtSản lượngCóiDiện  tíchNăng suấtSản lượngLạcDiện  tíchNăng suấtSản lượngĐậu tươngDiện  tíchNăng suấtSản lượngRau các loạiDiện  tíchNăng suấtSản lượngĐậu các loạiDiện  tíchNăng suấtSản lượng,"ChuốiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnXoàiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnNhãnDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnVải, chôm chômDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnBòng bưởiDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấnNhoDT gieo trồng1000 haDT cho sản phẩm1000 haNăng suấttạ/haSản lượng1000 tấn"
+multiple_spaces,Nhiều khoảng trắng liên tiếp,184,0.46,#NAME?,#NAME?,#NAME?
+single_char,Chỉ là chữ số La Mã hoặc ký tự đơn,61,0.15,I,II,III
+plus_prefix,Dấu + ở đầu,42,0.1,#NAME?,#NAME?,#NAME?
+empty_parens,Dấu ngoặc rỗng (),40,0.1,3. Gieo trồng màu lương thực(),"5. Gieo trồng rau, đậu các loại()",4. Gieo trồng cây công nghiệp ngắn ngày()
+number_suffix,Số dính vào cuối text,21,0.05,1. Thu hoạch lúa đông xuân miền Bắc658.8,#NAME?,#NAME?
+number_in_middle,Số ở giữa text,16,0.04,4.Tổng sản lượng lương thực sơ bộ ĐX 2009 ,1. Gieo cấy lúa đông xuân cả nước1000ha,2. Thu hoạch lúa đông xuân ở miền Nam1000ha
+bullet_prefix,Dấu bullet (‐) ở đầu,5,0.01,‐  Miền Nam,‐ Khoai lang,‐ Sắn
+unclosed_parens,Dấu ngoặc không đóng,2,0,4. Gieo trồng cây công nghiệp ngắn ngày(,,
+special_chars,Ký tự đặc biệt lạ (encoding issues),2,0,Tæng sè Tr©uTæng sè BßTæng sè LînTrong ®ã N¸iSè con lîn thÞt x.chuångSL thÞt xuÊt chuångTæng sè Gia cÇmChia ra GµSL thÞt gia cÇm h¬i giÕt b¸nSL trøng gia cÇm c¸c lo¹i,,
+trailing_space,Khoảng trắng cuối,1,0,4.Tổng sản lượng lương thực sơ bộ ĐX 2009 ,,
+leading_space,Khoảng trắng đầu,0,0,,,
+unicode_issues,Unicode bị lỗi (dấu trùng),0,0,,,
+concatenated_locations,Text quá dài (nhiều location ghép lại),0,0,,,

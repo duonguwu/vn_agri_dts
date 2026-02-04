@@ -14,12 +14,22 @@ from datetime import datetime
 from typing import List, Dict, Any, Optional, Tuple
 import csv
 import sys
+import logging
+import uuid
+
+# Setup logging
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(levelname)s - %(message)s'
+)
+logger = logging.getLogger(__name__)
 
 # ============================================================================
 # CONFIGURATION
 # ============================================================================
 
 BASE_DIR = Path("/media/duongn/New Volume/UIT/aThacSy/Data Mining/2. Data Pre-processing/vn_agri_dts")
+# BASE_DIR = Path("D:\\UIT\\aThacSy\\Data Mining\\2. Data Pre-processing\\vn_agri_dts")
 SEGMENTS_DIR = BASE_DIR / "segments" / "2009"
 OUTPUT_DIR = BASE_DIR / "dataset" / "extract_llm"
 
@@ -69,39 +79,441 @@ COMMODITY_MAPPING = {
 # ============================================================================
 
 def clean_number(value: str) -> Optional[float]:
-    """Clean and convert string to number"""
-    if not value or value.strip() == "":
+    """
+    Clean and convert string to number.
+    
+    Handles Vietnamese number formats:
+    - Comma as thousands separator: 1,234,567
+    - Period as decimal separator: 123.45
+    - Mixed: 1,234.56
+    
+    Returns None if:
+    - Empty or invalid
+    - Contains multiple numbers (concatenated string)
+    - Contains non-numeric characters (except comma, period, minus)
+    """
+    if not value or not isinstance(value, str):
         return None
     
     # Remove markdown formatting
-    value = re.sub(r'\*\*|~~|_|\<br\>', '', value)
+    value = re.sub(r'\*\*|~~|_|<br>', '', value)
     value = value.strip()
     
     if value == "" or value == "-":
         return None
     
-    # Remove commas and convert
+    # === VALIDATION: Prevent parsing concatenated strings ===
+    # Check if contains multiple separate numbers (e.g., "123 456" or "123  456")
+    # This prevents parsing "76,786 39,600" as one number
+    if re.search(r'\d\s+\d', value):
+        logger.debug(f"Skipped concatenated numbers: '{value}'")
+        return None
+    
+    # Check if contains letters (except for scientific notation 'e')
+    if re.search(r'[a-df-zA-DF-Z]', value):
+        logger.debug(f"Skipped non-numeric value: '{value}'")
+        return None
+    
+    # === PARSING ===
     try:
-        value = value.replace(',', '').replace('.', '')
-        # Handle decimal point (last occurrence)
-        if ',' in value:
-            value = value.replace(',', '.')
-        return float(value)
-    except:
+        # Remove all spaces
+        value = value.replace(' ', '')
+        
+        # Determine format based on comma/period positions
+        has_comma = ',' in value
+        has_period = '.' in value
+        
+        if has_comma and has_period:
+            # Mixed format: determine which is decimal separator
+            # In Vietnamese: comma is thousands, period is decimal
+            # Example: 1,234.56 → 1234.56
+            comma_pos = value.rfind(',')
+            period_pos = value.rfind('.')
+            
+            if period_pos > comma_pos:
+                # Period is decimal separator: 1,234.56
+                value = value.replace(',', '')  # Remove thousands separator
+            else:
+                # Comma is decimal separator (rare): 1.234,56
+                value = value.replace('.', '').replace(',', '.')
+        
+        elif has_comma:
+            # Only comma: could be thousands separator or decimal
+            # Vietnamese format uses comma as thousands separator
+            # Check pattern:
+            # - If all parts after first comma have exactly 3 digits → thousands
+            # - If last part has 1-2 digits → likely decimal
+            # - If last part has 3 digits but there are multiple commas → thousands
+            parts = value.split(',')
+            
+            if len(parts) == 2:
+                # Single comma
+                last_part_len = len(parts[1])
+                if last_part_len == 3 and len(parts[0]) <= 3:
+                    # Could be either: 123,456 or 1,234
+                    # In Vietnamese data, this is THOUSANDS separator
+                    value = value.replace(',', '')
+                elif last_part_len <= 2:
+                    # Decimal: 123,45 → 123.45
+                    value = value.replace(',', '.')
+                else:
+                    # Default to thousands
+                    value = value.replace(',', '')
+            else:
+                # Multiple commas → definitely thousands separator
+                # 1,234,567
+                value = value.replace(',', '')
+        
+        elif has_period:
+            # Only period: assume decimal separator
+            # 123.45 → 123.45 (keep as is)
+            pass
+        
+        # Convert to float
+        result = float(value)
+        
+        # === SANITY CHECK ===
+        # Agricultural data should be reasonable
+        # Max area in Vietnam: ~10 million ha
+        # Max production: ~100 million tons
+        # If value > 1 billion, likely parsing error
+        if result > 1_000_000_000:
+            logger.warning(f"Suspiciously large value: {result} from '{value}' - likely parsing error")
+            return None
+        
+        return result
+        
+    except (ValueError, AttributeError) as e:
+        logger.debug(f"Failed to parse number: '{value}' - {e}")
         return None
 
 def clean_text(text: str) -> str:
     """Clean text from markdown formatting"""
     if not text:
         return ""
-    text = re.sub(r'\*\*|~~|_|\<br\>', '', text)
+    text = re.sub(r'\*\*|~~|_|<br>', '', text)
     return text.strip()
+
+def clean_location_name(location: str) -> Optional[str]:
+    """
+    Clean location_name from common extraction errors
+    
+    Handles 11 types of errors:
+    1. Number prefixes (1., 2., 3., ...)
+    2. Bullet prefixes (+, -, ‐)
+    3. Space in word (e.g., "mi ền nam" -> "miền nam")
+    4. Typo spacing (no space between words)
+    5. Trailing numbers (e.g., "miền nam1,926.2" -> "miền nam")
+    6. Empty parentheses ()
+    7. Unclosed parentheses
+    8. Multiple spaces
+    9. Only numbers (invalid)
+    10. Metadata keywords (invalid)
+    11. Single character/Roman numerals (invalid)
+    
+    Returns:
+        Cleaned location name or None if invalid
+    """
+    if not location or not isinstance(location, str):
+        return None
+    
+    original = location
+    location = location.strip()
+    
+    # 1. Remove number prefixes (1., 2., 3., ...)
+    location = re.sub(r'^\d+\.\s*', '', location)
+    
+    # 2. Remove bullet prefixes (+, -, ‐)
+    location = re.sub(r'^[+\-‐]\s*', '', location)
+    
+    # 3. Fix common space-in-word patterns (Vietnamese specific)
+    # Common patterns found in error analysis
+    location = re.sub(r'đ\s+ậu', 'đậu', location)
+    location = re.sub(r'mi\s+ền', 'miền', location)
+    location = re.sub(r'trung\s+bộ', 'trung bộ', location)
+    location = re.sub(r'nam\s+bộ', 'nam bộ', location)
+    location = re.sub(r'tây\s+nguyên', 'tây nguyên', location)
+    location = re.sub(r'đông\s+bắc', 'đông bắc', location)
+    location = re.sub(r'tây\s+bắc', 'tây bắc', location)
+    location = re.sub(r'cả\s+nước', 'cả nước', location)
+    location = re.sub(r'rau,?\s*đ\s+ậu', 'rau, đậu', location)
+    
+    # 4. Fix typo spacing - detect common concatenated words
+    # This is harder without a dictionary, but we can fix known patterns
+    location = re.sub(r'miềnnam', 'miền nam', location, flags=re.IGNORECASE)
+    location = re.sub(r'miềnbắc', 'miền bắc', location, flags=re.IGNORECASE)
+    location = re.sub(r'trungbộ', 'trung bộ', location, flags=re.IGNORECASE)
+    location = re.sub(r'tâynguyên', 'tây nguyên', location, flags=re.IGNORECASE)
+    location = re.sub(r'đôngbắc', 'đông bắc', location, flags=re.IGNORECASE)
+    location = re.sub(r'tâybắc', 'tây bắc', location, flags=re.IGNORECASE)
+    
+    # 5. Remove trailing numbers (e.g., "miền nam1,926.2" -> "miền nam")
+    location = re.sub(r'[\d,\.]+$', '', location)
+    
+    # 6. Fix empty parentheses
+    location = re.sub(r'\(\s*\)', '', location)
+    
+    # 7. Fix unclosed parentheses
+    location = re.sub(r'\([^)]*$', '', location)
+    
+    # 8. Remove multiple spaces
+    location = re.sub(r'\s{2,}', ' ', location)
+    
+    # 9. Trim again after all cleaning
+    location = location.strip()
+    
+    # === VALIDATION ===
+    
+    # 10. Skip if empty after cleaning
+    if not location or len(location) < 2:
+        if original != location:
+            logger.debug(f"Skipped (too short after cleaning): '{original}' -> '{location}'")
+        return None
+    
+    # 11. Skip if only numbers
+    if location.replace('.', '').replace(',', '').isdigit():
+        logger.debug(f"Skipped (only numbers): '{original}'")
+        return None
+    
+    # 12. Skip if contains metadata keywords (column headers)
+    # Only skip if it's MOSTLY metadata, not if metadata is part of valid location
+    # Example: "Diện tích" = skip, but "Gieo trồng rau, đậu các loại" = keep
+    metadata_only_keywords = [
+        'diện tích', 'năng suất', 'sản lượng', 'dt gieo', 'dt cho',
+        'dt gieo trồng', 'dt cho sản phẩm', 'tạ/ha', '1000 ha',
+        'trong đó:', 'chia ra:'
+    ]
+    location_lower = location.lower()
+    
+    # Check if location is ONLY metadata (exact match or very similar)
+    if location_lower in metadata_only_keywords:
+        logger.debug(f"Skipped (exact metadata match): '{original}'")
+        return None
+    
+    # Check if location starts with metadata keywords (likely a header)
+    if any(location_lower.startswith(kw) for kw in metadata_only_keywords):
+        logger.debug(f"Skipped (starts with metadata): '{original}'")
+        return None
+    
+    # Skip if it's a concatenated header (multiple keywords together, no spaces)
+    # Example: "BôngDiện  tíchNăng suấtSản lượng"
+    if len(location) > 50 and any(kw in location_lower for kw in ['diện tích', 'năng suất', 'sản lượng']):
+        logger.debug(f"Skipped (concatenated metadata): '{original}'")
+        return None
+    
+    # 13. Skip if Roman numerals (extend to longer patterns)
+    roman_numerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 
+                      'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX']
+    if location.upper() in roman_numerals:
+        logger.debug(f"Skipped (Roman numeral): '{original}'")
+        return None
+    
+    # 14. Skip common invalid patterns
+    # Skip if starts with number (after cleaning, shouldn't happen but double-check)
+    if location[0].isdigit():
+        logger.debug(f"Skipped (starts with number): '{original}'")
+        return None
+    
+    # Log successful cleaning if changed
+    if original != location:
+        logger.debug(f"Cleaned location: '{original}' -> '{location}'")
+    
+    return location
+
+# ============================================================================
+# UNIVERSAL TEXT PARSING UTILITIES
+# ============================================================================
+
+def extract_components_from_text(text: str) -> Dict[str, Optional[str]]:
+    """
+    Extract structured components from complex Vietnamese text.
+    
+    Handles patterns like:
+    - "Gieo cấy lúa đông xuân cả nước" → location="Cả nước", commodity="Lúa", sub_item="Đông Xuân"
+    - "Thu hoạch lúa đông xuân ở miền Nam" → location="Miền Nam", commodity="Lúa", attribute="Area_Harvested"
+    - "Gieo trồng màu lương thực" → commodity="Màu lương thực", location="Cả nước"
+    
+    Returns:
+        dict with keys: location, commodity, sub_item, attribute, action
+    """
+    if not text:
+        return {"location": None, "commodity": None, "sub_item": None, "attribute": None, "action": None}
+    
+    text_lower = text.lower()
+    result = {
+        "location": None,
+        "commodity": None,
+        "sub_item": None,
+        "attribute": "Area_Planted",  # default
+        "action": None
+    }
+    
+    # === 1. DETECT ACTION & ATTRIBUTE ===
+    if "thu hoạch" in text_lower or "dtth" in text_lower:
+        result["action"] = "Thu hoạch"
+        result["attribute"] = "Area_Harvested"
+    elif "gieo cấy" in text_lower or "gieo trồng" in text_lower:
+        result["action"] = "Gieo cấy"
+        result["attribute"] = "Area_Planted"
+    elif "sản lượng" in text_lower:
+        result["attribute"] = "Production"
+    elif "năng suất" in text_lower:
+        result["attribute"] = "Yield"
+    
+    # === 2. EXTRACT LOCATION ===
+    # Pattern: "... ở [location]" or "... [location]" at the end
+    location_patterns = [
+        r'ở\s+(miền\s+(?:bắc|nam))',
+        r'ở\s+(đồng\s+bằng\s+sông\s+cửu\s+long)',
+        r'ở\s+([\w\s]+)$',  # "ở [location]" at end
+        r'(cả\s+nước)',
+        r'(miền\s+(?:bắc|nam))',
+        r'(vùng\s+[\w\s]+)',
+        r'(đồng\s+bằng\s+sông\s+(?:cửu\s+long|hồng))',
+        r'(đông\s+bắc|tây\s+bắc|tây\s+nguyên|đông\s+nam\s+bộ)',
+        r'(bắc\s+trung\s+bộ|nam\s+trung\s+bộ)',
+        r'(duyên\s+hải\s+[\w\s]+)',
+    ]
+    
+    for pattern in location_patterns:
+        match = re.search(pattern, text_lower)
+        if match:
+            location_raw = match.group(1).strip()
+            # Capitalize properly
+            location_clean = clean_location_name(location_raw.title())
+            if location_clean:
+                result["location"] = location_clean
+                break
+    
+    # If no location found, default to "Cả nước" for summary rows
+    if not result["location"]:
+        result["location"] = "Cả nước"
+    
+    # === 3. EXTRACT COMMODITY & SUB_ITEM ===
+    # Check for specific commodities with sub-items
+    if "lúa" in text_lower:
+        result["commodity"] = "Lúa"
+        if "đông xuân" in text_lower:
+            result["sub_item"] = "Đông Xuân"
+        elif "hè thu" in text_lower or "hạ thu" in text_lower:
+            result["sub_item"] = "Hè Thu"
+        elif "mùa" in text_lower:
+            result["sub_item"] = "Mùa"
+    elif "màu lương thực" in text_lower or "cây màu" in text_lower:
+        result["commodity"] = "Màu lương thực"
+    elif "công nghiệp ngắn ngày" in text_lower:
+        result["commodity"] = "Cây công nghiệp ngắn ngày"
+    elif "rau" in text_lower and "đậu" in text_lower:
+        result["commodity"] = "Rau đậu"
+    elif "ngô" in text_lower:
+        result["commodity"] = "Ngô"
+    elif "khoai lang" in text_lower or "k.lang" in text_lower:
+        result["commodity"] = "Khoai lang"
+    elif "sắn" in text_lower:
+        result["commodity"] = "Sắn"
+    elif "đậu tương" in text_lower:
+        result["commodity"] = "Đậu tương"
+    elif "lạc" in text_lower:
+        result["commodity"] = "Lạc"
+    elif "mía" in text_lower:
+        result["commodity"] = "Mía"
+    elif "cà phê" in text_lower:
+        result["commodity"] = "Cà phê"
+    elif "cao su" in text_lower:
+        result["commodity"] = "Cao su"
+    elif "chè" in text_lower:
+        result["commodity"] = "Chè"
+    elif "hạt điều" in text_lower:
+        result["commodity"] = "Hạt điều"
+    elif "hạt tiêu" in text_lower:
+        result["commodity"] = "Hạt tiêu"
+    
+    return result
+
+def detect_table_type(first_column_samples: List[str]) -> str:
+    """
+    Detect table type based on first column content.
+    
+    Returns:
+        - "SUMMARY": PL1 type (complex descriptions with actions)
+        - "PROVINCIAL": PL2-5 type (location names only)
+    """
+    if not first_column_samples:
+        return "PROVINCIAL"
+    
+    # Check if first column contains action verbs (summary table)
+    action_keywords = ["gieo cấy", "gieo trồng", "thu hoạch", "chăm sóc", "trồng"]
+    
+    for sample in first_column_samples[:5]:  # Check first 5 rows
+        sample_lower = sample.lower() if sample else ""
+        if any(keyword in sample_lower for keyword in action_keywords):
+            return "SUMMARY"
+    
+    return "PROVINCIAL"
+
+def parse_header_for_commodity(header: str) -> Dict[str, Optional[str]]:
+    """
+    Parse column header to extract commodity and attribute.
+    
+    Examples:
+        "Diện tích gieo cấy lúa đông xuân" → commodity="Lúa", sub_item="Đông Xuân", attribute="Area_Planted"
+        "Diện tích mạ đã gieo" → commodity="Lúa", attribute="Area_Seedling"
+        "Ngô" → commodity="Ngô", attribute="Area_Planted"
+        "Năng suất" → attribute="Yield"
+    """
+    result = {
+        "commodity": None,
+        "sub_item": None,
+        "attribute": "Area_Planted",  # default
+        "unit": "ha"  # default
+    }
+    
+    if not header:
+        return result
+    
+    header_lower = header.lower()
+    
+    # Detect attribute (order matters - check specific before general)
+    if "mạ" in header_lower or "mạ đã gieo" in header_lower:
+        # Seedling area (for rice)
+        result["attribute"] = "Area_Seedling"
+        result["commodity"] = "Lúa"  # Mạ is always for rice
+    elif "thu hoạch" in header_lower or "dtth" in header_lower:
+        result["attribute"] = "Area_Harvested"
+    elif "gieo cấy" in header_lower or "gieo trồng" in header_lower or "dt gieo" in header_lower:
+        result["attribute"] = "Area_Planted"
+    elif "sản lượng" in header_lower:
+        result["attribute"] = "Production"
+        result["unit"] = "ton"
+    elif "năng suất" in header_lower:
+        result["attribute"] = "Yield"
+        result["unit"] = "ton_per_ha"
+    elif "%" in header or "tỷ lệ" in header_lower:
+        result["attribute"] = "Percentage"
+        result["unit"] = "percent"
+    
+    # Detect commodity (same logic as extract_components_from_text)
+    # Skip if already set (e.g., for mạ)
+    if not result["commodity"]:
+        for key, mapped_commodity in COMMODITY_MAPPING.items():
+            if key in header_lower:
+                result["commodity"] = mapped_commodity
+                break
+    
+    # Detect sub_item
+    if "đông xuân" in header_lower:
+        result["sub_item"] = "Đông Xuân"
+    elif "hè thu" in header_lower or "hạ thu" in header_lower:
+        result["sub_item"] = "Hè Thu"
+    elif "mùa" in header_lower:
+        result["sub_item"] = "Mùa"
+    
+    return result
 
 def generate_record_id(year: int, month: int, location: str, sector: str, 
                        commodity: str, attribute: str, data_type: str) -> str:
-    """Generate unique record ID using MD5 hash"""
-    key = f"{year}_{month}_{location}_{sector}_{commodity}_{attribute}_{data_type}"
-    return hashlib.md5(key.encode()).hexdigest()[:16]
+    """Generate unique record ID using random UUID"""
+    return str(uuid.uuid4())
 
 def detect_geo_level(location_name: str) -> str:
     """Detect geographic level from location name"""
@@ -188,15 +600,31 @@ class PL1Extractor:
             if len(row) < 4:
                 continue
             
-            location_raw = row[0]
-            location_name = clean_text(location_raw)
+            row_text = row[0]
             
-            if not location_name or location_name.startswith("Chia ra") or \
-               location_name.startswith("Trong đó"):
+            # Skip header-like rows
+            if not row_text or row_text.lower() in ["stt", "tt", "col1"]:
+                continue
+            
+            # === USE UNIVERSAL TEXT PARSER ===
+            components = extract_components_from_text(row_text)
+            
+            location_name = components["location"]
+            commodity = components["commodity"]
+            sub_item = components["sub_item"]
+            attribute = components["attribute"]
+            
+            # Skip if no valid location or commodity
+            if not location_name or not commodity:
+                logger.debug(f"PL1: Skipped row {row_idx + 1}: location='{location_name}', commodity='{commodity}', text='{row_text}'")
+                continue
+            
+            # Skip grouping rows
+            if row_text.startswith("Chia ra") or row_text.startswith("Trong đó"):
                 continue
             
             # Detect geo level
-            geo_level = detect_geo_level(location_raw)
+            geo_level = detect_geo_level(location_name)
             is_aggregated = geo_level in ["Regional", "National"]
             
             # Map region
@@ -207,50 +635,24 @@ class PL1Extractor:
                     region_name_vn = rname
                     break
             
-            # Extract commodity from row label
-            commodity = None
-            sub_item = None
-            attribute = "Area_Planted"
-            
-            if "lúa đông xuân" in location_name.lower():
-                commodity = "Lúa"
-                sub_item = "Đông Xuân"
-                if "Thu hoạch" in location_name:
-                    attribute = "Area_Harvested"
-            elif "màu lương thực" in location_name.lower():
-                commodity = "Màu lương thực"
-            elif "công nghiệp ngắn ngày" in location_name.lower():
-                commodity = "Cây công nghiệp ngắn ngày"
-            elif "rau, đậu" in location_name.lower():
-                commodity = "Rau đậu"
-            elif "ngô" in location_name.lower():
-                commodity = "Ngô"
-            elif "khoai lang" in location_name.lower():
-                commodity = "Khoai lang"
-            elif "sắn" in location_name.lower():
-                commodity = "Sắn"
-            elif "đậu tương" in location_name.lower():
-                commodity = "Đậu tương"
-            elif "lạc" in location_name.lower():
-                commodity = "Lạc"
-            
-            # Extract values from columns
+            # Extract values from columns (skip column 1 which is description)
             for col_idx in range(2, min(len(row), 4)):
                 value = clean_number(row[col_idx])
                 if value is None:
                     continue
                 
-                # Determine data type from column
+                # Determine data type and year from column
                 data_type = "Actual"
                 if col_idx == 2:
-                    # Previous year
+                    # Column 2: Previous year (15/02/08)
                     record_year = year - 1
                 else:
+                    # Column 3: Current year (15/02/09)
                     record_year = year
                 
                 record = {
                     "record_id": generate_record_id(record_year, month, location_name, 
-                                                    "Cultivation", commodity or "Unknown", 
+                                                    "Cultivation", commodity, 
                                                     attribute, data_type),
                     "time_context": {
                         "year": record_year,
@@ -266,7 +668,7 @@ class PL1Extractor:
                     },
                     "item_context": {
                         "sector": "Cultivation",
-                        "commodity": commodity or "Unknown",
+                        "commodity": commodity,
                         "sub_item": sub_item,
                         "variety": None,
                         "processing_level": "Raw"
@@ -291,7 +693,7 @@ class PL1Extractor:
                         "row_number": row_idx + 1,
                         "extraction_method": "LLM_Extraction",
                         "extraction_confidence": 0.90,
-                        "notes": None
+                        "notes": f"Original text: {row_text}"
                     },
                     "data_quality": {
                         "is_aggregated": is_aggregated,
@@ -367,20 +769,31 @@ class CultivationExtractor:
             if len(row) < 2:
                 continue
             
-            location_name = clean_text(row[0])
+            location_name = clean_location_name(row[0])
             
-            if not location_name or location_name in ["STT", "Tỉnh", "Địa phương", "Vùng/Tỉnh"]:
+            # Skip if location is invalid
+            if not location_name:
+                logger.warning(f"Cultivation: Skipped invalid location at row {row_idx + 1}: '{row[0]}'")
+                continue
+            
+            if location_name in ["STT", "Tỉnh", "Địa phương", "Vùng/Tỉnh"]:
                 continue
             
             # Skip summary rows
             if "Tổng" in location_name or "Cộng" in location_name:
                 continue
             
-            geo_level = "Provincial"
-            is_aggregated = False
+            # Detect geo level (improved)
+            geo_level = detect_geo_level(location_name)
+            is_aggregated = geo_level in ["Regional", "National"]
             
-            # Map region (for provincial data, we need external mapping)
+            # Map region
             region_id, region_name_vn = None, None
+            for key, (rid, rname) in REGION_MAPPING.items():
+                if key in location_name:
+                    region_id = rid
+                    region_name_vn = rname
+                    break
             
             # Process each column (commodity/attribute)
             for col_idx in range(1, len(row)):
@@ -388,32 +801,52 @@ class CultivationExtractor:
                 if value is None:
                     continue
                 
-                # Determine commodity and attribute from header
+                # === USE UNIVERSAL HEADER PARSER ===
                 header = actual_headers[col_idx] if col_idx < len(actual_headers) else ""
-                commodity = main_commodity
-                attribute = "Area_Planted"
-                unit = "ha"
+                header_info = parse_header_for_commodity(header)
                 
-                if "thu hoạch" in header.lower() or "DTTH" in header:
-                    attribute = "Area_Harvested"
-                elif "%" in header or "tỷ lệ" in header.lower():
-                    attribute = "Harvest_Percentage"
-                    unit = "percent"
-                elif "sản lượng" in header.lower():
-                    attribute = "Production"
-                    unit = "ton"
-                elif "năng suất" in header.lower():
-                    attribute = "Yield"
-                    unit = "ton_per_ha"
+                # Use parsed info, fallback to main_commodity if not found in header
+                commodity = header_info["commodity"] or main_commodity
+                attribute = header_info["attribute"]
+                unit = header_info["unit"]
+                header_sub_item = header_info["sub_item"]
                 
-                # Check if header mentions other commodities
-                for key, mapped_commodity in COMMODITY_MAPPING.items():
-                    if key in header.lower():
-                        commodity = mapped_commodity
-                        break
+                # Use sub_item from header if available, otherwise from title
+                final_sub_item = header_sub_item or sub_item
                 
-                # If header is "Trong đó:" or similar, skip (it's a grouping header)
-                if "trong đó" in header.lower() and len(header) < 15:
+                # === SKIP AGGREGATED/PARENT COLUMNS ===
+                header_lower = header.lower()
+                
+                # Skip "Trong đó:" columns (these are parent headers)
+                if "trong đó" in header_lower and len(header) < 15:
+                    logger.debug(f"Skipped parent column: '{header}'")
+                    continue
+                
+                # Skip aggregated commodity columns that have sub-columns
+                # Example: "Diện tích gieo trồng màu" is parent of "Ngô", "Khoai lang", "Sắn"
+                aggregated_commodities = [
+                    "màu lương thực", "cây màu",
+                    "công nghiệp ngắn ngày", "cây công nghiệp"
+                ]
+                
+                is_aggregated_column = False
+                for agg_comm in aggregated_commodities:
+                    if agg_comm in header_lower:
+                        # Check if next columns have specific commodities (sub-columns)
+                        has_sub_columns = False
+                        for next_idx in range(col_idx + 1, min(col_idx + 5, len(actual_headers))):
+                            next_header = actual_headers[next_idx].lower() if next_idx < len(actual_headers) else ""
+                            # If next columns have specific commodities, this is a parent
+                            if any(comm in next_header for comm in ["ngô", "khoai", "sắn", "đậu tương", "lạc", "cây khác"]):
+                                has_sub_columns = True
+                                break
+                        
+                        if has_sub_columns:
+                            is_aggregated_column = True
+                            logger.debug(f"Skipped aggregated column: '{header}' (has sub-columns)")
+                            break
+                
+                if is_aggregated_column:
                     continue
                 
                 record = {
@@ -424,7 +857,7 @@ class CultivationExtractor:
                         "year": year,
                         "month": month,
                         "report_date": f"{year}-{month:02d}-15",
-                        "period_type": "Seasonal" if sub_item else "Monthly"
+                        "period_type": "Seasonal" if final_sub_item else "Monthly"
                     },
                     "geo_context": {
                         "geo_level": geo_level,
@@ -435,7 +868,7 @@ class CultivationExtractor:
                     "item_context": {
                         "sector": "Cultivation",
                         "commodity": commodity,
-                        "sub_item": sub_item,
+                        "sub_item": final_sub_item,
                         "variety": None,
                         "processing_level": "Raw"
                     },

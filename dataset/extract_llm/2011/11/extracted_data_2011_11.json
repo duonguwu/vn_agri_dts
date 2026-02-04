@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "extraction_date": "2026-01-08T23:31:55.313332",
-    "total_records": 454,
+    "extraction_date": "2026-01-29T22:01:07.959463",
+    "total_records": 417,
     "total_files_processed": 14,
     "year": 2011,
     "month": 11,
@@ -10,105 +10,7 @@
   },
   "records": [
     {
-      "record_id": "7163162cbe4c2e7f",
-      "time_context": {
-        "year": 2010,
-        "month": 11,
-        "report_date": "2010-11-15",
-        "period_type": "Seasonal"
-      },
-      "geo_context": {
-        "geo_level": "Regional",
-        "location_name": "1. Thu hoạch lúa mùa cả nước      Chia ra:    -  Miền Bắc Trong đó : Đồng bằng sông Hồng                      -  Miền Nam Trong đó : Đồng bằng sông Cửu Long 2. Gieo cấy lúa đông xuân ở miền Nam      Trong đó: Đồng bằng sông Cửu Long 3. Gieo trồng cây vụ đông ở miền Bắc  Trong đó:     - Ngô                      - Khoai lang                      - Đậu tương                      - Rau, đậu các loại                      - Khoai tây",
-        "region_id": "North",
-        "region_name_vn": "Miền Bắc"
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": "Đông Xuân",
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Harvested",
-        "value": 1.4534113755670315e+49,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 2,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": true,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "f4287ebed6595e8a",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Seasonal"
-      },
-      "geo_context": {
-        "geo_level": "Regional",
-        "location_name": "1. Thu hoạch lúa mùa cả nước      Chia ra:    -  Miền Bắc Trong đó : Đồng bằng sông Hồng                      -  Miền Nam Trong đó : Đồng bằng sông Cửu Long 2. Gieo cấy lúa đông xuân ở miền Nam      Trong đó: Đồng bằng sông Cửu Long 3. Gieo trồng cây vụ đông ở miền Bắc  Trong đó:     - Ngô                      - Khoai lang                      - Đậu tương                      - Rau, đậu các loại                      - Khoai tây",
-        "region_id": "North",
-        "region_name_vn": "Miền Bắc"
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": "Đông Xuân",
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Harvested",
-        "value": 1.3613114885702213e+49,
-        "unit": "1000_ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL1.md",
-        "appendix_number": "PL1",
-        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
-        "table_index": 1,
-        "row_number": 2,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.9,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": true,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "091e43633a740a58",
+      "record_id": "8967e579-c79c-4ff4-a3b5-135d09a79786",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -157,7 +59,7 @@
       }
     },
     {
-      "record_id": "d9e4c3cb51f4d661",
+      "record_id": "81eff738-505f-4b85-ac34-bfbcb72da10a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -206,7 +108,7 @@
       }
     },
     {
-      "record_id": "d92b3fd9f7b772fc",
+      "record_id": "193185e9-f777-4083-9a76-3b9247f360b7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -255,7 +157,7 @@
       }
     },
     {
-      "record_id": "1664651ef69751e0",
+      "record_id": "c30c52bf-74a5-4370-a3c3-f7ffa1a8f451",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -304,7 +206,7 @@
       }
     },
     {
-      "record_id": "a4286e7d48b2e892",
+      "record_id": "5f314b21-02c9-4aaa-8ee5-b061135458a1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -353,7 +255,7 @@
       }
     },
     {
-      "record_id": "c7fc3901b2f19c30",
+      "record_id": "02fb10f0-06b8-413c-9ac6-e6b9369a943c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -402,7 +304,7 @@
       }
     },
     {
-      "record_id": "5211975d56c2f489",
+      "record_id": "2e512e61-e454-497f-afb2-816297b68e5b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -451,7 +353,7 @@
       }
     },
     {
-      "record_id": "7442327da018a9c0",
+      "record_id": "37b2319d-d362-4901-88a8-2468b5ac4975",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -500,7 +402,7 @@
       }
     },
     {
-      "record_id": "e56543103a03d1b9",
+      "record_id": "ac44215c-eab2-4103-a746-421a8c99eaec",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -549,7 +451,7 @@
       }
     },
     {
-      "record_id": "ac36e884b162aa73",
+      "record_id": "42f70114-a7af-4b0d-a988-b1dbe876e999",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -598,7 +500,7 @@
       }
     },
     {
-      "record_id": "bc6a00c6b2e4b827",
+      "record_id": "2cab19d0-643e-4b72-8f46-a10b652cbae8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -647,7 +549,7 @@
       }
     },
     {
-      "record_id": "fb6c69e2ee7591b7",
+      "record_id": "b0432880-8131-4282-946a-0992c50e07a5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -696,7 +598,7 @@
       }
     },
     {
-      "record_id": "8824d31ff6093c37",
+      "record_id": "2a34268b-8c3b-4b9f-a64e-8a39a053a561",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -745,7 +647,7 @@
       }
     },
     {
-      "record_id": "e59637b648a3873e",
+      "record_id": "f0d30e3a-1c94-49c4-a848-344c6b246196",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -794,7 +696,7 @@
       }
     },
     {
-      "record_id": "e2176595c91fb6a8",
+      "record_id": "6daf7ab2-196a-4c0f-ac8c-494bb806ad2b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -843,7 +745,7 @@
       }
     },
     {
-      "record_id": "f32f80b662740018",
+      "record_id": "d95f6d17-212a-4cc3-86f1-ff09450d9c90",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -892,7 +794,7 @@
       }
     },
     {
-      "record_id": "100dc07eed6f14ca",
+      "record_id": "234345ef-b23c-45e2-87da-521e26a8b58d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -941,7 +843,7 @@
       }
     },
     {
-      "record_id": "ff10e21d1800711f",
+      "record_id": "d2c359d3-7457-4225-afe4-3408ac57f6a5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -990,7 +892,7 @@
       }
     },
     {
-      "record_id": "04bf2f7247151d80",
+      "record_id": "028db98e-ff57-4372-85ee-1096c4d28fc1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1039,7 +941,7 @@
       }
     },
     {
-      "record_id": "0de65e01137b8b89",
+      "record_id": "7d9e46fc-9834-4246-b142-6b483a4da634",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1088,7 +990,7 @@
       }
     },
     {
-      "record_id": "22716eac644615aa",
+      "record_id": "caceb50e-3492-493d-ba0d-899fcf4a4d43",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1137,7 +1039,7 @@
       }
     },
     {
-      "record_id": "aaf81e2471287049",
+      "record_id": "dcb9eb67-1c72-43d8-9519-8d6070035ac1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1186,7 +1088,7 @@
       }
     },
     {
-      "record_id": "672f9198e48f58d9",
+      "record_id": "461c228d-f6bb-4465-8154-02a768801d4e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1235,7 +1137,7 @@
       }
     },
     {
-      "record_id": "0caf99fd6f53ad24",
+      "record_id": "7ccd00dd-385c-4598-b4e3-54de6fe9b3be",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1284,7 +1186,7 @@
       }
     },
     {
-      "record_id": "8787f3f23786a8f3",
+      "record_id": "e42ef1dd-428b-45f5-a64c-cf5c620ed4f0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1333,7 +1235,7 @@
       }
     },
     {
-      "record_id": "979bfa62f6298aed",
+      "record_id": "7ffa81ed-b561-4a91-acf3-311672c1024b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1382,7 +1284,7 @@
       }
     },
     {
-      "record_id": "3707950e49c0ab8b",
+      "record_id": "cca6095d-1b10-4e2a-8922-96bc1533893f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1431,7 +1333,7 @@
       }
     },
     {
-      "record_id": "5e78cb9b9c1718df",
+      "record_id": "a86373f4-6f70-4675-9ff1-7f7d279926db",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1480,7 +1382,7 @@
       }
     },
     {
-      "record_id": "c95caede99131456",
+      "record_id": "9566a053-766f-4bae-b8bd-52a59a8cfe11",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -1488,644 +1390,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Harvested",
-        "value": 1.1487525702441018e+182,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "0c396a718172e198",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Harvest_Percentage",
-        "value": 9.71996100010001e+120,
-        "unit": "percent",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "11b63e5a54305e83",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3.2136116019634695e+140,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "6b2708fd73557430",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Ngô",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.1713550000119001e+111,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "03691e4c7616b517",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Khoai lang",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3.919213473310012e+92,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "11b63e5a54305e83",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.0404101721151e+50,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "a4589bbd68a9dd5b",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lạc",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 4.783112460627757e+41,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "11b63e5a54305e83",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 5.273434915927291e+37,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "338c9dd33204a556",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền BắcĐB sông Hồng  Hà Nội  Hải Phòng  Vĩnh Phúc  Bắc Ninh  Hải Dương  Hưng Yên  Hà Nam  Nam Định  Thái Bình  Ninh Bình  Quảng NinhTD và MN  Hà Giang  Cao Bằng  Lào Cai  Bắc Cạn  Lạng Sơn  Tuyên Quang  Yên Bái  Thái Nguyên  Phú Thọ  Bắc Giang  Lai Châu  Điện Biên  Sơn La  Hoà BìnhBắc Trung Bộ  Thanh Hoá  Nghệ An  Hà Tĩnh  Quảng Bình  Quảng Trị  Thừa Thiên Huế",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Rau",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.0111353473811265e+119,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL2.md",
-        "appendix_number": "PL2",
-        "appendix_title": "Phụ lục 2",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "314dd80afb2baaf9",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 8.559851734241397e+168,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "314dd80afb2baaf9",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 4.1306817046056e+115,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "314dd80afb2baaf9",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3.480779223830115e+130,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "314dd80afb2baaf9",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền NamD.H Nam Trung Bộ  TP Đà Nẵng  Quảng Nam  Quảng Ngãi  Bình Định  Phú Yên  Khánh Hoà  Ninh Thuận  Bình ThuậnTây Nguyên  Kon Tum  Gia Lai  Đắc Lắc  Đắc Nông  Lâm ĐồngĐông Nam Bộ  Bình Phước  Tây Ninh  Bình Dương  Đồng Nai  Bà Rịa-V.Tàu  TP Hồ Chí MinhĐBS Cửu Long  Long An  Tiền Giang  Bến Tre  Trà Vinh  Vĩnh Long  Đồng Tháp  An Giang  Kiên Giang  Cần Thơ  Hậu Giang  Sóc Trăng  Bạc Liêu  Cà Mau",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1.7887139620038418e+93,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL3.md",
-        "appendix_number": "PL3",
-        "appendix_title": "Phụ lục 3",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "6d1847b2fb8a4baf",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2160,13 +1425,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "05c2008bdcd693fe",
+      "record_id": "08c20849-8720-4d07-87b4-9a77058565c4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2174,7 +1439,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2209,13 +1474,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "8e5fc0fda35f017a",
+      "record_id": "11784a91-6a7e-4a0e-9e3b-b1d12a6193cd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2223,7 +1488,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2258,13 +1523,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "6d1847b2fb8a4baf",
+      "record_id": "54fac85a-ce71-4139-94e7-ac9843cdbe9d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2272,7 +1537,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2307,13 +1572,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "6d1847b2fb8a4baf",
+      "record_id": "607bf798-0d22-42ed-988a-90cba2305ef4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2321,7 +1586,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2356,13 +1621,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "b4c4249b1f8a696f",
+      "record_id": "cfc21ad6-76da-46cd-8c72-e9b6a9ef7947",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2370,7 +1635,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2405,13 +1670,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "6d1847b2fb8a4baf",
+      "record_id": "fd3b95cb-0748-4290-a709-2fc6327d5524",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2419,7 +1684,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2454,13 +1719,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "6d1847b2fb8a4baf",
+      "record_id": "8dbbc6f8-8650-4769-bb2d-18549a5b16f8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2468,7 +1733,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2503,13 +1768,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "6d1847b2fb8a4baf",
+      "record_id": "672f9699-88b5-42cb-8a0a-4c4f192bda6c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2517,7 +1782,7 @@
         "period_type": "Monthly"
       },
       "geo_context": {
-        "geo_level": "Provincial",
+        "geo_level": "Regional",
         "location_name": "Miền Nam",
         "region_id": null,
         "region_name_vn": null
@@ -2552,62 +1817,13 @@
         "notes": null
       },
       "data_quality": {
-        "is_aggregated": false,
+        "is_aggregated": true,
         "has_missing_values": false,
         "data_status": "Complete"
       }
     },
     {
-      "record_id": "6d1847b2fb8a4baf",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "Miền Nam",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 13289534205.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL4.md",
-        "appendix_number": "PL4",
-        "appendix_title": "Phụ lục 4",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "c7f9e86a-9517-4e3b-98fa-8f1e2b85d9f4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2617,8 +1833,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2656,7 +1872,7 @@
       }
     },
     {
-      "record_id": "c981b774540d2123",
+      "record_id": "c33ddf9c-5e97-4521-9894-f68556b51e4b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2666,8 +1882,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2705,7 +1921,7 @@
       }
     },
     {
-      "record_id": "beededc54886df20",
+      "record_id": "265474cc-dbc6-47a9-ad80-dc7b16694c61",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2715,8 +1931,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2754,7 +1970,7 @@
       }
     },
     {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "d7e9b8b3-bb2b-4160-a25f-8c1c5a47c468",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2764,8 +1980,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2803,7 +2019,7 @@
       }
     },
     {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "c1ede6e1-5138-4b88-bdaf-eb201219be15",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2813,8 +2029,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2852,7 +2068,7 @@
       }
     },
     {
-      "record_id": "0bc8defb128e7c63",
+      "record_id": "ed2b65d6-7a0b-4959-a94b-05d079f4c357",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2862,8 +2078,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2901,7 +2117,7 @@
       }
     },
     {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "e35c4f9b-0a44-4981-ade6-4ec4433ec15e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2911,8 +2127,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2950,7 +2166,7 @@
       }
     },
     {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "10b6b5f2-a9b6-45b3-972d-5df479e6ebfb",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -2960,8 +2176,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -2999,7 +2215,7 @@
       }
     },
     {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "ad439b57-369e-4a78-b1ba-504441083efd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3009,8 +2225,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -3048,7 +2264,7 @@
       }
     },
     {
-      "record_id": "7c71221cd2b414f3",
+      "record_id": "1439cab6-5755-42da-861e-f777df3eed14",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3058,8 +2274,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "D.H Nam Trg Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Coast",
+        "region_name_vn": "Duyên hải Nam Trung Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -3097,7 +2313,7 @@
       }
     },
     {
-      "record_id": "1ce161b12de0c389",
+      "record_id": "8e6363a6-950e-4e00-8f82-5548b9c7535c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3146,7 +2362,7 @@
       }
     },
     {
-      "record_id": "985f723163e30220",
+      "record_id": "b24d6b66-43d9-4812-a903-cb6eee56efeb",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3195,7 +2411,7 @@
       }
     },
     {
-      "record_id": "1ce161b12de0c389",
+      "record_id": "0d890a44-0277-48e2-a122-dc55081e4180",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3244,7 +2460,7 @@
       }
     },
     {
-      "record_id": "1ce161b12de0c389",
+      "record_id": "54fd4d1e-8f09-416f-a94f-03aca0435ba1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3293,7 +2509,7 @@
       }
     },
     {
-      "record_id": "42aa61a937673549",
+      "record_id": "061a7c60-9004-4694-8c1c-8cbe7fbe063c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3342,7 +2558,7 @@
       }
     },
     {
-      "record_id": "1ce161b12de0c389",
+      "record_id": "1bb978fb-4f0e-4d06-a446-037b7d5027ae",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3391,7 +2607,7 @@
       }
     },
     {
-      "record_id": "4bd75d9898f844dd",
+      "record_id": "055a0090-07c2-4d5b-91a1-0729dc8262a0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3440,7 +2656,7 @@
       }
     },
     {
-      "record_id": "772dab92f41fe06c",
+      "record_id": "e15d395d-736e-4099-88bb-d06c51104ca2",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3489,7 +2705,7 @@
       }
     },
     {
-      "record_id": "4bd75d9898f844dd",
+      "record_id": "7b1238f2-c7da-47da-8b68-fe4a69495130",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3538,7 +2754,7 @@
       }
     },
     {
-      "record_id": "4bd75d9898f844dd",
+      "record_id": "ca552c38-bd0f-4852-a2ef-08ca89f7a6d8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3587,7 +2803,7 @@
       }
     },
     {
-      "record_id": "7623b5173c4aa323",
+      "record_id": "7376adc6-4ea5-450c-a24e-a7c029e09143",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3636,7 +2852,7 @@
       }
     },
     {
-      "record_id": "4bd75d9898f844dd",
+      "record_id": "cfb3eacd-d4bd-4ec0-8754-da854e2d222a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3685,7 +2901,7 @@
       }
     },
     {
-      "record_id": "4bd75d9898f844dd",
+      "record_id": "410d5675-4716-42ed-bf30-375cbddd4d2b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3734,7 +2950,7 @@
       }
     },
     {
-      "record_id": "4bd75d9898f844dd",
+      "record_id": "b5c586ed-392f-4daa-99ea-2e33b04b2034",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3783,7 +2999,7 @@
       }
     },
     {
-      "record_id": "87667cd2165684dc",
+      "record_id": "ff3950f3-53a6-463b-ad0d-baf5e97bf2cf",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3832,7 +3048,7 @@
       }
     },
     {
-      "record_id": "563dbf1389e663c7",
+      "record_id": "535982ee-a9a6-45fd-9e53-37525f01b2ab",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3881,7 +3097,7 @@
       }
     },
     {
-      "record_id": "9472e2c79ea92956",
+      "record_id": "32bd24ca-a1cd-41f3-b09b-d78f447e1cc1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3930,7 +3146,7 @@
       }
     },
     {
-      "record_id": "87667cd2165684dc",
+      "record_id": "3dae415b-a724-4635-889d-ee768c21793b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -3979,7 +3195,7 @@
       }
     },
     {
-      "record_id": "03b98858c95b9fe4",
+      "record_id": "2c17fa60-8d73-48d8-a013-8c3fa6706dbc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4028,7 +3244,7 @@
       }
     },
     {
-      "record_id": "87667cd2165684dc",
+      "record_id": "6717875b-70ad-4afb-8cd9-62ec26df43c8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4077,7 +3293,7 @@
       }
     },
     {
-      "record_id": "87667cd2165684dc",
+      "record_id": "2997c38d-2b0a-48e8-ae16-1e229d4afe54",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4126,7 +3342,7 @@
       }
     },
     {
-      "record_id": "d53f55a206161bdb",
+      "record_id": "c2da079c-17da-44b7-99f1-1ed7cca78508",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4175,7 +3391,7 @@
       }
     },
     {
-      "record_id": "f25ef1f93d20ac05",
+      "record_id": "ce25c5be-e4e9-4717-a071-c14f7acefe43",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4224,7 +3440,7 @@
       }
     },
     {
-      "record_id": "098d5827b102440d",
+      "record_id": "3bb9f635-0fb6-44a9-a050-455a8272fb32",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4273,7 +3489,7 @@
       }
     },
     {
-      "record_id": "d53f55a206161bdb",
+      "record_id": "117e1f13-bc08-4b47-8ad0-09b91512dbc6",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4322,7 +3538,7 @@
       }
     },
     {
-      "record_id": "d53f55a206161bdb",
+      "record_id": "687d4773-0d5c-4a6f-9cbd-a3f17c2416c7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4371,7 +3587,7 @@
       }
     },
     {
-      "record_id": "d53f55a206161bdb",
+      "record_id": "a53c7704-cc40-4aab-bf5e-ed52ee39c8f3",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4420,7 +3636,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "e552c94d-072c-4456-8350-5c07f275f1a5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4469,7 +3685,7 @@
       }
     },
     {
-      "record_id": "152b74df1c6e8f38",
+      "record_id": "a23d788b-6562-4c41-ad62-3e71950d9a61",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4518,7 +3734,7 @@
       }
     },
     {
-      "record_id": "effbfc3cd7ccb0aa",
+      "record_id": "4aa198e1-49bd-4e93-831d-2973c694dfe8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4567,7 +3783,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "ef79bd11-676f-40bd-aee3-5ea1231299dd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4616,7 +3832,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "f6181fa8-e964-4166-a849-ec146362f61a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4665,7 +3881,7 @@
       }
     },
     {
-      "record_id": "57a4c520f4a8193d",
+      "record_id": "36d3db6e-7b37-4252-9ece-8219766d0d16",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4714,7 +3930,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "9724f5dc-7676-465c-920d-2a2982b74d3e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4763,7 +3979,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "8108265f-558a-4927-9328-2f7a3cb220ac",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4812,7 +4028,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "0fc4f88e-c38b-4cf4-9b0c-d3dff0ef6499",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4861,7 +4077,7 @@
       }
     },
     {
-      "record_id": "ea6e76bfb0f31ba3",
+      "record_id": "ef2aad41-f024-4aef-b2db-c38fab5c1422",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4910,7 +4126,7 @@
       }
     },
     {
-      "record_id": "2c87d8b4b164334d",
+      "record_id": "e83a046e-d9a8-41b0-9480-9c07aec071b0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -4959,7 +4175,7 @@
       }
     },
     {
-      "record_id": "ef4d1c88576e3c5a",
+      "record_id": "9bad508b-4a5a-4eb5-9fb8-b0e0a7e3ed51",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5008,7 +4224,7 @@
       }
     },
     {
-      "record_id": "3c5bc8f9de434bf0",
+      "record_id": "ec675d04-898e-4182-a867-acbd6c3a081a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5057,7 +4273,7 @@
       }
     },
     {
-      "record_id": "2c87d8b4b164334d",
+      "record_id": "364da59c-6aa2-4fbe-b102-81cc15a7ce8b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5106,7 +4322,7 @@
       }
     },
     {
-      "record_id": "4fd95192369e871e",
+      "record_id": "151119f1-f8ff-485a-8308-704e7f6e7d01",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5155,7 +4371,7 @@
       }
     },
     {
-      "record_id": "2c87d8b4b164334d",
+      "record_id": "59f4628d-6f12-46e9-b404-da5e507f4769",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5204,7 +4420,7 @@
       }
     },
     {
-      "record_id": "2c87d8b4b164334d",
+      "record_id": "92977e32-62ac-4130-b392-750653f78fba",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5253,7 +4469,7 @@
       }
     },
     {
-      "record_id": "ab2ca6836e56c03e",
+      "record_id": "2a6f911d-642b-4ae8-b3ef-07d5bf49607d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5302,7 +4518,7 @@
       }
     },
     {
-      "record_id": "540fb25b35d84afa",
+      "record_id": "aefc9f6d-d51d-493f-9ea4-378163fa709f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5351,7 +4567,7 @@
       }
     },
     {
-      "record_id": "dc3438011f843dd8",
+      "record_id": "5ce00e5f-39cf-44f8-b927-bc53d938826d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5400,7 +4616,7 @@
       }
     },
     {
-      "record_id": "ab2ca6836e56c03e",
+      "record_id": "81b26390-7ebf-4e71-ad47-371c3e5b9b31",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5449,7 +4665,7 @@
       }
     },
     {
-      "record_id": "ab2ca6836e56c03e",
+      "record_id": "f805da16-f464-43e3-910d-c22d209a1513",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5498,7 +4714,7 @@
       }
     },
     {
-      "record_id": "54c8207a2fbdc81e",
+      "record_id": "d31f518c-2f96-41a7-a146-4b865f463f4c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5547,7 +4763,7 @@
       }
     },
     {
-      "record_id": "ab2ca6836e56c03e",
+      "record_id": "f903e264-5607-49f9-a6e9-7283939230fc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5596,7 +4812,7 @@
       }
     },
     {
-      "record_id": "ab2ca6836e56c03e",
+      "record_id": "bccaa915-6741-4803-904a-1fee167b6cfa",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5645,7 +4861,7 @@
       }
     },
     {
-      "record_id": "ab2ca6836e56c03e",
+      "record_id": "be16b4f2-1232-4800-b059-ed0e33700b12",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5694,7 +4910,7 @@
       }
     },
     {
-      "record_id": "786eb73e32b21b30",
+      "record_id": "ec86decc-d059-473e-aff4-99fd7548c1a9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5743,7 +4959,7 @@
       }
     },
     {
-      "record_id": "825aebf187f08122",
+      "record_id": "3e5aa2ec-8cee-49bb-9c00-6677ce5b7033",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5792,7 +5008,7 @@
       }
     },
     {
-      "record_id": "786eb73e32b21b30",
+      "record_id": "b37f31f7-ff72-4879-8893-335f66950880",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5841,7 +5057,7 @@
       }
     },
     {
-      "record_id": "786eb73e32b21b30",
+      "record_id": "fc5a87b5-8974-4093-b7f6-5e46da37eda1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5890,7 +5106,7 @@
       }
     },
     {
-      "record_id": "3aa49a02fa1385f2",
+      "record_id": "0048a12e-5e21-4138-9ca0-6cd6fe653bf9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5939,7 +5155,7 @@
       }
     },
     {
-      "record_id": "786eb73e32b21b30",
+      "record_id": "6558e7ae-900c-4d01-ba34-4247962d1d05",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -5988,7 +5204,7 @@
       }
     },
     {
-      "record_id": "786eb73e32b21b30",
+      "record_id": "7c001278-15ad-4eb0-9faa-70f972860d2e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6037,7 +5253,7 @@
       }
     },
     {
-      "record_id": "786eb73e32b21b30",
+      "record_id": "da3ad505-462c-4b0b-940b-0582deeef839",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6086,7 +5302,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "5bf9d857-57bd-4f76-b33c-3235d430e4f8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6096,8 +5312,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6135,7 +5351,7 @@
       }
     },
     {
-      "record_id": "43a649cff987615f",
+      "record_id": "ecf0e85d-93ea-4201-9921-ee27074fc627",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6145,8 +5361,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6184,7 +5400,7 @@
       }
     },
     {
-      "record_id": "31092b7eb2624a08",
+      "record_id": "4ec0c795-e30c-4215-8de2-f61357f77599",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6194,8 +5410,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6233,7 +5449,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "54dea4bf-0518-4e22-9893-552c2c81b5bd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6243,8 +5459,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6282,7 +5498,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "5c467caa-0ecc-4f3c-9318-ea3d9b428079",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6292,8 +5508,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6331,7 +5547,7 @@
       }
     },
     {
-      "record_id": "608b95399f2bd386",
+      "record_id": "c70ef426-a5e2-4244-a099-54fb341a5710",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6341,8 +5557,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6380,7 +5596,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "1ee631c5-9894-4fb1-a14b-db6c47dbbee7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6390,8 +5606,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6429,7 +5645,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "1a151c64-403c-4bbc-95b2-65d96dfb2ede",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6439,8 +5655,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6478,7 +5694,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "0ef85fb6-1e67-410a-930a-e4e1c806c915",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6488,8 +5704,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6527,7 +5743,7 @@
       }
     },
     {
-      "record_id": "08d771a9ba983471",
+      "record_id": "43935e4e-ce6c-490d-bf84-9733b3a008a8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6537,8 +5753,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Tây Nguyên",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Central_Highlands",
+        "region_name_vn": "Tây Nguyên"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -6576,7 +5792,7 @@
       }
     },
     {
-      "record_id": "d92c2b3ad3470433",
+      "record_id": "49bb84e5-da32-4bf9-8cdf-3faa320d535d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6625,7 +5841,7 @@
       }
     },
     {
-      "record_id": "ce82565c94663201",
+      "record_id": "6f8c9524-1e47-40f2-ad5e-85dd3de87162",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6674,7 +5890,7 @@
       }
     },
     {
-      "record_id": "398f345ad0ec8763",
+      "record_id": "7d76fa99-08ac-4dee-a759-5415bacf7133",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6723,7 +5939,7 @@
       }
     },
     {
-      "record_id": "d92c2b3ad3470433",
+      "record_id": "b248ece5-23bc-47b0-8e74-af7ada646bb6",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6772,7 +5988,7 @@
       }
     },
     {
-      "record_id": "7a921a67f0b6ebef",
+      "record_id": "fc8a33cd-c43d-4d8e-8f4c-411d6b0bc472",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6821,7 +6037,7 @@
       }
     },
     {
-      "record_id": "d92c2b3ad3470433",
+      "record_id": "d2b73b2d-07f4-43fb-9492-2220a5072d8b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6870,7 +6086,7 @@
       }
     },
     {
-      "record_id": "d92c2b3ad3470433",
+      "record_id": "5535d599-857c-43a7-a96a-b7eb4c191815",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6919,7 +6135,7 @@
       }
     },
     {
-      "record_id": "0ae37f6e931be018",
+      "record_id": "1ded2e62-9aaf-43b1-bb1f-1805c1e373c7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -6968,7 +6184,7 @@
       }
     },
     {
-      "record_id": "70d548898dad886b",
+      "record_id": "afe9442f-57ed-4824-bd9d-4dd9344d85b3",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7017,7 +6233,7 @@
       }
     },
     {
-      "record_id": "0ae37f6e931be018",
+      "record_id": "61adbc77-7cd6-49e9-997b-8d4f6541445a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7066,7 +6282,7 @@
       }
     },
     {
-      "record_id": "0ae37f6e931be018",
+      "record_id": "59a62e70-862b-437c-a10b-668fda86876c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7115,7 +6331,7 @@
       }
     },
     {
-      "record_id": "20791416be16e269",
+      "record_id": "b7f9b0ff-c26a-4f1a-b3d1-be06723ed739",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7164,7 +6380,7 @@
       }
     },
     {
-      "record_id": "0ae37f6e931be018",
+      "record_id": "f922f1d9-dc57-4b90-8095-6a08a5d5a8be",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7213,7 +6429,7 @@
       }
     },
     {
-      "record_id": "0ae37f6e931be018",
+      "record_id": "bb531cb3-a51d-46d0-a276-86f7b35ea89f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7262,7 +6478,7 @@
       }
     },
     {
-      "record_id": "0ae37f6e931be018",
+      "record_id": "40d1613d-62c5-44d7-87af-42f8bc7ae830",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7311,7 +6527,7 @@
       }
     },
     {
-      "record_id": "2d1a7b19961577fb",
+      "record_id": "df8cd75a-109b-47b2-bbf8-e7028917395b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7360,7 +6576,7 @@
       }
     },
     {
-      "record_id": "390c367a8ccef15f",
+      "record_id": "4164bb0d-33bc-490d-8079-13c52481edbf",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7409,7 +6625,7 @@
       }
     },
     {
-      "record_id": "82bc15e29dcd050b",
+      "record_id": "beb48228-53ec-475e-b14b-29106182a415",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7458,7 +6674,7 @@
       }
     },
     {
-      "record_id": "2d1a7b19961577fb",
+      "record_id": "962d6abc-e12e-4982-b345-e759c7749a12",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7507,7 +6723,7 @@
       }
     },
     {
-      "record_id": "2d1a7b19961577fb",
+      "record_id": "e5938c9e-f6a2-488b-88a6-fa76dfc33f09",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7556,7 +6772,7 @@
       }
     },
     {
-      "record_id": "89ca7dd27d82c377",
+      "record_id": "3a24ab47-61c8-41a5-b2e9-1182972804f6",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7605,7 +6821,7 @@
       }
     },
     {
-      "record_id": "2d1a7b19961577fb",
+      "record_id": "26392793-65a3-48ec-ab9b-63f7b06bd6c4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7654,7 +6870,7 @@
       }
     },
     {
-      "record_id": "2d1a7b19961577fb",
+      "record_id": "3b5564dc-d3d9-44da-a509-569e205b4519",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7703,7 +6919,7 @@
       }
     },
     {
-      "record_id": "2d1a7b19961577fb",
+      "record_id": "ed04f17d-4bc7-46aa-a794-6ac48c0e591f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7752,7 +6968,7 @@
       }
     },
     {
-      "record_id": "bfa1c0d17b687019",
+      "record_id": "7da83156-3355-4361-a99e-647ab5b61c9e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7801,7 +7017,7 @@
       }
     },
     {
-      "record_id": "4a8e439ac94b129d",
+      "record_id": "b438c5b2-9370-4823-a759-530445e0e21f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7850,7 +7066,7 @@
       }
     },
     {
-      "record_id": "02e5f328e850cc53",
+      "record_id": "07de0517-2606-4e2c-a067-fab92cdb1155",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7899,7 +7115,7 @@
       }
     },
     {
-      "record_id": "bfa1c0d17b687019",
+      "record_id": "c85579f9-677f-46fe-97d1-b21bcdfb2073",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7948,7 +7164,7 @@
       }
     },
     {
-      "record_id": "bfa1c0d17b687019",
+      "record_id": "8053cad3-cf92-42eb-a339-a85a72884414",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -7997,7 +7213,7 @@
       }
     },
     {
-      "record_id": "42e415517a76c210",
+      "record_id": "73594fc5-3bf3-4abf-8e9f-32a6a0b54029",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8046,7 +7262,7 @@
       }
     },
     {
-      "record_id": "23d764aec28bef8c",
+      "record_id": "3f83e084-6d7f-403a-aa03-93777a1b1108",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8095,7 +7311,7 @@
       }
     },
     {
-      "record_id": "87fa4af9fa8f2981",
+      "record_id": "30c6757b-b1e3-4617-81f1-d29dd891fe24",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8144,7 +7360,7 @@
       }
     },
     {
-      "record_id": "554dc6c3df3dec1a",
+      "record_id": "0289e815-d995-4774-a1f9-7c63d08e108a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8193,7 +7409,7 @@
       }
     },
     {
-      "record_id": "42e415517a76c210",
+      "record_id": "aaa734cd-029e-497a-af5f-e1e509aa0433",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8242,7 +7458,7 @@
       }
     },
     {
-      "record_id": "42e415517a76c210",
+      "record_id": "0e9988c5-3593-43d8-8058-dff881a591f4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8291,7 +7507,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "29fc0be7-7d3d-4949-8c82-674cda23f022",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8301,8 +7517,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8340,7 +7556,7 @@
       }
     },
     {
-      "record_id": "4983665316cc59b2",
+      "record_id": "a9bb3cdf-3131-49a5-bcc2-9a50995ffdae",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8350,8 +7566,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8389,7 +7605,7 @@
       }
     },
     {
-      "record_id": "763153ae1e4a5589",
+      "record_id": "69f3f6bb-e649-434a-a766-e7e2410586a7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8399,8 +7615,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8438,7 +7654,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "0a99ab10-3934-4d29-86c0-9e08d452db08",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8448,8 +7664,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8487,7 +7703,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "076b4769-02f7-42af-99b5-2ee61e9b704d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8497,8 +7713,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8536,7 +7752,7 @@
       }
     },
     {
-      "record_id": "01c20f206917522f",
+      "record_id": "352bb068-bc49-4610-bbd9-887e97150325",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8546,8 +7762,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8585,7 +7801,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "d5df4dad-cae7-43db-a154-8ae69dbaccbc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8595,8 +7811,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8634,7 +7850,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "2744bc7b-ebf7-4a33-8bc2-a163f041b43e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8644,8 +7860,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8683,7 +7899,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "800b1834-a8e6-4e50-8f37-f799bf07e496",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8693,8 +7909,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8732,7 +7948,7 @@
       }
     },
     {
-      "record_id": "7bba06b9ba173e26",
+      "record_id": "05829c24-ef74-4901-9485-865a49de645c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8742,8 +7958,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "Đông Nam Bộ",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Southeast",
+        "region_name_vn": "Đông Nam Bộ"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -8781,7 +7997,7 @@
       }
     },
     {
-      "record_id": "ccc6aac9e0d84909",
+      "record_id": "c80dcfea-20c3-4737-9b12-a80b9c043b5a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8830,7 +8046,7 @@
       }
     },
     {
-      "record_id": "3eeee6b041b661e7",
+      "record_id": "ab8e9dbd-6c9a-4296-9acf-3391442b53a2",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8879,7 +8095,7 @@
       }
     },
     {
-      "record_id": "e937209af03e0edd",
+      "record_id": "0a7d6524-f4a4-4e86-8161-3093bccfe48f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8928,7 +8144,7 @@
       }
     },
     {
-      "record_id": "ccc6aac9e0d84909",
+      "record_id": "be1754a3-b4d7-459f-8ef0-e225ac08aa03",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -8977,7 +8193,7 @@
       }
     },
     {
-      "record_id": "ccc6aac9e0d84909",
+      "record_id": "faa4704f-3421-4f0e-ab64-29b514dcb4f5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9026,7 +8242,7 @@
       }
     },
     {
-      "record_id": "d0f2cfae8f616df6",
+      "record_id": "4e04f5b8-32b0-400c-97f1-4373aa51e821",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9075,7 +8291,7 @@
       }
     },
     {
-      "record_id": "ccc6aac9e0d84909",
+      "record_id": "17af356e-5764-49c6-a906-cd437f0c2f6b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9124,7 +8340,7 @@
       }
     },
     {
-      "record_id": "ccc6aac9e0d84909",
+      "record_id": "2194efa1-2c5c-459a-9bcc-7db4294228f5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9173,7 +8389,7 @@
       }
     },
     {
-      "record_id": "ccc6aac9e0d84909",
+      "record_id": "163eda65-8b45-4ca3-bc9c-53b61e842eee",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9222,7 +8438,7 @@
       }
     },
     {
-      "record_id": "3863e1c2590ca77c",
+      "record_id": "3e750895-3929-4909-a44a-ef982113fe68",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9271,7 +8487,7 @@
       }
     },
     {
-      "record_id": "b79d07bb9be80eb4",
+      "record_id": "b25b1c77-3feb-44e0-a854-6b331b0bf570",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9320,7 +8536,7 @@
       }
     },
     {
-      "record_id": "3863e1c2590ca77c",
+      "record_id": "b5464488-9f8f-4b6d-bb72-7e1552188e67",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9369,7 +8585,7 @@
       }
     },
     {
-      "record_id": "3863e1c2590ca77c",
+      "record_id": "97799c5a-91a4-4f20-8462-4de56a85d7f0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9418,7 +8634,7 @@
       }
     },
     {
-      "record_id": "ebd448873d971b47",
+      "record_id": "49b9ddc9-ce31-4270-85cc-90aa944b7a50",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9467,7 +8683,7 @@
       }
     },
     {
-      "record_id": "3863e1c2590ca77c",
+      "record_id": "dc55d592-a8b3-486d-9b84-0e2f91a8ab6c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9516,7 +8732,7 @@
       }
     },
     {
-      "record_id": "3863e1c2590ca77c",
+      "record_id": "c02dbd55-4839-4ff0-bafe-53b5d5305b25",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9565,7 +8781,7 @@
       }
     },
     {
-      "record_id": "3863e1c2590ca77c",
+      "record_id": "0cc5ecdc-33e2-469d-ba25-6032a08cef54",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9614,7 +8830,7 @@
       }
     },
     {
-      "record_id": "f5b28bd6fdde0a98",
+      "record_id": "58942689-7733-443d-a6cc-dab5e439ed46",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9663,7 +8879,7 @@
       }
     },
     {
-      "record_id": "4bb7ec935e9fd1d0",
+      "record_id": "4e10c6ed-60a4-4bb0-883e-91bf807a543e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9712,7 +8928,7 @@
       }
     },
     {
-      "record_id": "f5b28bd6fdde0a98",
+      "record_id": "541e9960-7e80-457b-9f3c-05ea98b243fc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9761,7 +8977,7 @@
       }
     },
     {
-      "record_id": "519942629118e74a",
+      "record_id": "4a8273da-fcbc-4423-afe6-30a2e6a9f0a9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9810,7 +9026,7 @@
       }
     },
     {
-      "record_id": "f5b28bd6fdde0a98",
+      "record_id": "5b8cc161-1098-433c-a78b-07e2d49041bd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9859,7 +9075,7 @@
       }
     },
     {
-      "record_id": "f5b28bd6fdde0a98",
+      "record_id": "071e0a6b-55a0-4182-ab0d-52f63926c8c0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9908,7 +9124,7 @@
       }
     },
     {
-      "record_id": "28a62ed7ac031787",
+      "record_id": "46135185-2356-439b-b4f9-200f2cfa85f5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -9957,7 +9173,7 @@
       }
     },
     {
-      "record_id": "21b951eded63998e",
+      "record_id": "0c294ae1-4bc1-4366-acab-9dd7a45f4f12",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10006,7 +9222,7 @@
       }
     },
     {
-      "record_id": "4764c783b430d2b3",
+      "record_id": "07d6aa20-7cb8-400e-b634-ce569c8d9736",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10055,7 +9271,7 @@
       }
     },
     {
-      "record_id": "28a62ed7ac031787",
+      "record_id": "0a7063a9-49b4-4216-8910-bbee30ae416c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10104,7 +9320,7 @@
       }
     },
     {
-      "record_id": "28a62ed7ac031787",
+      "record_id": "27c3df13-25f1-47ab-8ea3-42ca1f11ada1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10153,7 +9369,7 @@
       }
     },
     {
-      "record_id": "80fceefbfc2184f6",
+      "record_id": "f650b5ab-5452-432b-b2da-ec97632cfe49",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10202,7 +9418,7 @@
       }
     },
     {
-      "record_id": "28a62ed7ac031787",
+      "record_id": "e7b40077-551e-4861-9c39-fadaacdcfe86",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10251,7 +9467,7 @@
       }
     },
     {
-      "record_id": "28a62ed7ac031787",
+      "record_id": "36366863-d5a9-41a9-8286-ec3be2eccbe1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10300,7 +9516,7 @@
       }
     },
     {
-      "record_id": "28a62ed7ac031787",
+      "record_id": "fb2c7730-5075-43da-86a9-167b71f52b27",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10349,7 +9565,7 @@
       }
     },
     {
-      "record_id": "212871f745a7755f",
+      "record_id": "8bfb1429-24f8-4c78-a71b-2616c771d932",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10398,7 +9614,7 @@
       }
     },
     {
-      "record_id": "a0b3a381f86e2069",
+      "record_id": "9450e391-0509-469c-aa5b-b4b790cd793b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10447,7 +9663,7 @@
       }
     },
     {
-      "record_id": "dc2a445dfa237a01",
+      "record_id": "3cabf426-4c57-450e-b6d6-a295b8d4b742",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10496,7 +9712,7 @@
       }
     },
     {
-      "record_id": "212871f745a7755f",
+      "record_id": "19373301-5eee-4023-9ebf-13a6fcafbb84",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10545,7 +9761,7 @@
       }
     },
     {
-      "record_id": "212871f745a7755f",
+      "record_id": "1d331653-f833-4698-93fc-c7e2a6bc03d9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10594,7 +9810,7 @@
       }
     },
     {
-      "record_id": "6feb0a053c2cf167",
+      "record_id": "b20486e9-9b88-4863-b1e5-1e6ded31062a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10643,7 +9859,7 @@
       }
     },
     {
-      "record_id": "212871f745a7755f",
+      "record_id": "cfd4b346-7f15-45df-9ae2-d814100b2ab9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10692,7 +9908,7 @@
       }
     },
     {
-      "record_id": "212871f745a7755f",
+      "record_id": "419dfa9b-9ce7-4c6f-931f-b99a310eba44",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10741,7 +9957,7 @@
       }
     },
     {
-      "record_id": "212871f745a7755f",
+      "record_id": "5b92c41c-8246-4d8c-921d-f46bfebda952",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10790,7 +10006,7 @@
       }
     },
     {
-      "record_id": "fdd6d29eb5d21f5b",
+      "record_id": "2009befa-4d16-4137-aedc-e142f35e48e0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10839,7 +10055,7 @@
       }
     },
     {
-      "record_id": "1677aa9c7020c2b2",
+      "record_id": "16f9907e-2d2a-4301-a677-8ee6dbc60528",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10888,7 +10104,7 @@
       }
     },
     {
-      "record_id": "fdd6d29eb5d21f5b",
+      "record_id": "8d443f27-cb1e-4b4f-b198-50e8b10c665d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10937,7 +10153,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "b0385266-a2b1-4924-beac-c28ca3213875",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10947,8 +10163,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -10986,7 +10202,7 @@
       }
     },
     {
-      "record_id": "95b0e8c027bdbe13",
+      "record_id": "ca2bb5d0-5e08-4929-bb56-80ad4978de94",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -10996,8 +10212,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11035,7 +10251,7 @@
       }
     },
     {
-      "record_id": "a2b5fe912b73ef7c",
+      "record_id": "5fc7da5a-4304-4636-92f6-341942164f7c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11045,8 +10261,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11084,7 +10300,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "d470731f-5db0-487f-a0a4-0ec0257008d8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11094,8 +10310,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11133,7 +10349,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "e6c1a413-3e5d-464b-9a20-4bf4ac8d6f84",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11143,8 +10359,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11182,7 +10398,7 @@
       }
     },
     {
-      "record_id": "c134fe1b496c2f13",
+      "record_id": "273df362-0429-4dd0-ba13-ae7b97ddfb03",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11192,8 +10408,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11231,7 +10447,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "6ddca621-9397-4f35-96cb-ee716022b677",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11241,8 +10457,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11280,7 +10496,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "d1b480ef-ef64-497a-a3bb-e54e7d3143ec",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11290,8 +10506,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11329,7 +10545,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "f2a585af-5180-49ef-82c9-5443c0bb56a8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11339,8 +10555,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11378,7 +10594,7 @@
       }
     },
     {
-      "record_id": "d37736fbd7adb982",
+      "record_id": "80fd545d-1b52-49a6-9a8f-7be3fab342e4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11388,8 +10604,8 @@
       "geo_context": {
         "geo_level": "Provincial",
         "location_name": "ĐBS Cửu Long",
-        "region_id": null,
-        "region_name_vn": null
+        "region_id": "Mekong_Delta",
+        "region_name_vn": "Đồng bằng sông Cửu Long"
       },
       "item_context": {
         "sector": "Cultivation",
@@ -11427,7 +10643,7 @@
       }
     },
     {
-      "record_id": "88febab2481bc279",
+      "record_id": "f45cd557-9835-48eb-b2e3-3e170dd02d1c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11476,7 +10692,7 @@
       }
     },
     {
-      "record_id": "b1b0ca229f5fb93e",
+      "record_id": "5f6bfb37-0c8a-448e-8853-16ab9cd9c051",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11525,7 +10741,7 @@
       }
     },
     {
-      "record_id": "88febab2481bc279",
+      "record_id": "cd48a48e-fa2a-496e-a6d5-677152d8c861",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11574,7 +10790,7 @@
       }
     },
     {
-      "record_id": "88febab2481bc279",
+      "record_id": "e28846eb-fffd-4f1d-bf6c-71c7898e5cde",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11623,7 +10839,7 @@
       }
     },
     {
-      "record_id": "243a1013d3ff6fc1",
+      "record_id": "30953432-7cd6-4652-8d40-f906a3393385",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11672,7 +10888,7 @@
       }
     },
     {
-      "record_id": "88febab2481bc279",
+      "record_id": "189006b8-07e7-4755-bebc-ad8bbb736dfc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11721,7 +10937,7 @@
       }
     },
     {
-      "record_id": "88febab2481bc279",
+      "record_id": "2948b136-ab49-4f84-9dac-590c2f3392bb",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11770,7 +10986,7 @@
       }
     },
     {
-      "record_id": "88febab2481bc279",
+      "record_id": "f2c5c3e1-89c6-40b9-8fdf-2fc24f3e21dc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11819,7 +11035,7 @@
       }
     },
     {
-      "record_id": "61fa209b906004f6",
+      "record_id": "d15ba76a-c367-45e1-a417-2d998ae50eef",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11868,7 +11084,7 @@
       }
     },
     {
-      "record_id": "0b6a3a07817f1c54",
+      "record_id": "8666b898-2211-4fff-832d-9638253483fe",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11917,7 +11133,7 @@
       }
     },
     {
-      "record_id": "507320a74657b2d7",
+      "record_id": "e0b5292e-bec1-4648-90a1-b3092abf2a88",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -11966,7 +11182,7 @@
       }
     },
     {
-      "record_id": "0ba93c83edcada64",
+      "record_id": "73349e30-34b2-4547-ba9a-04981628bd3d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12015,7 +11231,7 @@
       }
     },
     {
-      "record_id": "61fa209b906004f6",
+      "record_id": "745eda46-4e10-4205-9246-638566edb923",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12064,7 +11280,7 @@
       }
     },
     {
-      "record_id": "61fa209b906004f6",
+      "record_id": "8a0f2bff-a33e-4882-995c-ba8f8e1d42f6",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12113,7 +11329,7 @@
       }
     },
     {
-      "record_id": "094c12ba6f694b9e",
+      "record_id": "acf0c128-504c-42e4-9b92-81f36ad468f1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12162,7 +11378,7 @@
       }
     },
     {
-      "record_id": "05101ab9bc21cc47",
+      "record_id": "4b32532d-5e58-4f06-ac3e-37a863dba9f8",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12211,7 +11427,7 @@
       }
     },
     {
-      "record_id": "271a1405c3271d0c",
+      "record_id": "ad030ec3-76bb-4386-bba1-06e0a6bf4a90",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12260,7 +11476,7 @@
       }
     },
     {
-      "record_id": "094c12ba6f694b9e",
+      "record_id": "5c13d838-fd5c-441c-b80f-db67fad0ab85",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12309,7 +11525,7 @@
       }
     },
     {
-      "record_id": "094c12ba6f694b9e",
+      "record_id": "7697a82b-0fce-4e30-991a-33540eeca81c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12358,7 +11574,7 @@
       }
     },
     {
-      "record_id": "614e19ce3d942b5e",
+      "record_id": "0dd6010f-a1ef-460e-a957-0dd0b9ede54f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12407,7 +11623,7 @@
       }
     },
     {
-      "record_id": "822cf7892ee74acf",
+      "record_id": "6dbf7ce2-8d49-427d-aea4-9a88742caa6f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12456,7 +11672,7 @@
       }
     },
     {
-      "record_id": "c55938101bc70c68",
+      "record_id": "88484cee-e2f5-4113-a887-b70b269a060e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12505,7 +11721,7 @@
       }
     },
     {
-      "record_id": "614e19ce3d942b5e",
+      "record_id": "d4551e0c-2731-498e-94f1-bc3a7d9ca09f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12554,7 +11770,7 @@
       }
     },
     {
-      "record_id": "614e19ce3d942b5e",
+      "record_id": "b8296a16-c9d3-46c0-afec-ea316a3e8a0e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12603,7 +11819,7 @@
       }
     },
     {
-      "record_id": "614e19ce3d942b5e",
+      "record_id": "95c25db5-eda0-47d5-a0de-07300932dc25",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12652,7 +11868,7 @@
       }
     },
     {
-      "record_id": "0b0b365973e5bad8",
+      "record_id": "33e109d0-584b-476b-939b-8b5c01622bae",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12701,7 +11917,7 @@
       }
     },
     {
-      "record_id": "b4929d1c34d36cd8",
+      "record_id": "478cb902-6015-4404-a4b0-d72e460d284a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12750,7 +11966,7 @@
       }
     },
     {
-      "record_id": "b2e0193f15ba8851",
+      "record_id": "37c3f55a-1ab2-451d-80ea-c2cea40afa49",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12799,7 +12015,7 @@
       }
     },
     {
-      "record_id": "0b0b365973e5bad8",
+      "record_id": "74b1b4a4-8680-4535-b132-678e0ba284e3",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12848,7 +12064,7 @@
       }
     },
     {
-      "record_id": "615db15f0be408c0",
+      "record_id": "cf921b07-7a26-4c51-892f-4e7180666d1a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12897,7 +12113,7 @@
       }
     },
     {
-      "record_id": "0b0b365973e5bad8",
+      "record_id": "5a105615-5323-46da-b649-f469ea1bdeae",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12946,7 +12162,7 @@
       }
     },
     {
-      "record_id": "0b0b365973e5bad8",
+      "record_id": "ed99e47f-ba6f-4de4-89ed-3b4b7edbb95e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -12995,7 +12211,7 @@
       }
     },
     {
-      "record_id": "1fa8b7b12606a84f",
+      "record_id": "d86b0fc6-ce8d-4b52-bafe-226aa9829f9b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13044,7 +12260,7 @@
       }
     },
     {
-      "record_id": "6b091fcb4cb515ad",
+      "record_id": "93efc608-3d03-4749-82c7-160260c07157",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13093,7 +12309,7 @@
       }
     },
     {
-      "record_id": "8a1c45d1c8c8ddeb",
+      "record_id": "bbccdeec-b61e-4327-9bf1-d81e74ee18d9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13142,7 +12358,7 @@
       }
     },
     {
-      "record_id": "1fa8b7b12606a84f",
+      "record_id": "2b3fd67c-2568-495a-8943-b5bc895a4ade",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13191,7 +12407,7 @@
       }
     },
     {
-      "record_id": "3dedbfb5559a2b96",
+      "record_id": "58ded6a7-bc89-4d51-b9b9-adfb63dc206c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13240,7 +12456,7 @@
       }
     },
     {
-      "record_id": "1fa8b7b12606a84f",
+      "record_id": "3b4beea4-9aaa-4334-9369-24bc881364da",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13289,7 +12505,7 @@
       }
     },
     {
-      "record_id": "1fa8b7b12606a84f",
+      "record_id": "909ac671-9f11-44f8-9bc7-54b38374a3fd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13338,7 +12554,7 @@
       }
     },
     {
-      "record_id": "1fa8b7b12606a84f",
+      "record_id": "76770eb7-e558-4763-b9f9-9e66ac9523ad",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13387,7 +12603,7 @@
       }
     },
     {
-      "record_id": "0a4a7bba6f2b53a5",
+      "record_id": "c4027516-b97e-4763-8f19-6846c78b45dd",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13436,7 +12652,7 @@
       }
     },
     {
-      "record_id": "39e02d95a1ecc7ed",
+      "record_id": "e87a9b6d-6637-4833-9498-f7ba774cf8f0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13485,7 +12701,7 @@
       }
     },
     {
-      "record_id": "2628f62b1d30a980",
+      "record_id": "730a2e69-8005-4465-bcee-0f0d0f6e0105",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13534,7 +12750,7 @@
       }
     },
     {
-      "record_id": "0a4a7bba6f2b53a5",
+      "record_id": "247da2a3-7032-4d7d-832b-7273e69f5d7e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13583,7 +12799,7 @@
       }
     },
     {
-      "record_id": "0a4a7bba6f2b53a5",
+      "record_id": "87e1a446-419f-4929-b44f-494b783c6f43",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13632,7 +12848,7 @@
       }
     },
     {
-      "record_id": "931bb3cbd5dfcf9c",
+      "record_id": "9e9f9d75-02f6-451b-9c16-a8722e099148",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13681,7 +12897,7 @@
       }
     },
     {
-      "record_id": "0a4a7bba6f2b53a5",
+      "record_id": "4397bd58-e474-46d7-bf71-7e016693ee37",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13730,7 +12946,7 @@
       }
     },
     {
-      "record_id": "0a4a7bba6f2b53a5",
+      "record_id": "cd835f9b-a289-40d2-9cb3-bc672db94d64",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13779,7 +12995,7 @@
       }
     },
     {
-      "record_id": "0a4a7bba6f2b53a5",
+      "record_id": "4491da44-56fa-4c6f-b417-6a2a23a85d6e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13828,7 +13044,7 @@
       }
     },
     {
-      "record_id": "1a9e7174cf61f5f4",
+      "record_id": "cd6a8ec0-6c77-497b-9fc6-f08d4338751f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13877,7 +13093,7 @@
       }
     },
     {
-      "record_id": "41912e59bbfaafb7",
+      "record_id": "2632bd20-324b-462d-9b56-084aae5b29d4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13926,7 +13142,7 @@
       }
     },
     {
-      "record_id": "1a9e7174cf61f5f4",
+      "record_id": "931ae09b-9d6a-4092-ae40-94ce6e0ab011",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -13975,7 +13191,7 @@
       }
     },
     {
-      "record_id": "dfb16a77fb9279d1",
+      "record_id": "7ec7b33e-f2b4-4ccf-bac5-4fc0b8a1dfe1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14024,7 +13240,7 @@
       }
     },
     {
-      "record_id": "92247a0668394fd0",
+      "record_id": "95575180-1076-4902-beca-372cd2eb7e02",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14073,7 +13289,7 @@
       }
     },
     {
-      "record_id": "db419260a904d1a4",
+      "record_id": "e120a456-ec17-45e4-92e5-aa98ed365815",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14122,7 +13338,7 @@
       }
     },
     {
-      "record_id": "dfb16a77fb9279d1",
+      "record_id": "defc8ec8-aa7d-45da-8222-f748adaf55d4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14171,7 +13387,7 @@
       }
     },
     {
-      "record_id": "dfb16a77fb9279d1",
+      "record_id": "d1117b49-91c6-4b88-8a11-b3d4139a8218",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14193,7 +13409,7 @@
       },
       "metric_context": {
         "attribute": "Area_Planted",
-        "value": 680998.0,
+        "value": 6809.98,
         "unit": "ha",
         "data_type": "Actual"
       },
@@ -14220,7 +13436,7 @@
       }
     },
     {
-      "record_id": "dfb16a77fb9279d1",
+      "record_id": "0b27c859-5ce1-4bf5-81cb-cb339ae00490",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14269,7 +13485,7 @@
       }
     },
     {
-      "record_id": "f1830a9f15d07fde",
+      "record_id": "05c56166-ffc6-4713-925d-ea1fff76d683",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14318,7 +13534,7 @@
       }
     },
     {
-      "record_id": "403417fe6acd69cd",
+      "record_id": "50579535-a657-44e2-8b52-e5c7a53ea0fa",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14367,7 +13583,7 @@
       }
     },
     {
-      "record_id": "f1830a9f15d07fde",
+      "record_id": "3581f8a4-55d9-4620-b2d2-fa16e7a304d5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14416,7 +13632,7 @@
       }
     },
     {
-      "record_id": "f1830a9f15d07fde",
+      "record_id": "8081d468-e658-41b1-807d-5d3ef6d89315",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14465,7 +13681,7 @@
       }
     },
     {
-      "record_id": "be5e1e6054f820c0",
+      "record_id": "94101460-9d7b-4a79-b737-c650bb770e09",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14514,7 +13730,7 @@
       }
     },
     {
-      "record_id": "a0aec34f7e007d8d",
+      "record_id": "06b11d95-7393-4902-8a2d-c97187913a76",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14563,7 +13779,7 @@
       }
     },
     {
-      "record_id": "61044993666ecc3a",
+      "record_id": "d860e0cd-aaf0-4057-9364-75a469ccbf1f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14612,7 +13828,7 @@
       }
     },
     {
-      "record_id": "0ba6304e7c24c5e8",
+      "record_id": "7f2bb35b-de14-4a6a-b457-3e2df44bb837",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14661,7 +13877,7 @@
       }
     },
     {
-      "record_id": "be5e1e6054f820c0",
+      "record_id": "c597d259-c9b5-4d68-800a-edccd5d2f835",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14710,7 +13926,7 @@
       }
     },
     {
-      "record_id": "be5e1e6054f820c0",
+      "record_id": "adbe48ef-6415-49fe-9bdf-1e3ad390bcba",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14759,7 +13975,7 @@
       }
     },
     {
-      "record_id": "b6d5475f5bc572b2",
+      "record_id": "de3bc2dd-ce07-41f0-a498-f046dcf6deee",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14808,7 +14024,7 @@
       }
     },
     {
-      "record_id": "972b52e6bc29af3c",
+      "record_id": "44ced6a4-04d0-4cd5-9dd2-4b27366f15dc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14857,7 +14073,7 @@
       }
     },
     {
-      "record_id": "0fb8c7e08c677807",
+      "record_id": "36fcd0b1-c7fa-4737-b1e8-a3ffbae54aba",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14906,7 +14122,7 @@
       }
     },
     {
-      "record_id": "b6d5475f5bc572b2",
+      "record_id": "004f4236-0045-41f5-adae-5a2453f5b2f9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -14955,7 +14171,7 @@
       }
     },
     {
-      "record_id": "b6d5475f5bc572b2",
+      "record_id": "5af68051-e928-4f26-9c17-05648c069637",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -15004,7 +14220,7 @@
       }
     },
     {
-      "record_id": "b6d5475f5bc572b2",
+      "record_id": "c5cd03fc-5667-4086-b386-0dea232baee5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -15053,7 +14269,7 @@
       }
     },
     {
-      "record_id": "0211da05aa93984a",
+      "record_id": "e0bb05ad-3640-4d3b-8c8e-f618c5501866",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -15102,7 +14318,7 @@
       }
     },
     {
-      "record_id": "837d4cb918dddb47",
+      "record_id": "82d2e893-5182-434a-9839-53c3a64686b5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -15151,1036 +14367,7 @@
       }
     },
     {
-      "record_id": "0b2b96f943448144",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1.1",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 540.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 2,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "0b2b96f943448144",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1.1",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 186.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 2,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "0b2b96f943448144",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1.1",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 345.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 2,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "16d1e4c7d12c3311",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1.2",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1732.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "16d1e4c7d12c3311",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1.2",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1832.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "16d1e4c7d12c3311",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "1.2",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1057.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 3,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "2fc81b0461ecd927",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "2",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3007.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "2fc81b0461ecd927",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "2",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 3227.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "2fc81b0461ecd927",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "2",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1073.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 4,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "f22abc273458bdfe",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1756.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 5,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "f22abc273458bdfe",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1762.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 5,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "f22abc273458bdfe",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "3",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1003.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 5,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "1de46a79dc11b370",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "4",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 7615.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 6,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "1de46a79dc11b370",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "4",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 6985.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 6,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "1de46a79dc11b370",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "4",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 917.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 6,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "ffd4fb078a168731",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "5",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 25899.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 7,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "ffd4fb078a168731",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "5",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 24234.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 7,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "ffd4fb078a168731",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "5",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 936.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 7,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "ba0fdde0e748d836",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "6",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 35668.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 8,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "ba0fdde0e748d836",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "6",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 39680.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 8,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "ba0fdde0e748d836",
-      "time_context": {
-        "year": 2011,
-        "month": 11,
-        "report_date": "2011-11-15",
-        "period_type": "Monthly"
-      },
-      "geo_context": {
-        "geo_level": "Provincial",
-        "location_name": "6",
-        "region_id": null,
-        "region_name_vn": null
-      },
-      "item_context": {
-        "sector": "Cultivation",
-        "commodity": "Lúa",
-        "sub_item": null,
-        "variety": null,
-        "processing_level": "Raw"
-      },
-      "metric_context": {
-        "attribute": "Area_Planted",
-        "value": 1112.0,
-        "unit": "ha",
-        "data_type": "Actual"
-      },
-      "comparison_context": {
-        "comparison_type": "None",
-        "comparison_value": null,
-        "base_period": null,
-        "base_value": null
-      },
-      "metadata": {
-        "source_file": "2011_11_Phuluc_11_2011_f_PL5.md",
-        "appendix_number": "PL5",
-        "appendix_title": "Phụ lục 5",
-        "table_index": 1,
-        "row_number": 8,
-        "extraction_method": "LLM_Extraction",
-        "extraction_confidence": 0.85,
-        "notes": null
-      },
-      "data_quality": {
-        "is_aggregated": false,
-        "has_missing_values": false,
-        "data_status": "Complete"
-      }
-    },
-    {
-      "record_id": "90b330bf52f47368",
+      "record_id": "a1b769f8-1e6b-4d62-a68d-26cc84c6fb73",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16229,7 +14416,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "71916e6f-3735-430a-9309-46ffa337f127",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16278,7 +14465,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "a7a78429-9224-4d64-a3c5-fb0044686926",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16327,7 +14514,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "c696d7ac-6aee-4e2d-bb15-a144420aca49",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16376,7 +14563,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "a33107f3-4e3b-4681-8ced-3d9bb6ba82c6",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16425,7 +14612,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "3785c036-0619-43ad-b06e-50f568943fba",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16474,7 +14661,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "5e7e2c15-32d9-4061-8c86-24ae6e62da1d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16523,7 +14710,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "eff64790-7432-4828-b115-0f4b4d8de5e9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16572,7 +14759,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "128e2cf5-25dd-4f18-83b0-058a7c2dfeb2",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16621,7 +14808,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "e03d7d29-8010-4d49-bc7b-f1406b2214f5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16670,7 +14857,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "c1f746e3-179a-4c27-b710-b186eec200b1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16719,7 +14906,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "694bcfc0-1fa6-4ab2-b64a-b0e24c593b9e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16768,7 +14955,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "82bf6fbe-1fc5-4ba1-bf86-0d510fb6c9e1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16817,7 +15004,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "08b74433-d11f-4e59-af1b-2c87a3741a32",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16866,7 +15053,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "47a6a893-b0a8-41f5-81ba-5eaf1da66697",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16915,7 +15102,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "ad9fcc69-b02b-4543-ba30-ab2841509cae",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -16964,7 +15151,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "e90bcf9d-c24c-4f48-9e2e-a7e557d91803",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17013,7 +15200,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "00d320e2-016e-4aba-b13c-42d0736e3238",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17062,7 +15249,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "8523f13a-c700-4549-813c-dfd7a3ca5797",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17111,7 +15298,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "57152bed-db00-4006-ae57-510298c2e47e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17160,7 +15347,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "58dd998f-b5d4-4c2d-91c0-246f6d60ade0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17209,7 +15396,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "f81205a3-3300-49f2-83c8-529df58e9a3e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17258,7 +15445,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "305dbcf8-e1a2-45a4-9619-55116f69c379",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17307,7 +15494,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "21b9c868-3a98-4f31-a5ee-71ca32414c48",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17356,7 +15543,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "7c00ef3f-c617-43c6-bcfd-63ecf2a59c86",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17405,7 +15592,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "0963ee50-cda9-42ad-91d9-ed9202240c51",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17454,7 +15641,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "29e6127d-73c9-4b24-94e9-589faed36891",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17503,7 +15690,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "f838e068-f482-4892-8599-af8f687eff9a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17552,7 +15739,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "beeed5d9-d485-4477-8d94-b2f8f9de8c1f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17601,7 +15788,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "b6bc646e-637a-4e56-8546-453ab8f4c0ab",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17650,7 +15837,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "b499220d-edb9-4f0b-bc70-ffd13c405195",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17699,7 +15886,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "f2fda3e4-8bc8-4903-92b8-e6f791f576fc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17748,7 +15935,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "84109830-d031-4d68-b2dd-b6c819551e69",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17797,7 +15984,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "608ff759-3dd3-4cf1-adc8-f22ca62044a7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17846,7 +16033,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "c1afe97b-b05c-4766-8b5d-46408103e6a5",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17895,7 +16082,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "fb23d58b-78e3-4926-87da-442b51d3569b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17944,7 +16131,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "0366cec3-bb6d-4b53-a649-4c396a6cc858",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -17993,7 +16180,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "f8c19b82-a877-4406-b3ba-b814002ebba0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18042,7 +16229,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "bbc69ec2-09f5-4c89-963a-27a2b55b6017",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18091,7 +16278,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "3e87086c-8b2a-40f7-a12f-45ba0717f9ee",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18140,7 +16327,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "9cbcc521-7cf5-4e21-9f97-3a480ac5f644",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18189,7 +16376,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "7eb47d86-bee0-499c-94b8-7dd316152226",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18238,7 +16425,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "8f27373b-e631-418d-b17d-5607eb7893fc",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18287,7 +16474,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "54ca0df2-e632-4bd5-abee-51bf47399f3f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18336,7 +16523,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "07b988c3-8c2c-4708-abe3-4546f31213d0",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18385,7 +16572,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "6d48fd93-ce87-46d1-941c-e8ca803ac4ca",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18434,7 +16621,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "5032ea9c-11f7-4c77-ae86-28f7c94ca58e",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18483,7 +16670,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "b7ca9be6-28aa-43f3-bae9-9d0920095dc2",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18532,7 +16719,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "4c63f421-bd7f-485b-8202-65d36b22c11d",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18581,7 +16768,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "57b33fff-0ba7-4f8b-945b-c4328fd3983a",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18630,7 +16817,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "ad41d8d1-fe5e-4a54-8230-76bb1392ff1b",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18679,7 +16866,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "194e9b94-8296-4e3c-ac24-71f86a7b45f9",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18728,7 +16915,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "3c5d7cf4-d83a-47de-9fe6-34d6892d57e6",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18777,7 +16964,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "a57c9a8e-b0de-4a68-9cdb-f1df3bd7efe4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18826,7 +17013,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "5b550e96-64ce-4b67-9409-778683ab2063",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18875,7 +17062,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "ab4c7076-a0c6-4f20-9a58-0f89f8fe32f4",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18924,7 +17111,7 @@
       }
     },
     {
-      "record_id": "90b330bf52f47368",
+      "record_id": "3de02689-90be-4fe0-94b6-f389cc5b75e2",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -18973,7 +17160,7 @@
       }
     },
     {
-      "record_id": "74eb392dfef483b0",
+      "record_id": "ace982c6-6bca-4c6e-a656-fce5fb6c7b5c",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -19022,7 +17209,7 @@
       }
     },
     {
-      "record_id": "a84b2af0da829d1f",
+      "record_id": "bf317fe1-4899-46bf-a5c2-4edec4610515",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19071,7 +17258,7 @@
       }
     },
     {
-      "record_id": "4f1fe84b320a3531",
+      "record_id": "95915a70-bcc3-41b6-9179-e5fca5d6cd16",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19120,7 +17307,7 @@
       }
     },
     {
-      "record_id": "86f3fc44efbbadc9",
+      "record_id": "57c930ef-08b9-433e-8e62-64c04632bbb5",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19169,7 +17356,7 @@
       }
     },
     {
-      "record_id": "11544717a1fc7baa",
+      "record_id": "0f4de671-fb57-4e1f-9838-dd8468b6b6de",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19218,7 +17405,7 @@
       }
     },
     {
-      "record_id": "f0aef8bc9f8957df",
+      "record_id": "38fec181-a999-4b01-a0b8-859ff296f550",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19267,7 +17454,7 @@
       }
     },
     {
-      "record_id": "0ca98c71461322d9",
+      "record_id": "0bf6008b-b918-4b42-a088-630b7fc79882",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19316,7 +17503,7 @@
       }
     },
     {
-      "record_id": "9d61985531e2373c",
+      "record_id": "457204c8-e3f9-45b2-93a7-8c329bb96a03",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19365,7 +17552,7 @@
       }
     },
     {
-      "record_id": "e1d47dd2ee603afd",
+      "record_id": "2da84912-e4fe-4d97-a3f1-6d6a8fa4cc54",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19414,7 +17601,7 @@
       }
     },
     {
-      "record_id": "36320f1ca253e376",
+      "record_id": "4d9fa062-a705-4b16-8afc-7b7ded775d4f",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19463,7 +17650,7 @@
       }
     },
     {
-      "record_id": "b66a291822544f97",
+      "record_id": "d0b82cd6-9244-48c1-b8b5-eaaa60d29775",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19512,7 +17699,7 @@
       }
     },
     {
-      "record_id": "fb287bca2ec3cc67",
+      "record_id": "a0127e40-1b80-40ae-878b-a5b63a2f3ab7",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19561,7 +17748,7 @@
       }
     },
     {
-      "record_id": "921eb5cec2cb0541",
+      "record_id": "1976445e-4fd8-4409-84fc-3b622f0fd227",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19610,7 +17797,7 @@
       }
     },
     {
-      "record_id": "c58bbb488f4d6ca0",
+      "record_id": "db84d613-6e17-4071-9e0a-c07bcde1e884",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19659,7 +17846,7 @@
       }
     },
     {
-      "record_id": "c40c1d5740796db4",
+      "record_id": "e15b7c5c-7e21-470a-a0a7-8f260f79bd37",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19708,7 +17895,7 @@
       }
     },
     {
-      "record_id": "4cf839a82ef2da38",
+      "record_id": "56897c6f-fb7d-4916-95cd-5f32c2be809c",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19757,7 +17944,7 @@
       }
     },
     {
-      "record_id": "2804c14cd03d3884",
+      "record_id": "b38df0aa-ac39-4f57-977e-c8c5afdfcfea",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19806,7 +17993,7 @@
       }
     },
     {
-      "record_id": "5e8737a32c485186",
+      "record_id": "4f0e4a4c-7dfe-43f6-bc76-e6c6c8b5b310",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19855,7 +18042,7 @@
       }
     },
     {
-      "record_id": "33b030b63aa24659",
+      "record_id": "2e05ea96-aa6c-4fd3-a4f3-3d80a5f94a99",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19904,7 +18091,7 @@
       }
     },
     {
-      "record_id": "b41d696b801dc31f",
+      "record_id": "632a9cf2-6c79-47d7-a24e-c631c7e1ac74",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -19953,7 +18140,7 @@
       }
     },
     {
-      "record_id": "ec549f49fbd3dde2",
+      "record_id": "532026ba-3f71-433b-a840-8bb1ccede750",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20002,7 +18189,7 @@
       }
     },
     {
-      "record_id": "0cd4ee60bcdb3a36",
+      "record_id": "01b0fe08-e409-411a-a883-41bfce197368",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20051,7 +18238,7 @@
       }
     },
     {
-      "record_id": "4e50ef93549d6a77",
+      "record_id": "5377ce45-0720-40eb-9498-3ca0e8adc662",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20100,7 +18287,7 @@
       }
     },
     {
-      "record_id": "f042aafcc0f441d5",
+      "record_id": "fe326a5e-73f4-4d37-b308-b5f7f7057bce",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20149,7 +18336,7 @@
       }
     },
     {
-      "record_id": "0ad00e0f2cf8bd1c",
+      "record_id": "fc9e3712-edc6-4c80-b552-90c4ab84b401",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20198,7 +18385,7 @@
       }
     },
     {
-      "record_id": "6525f60f07677f45",
+      "record_id": "1ce8b9a1-08b9-4d9d-aae1-c79e1bccc9d7",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20247,7 +18434,7 @@
       }
     },
     {
-      "record_id": "b244ae2c707a2570",
+      "record_id": "fe709319-6fab-4b36-9b9c-04adc7585a5d",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20296,7 +18483,7 @@
       }
     },
     {
-      "record_id": "739cebb2dde99974",
+      "record_id": "79dd1365-2117-43f9-8412-170f024d147a",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20345,7 +18532,7 @@
       }
     },
     {
-      "record_id": "3568e816d83478d2",
+      "record_id": "bc4c3edd-1eb2-413b-beea-056456bf7f56",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20394,7 +18581,7 @@
       }
     },
     {
-      "record_id": "e4eb14b54c8f8638",
+      "record_id": "af60cf5a-0fd2-4b3a-b868-16417ee02aa5",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20443,7 +18630,7 @@
       }
     },
     {
-      "record_id": "422fc4422edc7d99",
+      "record_id": "5fcd19a2-40f6-4ce9-9880-903155a21380",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20492,7 +18679,7 @@
       }
     },
     {
-      "record_id": "4c1d9fab2428f336",
+      "record_id": "2818f5bc-097d-4e3f-882b-a04eb0a36f16",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20541,7 +18728,7 @@
       }
     },
     {
-      "record_id": "84cf0230976a3af4",
+      "record_id": "f5dee05c-bcb3-48a9-a129-c1ab704df3d1",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20590,7 +18777,7 @@
       }
     },
     {
-      "record_id": "69e2c7c73e12aef1",
+      "record_id": "d7152551-c97f-41c4-8dca-8150411209b2",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20639,7 +18826,7 @@
       }
     },
     {
-      "record_id": "70b4f8f551d25306",
+      "record_id": "1b982351-00a0-42b5-962a-2aa58923e0c7",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20688,7 +18875,7 @@
       }
     },
     {
-      "record_id": "ec39a33501cf47d6",
+      "record_id": "5d4f8a1b-6459-4e63-b6f5-3d9332b9b3cb",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20737,7 +18924,7 @@
       }
     },
     {
-      "record_id": "7cb6b6d5100d52e3",
+      "record_id": "82f02237-0f86-404d-895e-ed9bb31b42e5",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20786,7 +18973,7 @@
       }
     },
     {
-      "record_id": "d423b6a5cb28d53d",
+      "record_id": "e988c8ea-741a-4fc3-af80-64f8bb8f8cc1",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20835,7 +19022,7 @@
       }
     },
     {
-      "record_id": "55046fb19f1c856a",
+      "record_id": "94e0cac0-ebf8-40e1-9a74-3a096cafabe6",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20884,7 +19071,7 @@
       }
     },
     {
-      "record_id": "9898dd85d71eb139",
+      "record_id": "3f436596-fc81-47d0-941e-228849405c14",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20933,7 +19120,7 @@
       }
     },
     {
-      "record_id": "764ab5aff411365c",
+      "record_id": "eb7a7b9a-c704-4778-bab9-167581cd4344",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -20982,7 +19169,7 @@
       }
     },
     {
-      "record_id": "3b8d0c6514671c68",
+      "record_id": "f59284fc-e620-4771-b95a-304f602ececc",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21031,7 +19218,7 @@
       }
     },
     {
-      "record_id": "ea03c6e3c928fa55",
+      "record_id": "1481a14f-4192-4f3a-aaa7-3eef10c7d228",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21080,7 +19267,7 @@
       }
     },
     {
-      "record_id": "a820c357c4c24e40",
+      "record_id": "3968d9f5-4287-4a75-949a-042104002ce8",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21129,7 +19316,7 @@
       }
     },
     {
-      "record_id": "61be42a4771156d1",
+      "record_id": "65ad989e-c4c6-4c08-96e5-8ef2fb158117",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21178,7 +19365,7 @@
       }
     },
     {
-      "record_id": "29d559cacf811e84",
+      "record_id": "d16016e4-93a5-4df7-b97d-501b77191a61",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21227,7 +19414,7 @@
       }
     },
     {
-      "record_id": "fc846f9bb716a17f",
+      "record_id": "ae9d5a92-5770-4457-bbdd-ebeabd861eea",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21276,7 +19463,7 @@
       }
     },
     {
-      "record_id": "d379d97107ee5f6f",
+      "record_id": "9df881d1-a55e-4861-90be-ece70fac27de",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21325,7 +19512,7 @@
       }
     },
     {
-      "record_id": "77f58d9dfaa8e660",
+      "record_id": "cc41c48d-a571-417b-9e8a-4039c27e6b12",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21374,7 +19561,7 @@
       }
     },
     {
-      "record_id": "416022aaf878076e",
+      "record_id": "dd27e189-d160-4716-814f-95aba96c11c9",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21423,7 +19610,7 @@
       }
     },
     {
-      "record_id": "862dd7ceefc8aa08",
+      "record_id": "9ec811bc-1360-4cf9-9716-613376629d5d",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21472,7 +19659,7 @@
       }
     },
     {
-      "record_id": "34120affc5fb65f7",
+      "record_id": "8c18dcb4-9e27-4c4e-9c1b-92e8f5051adf",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21521,7 +19708,7 @@
       }
     },
     {
-      "record_id": "bb4267e1f76155c2",
+      "record_id": "b8777c2f-d3f6-4c1b-a9c2-c6c0957a0447",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21570,7 +19757,7 @@
       }
     },
     {
-      "record_id": "28ba528f4f52f00a",
+      "record_id": "0577b96b-ce14-4095-8087-eac15d6c97e0",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21619,7 +19806,7 @@
       }
     },
     {
-      "record_id": "eff1bceaec07764b",
+      "record_id": "c17d9489-e8d9-4625-aca4-50057c9c1f90",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21668,7 +19855,7 @@
       }
     },
     {
-      "record_id": "9365c28b06149ec0",
+      "record_id": "85f1e3c2-6b43-4530-aa85-c11bdc180f5d",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21717,7 +19904,7 @@
       }
     },
     {
-      "record_id": "9e92ca67b8fe93c1",
+      "record_id": "cdba2a0f-0425-43be-bea7-5916f6081a22",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21766,7 +19953,7 @@
       }
     },
     {
-      "record_id": "f86589f4a3445fd2",
+      "record_id": "ec6cf671-54e1-488a-8075-c112bccda8a8",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21815,7 +20002,7 @@
       }
     },
     {
-      "record_id": "c9f850e257b3a2b5",
+      "record_id": "3e334560-c86c-4bf3-846a-2dc80264c4ee",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21864,7 +20051,7 @@
       }
     },
     {
-      "record_id": "80971823fb9a88b1",
+      "record_id": "a5416100-b20d-406b-b240-90f066ea1834",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21913,7 +20100,7 @@
       }
     },
     {
-      "record_id": "4a001df78b3cdb42",
+      "record_id": "f5f947f1-05db-4146-8ab4-f859541c59fa",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -21962,7 +20149,7 @@
       }
     },
     {
-      "record_id": "174fae7b62b86c14",
+      "record_id": "dcfc9443-5cec-4a82-9439-526eef0b8dd8",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -22011,7 +20198,7 @@
       }
     },
     {
-      "record_id": "9d66b8a77b08f8da",
+      "record_id": "9be05903-14eb-425c-84d0-c077eed61a28",
       "time_context": {
         "year": 2011,
         "month": 1,
@@ -22060,7 +20247,7 @@
       }
     },
     {
-      "record_id": "1e89b29f800332cc",
+      "record_id": "2ea14baf-a433-482e-aeb2-01b7c82c206f",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -22109,7 +20296,7 @@
       }
     },
     {
-      "record_id": "a2df87deb6f7bc3d",
+      "record_id": "c39b04a4-97f0-4e61-8d52-7411217042b7",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -22158,7 +20345,7 @@
       }
     },
     {
-      "record_id": "55b3b010914d77c5",
+      "record_id": "c805dc27-4664-44c4-a354-9f171d44d7f1",
       "time_context": {
         "year": 2011,
         "month": 11,
@@ -22207,7 +20394,7 @@
       }
     },
     {
-      "record_id": "164307ec6fbe1f88",
+      "record_id": "84da5d81-e36b-4746-a7b1-571f61aaae67",
       "time_context": {
         "year": 2011,
         "month": 11,

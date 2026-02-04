@@ -1,0 +1,416 @@
+locations = (
+    df_location_norm
+    .dropna()
+    .astype(str)
+    .sort_values()
+    .unique()
+)
+
+for i, loc in enumerate(locations, 1):
+    print(f'{i:3d}. {loc}')
+  1. + bắc trung bộ
+  2. + miền nam
+  3. + ngô
+  4. + vùng bắc trung bộ
+  5. + vùng tây nguyên
+  6. + vùng đông nam bộ
+  7. + vùng đồng bằng sông cửu long
+  8. - bắc trung bộ
+  9. - bắc trung bộ294.1
+ 10. - khoai lang
+ 11. - khoai lang111.5
+ 12. - khoai lang86.8
+ 13. - khoai tây
+ 14. - lạc
+ 15. - lạc172.2
+ 16. - mi ền nam
+ 17. - miền nam
+ 18. - miền nam1,926.2
+ 19. - mía
+ 20. - mía trồng mới
+ 21. - mía trồng mới143.8
+ 22. - rau, đ ậu các loại
+ 23. - rau, đậu các loại
+ 24. - sắn
+ 25. - sắn159.2
+ 26. - sắn295.2
+ 27. - thuốc lá
+ 28. - thuốc lá, thuốc lào
+ 29. - thuốc lá, thuốc lào22.4
+ 30. - thuốc lá24.9
+ 31. - vùng duyên hải bắc trung bộ
+ 32. - đ ậu tương
+ 33. - đậu tương
+ 34. 0
+ 35. 1
+ 36. 1,1
+ 37. 1,2
+ 38. 1. gieo cấy lúa hè thu miền nam
+ 39. 1. gieo cấy lúa hè thu miền nam441.2
+ 40. 1. gieo cấy lúa đông xuân cả nước
+ 41. 1. gieo cấy lúa đông xuân cả nước1000ha
+ 42. 1. gieo cấy lúa đông xuân ở miền nam
+ 43. 1. gieo cấy lúa đông xuân ở miềnnam trong đó: + đồng bằng sông cửulong 2. thu hoạch lúa mùa ở miền nam trong đó: + đồng bằng sông cửulong 3. gieo trồng cây vụ đông ở miền bắc trong đó: - ngô - khoai lang - đ ậu tương - rau, đ ậu các loại
+ 44. 1. thu hoạch lúa hè thu miền nam
+ 45. 1. thu hoạch lúa hè thu ở miền nam
+ 46. 1. thu hoạch lúa mùa cả nước
+ 47. 1. thu hoạch lúa mùa cả nước chia ra: - miền bắc trong đó : đồng bằng sông hồng - miền nam trong đó : đồng bằng sông cửu long 2. gieo cấy lúa đông xuân ở miền nam trong đó: đồng bằng sông cửu long 3. gieo trồng cây vụ đông ở miền bắc trong đó: - ngô - khoai lang - đậu tương - rau, đậu các loại - khoai tây
+ 48. 1. thu hoạch lúa mùa ở miền bắc
+ 49. 1. thu hoạch lúa đông xuân miền bắc
+ 50. 1. thu hoạch lúa đông xuân miền bắc658.8
+ 51. 1.1
+ 52. 1.2
+ 53. 10
+ 54. 11
+ 55. 12
+ 56. 125869.3
+ 57. 13
+ 58. 13001.0
+ 59. 130688.3
+ 60. 131198.0
+ 61. 13550.0
+ 62. 14
+ 63. 14.585
+ 64. 14.602
+ 65. 14.614
+ 66. 14.615
+ 67. 14.710
+ 68. 14.820
+ 69. 14.837
+ 70. 14.854
+ 71. 14.881
+ 72. 140163.0
+ 73. 14532.0
+ 74. 1483945.4
+ 75. 15
+ 76. 15.165
+ 77. 16
+ 78. 17
+ 79. 17004.0
+ 80. 17359.0
+ 81. 18
+ 82. 18330.0
+ 83. 19
+ 84. 2
+ 85. 2. gieo cấy lúa hè thu cả nước
+ 86. 2. gieo cấy lúa hè thu cả nước2,044.9
+ 87. 2. gieo cấy lúa mùa cả nước
+ 88. 2. gieo cấy lúa mùa ở miền nam
+ 89. 2. gieo cấy lúa đông xuân ở miền nam
+ 90. 2. gieo trồng lúa thu đông ở vùng đbscl
+ 91. 2. thu hoạch lúa mùa miền nam
+ 92. 2. thu hoạch lúa mùa ở miền nam
+ 93. 2. thu hoạch lúa đông xuân miền nam
+ 94. 2. thu hoạch lúa đông xuân miền nam1,653.2
+ 95. 2. thu hoạch lúa đông xuân ở miền nam
+ 96. 2. thu hoạch lúa đông xuân ở miền nam1000ha
+ 97. 20
+ 98. 21
+ 99. 22
+100. 22211.0
+101. 22265.0
+102. 23
+103. 24
+104. 24863.0
+105. 25
+106. 26
+107. 27
+108. 27450.0
+109. 28
+110. 28644.0
+111. 29
+112. 2=3+7
+113. 3
+114. 3. gieo cấy lúa hè thu ở đbscl
+115. 3. gieo cấy lúa mùa cả nước
+116. 3. gieo cấy lúa đông xuân ở miền nam
+117. 3. gieo trồng cây vụ đông ở miền bắc
+118. 3. gieo trồng hoa màu, ccn ngắn ngày
+119. 3. gieo trồng màu lương thực
+120. 3. gieo trồng màu lương thực 1000ha
+121. 3. gieo trồng rau, màu, ccn ngắn ngày
+122. 3.1 gieo trồng cây lương thực, có củ
+123. 3.1 gieo trồng màu lương thực
+124. 3.1 gieo trồng màu lương thực1,226.5
+125. 3.1. gieo trồng màu lương thực
+126. 3.1. gieo trồng màu lương thực745.4
+127. 3.2 gieo trồng cây công nghiệp ngắn ngày
+128. 3.2. gieo trồng cây công nghiệp
+129. 3.2. gieo trồng cây công nghiệp 352.5
+130. 3.2. gieo trồng cây công nghiệp ngắn ngày
+131. 3.2. gieo trồng cây công nghiệp ngắnngày
+132. 3.3 gieo trồng rau, đậu các loại
+133. 30
+134. 31809.0
+135. 32
+136. 33221.0
+137. 3400.0
+138. 34200.0
+139. 35
+140. 36
+141. 4
+142. 4. g.trồng cây công nghiệp ngắn ngày
+143. 4. gieo trồng cây công nghiệp ngắn ngày
+144. 4. gieo trồng cây công nghiệp ngắn ngày 1000ha
+145. 4. gieo trồng cây vụ đông ở miền bắc
+146. 4. gieo trồng màu
+147. 4. gieo trồng màu lương thực
+148. 4. gieo trồng rau, đậu các loại
+149. 4. gieo trồng rau, đậu các loại432.0
+150. 4.1 gieo trồng cây lương thực, có củ
+151. 4.2 gieo trồng cây công nghiệp ngắn ngày
+152. 4.3 gieo trồng rau, đậu các loại
+153. 4.tổng sản lượng lương thực sơ bộ đx 2009
+154. 40600.0
+155. 43093.9
+156. 45388.0
+157. 4992.0
+158. 5
+159. 5. gieo trồng cây công nghiệp ngắn ngày
+160. 5. gieo trồng rau, đậu các loại
+161. 50462.0
+162. 6
+163. 6. gieo trồng rau, đậu các loại
+164. 61304.7
+165. 64250.0
+166. 69336.0
+167. 7527.0
+168. 7861.0
+169. 8
+170. 86781.0
+171. 8718.0
+172. 9
+173. 9428.0
+174. achentina
+175. an giang
+176. an giê ri
+177. anh
+178. arập xêút
+179. b ru nây
+180. ba lan
+181. braxin
+182. bà rịa-v.tàu
+183. bê la rút
+184. bình dương
+185. bình phước
+186. bình thuận
+187. bình định
+188. bìnhđịnh
+189. bôngdiện tíchnăng suấtsản lượngđaydiện tíchnăng suấtsản lượngcóidiện tíchnăng suấtsản lượnglạcdiện tíchnăng suấtsản lượngđậu tươngdiện tíchnăng suấtsản lượngrau các loạidiện tíchnăng suấtsản lượngđậu các loạidiện tíchnăng suấtsản lượng
+190. băng la đét
+191. bạc liêu
+192. bắc cạn
+193. bắc giang
+194. bắc ninh
+195. bắc trung bộ
+196. bến tre
+197. bỉ
+198. bổ sung dự trữ quốc gia
+199. bờ biển ngà
+200. ca na đa
+201. campuchia
+202. cao bằng
+203. cbằ ao ng
+204. chi lê
+205. chia ra: ‐ miền bắc
+206. chuốidt gieo trồng1000 hadt cho sản phẩm1000 hanăng suấttạ/hasản lượng1000 tấnxoàidt gieo trồng1000 hadt cho sản phẩm1000 hanăng suấttạ/hasản lượng1000 tấnnhãndt gieo trồng1000 hadt cho sản phẩm1000 hanăng suấttạ/hasản lượng1000 tấnvải, chôm chômdt gieo trồng1000 hadt cho sản phẩm1000 hanăng suấttạ/hasản lượng1000 tấnbòng bưởidt gieo trồng1000 hadt cho sản phẩm1000 hanăng suấttạ/hasản lượng1000 tấnnhodt gieo trồng1000 hadt cho sản phẩm1000 hanăng suấttạ/hasản lượng1000 tấn
+207. chương trình biển đông, hải đảo
+208. chương trình giống
+209. chương trình neo đậu, tránh trúbão
+210. chương trình nuôi trồng thủy sản
+211. chương trình nông thôn mới
+212. chương trình phát triển, bảo vệrừng
+213. chương trình trọng điểm phát triểnvà ứng dụng công nghệ sinh học
+214. cuba
+215. cà mau
+216. cả nước
+217. cần thơ
+218. d.h nam t bộ
+219. d.h nam tb
+220. d.h nam tr. bộ
+221. d.h nam tr.bộ
+222. d.h nam trg b
+223. d.h nam trg bộ
+224. d.h nam trgbộ
+225. d.h nam trung bộ
+226. d.h nam trungbộ
+227. dbscl
+228. dh ntbộ.am rung
+229. diện tích
+230. dt cho sản phẩm
+231. dt gieo trồng
+232. gana
+233. gia lai
+234. giáo dục - đào tạo
+235. hoa kỳ
+236. hoa kỳ nhật bản trung quốc anh hàn quốc đức ca na đa
+237. hoa kỳ đức tây ban nha italia nhật bản bỉ hàn quốc phi lip pin anh nga
+238. hoa kỳnhật bảntrung quốcanhhàn quốcđức
+239. hoa kỳấn độbraxinthụy sỹxinh ga potrung quốcin đô nê xi ahàn quốcđài loanitalia
+240. hoà bình
+241. hy lạp
+242. hà giang
+243. hà lan
+244. hà nam
+245. hà nội
+246. hà tĩnh
+247. hàn quốc
+248. hàn quốccampuchiathái lannhật bảnđài loantrung quốcngahoa kỳin đô nê xi amalaixia
+249. hưng yên
+250. hải dương
+251. hải phòng
+252. hậu giang
+253. hồng công
+254. i
+255. i hà gang
+256. ii
+257. iii
+258. in đô nê xi a
+259. italia
+260. iv
+261. iv3132333435363738v4041424344vi 454647484950vii51525354555657585960616263
+262. ixraen
+263. khai thác biển
+264. khai thác nội địa
+265. khoa học - công nghệ
+266. khánh hoà
+267. kim ngạch xuất khẩu ts
+268. kiên giang
+269. kon tum
+270. lai châu
+271. long an
+272. là ci oa
+273. lào
+274. lào cai
+275. lâm nghiệp
+276. lâm đồng
+277. lâđồ m ng
+278. lạng sơn
+279. malaixia
+280. malaixiain đô nê xi ahoa kỳachentinathái lantrung quốcấn độchi lêhàn quốcô x trây lia
+281. mi an ma
+282. miền bắc
+283. miền bắcđb sông hồng hà nội hải phòng vĩnh phúc bắc ninh hải dương hưng yên hà nam nam định thái bình ninh bình quảng ninhtd và mn hà giang cao bằng lào cai bắc cạn lạng sơn tuyên quang yên bái thái nguyên phú thọ bắc giang lai châu điện biên sơn la hoà bìnhbắc trung bộ thanh hoá nghệ an hà tĩnh quảng bình quảng trị thừa thiên huế
+284. miền bắcđb sông hồng hà nội hải phòng vĩnh phúc bắc ninh hải dương hưng yên hà nam nam định thái bình ninh bình quảng ninhtd và mn phía bắc hà giang cao bằng lào cai bắc cạn lạng sơn tuyên quang yên bái thái nguyên phú thọ bắc giang lai châu điện biên sơn la hoà bìnhbắc trung bộ thanh hoá nghệ an hà tĩnh quảng bình quảng trị thừa thiên huế
+285. miền nam
+286. miền namd.h nam trg bộ tp đà nẵng quảng nam quảng ngãi bình định phú yên khánh hoàtây nguyên kon tum gia lai đắc lắc đắc nông lâm đồngđông nam bộ tp hồ chí minh ninh thuận bình phước tây ninh bình dương đồng nai bình thuận bà rịa-v.tàuđbs cửu long long an đồng tháp an giang tiền giang vĩnh long bến tre kiên giang cần thơ hậu giang trà vinh sóc trăng bạc liêu cà mau
+287. miền namd.h nam trung b tp đà nẵng quảng nam quảng ngãi bình định phú yên khánh hoàtây nguyên kon tum gia lai đắc lắc đắc nông lâm đồngđông nam bộ tp hồ chí minh ninh thuận bình phước tây ninh bình dương đồng nai bình thuận bà rịa-v.tàuđbs cửu long long an đồng tháp an giang tiền giang vĩnh long bến tre kiên giang cần thơ hậu giang trà vinh sóc trăng bạc liêu cà mau
+288. miền namd.h nam trung bộ tp đà nẵng quảng nam quảng ngãi bình định phú yên khánh hoà ninh thuận bình thuậntây nguyên kon tum gia lai đắc lắc đắc nông lâm đồngđông nam bộ bình phước tây ninh bình dương đồng nai bà rịa-v.tàu tp hồ chí minhđbs cửu long long an tiền giang bến tre trà vinh vĩnh long đồng tháp an giang kiên giang cần thơ hậu giang sóc trăng bạc liêu cà mau
+289. miền namd.h nam trung bộ tp đà nẵng quảng nam quảng ngãi bình định phú yên khánh hoàtây nguyên kon tum gia lai đắc lắc đắc nông lâm đồngđông nam bộ tp hồ chí minh ninh thuận bình phước tây ninh bình dương đồng nai bình thuận bà rịa-v.tàuđbs cửu long long an đồng tháp an giang tiền giang vĩnh long bến tre kiên giang cần thơ hậu giang trà vinh sóc trăng bạc liêu cà mau
+290. mê hi cô
+291. nam phi
+292. nam định
+293. nauy
+294. nga
+295. nghệ an
+296. ngô
+297. nhật bản
+298. ninh bình
+299. ninh thuận
+300. niu zi lân
+301. nông nghiệp
+302. năng suất
+303. pakixtan
+304. pakixtan đài loan nga trung quốc tvq arập thống nhất in đô nê xi a arập xêút đức hoa kỳ ấn độ
+305. pakixtanđài loanngatrung quốctvq arập thống nhấthoa kỳin đô nê xi ađứcấn độarập xêút
+306. phi lip pin
+307. phi lip pin xinh ga po in đô nê xi a cuba malaixia đài loan hồng công trung quốc nga nam phi
+308. phi lip pinxinh ga pocubađài loanmalaixiatrung quốchồng côngngain đô nê xi anam phi
+309. pháp
+310. phú thọ
+311. phú yên
+312. quảng bình
+313. quảng nam
+314. quảng ngãi
+315. quảng ninh
+316. quảng trị
+317. sóc trăng
+318. sơn la
+319. sản lượng
+320. sản lượng khai thác
+321. sản lượng nuôi trồng
+322. t.thiên huế
+323. td và mn
+324. td và mn phía bắc
+325. td và mn phíabắc
+326. td và mnphía bắc
+327. thanh hoá
+328. thái bình
+329. thái lan
+330. thái nguyên
+331. thổ nhĩ kỳ
+332. thụy sỹ
+333. thủy lợi
+334. thủy sản
+335. thừa thiên huế
+336. thừa thiênhuế
+337. thừthiê hế an u
+338. tiền giang
+339. tiểu vương quốc arập
+340. tiểu vương quốc arập thống
+341. tiểu vươngquốc arậpthống nhất
+342. tp hcm
+343. tp hồ chí min
+344. tp hồ chí minh
+345. tp hồ chíminh
+346. tp đà nẵng
+347. trong đó: + lúa
+348. trong đó: ‐ lạc
+349. trong đó: ‐ ngô
+350. trong đó: ‐ đồng bằng sông cửu long
+351. trung du và mn phía bắc
+352. trung du và mn phíabắc
+353. trung quốc
+354. trung quốc malaixia đài loan hàn quốc đức ấn độ hoa kỳ nga thổ nhĩ kỳ nhật bản
+355. trung quốclàohoa kỳmalaixiathái lanniu zi lâncampuchiabraxinin đô nê xi achi lê
+356. trung quốcmalaixiahàn quốcđài loanđứcấn độngahoa kỳthổ nhĩ kỳnhật bản
+357. trà vinh
+358. tuyên quang
+359. tvq arập thống nhất
+360. tvq arập thốngnhất
+361. tvq. arập thống nhất
+362. tà vi h rn
+363. tây ban nha
+364. tây bắc
+365. tây nguyên
+366. tây ninh
+367. tæng sè tr©utæng sè bßtæng sè lîntrong ®ãn ̧isè con lîn thþt x.chuångsl thþt xuêt chuångtæng sè gia cçmchia ra gμsl thþt gia cçm h¬i giõt b̧nsl trøng gia cçm çc lo1i
+368. ucraina
+369. v
+370. vĩnh long
+371. vĩnh phúc
+372. vốn chuẩn bị đầu tư
+373. vốn ngân sách nhà nước
+374. vốn thực hiện dự án
+375. vốn tp chính phủ
+376. vốn đầu tư theo các mục tiêunhiệm vụ cụ thể
+377. xinh ga po
+378. xê nê gan
+379. yên bái
+380. ôx trây lia
+381. ôx trây liabraxinucrainangahoa kỳca na đa
+382. đan mạch
+383. đb sông hồng
+384. đbs cửu long
+385. điện biên
+386. đài loan
+387. đông bắc
+388. đông nam bộ
+389. đông timo
+390. đầu tư khác
+391. đắc lắc
+392. đắc nông
+393. đắk lắk
+394. đắk nông
+395. đồng nai
+396. đồng tháp
+397. đức
+398. đứchoa kỳtây ban nhaitalianhật bảnbỉphi lip pinanhngahàn quốc
+399. ấn độ
+400. ằ cao bng
+401. ồ lâm đng
+402. ‐ khoai lang
+403. ‐ miền nam
+404. ‐ sắn
+405. ‐ thuốc lá
+406. ‐ đậu tương

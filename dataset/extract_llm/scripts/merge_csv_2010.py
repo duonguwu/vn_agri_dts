@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
-"""Merge all monthly CSV files into one consolidated file for 2010"""
+"""Merge all monthly CSV files into one consolidated file for 2009"""
 
 import pandas as pd
 from pathlib import Path
 
 # Paths
 BASE_DIR = Path("/media/duongn/New Volume/UIT/aThacSy/Data Mining/2. Data Pre-processing/vn_agri_dts")
-DATA_DIR = BASE_DIR / "dataset/extract_llm/2010"
-OUTPUT_FILE = DATA_DIR / "consolidated_2010.csv"
+DATA_DIR = BASE_DIR / "dataset/extract_llm/2009"
+OUTPUT_FILE = DATA_DIR / "consolidated_2009.csv"
 
 # Find all CSV files
-csv_files = sorted(DATA_DIR.glob("*/extracted_data_2010_*.csv"))
+csv_files = sorted(DATA_DIR.glob("*/extracted_data_2009_*.csv"))
 
 print(f"Found {len(csv_files)} CSV files")
 
