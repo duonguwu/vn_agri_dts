@@ -1,0 +1,730 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 11,
+    "appendix_number": "PL9",
+    "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+  },
+  "records": [
+    {
+      "record_id": "78db1fae-c2d9-4fbc-ba69-9affcf79d247",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện đầu tư"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 172550.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "470b5128-a2dc-48d1-b7c9-f12f7176064b",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện đầu tư"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2962177.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 113.43,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "47beb29d-15dd-4516-9d81-ccc6cc74db60",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện đầu tư"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2611500.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "d3c2e462-3a33-403c-a24b-a2b8b5b6a0ab",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 125000.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "8cb3df55-0a48-432d-af6d-a68aea3da397",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2073632.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 139.78,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "29920c72-f577-482b-b33a-b6a214510f24",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1483500.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "b80fe67c-e8bb-4403-b203-56a004e0db14",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 20500.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "6fc00054-8464-4f7f-8c9e-52b3bd21251d",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 414510.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 84.08,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "6332a280-f27d-4d0e-80d1-b79f1711947f",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 493000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "220bb63e-52f7-439b-a2a2-9de796645f8a",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Lâm nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 6800.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "f7b99fe5-e623-4db5-bc24-c55ccbd6c183",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Lâm nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 194285.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 84.47,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "0b2c3cd7-fe02-42fa-affc-c29b9c2dd762",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Lâm nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 230000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "ce196a86-afde-4518-9602-a88b2246513c",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1500.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "c4ea74e3-4be1-4b64-9d62-033ab88d1f28",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 21500.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 89.58,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "f001c9ad-4118-4d8b-bd64-22e84696cd9d",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 24000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "d016cc8b-dc0b-4f66-adbd-5834bc6cea5b",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Khoa học - Công nghệ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 7500.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "bf322dc3-bb1c-45f5-a4d2-d93652a7b3fc",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Khoa học - Công nghệ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 138000.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 60.0,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "a9314132-5a78-47ab-b048-73deca23a8bc",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Khoa học - Công nghệ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 230000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "1e780876-8066-4a61-8730-5d667c83b10b",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 6250.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "0899cec9-7498-4958-ad89-46c0e58116e4",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 67250.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 74.72,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "6661dc96-8980-475f-aa67-95b403b9084b",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 90000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "e8cf413d-51be-4a97-ab4d-0d8f56689cb9",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Các ngành khác"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 5000.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    },
+    {
+      "record_id": "cb224ff3-3d3d-491f-bad8-d497146a3720",
+      "time_context": {
+        "year": 2009,
+        "month": 11,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Các ngành khác"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 53000.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 86.89,
+        "comparison_unit": "percent",
+        "reference_period": "Annual_Plan"
+      }
+    },
+    {
+      "record_id": "b514bbec-10d7-4eea-876b-3fd664e443c9",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Bộ NN & PTNT"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Các ngành khác"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 61000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 11,
+        "appendix_number": "PL9",
+        "source_file": "2009_11_PHULUC_T11_2009_FINAL_PL7.md"
+      }
+    }
+  ]
+}

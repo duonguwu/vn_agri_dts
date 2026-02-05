@@ -1,0 +1,68 @@
+{
+  "metadata": {
+    "year": 2012,
+    "month": 5
+  },
+  "records": [
+    {
+      "record_id": "f1e3ac77-2f65-4f77-999c-1cfb8ffeadd3",
+      "time_context": {
+        "year": 2012,
+        "month": 5,
+        "period_type": "Monthly",
+        "report_date": "2012-05-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 531.0,
+        "unit": "1000_ton",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 5,
+        "appendix_number": "PL8"
+      }
+    },
+    {
+      "record_id": "4817b65d-6bc8-4d8b-9b2b-50df8701bdd0",
+      "time_context": {
+        "year": 2012,
+        "month": 5,
+        "period_type": "Cumulative",
+        "report_date": "2012-05-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2067.2,
+        "unit": "1000_ton",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 5,
+        "appendix_number": "PL8"
+      }
+    }
+  ]
+}

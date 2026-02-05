@@ -1,0 +1,2536 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 9,
+    "appendix_number": "PL8",
+    "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+  },
+  "records": [
+    {
+      "record_id": "c1ffb263-c384-4573-9ba0-1a4c8d28ad7b",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Tổng kim ngạch XK"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 1330.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "85da667d-01fc-4596-b9c8-abffc2c63d1c",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Tổng kim ngạch XK"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 11079.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 87.91,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "404f6557-ddcd-4b5e-9e14-f8a157f6e2b0",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Nông sản chính"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 610.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "abed5b0e-3928-413c-84b4-d28619a7707a",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Nông sản chính"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 6151.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 90.04,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "8dbd10af-ff39-4293-ba53-c6a2df58b372",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 54.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "17835539-6826-438d-9d8b-1bf8d1704048",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 76.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "a3fdc6e6-73b3-4c7f-a274-ffecdfa181be",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 893.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 116.84,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "862dd8c4-0e28-4297-baff-88c3bce699cc",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 1319.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 81.91,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "8ae6861b-49e6-451d-a07f-9daabb79e57e",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 79.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "87783b4c-650f-4774-a989-c0bf1fa43af8",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 129.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "0aad3c2e-55c7-45e4-b366-2543411d0b67",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 489.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 108.94,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "fd197472-9194-4f43-a70a-37a8558a63b1",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 732.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 59.99,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "8b44d0e4-a9fb-45de-85ad-438e275f81d6",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 430.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "ab8b51d2-d9f4-4e75-ae37-49aa722cc3a9",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 174.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "61b163d8-fb7c-4be4-a595-553f3ff338a7",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 5062.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 135.47,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "62f78b44-a3da-403c-b59c-9fda1cb32739",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 2288.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 93.56,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "c7dfd849-06ef-4039-bab8-dea366ec61e0",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 15.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "4e9c010b-f81a-47b7-80ce-2dae8b33cfc2",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 20.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "6bf00dea-d758-4d8e-98c7-39c524365911",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 97.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 122.35,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "05af48c8-135d-4341-ad15-3d46a726a213",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 126.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 113.74,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "1e2602c6-9290-42f8-90b3-a79c21c6c9b4",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 20.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "192822e2-ff8d-4890-9a2e-25eb34c7ffaf",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 97.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "b2dc04ca-9fa9-4ece-9944-67d59bb0a355",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 134.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 109.86,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "5c9469de-0b29-4778-8701-48ae479aa25c",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 621.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 90.38,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "f5c2300f-7b13-4263-8531-8b38535e439c",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 14.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "1541a174-0aae-49df-b74b-df47f149f3b7",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 38.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "f2c84170-efd6-4355-b9a5-aea82aa154ac",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 111.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 153.8,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "b848f287-1e72-4b5b-9fbd-475055de398b",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 269.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 106.3,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "7f500885-8d6d-418d-861f-f16ca73b9544",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 40.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "e18ef9b4-716b-4c0e-9a86-90c8f67347dd",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 322.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 113.51,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "772eb8a4-32ff-4e2c-baaf-10b9dc82be33",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 158.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "65281297-50bb-4291-8459-783f55457421",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 36.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "c0331c5b-357c-4c54-b6c4-06efdddd2d8b",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 473.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "3b20213b-1c08-4762-8954-0d78ad80279f",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 430.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "79bac165-af79-44a0-99e4-789e583e88c8",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 3047.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 90.82,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "6f05b1b7-5fbe-4b59-b927-fbf5297fd130",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Lâm sản chính"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 215.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "919cd6b9-203b-4379-9630-ea4a4cc2d461",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Lâm sản chính"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 1882.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 84.68,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "f63d77d5-2481-4235-9e6e-2e667d275574",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Quế"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 13.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "516df3bb-94fd-4184-9251-6bc31ca3cfe3",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Quế"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 13.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "0370193e-2cc1-4a2c-ac61-8d33649e1b90",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Quế"
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 13.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 118.07,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "98485de0-c231-49e0-a780-35a34d50a6d3",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Quế"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 15.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "c0a20df7-dcab-41ef-9fb3-a17c5caefc9e",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 200.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "1e89ab78-2323-4a0e-b40c-f23171f4248f",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 1753.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 85.74,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "6e324cb0-5b21-494c-a879-14450cc114f6",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "SP mây, tre, cói, thảm"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 13.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "1d0e2387-4b9d-41b4-a7d0-10a28178923b",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "SP mây, tre, cói, thảm"
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 127.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 77.05,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "49be2999-c69d-4710-8a15-5499983c6cfe",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Tổng kim ngạch NK"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 940.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "78d2c944-26b3-4efa-a2d2-e46e4e57cae2",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Tổng kim ngạch NK"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 7511.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 91.84,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "01c46365-eacb-4f14-9bc4-47810d93be9e",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Các mặt hàng nhập khẩu chính"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 620.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "05bbf02a-2636-4c49-9e85-0cf2b2b7321e",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Các mặt hàng nhập khẩu chính"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 5005.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 84.4,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "cfa564dc-53c9-4cf6-add7-ff0cef82c2ab",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Phân bón các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 400.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "1c8deac2-919d-4f36-8057-677e50e9a742",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Phân bón các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 114.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "0fc1aedb-4df9-4d55-9f40-1c8a275dc706",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Phân bón các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 3253.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 123.15,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "e4ab8cdb-66e7-4e7b-b440-5914989f1904",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Phân bón các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 1033.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 80.34,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "7d7475b1-3473-4a37-90ba-672fb8d545bb",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Thuốc trừ sâu & nguyên liệu"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 34.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "04a5b0a9-481a-41e9-800c-648f9d8e28be",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Thuốc trừ sâu & nguyên liệu"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 338.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 86.94,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "efada3a8-1080-4614-b3b3-c0a2b89b8c30",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Lúa mỳ"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 100.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "4977a1c7-3bc4-4695-8769-893f5ee02e0f",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Lúa mỳ"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 24.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "af6c375c-cfd0-4f4b-9433-408e47a63653",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Lúa mỳ"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 969.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 173.85,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "442c185f-ef54-4291-b758-a117c936fa30",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Lúa mỳ"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 241.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 100.38,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "96cd66dd-3065-4789-82e4-a714890080f1",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Thức ăn gia súc và nl"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 181.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "518e29ea-1218-4a37-a4c6-6481f6f95a82",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Thức ăn gia súc và nl"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 1453.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 100.59,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "592687ba-2ce4-47dd-bd76-4df85e04d8d2",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Dầu mỡ động, thực vật"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 40.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "11d68c12-eaa4-4435-b342-3108aaa39681",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Dầu mỡ động, thực vật"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 366.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 67.94,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "55a8a094-5cf6-4a0f-8a10-65d921edb225",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 32.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "f8ceb38f-98be-4c96-8413-a7bcbe253bf7",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 38.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "ca0504a7-176e-4437-8350-02966d9c2824",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 210.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 137.86,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "07e000e3-e1de-4dd7-8bb5-87be18ee7ddc",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 274.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 65.94,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "9e721399-1d17-43a3-9873-a821b5e3640d",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Bông các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 35.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "4d6925c2-e93c-473d-aa50-2032cdfff3bf",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Bông các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 47.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "4a1f4659-5985-45a3-aaa8-d33d5aa572c6",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Bông các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 221.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 100.37,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "2b1909c6-829c-4ec2-b1ed-a66a7827ecfd",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Bông các loại"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 277.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 81.34,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "c17d0157-2fba-483e-955f-ba6254ac6ff9",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sữa &sản phẩm sữa"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 50.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "cfab334c-c816-45a8-8de4-090850bbb031",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sữa &sản phẩm sữa"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 367.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 93.06,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "14201069-bcf9-4cdc-b079-5fa95502488b",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 90.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "59d27389-e2b8-4b48-8077-b61e1c976cfd",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Import_Value",
+        "value": 636.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 73.31,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "41fed2b0-6dd7-4b9e-94cf-a738c6fd8986",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Muối"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 2.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      }
+    },
+    {
+      "record_id": "db804a8f-f4c4-402b-8181-bb2004cd5699",
+      "time_context": {
+        "year": 2009,
+        "month": 9,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Muối"
+      },
+      "metric_context": {
+        "attribute": "Import_Volume",
+        "value": 21.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 9,
+        "appendix_number": "PL8",
+        "source_file": "2009_09_PHULUC_T09_2009_PL8.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 134.94,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6868 @@
+{
+  "metadata": {
+    "year": 2012,
+    "month": 3
+  },
+  "records": [
+    {
+      "record_id": "fc0e369b-378a-46db-b601-4660f97d0c95",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 835422.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2cf8bdff-58a5-48e4-b852-872a58ae7f96",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 67.2,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "6e63eb7e-658a-4746-b2f3-aeefbe7f8347",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 214249.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "5b3c47a6-a19e-4a70-ae6b-819a6778f67f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 150252.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "15414c31-1a35-4ef8-b403-eac2b9801b61",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 66690.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9ccf7316-75a4-4679-97a2-93ded65d49bd",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 13875.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8b98fbe4-abff-405f-a7bc-a83ef4607cfc",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 62246.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4bb29f0f-ee5c-43f4-ae4a-f920486afe4c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7440.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "26f98eab-47ae-468a-84e7-0dc663390b14",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 15288.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4a4db0b0-96b6-4b1c-918c-9c9bd30a4297",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 57.2,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "99505237-c409-42dd-8339-8986adc26a16",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 56783.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f72d72a3-1631-4325-b8ed-df545040a33a",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 22638.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ef3196bb-dbc2-411d-b7f7-fcb5f8a64402",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3736.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "deb7e79b-dc20-4352-ab23-ad5cf71cea72",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 30260.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9563bbc4-116d-43fc-ae79-ad7f4d9a801d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 149.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "049d32f4-5a75-440c-87a3-9913ee54dad0",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 564.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "02622a32-eadf-4224-ad42-8515e02ae63d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 290.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "00d2bb0f-0426-4f9f-b155-3d455819aaf8",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 204.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "895e4bad-b523-46c8-bb4d-73a44cb09c1f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 70.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2d9d0abd-5f2e-493d-831b-9e8fab2c2954",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 18930.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ac5f6ca1-fce4-4531-a7a3-18332250965d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5876.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "20b0f9ab-afff-4150-a01d-b61bf5245741",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2929.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "205385c3-5212-4f6c-a5ad-5b274a5d00aa",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 10125.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "792bc98c-678b-4240-bbda-a4c561842210",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 1548.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "49ccb46e-9ffb-4900-a241-44b6446d5bea",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 35.0,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "db01897a-3d3f-4b64-922f-d09089db2092",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 16319.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "57d4aa5e-2afb-4978-b482-66b4a3dda508",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4748.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "dfb11d48-6c94-4201-8747-945221cb5a7d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 11571.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "430bebd1-aeac-4a7b-9e7d-fb5bcd1a7101",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 4910.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ca440bec-106b-4922-a440-d6ccdc3eae82",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 59.1,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "582c4efb-5c06-4665-8c33-22a4a32527f2",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2270.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "e47f6924-747d-4452-a97a-fc9172ed424f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2270.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2749cb11-1362-4079-aa90-a7b74bd6bcd5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 9996.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f81482fa-b379-4f47-9ca6-3787d1867e50",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1941.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "759d111f-c850-47f8-a9dd-ba9f93678134",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 183.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "cebd8837-ea42-49dd-8aeb-59fa52ebd631",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7751.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "6a504751-aa55-4af2-87e8-7f091b78b011",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 121.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "394f106e-18fe-42af-aaeb-66a7f4b3ae50",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hoà",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 5630.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4c48d004-b044-4ea1-81ee-57d5d9484ea1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hoà",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1329.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8345edab-9eed-43c1-b8ac-8d4f36d387f8",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hoà",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1231.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "a7f6472e-f8b8-4bd0-9e86-71f7d4ee0404",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hoà",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 98.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3385db41-8a02-4743-9f84-1535d9da9300",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 3200.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8c193fae-fd40-4d1a-b7e4-f1750476ac46",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 65.0,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "5b9ce1e7-5c53-48d1-84cb-0b92425164a4",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3079.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f1314262-6c00-448b-b7cb-cfc17950ccb9",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2893.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8d1b6ece-ef26-42ee-b453-3fc9838315a3",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 55.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8046ad4b-b8bd-4e15-9dca-7081e01846d4",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 131.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8740520f-eb62-49c6-a10f-38e23040df8a",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4296.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "308de65d-965a-4bc4-9330-e22f37c4fd25",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3389.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "546be304-50c1-42da-84c2-6a1e72370cc0",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 267.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3487e02e-6a2b-4354-af92-473d1a20dea5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 612.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1b9c39eb-0cf0-4b40-b6f2-e90d594517d3",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 28.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "03a89b60-fb7a-41e2-bc66-3aa4a1105173",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 944.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "34150cdd-7406-4cc2-8101-ee47ce74ea5c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20630.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "53ff1218-8db6-45c1-ba46-7c3fb686f3b3",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 13032.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "5915f783-cab7-43d8-b19f-8f7f744ea50b",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1771.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c75e6384-3dbc-4cf0-a676-baf0da9d5b64",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5636.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "63909535-f639-4773-b901-4b57b99117d9",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 191.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9a617420-53c8-477b-bac4-a5337ee4ebf0",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kon Tum",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 685.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "fa67d375-49e3-4beb-8e1c-209485fdfac1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kon Tum",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 685.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b9d06cf3-7832-4f93-849f-5d186e66d07f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 9334.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7940842d-dada-40fd-b26c-2540cf175699",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4127.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7aa67634-4890-4bba-ac0c-5e60d29f83fa",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 395.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b24f3768-3379-40c0-9847-9e0904694846",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4811.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9baaa885-e668-4997-aa79-8d2129ea1abf",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "d282a247-7f90-42c9-88e2-d8a46ac23c32",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 944.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ec6839f7-e64c-4b2a-9c1f-3c44e908fadb",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 50.0,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "079bb783-7086-46ec-b413-504bc845d901",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4903.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7e305480-c153-443a-b526-18d13e3d57d1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3341.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b7aac6e7-a353-492c-ab3c-d45349a6df05",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 547.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "92a2456b-8610-4b65-94c7-2615e79708e9",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 825.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "45506ce9-cd68-424a-a5ea-ed6cab0c77ed",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 190.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7dea9883-773e-4102-9c9c-02eded2de4a5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắc Nông",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4064.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "62f35954-3292-43f4-b536-c194202be908",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắc Nông",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3235.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c384eb99-b674-4ece-b2ae-ff80efe93a70",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắc Nông",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 829.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8196dc57-1fc3-4f59-b46b-ff712f3f92cf",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lâm Đồng",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1644.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "aa7d7402-20ca-4a20-ba8a-1c635ec0b045",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lâm Đồng",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1644.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f94d46f9-d9a3-4724-a18a-5803a97e4e28",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 25786.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "5f17e64a-242d-4abd-acaa-685b626cfccc",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 51.7,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "82eba98d-2c21-476a-aaaf-6b6ad5f0d11c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 41125.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0fadb585-d1f7-434d-a4a9-42ee15166411",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 14841.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "86f16909-30d4-4117-955f-5accc83f515c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 399.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "832fb4e1-0cad-448f-8257-95aa1bd8cd1f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 24901.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3ceb1d7f-adcd-4764-9f0f-330560585edb",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 984.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "26058f56-3f4a-49e9-bdfd-3933496cca94",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 2670.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "bc6faf7e-ff89-42ff-a0e3-4c7a7f084b2f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 34.7,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b8850f21-4ec7-4a31-8d8f-69073ba8e860",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1942.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "661df3f1-dbf0-4dcf-8abf-77ef4cfb8506",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 384.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "6fa1a8b9-24f0-4121-aae5-6f512200bb79",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 151.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "072e5da4-581d-42bc-bb5a-232368a8df09",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1273.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "aa7b1afa-4c97-473c-ba92-63ed010a2999",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 134.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "01a1d10e-2949-4950-b58d-7bc792cc2d50",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 3390.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1783d07a-fd9d-4d7c-adb7-6eb56df7398c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 45.7,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0cd237bb-5638-4911-9c35-c45f1921a0f1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 23472.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "5759b44f-ffc3-4b96-aa3f-6cdf993e3be6",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2825.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "cee6aec4-5326-42cd-bfc1-1faaadaa6d4b",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 95.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9c2113cb-4033-4599-abaf-1dde732d2d23",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20268.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "82388456-e8cd-4347-8426-76b610dd0e07",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 284.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1ef2a6ef-c852-45d9-a3e5-d35272af9ea9",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 2888.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7b473a8a-6bc5-46a4-8c9e-045857d5cdf3",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 46.4,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "a9c5374c-0901-4727-8736-3be08e1597cc",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1726.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1ec0f0ab-982a-4ce6-8e7b-071e4e169e4e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 99.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c2dae4fe-55bd-4db2-9190-1adf49922014",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1258.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "d3946266-60c6-47ff-a9d5-6968873586b1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 369.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "361f08d7-8480-40b1-863f-ac732140c1ed",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 14277.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0630af03-99f7-47fe-9da5-6c9922083e48",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 57.4,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7be227ce-237f-4311-ad50-46b2652217d5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 12095.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0ad2e8d1-8e90-46e4-9a4a-b796ee58837f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 9688.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "365689b5-614b-4e68-997f-931b6b67d35a",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 111.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "329cb420-3e82-4549-a072-ea3de1bb9cc1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2101.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "cf2fb926-a658-4934-898c-85e3a84e796f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 195.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "04c54f67-7996-4da0-84b9-8c91ac694f9c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 1906.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "17986766-5784-44c9-bb1f-a5878af9c19e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 51.3,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f303cf05-e835-4661-8310-83b95557aa38",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1163.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "cea2e68f-faee-46b0-9107-caade583c47c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1118.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c188e4f4-6621-4c0d-af1c-939dbf63af47",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 42.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "d5c84d32-b5e2-41e8-9b3f-f34be1b9b5da",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8c906380-e7e4-401c-ad5e-3d99a7be1453",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2097a0cd-747b-4d92-9add-730968c0d12c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Hồ Chí Minh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 655.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "da4ba5e6-40d6-4ea3-9fb5-a9569494eafe",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Hồ Chí Minh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 52.0,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ca938af8-df64-4cba-8ed1-35afc3de257d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Hồ Chí Minh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 727.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9b7289f6-0abd-49eb-b3dd-0bcc63dceeda",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Hồ Chí Minh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 727.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "786a67c1-bfd2-4c7a-a3ed-a197a35bfede",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 793403.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "fdd1f7c6-ede2-4dff-8338-cb084754b2c7",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 67.9,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "d8ed1015-cd0b-46aa-b9b3-af8bf7f75247",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 214249.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2bde9bc5-5696-4be3-bf85-c586bff9871b",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 31714.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "96ea74ba-0965-4e51-970d-f7fcc58a862b",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 16180.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "bc3373d0-ad64-4ef8-b2c5-9f04ba0661fb",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7968.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f22879a4-c446-4ea4-998e-da480639ce83",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1449.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "d693b66c-5f3d-4b20-acb2-06d06db4998e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 6116.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4649d925-0d1b-4062-9649-9db9b24759e4",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 98585.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "7d1331f3-6ea0-4a4a-a135-15719bc9be71",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 60.5,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "929961b4-4a7f-4802-a9e6-2cf2ec6266bf",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2153.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4f64d681-74e4-4753-9a34-6def4c1294a9",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 6968.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2de75339-6a4e-4cdd-9d14-6ca545ad5db6",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3255.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "985762d7-5209-4560-bdcd-7d79bdfc7b62",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 42.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "40f3b5bb-e54b-45a5-b104-450711c0cd08",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 454.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f2ef4e1a-f7c0-4c9f-abfc-37cf11a9f901",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3217.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "43dffa3a-fdbb-4451-9367-348e78163ec0",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 80494.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "e0a5546a-0d25-469b-8664-e81440f54eba",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 66.8,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3e9e3a59-d3da-4502-aa92-46c32e01ac09",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 39300.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "01598599-138c-4c30-a736-526bdd589c7e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3662.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0413716a-f7bf-443f-991e-0e8969b550fd",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2282.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "a5ad7be0-d43e-45b7-9060-346ef02996ef",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 237.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "58bd9a54-4ccf-4e12-bb82-bd5ce404f56d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 135.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ecd69165-5b77-4788-836f-eb4c70c96f00",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1008.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4289de4b-e06c-4316-b14e-0923a469a479",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 377.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3039e554-693b-4ff2-ba93-02510820ff3d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 49.6,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "daec1037-a1e6-4cbf-9087-755430481096",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 370.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2e5a878f-73a2-4405-a9ea-1ff05bac3e74",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 260.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "bd8b945b-bce1-43c4-811f-0dc24c9e1c02",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 60.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "87157412-7570-4ad6-bf8d-298f60616d3d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 50.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "9c03f13a-1f2e-4e6b-8f2b-96a53dc42c35",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 24171.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f07431e6-800a-4177-8c1b-09f1a91362c8",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 60.6,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c30535bc-bf99-4992-bb10-2e4439a20355",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 13592.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2ba7be9f-25fc-420b-a849-facad0665076",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3656.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "fd83ad3d-f9eb-48ed-afef-2318682d2783",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2526.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "10832841-cf11-46a8-92ca-4832d9b7d10e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 583.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3bc1767e-5311-4bc0-84f3-c60f50762885",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 273.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "057e5341-afab-473c-8064-3cfc4c8b09d0",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 274.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1442c0d8-1fd3-474a-8944-de676328d865",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 63751.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "65f1f2c7-c45d-4e1f-a9c0-f5b0fc45fb4f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 69.3,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "8ab4c70f-d9e0-45ac-84d8-5185a9d4b0e5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 29657.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "019c089b-9d5d-4281-8b51-35f73dad966c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5833.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "bf657b1f-6e21-46f4-9823-231b9b9f1151",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 692.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1fdac539-fb6b-4ac5-842c-911648e63a5d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4882.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2902fa53-34e0-47c9-ab32-17ecfa631389",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 98.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "26bff144-df03-4da2-aa6a-304de57287d6",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 161.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ee460233-a58c-48d1-876b-2ed54cb0ba8e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 97111.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3d258de5-48e6-4eec-8329-5fb5e099e566",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 74.0,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ffee8541-770c-4040-990a-658af5e458cb",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 30021.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "e6b21532-1dd9-4597-a040-17cc251dc9e5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3379.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b8f5fd8b-ee4a-42ca-9cb7-a257af282ff7",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1839.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c4c5008e-1f0f-473d-8ca0-b2611bab91cc",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1027.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b928e799-0599-4ed4-8f9d-8c6354a83e49",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 513.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "a5b04b9a-f90a-4a70-ad4d-2b9dff5cf9c5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 32969.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2e0ab12b-748d-4ec9-9816-9c393e21a912",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 74.1,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "b286176b-aa1d-4e4f-b581-8f422fa611f1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2257.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1e28b384-7872-4d7b-ae35-02c7399aa883",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1791.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "56d0e435-821e-4611-85ab-0a1630391744",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 65.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c0cfc4c4-45bb-462d-b636-d4fab247cd86",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 205.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3bbb8b09-f39e-4557-acb4-f9dc0067ef1f",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 196.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3486adc0-1f1a-4b98-8d2d-bdd45871411e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 165565.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "4022fbc4-5d06-4600-aeab-80b2547f4b85",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 68.1,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "a0dc6a97-1913-4e92-883f-236232e9ca98",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5018.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "12d5a02f-548d-43e9-aabc-123bc7889ecc",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 59259.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0ec8214c-af72-49a8-94d7-7d7fb2f7349d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 73.8,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "e6204e42-e586-4a0b-a809-c2859ea27469",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20638.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2a452439-0818-4ce8-ae59-4fea8d888094",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 298.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "f73c4949-a5a6-41e8-8587-7a268618e600",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 298.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "c93132e9-f325-4b52-ac7a-8547b0d14baf",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 38429.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "46574e79-2560-4679-8fcb-9499234da618",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 73.3,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "0c67d95f-2525-4eb7-9443-9c9237eacd90",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 12604.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "5d0d672d-9bbd-400d-958f-6b4f50fac203",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1276.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2034d901-9834-4cfb-850f-90708d3314e1",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1276.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "73bc1866-17c2-40ee-b83b-322036014db5",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 106356.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "dff3c250-5696-41b1-9fd8-d13c1c38c4ae",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 63.4,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "900c1100-7967-4328-99d7-34dae289944e",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Hè Thu"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 61266.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "edd727e3-a831-4951-bc79-279f630b0e0c",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3359.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "dcd6e459-6120-4011-9ca4-0ea5c28e3884",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1917.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "240a5197-6e8e-4831-a1f8-1cd4bf28a126",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1072.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "3b3e1974-8b83-45e7-97f1-5306a63a3309",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 234.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "ef98cf76-4539-4fe8-b17f-a0a64558351d",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 136.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "92b5612a-7b46-41d9-a067-9f5b46c892ea",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bạc Liêu",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 26336.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1e699504-b09d-4827-9085-6cccbac8f229",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bạc Liêu",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Yield",
+        "value": 66.9,
+        "unit": "quintal_per_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "1feac63c-2e5f-466b-b249-8c0c497f7bc8",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bạc Liêu",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 656.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "6566acf9-3a7a-4088-8ead-de5f99e14584",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bạc Liêu",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 44.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    },
+    {
+      "record_id": "2b54fa5f-baa1-4c02-a249-e56f82a88cc4",
+      "time_context": {
+        "year": 2012,
+        "month": 3,
+        "period_type": "Monthly",
+        "report_date": "2012-03-15"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bạc Liêu",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 612.0,
+        "unit": "ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 3,
+        "appendix_number": "PL3",
+        "source_file": "2012_03_Phuluc_03_2012_PL3.md"
+      }
+    }
+  ]
+}

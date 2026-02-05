@@ -1,0 +1,3306 @@
+{
+  "metadata": {
+    "year": 2011,
+    "month": 7
+  },
+  "records": [
+    {
+      "record_id": "85ecbe62-51ff-4412-8b46-99e465ebc56e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 95.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "2024d990-4ca8-45e6-9664-7bd1b14e4f0c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 500.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "78d12cc1-03f8-40ff-a2e3-3ac3bf4d6f70",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 17.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "c73b9d9e-4c46-4681-b78b-fdf1706e0896",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 614.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "4cc70ab6-33a5-46b1-bb17-a687d99c0f72",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 77.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "fc5e0fca-c99d-40b1-91fc-05522b195608",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 3547.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "27af063c-76cf-4d27-8f3c-ad0835d21b5f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 259.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "60b185ce-8e69-40d0-8a48-3bc224038387",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 20.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "24ac589a-333d-4f42-993a-d0d97dd4607c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 992.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "7faac211-1eef-4bb6-844c-bc7fa2ffe5a1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 0.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "cb1604e8-76a7-4d2d-9ce8-443d822283af",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 187.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "01d95761-0101-461f-9f66-b75e6c1cbfbd",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 23.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "ee1731ab-57e2-4273-afca-96164517cc06",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 23.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "fcf1e96f-ee3c-4432-88f3-ea3d662b485f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "e75f6d2c-aff4-464c-b372-cc70a0d7bf37",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 19.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "f1743c6a-f701-4c09-ace3-c0f8e890dc62",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "133078dd-abc5-42e7-a4c9-973ef722e746",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 12.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "849de4e9-781a-476b-8ebb-1d45a396920f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 29.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "d6f0db78-1518-45bd-b4e8-6292067965f2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 73.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "1251cbf3-fce7-463b-a75a-33e2c1ba2102",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 19.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "5fc6ef82-e600-426b-a688-70d394deb8e9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Duyên hải Nam Trung Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Viêm phổi",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 8.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "406d4538-6c8f-452b-9071-59b268b673c4",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name_vn": "Tây Bắc",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "2b9435a4-6b8e-4cc9-b6a1-41999c0122d9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name_vn": "Tây Bắc",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 13.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "495c6486-6ec9-4c88-b5fe-0319c37bf204",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name_vn": "Tây Bắc",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 3.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "4541495e-6854-4e21-bec9-cf63dc152a1c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name_vn": "Tây Bắc",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 18.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "8a84fe88-9bb7-4914-aac6-76a1452be107",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name_vn": "Tây Bắc",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 52.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "7d1685b2-0aa6-4e06-8c41-6bde997436c2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Giang",
+        "region_id": "R2",
+        "region_name_vn": "Đông Bắc",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "81d9c88a-7aae-4dbd-a533-a7a200027168",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Giang",
+        "region_id": "R2",
+        "region_name_vn": "Đông Bắc",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "e8f2e8d6-f898-464b-8c16-81acb430ff31",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 4.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "9c7e89b0-2997-4e38-96ed-4bd1c81c2dae",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 32.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "31289da8-55c5-48e5-b398-2152132d66b8",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Đóng dấu",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 30.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "bc3d76fa-123e-4250-baee-583159e16f66",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Đóng dấu",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 188.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "65217179-3793-4eb4-897f-cef48b550726",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 220.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "cef7e3ce-7056-4c4b-b784-208d841f2726",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1537.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "67f02475-3bad-4dc3-a1c3-9f6cdc4d82b0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 217.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "316a4e1a-0fd3-4457-be28-4223e5cc46f1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1496.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "c6af8d68-4bb8-4615-b6dd-9de41fc0fa29",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "9124914b-ba0e-488c-94c9-cb08aa7f45be",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 147.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "f7a94848-c8c4-4b63-96bc-d84889cd4326",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Cúm lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 6.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "ef8bfe0c-0e15-460f-b194-3dff7971359b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Cúm lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 439.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "35827d07-580d-4359-8541-fa2789c507b5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "4674160e-4d73-428b-a37c-0e6e6c0bf4bd",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "2191f792-ca03-4bdb-902f-571bedcffff0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 182.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "ed3fe697-2e70-41b3-9e51-9a65c0adb15f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 710.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "7ceae954-7579-46d5-874a-253994eb77df",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 24.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "93ff564b-827b-4de9-a048-627475acdf15",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 376.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "fc5ca31f-19c4-45ab-a39b-8d1f818d01f1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 152.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "5a0b1e53-92be-432f-a237-e09e397de511",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1994.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "a7e5fd99-add5-40a2-878c-735fc9b49301",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 95.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "5cab2a41-b8ed-4619-a9e8-ac01529f68a9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 26.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "3a0d6aea-5800-4b8f-9048-04d9eeb10409",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 419.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "6454a608-922c-49b7-8f60-391112a55379",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 20.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "610f7f49-5789-428b-9f6f-fe08728a6d14",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Viêm phổi",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 25.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "229bd456-7428-44c6-a1fe-4f1268cd8f01",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Viêm phổi",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 563.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "8c508787-385a-4d49-8b51-0bada8a6761c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "675b65a5-4e4d-420e-87b1-9d4b59f096c3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 4.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "f066eb82-a114-4a95-8d6f-0fdbcd112d3a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 9.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "0f4d0351-2a26-4fdb-8af6-13b531b1fc53",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 153.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "0cf6a4e8-eae8-4ac9-87f6-75bacce788ef",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "E.coli",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 34.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "a683243b-0391-44e5-ae4f-072a02b82eb0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "E.coli",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 74.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "50ab2c17-11ea-4162-bad6-8343344c8f63",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "71d6f7e1-123c-444a-9f16-b21349a80e6c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 12.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "0ee949ad-47e3-4d00-a62f-cf70139369eb",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 5.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "e59c19f0-3788-419b-a8a5-2437906cf175",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 13.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "53c9f7d2-4a23-4c1b-a896-568c4fdb54df",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name_vn": "Bắc Trung Bộ",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "Cúm gia cầm",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2250.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "8569bdb1-0a55-4d5c-a03b-3e359666021d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name_vn": "Bắc Trung Bộ",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "Cúm gia cầm",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 370.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "c498b6c0-869f-4c4b-a174-d958f572ad62",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name_vn": "Bắc Trung Bộ",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Cúm gia cầm",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2250.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "d0129f22-a42a-4256-abf2-99d02a8e65b3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name_vn": "Bắc Trung Bộ",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Cúm gia cầm",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 370.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "252bcaf0-b73b-4fb1-bf8c-35a9dd949ab2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Thọ",
+        "region_id": "R2",
+        "region_name_vn": "Đông Bắc",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Cúm gia cầm",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1454.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "c7a986de-5fcf-466d-82c2-e5ec869a2f90",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Thọ",
+        "region_id": "R2",
+        "region_name_vn": "Đông Bắc",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Cúm gia cầm",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1454.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "221dfb26-e30a-49ca-96cf-14d0171b2769",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "Cúm gia cầm",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2250.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "aebc93d7-aac6-4b53-83e8-9d4f392dfaae",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "Cúm gia cầm",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 370.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "02ba0a72-64a2-4719-bc0d-906b44a89913",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Cúm gia cầm",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 3704.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "ec5c05ef-a3c2-486e-af3c-5b24a89d7692",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Cúm gia cầm",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1824.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "82ec614b-ca5e-4029-9471-ac40122fc179",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Cúm lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 6.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "23805429-66cd-4789-96c6-cf407c577e5d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Cúm lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 439.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "ed95078b-bf21-43ea-920f-3bf7e9b658f5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 30.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "eac5970e-ac42-48c9-a818-a3d986c3219d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Dịch tả lợn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 61.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "3c2a242e-a6fd-4482-9cf9-7df63eafa037",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Đóng dấu",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 30.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "b026cb13-8572-410a-829c-4c6ff97d7acf",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Đóng dấu",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 188.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "1a635a66-a9e7-4794-a0ae-b7cdb79ddb7b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 286.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "67740fdf-c67a-442b-b876-6cb5b01dc8e5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "E.coli",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 1363.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "8500d3df-9756-4aa8-bcf0-865d29b3c773",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "E.coli",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 34.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "5017f357-1222-41e6-86b7-0e9c69c4ba22",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Vịt",
+        "disease": "E.coli",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 74.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "9c79fe86-1b7b-428a-a7f1-081e7c16c80b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 265.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "89f9b7a4-9b28-4857-9876-11a8a4eb31f8",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Phó thương hàn",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2558.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "e9449f2b-f242-4394-afb3-90a6be474dd1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 230.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "eb6878dd-10e8-45ed-bf82-e31fa416560a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 5554.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "df5d210a-fc7f-4809-ac62-d87916d83333",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tiêu chảy",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 354.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "9a7ff068-72b3-4fa5-804d-3cb3b695b9ac",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "9f7c8302-cfbe-4efe-87bc-fc8fe07ea726",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 12.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "e3b910e3-52c7-4a06-af70-bec55691a302",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 297.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "da89b949-62fd-4d3d-9185-b3173a5e4078",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 2996.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "5fc6274a-f79e-485b-bdf2-f64942aa68fe",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 21.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "f96409e3-6b70-4a94-94f5-00298712d637",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Trâu bò",
+        "disease": "Tụ huyết trùng",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 427.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "cb774e4b-a80e-4bd0-b911-120222d37983",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Viêm phổi",
+        "indicator": "Chết, xử lý"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 25.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    },
+    {
+      "record_id": "de765f41-c3e6-41bf-912b-67af626d5e61",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "disease": "Viêm phổi",
+        "indicator": "Số ốm"
+      },
+      "metric_context": {
+        "attribute": "head",
+        "value": 571.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 7,
+        "appendix_number": "PL10",
+        "source_file": "2011_07_Phuluc_07_2011_PL10.md"
+      }
+    }
+  ]
+}

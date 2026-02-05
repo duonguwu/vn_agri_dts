@@ -1,0 +1,872 @@
+{
+  "metadata": {
+    "year": 2012,
+    "month": 2
+  },
+  "records": [
+    {
+      "record_id": "f9ba64f0-e0c3-4d06-8b3a-20e4e6c6c647",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "VỐN NGÂN SÁCH NHÀ NƯỚC"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 73724.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "23f39a5f-9fee-49d9-9979-1b27a554a5ef",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "VỐN NGÂN SÁCH NHÀ NƯỚC"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 237483.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "6ce14e83-fbec-4d98-92cb-6f38b2e90b47",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện dự án"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 69401.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "a67b2e86-c578-40c3-9617-6c8071b3d9ff",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn thực hiện dự án"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 228160.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "01713fd6-cba2-4352-bf40-e0346e67d10a",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 38482.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "288b5777-6ba3-46cf-8ce4-ed5cdc9262b2",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 158482.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "6f5e5abe-9586-46ba-ba8d-1685aea732b5",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 29039.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "b0675c3c-0a5e-48dc-b9e3-7c20fc74bb38",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 50898.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "fe6e869b-fbe6-421e-ad3f-f27c272a30c1",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Lâm nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 6500.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "e38c86ca-c67a-42c5-8e7f-b82cb6c37468",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Thủy sản"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1000.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "62752b49-d69d-4ae9-8d30-b0e3d4cd7e8d",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1880.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "8d071ffc-d4a2-4210-b8ff-8d9dda96ded3",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Giáo dục - Đào tạo"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 3380.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "9ca42e17-aa63-4ef7-aa1b-2f46ce0b0ed0",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Khoa học - Công nghệ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2500.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "a219e7ad-3a66-4929-a18a-6770301bf277",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình trọng điểm phát triển và ứng dụng công nghệ sinh học"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 500.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "8921b548-025c-4f68-be3d-236bba1e262b",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Dự án tăng cường năng lực quản lý chất lượng nông lâm thủy sản và muối"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 200.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "0d55ac32-c080-4617-a110-a676eeff39fa",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư khác"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 4500.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "a016ec1a-55d6-421f-b916-41ca11b28a20",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Tài nguyên môi trường"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 200.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "166b795d-e8fa-4ca6-bc44-773722e5fef0",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn đầu tư theo các mục tiêu nhiệm vụ cụ thể"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 4123.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "5fd9ecc0-d2ed-4c0d-a5bf-6ed59cf43a7e",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn đầu tư theo các mục tiêu nhiệm vụ cụ thể"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 8123.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "66ee706f-adfd-4c34-90e5-2e83ea61c3be",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình nuôi trồng thủy sản"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1150.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "5026b2cb-b22d-4814-a83f-f2701a394fa2",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình nuôi trồng thủy sản"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2150.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "d24c3e16-00d2-4fa0-bd75-576bb1dc972a",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình giống"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1000.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "031e6ec5-bba5-448e-bf4c-52fcc860f945",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình neo đậu, tránh trú bão"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2973.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "bbd5d929-bd80-4c09-92ee-cbe52b344d2b",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình neo đậu, tránh trú bão"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 3973.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "37c33f33-1c91-4639-8c5d-ae3e9b7a50ac",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Chương trình phát triển, bảo vệ rừng"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1000.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "57d76743-3d8a-443a-b88c-8c3a43dfcfab",
+      "time_context": {
+        "year": 2012,
+        "month": 1,
+        "period_type": "Monthly",
+        "report_date": "2012-01-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn chuẩn bị đầu tư"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 200.0,
+        "unit": "million_VND",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    },
+    {
+      "record_id": "c520169b-dae0-44f4-a263-4e77352c4dce",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Cumulative",
+        "report_date": "2012-02-29"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn chuẩn bị đầu tư"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1200.0,
+        "unit": "million_VND",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL7",
+        "source_file": "2012_02_Phuluc_02_2012_PL7.md"
+      }
+    }
+  ]
+}

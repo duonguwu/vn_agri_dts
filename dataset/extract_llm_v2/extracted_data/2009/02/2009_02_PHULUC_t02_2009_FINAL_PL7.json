@@ -1,0 +1,3109 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 2,
+    "appendix_number": "PL7",
+    "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+    "extraction_timestamp": "2026-02-04T23:59:51.612508",
+    "estimated_tokens": 0,
+    "attempts": 1
+  },
+  "records": [
+    {
+      "record_id": "acd4dd8c-e4d9-439d-821f-5548f9836309",
+      "time_context": {
+        "year": 2008,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 4600.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "9b82e684-d6eb-46ae-8532-ebabb95f70f1",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 335.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "53167736-9bd2-4d37-8200-37972da1585b",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 333.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "0080f4f5-884d-4ee3-9b05-9e10f309360c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 668.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 103.6
+      }
+    },
+    {
+      "record_id": "eef3d9c3-1ef1-4f93-8409-d40d0c00f9bf",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 645.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "28c7ba35-dcb0-45d4-b8b0-fd3284d64ed9",
+      "time_context": {
+        "year": 2008,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2200.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "663619f3-374e-41f3-a768-53594be4ba73",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 190.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "ae1972ff-9b59-4c41-9901-587244437890",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 193.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "be396892-1ab6-445d-9f9f-d1fb25f96123",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 383.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 102.1
+      }
+    },
+    {
+      "record_id": "a6d1e3b4-fe8f-4c4c-8b3a-5c7e77e88322",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 375.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "ac7eef60-e3c0-4790-a0f6-1ca569cbf66a",
+      "time_context": {
+        "year": 2008,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2000.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "74a7195e-a600-4db0-8bb3-83c4a4a73d94",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 180.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "5813e932-0175-4d5f-8d63-863f6652e650",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 183.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "066fd6eb-0c4e-416a-86b3-84a121592e9d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 363.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 105.2
+      }
+    },
+    {
+      "record_id": "37828d4a-3730-4449-99cf-d51c513145b8",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 345.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "1a5d694a-54bd-46b7-a9ce-ec3f96bbecae",
+      "time_context": {
+        "year": 2008,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 200.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "9db44b08-9276-4766-884f-08e24891c344",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 10.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "7020cb6b-421a-47cc-b6eb-beab4fbaa022",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 10.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "0d96de1d-515b-4c4f-87d0-57e066e1f6ef",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 20.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 66.7
+      }
+    },
+    {
+      "record_id": "a06da3fe-d5f0-41b3-bc32-45cf877e3d0b",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 30.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "4faff166-1656-41be-8f8f-221d5fc57687",
+      "time_context": {
+        "year": 2008,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2400.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "eb33caa7-9fc4-47d7-8a13-5227f6e00ac7",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 145.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "761e2334-f8ba-4831-bbab-8013e9d7f36b",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 140.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "7424b0c0-7dd8-4912-ba89-0a727bb0e7ff",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 285.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 105.6
+      }
+    },
+    {
+      "record_id": "96d6a1af-8c01-463f-8531-31a8d6dc1071",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 270.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "5bde9396-6394-4785-98fb-996f6655f893",
+      "time_context": {
+        "year": 2008,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giá trị kim ngạch XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 4500.0,
+        "unit": "million_USD",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "0a17a95b-d53f-4589-9090-852584f2a41c",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giá trị kim ngạch XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 215.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "08356f62-4f5c-437d-88e5-2da0843a0c53",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giá trị kim ngạch XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 200.0,
+        "unit": "million_USD",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "fa3588b8-bd18-47f1-9cda-ee880412710c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giá trị kim ngạch XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 415.0,
+        "unit": "million_USD",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 84.5
+      }
+    },
+    {
+      "record_id": "4bca6f96-28bf-4fd2-8eaf-0324349ff0cc",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giá trị kim ngạch XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Value",
+        "value": 491.0,
+        "unit": "million_USD",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "18a33b6d-184b-452e-90a0-834acc36e028",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản phẩm XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 60783.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "64f26f35-2dc5-4493-864f-e83386ff33fd",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản phẩm XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 57533.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "30bda314-ccfc-4ff7-acd1-3ad5b27ca6e2",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản phẩm XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 118316.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 82.9
+      }
+    },
+    {
+      "record_id": "f6754991-16d6-44a6-8eae-4f5ae579b866",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản phẩm XK",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 142683.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "feb78129-6dd1-4812-8f9c-5f9739a4561a",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 4793.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "3aaad03f-93f0-412b-bcbf-5bc8b6f5975a",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 4120.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "2a42e451-b52a-44fa-b9aa-3de15a7f648e",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 8913.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 78.0
+      }
+    },
+    {
+      "record_id": "dead9d7b-5610-4968-85dc-cf700ac34702",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 11426.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "e0af5761-57f7-45ce-9a4d-81dd4e5d0a3f",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3770.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "8d1ab375-3f49-49bc-b2c6-e3b52cab6642",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3050.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "fdfd836b-d12d-4ff1-80c4-b49c9e44b2fe",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 6820.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 71.7
+      }
+    },
+    {
+      "record_id": "f1fe25df-66d0-4902-80ea-389d8dacc0e9",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 9518.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "2b37c6ae-95f1-41fc-8fdc-7e4aa5ab836e",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1086.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "8cc26d09-f50d-4573-8679-0db241eaa39d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1200.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "7ae4afdf-9d5b-4238-8a19-ec560a01bbfb",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2286.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 66.7
+      }
+    },
+    {
+      "record_id": "514f9e64-bbcb-4191-8c91-ab5ef945b226",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm chế biến",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3427.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "4fd845f5-1755-4575-be77-f101a12e343d",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá ngừ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1761.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "2bf52070-6b66-46fd-a789-4556f86cbc00",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá ngừ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2300.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "dc2c32ef-cf41-4115-828b-22b3faca51a2",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá ngừ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 4061.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 59.7
+      }
+    },
+    {
+      "record_id": "881aebdc-193d-4531-9034-a0a70a776a9f",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá ngừ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 6801.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "bac7008f-3868-47c3-b7ca-17ca745a6c2c",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá tra, basa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 32752.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "e252b40f-ef98-46e5-b7c7-e5476f12d0c0",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá tra, basa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 30960.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "1849c678-f024-4df3-a618-fa7bb962a46d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá tra, basa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 63712.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 90.7
+      }
+    },
+    {
+      "record_id": "e2c1a701-9f53-461b-8a63-1255608b3c91",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá tra, basa",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 70217.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "af4f8efc-cf69-49b9-8e29-7a0ae7b82d87",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 852.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "e697a87c-b457-4ef7-97f0-13484ab4c454",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 740.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "ca5d952a-1b0a-4d38-a82f-73fa2b70af5d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1592.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 78.8
+      }
+    },
+    {
+      "record_id": "822ee804-f06a-4104-b74d-8c78fe603432",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2021.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "d3d27eca-8278-4ac1-9791-4a2615b17830",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm hùm, tôm mũ ni",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1212.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "40a45bc5-de70-4534-9900-7b8674be2d2d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm hùm, tôm mũ ni",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2490.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "31a598e1-7247-4f4f-8491-edfb029f9a67",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm hùm, tôm mũ ni",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3702.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 44.4
+      }
+    },
+    {
+      "record_id": "37f1c2f1-ce96-4a54-9b82-d7e2e5c59cde",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm hùm, tôm mũ ni",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 8339.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "4ca1e335-a862-4638-977b-7293f9eef8ec",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể hai mảnh vỏ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 547.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "388eac6d-7366-47c0-8167-ea17c938663f",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể hai mảnh vỏ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 560.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "a66811e4-1607-4a0f-b932-b7c111fc3af1",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể hai mảnh vỏ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1107.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 85.4
+      }
+    },
+    {
+      "record_id": "57c014f5-6f9c-4fcf-93ac-d6674305133c",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể hai mảnh vỏ",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1296.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "f53515eb-6b12-43c0-8f43-db1dbc93d3dc",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 4187.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "52ba7030-c0c1-48fe-a347-24d91ad58f17",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3460.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "4e6f66a2-5943-4782-8a1b-aa314649cb3a",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 7647.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 79.1
+      }
+    },
+    {
+      "record_id": "d566e7d1-c412-4444-aaef-c104e8bca722",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 9665.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "f1f6f1e3-eff0-4dec-a080-a985cb6389fe",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mực khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1067.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "fe7781be-8a91-4427-a633-eb7d3da67d80",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mực khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 950.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "6f61b8c9-dfd3-46e8-9b07-859971bd08a9",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mực khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2017.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 89.9
+      }
+    },
+    {
+      "record_id": "0ec8d742-d830-4c8f-8ad2-e89da62b9f12",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mực khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2244.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "38ff0bfb-f10f-47dd-a990-19e3a820f304",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 190.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "1bebe72e-b8bb-4e8e-a9ed-b37786957809",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 140.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "600ca4fc-f201-42c1-b216-350266cefaa3",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 330.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 121.7
+      }
+    },
+    {
+      "record_id": "9470a462-ffd8-45f2-856e-049fd48de38f",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Cá khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 271.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "003995cc-86d8-468e-b14d-6c545046d3b8",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể chân đầu",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 7019.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "eedfb8a0-c906-402f-98ab-14385d971944",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể chân đầu",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 6390.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "646b7446-94f6-4952-90e6-e9445430622b",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể chân đầu",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 13409.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 89.7
+      }
+    },
+    {
+      "record_id": "4b54b200-ebfc-49d9-988d-a7c01466bbd9",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Nhuyễn thể chân đầu",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 14943.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "8090b21e-3af4-46e8-b715-fd035ae6ca85",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mặt hàng khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1432.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "d3e8552b-bcea-4100-a7f0-6b6328f758d5",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mặt hàng khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 1100.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "2b2abd66-2521-4293-9354-326de8154938",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mặt hàng khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2532.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 110.9
+      }
+    },
+    {
+      "record_id": "00472a19-3482-480a-8abb-d37102e3c26b",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Mặt hàng khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2283.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "0610b936-3884-4e57-816d-66c6bfd893af",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giáp xác khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 2.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "215a370c-e934-4329-8620-0689dc57659a",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giáp xác khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 3.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "50e8d3a8-4080-46a8-aee3-b13690c83f45",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giáp xác khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 5.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 12.1
+      }
+    },
+    {
+      "record_id": "8bd82891-f6ec-42ea-90b2-7a6ea428de74",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Giáp xác khác",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 43.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "9bf453b8-b0eb-400d-8d61-143eefe8460d",
+      "time_context": {
+        "year": 2009,
+        "month": 1,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 114.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "1ded2b95-adde-4be5-a276-d4109165ac71",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 70.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    },
+    {
+      "record_id": "aa6a6b12-6345-43fd-8b63-139646de3e6c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 184.0,
+        "unit": "ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 97.2
+      }
+    },
+    {
+      "record_id": "2fede67c-40a8-4443-8cb3-47bc9c16d473",
+      "time_context": {
+        "year": 2008,
+        "month": 2,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tôm khô",
+        "sub_item": null
+      },
+      "metric_context": {
+        "attribute": "Export_Volume",
+        "value": 189.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL7.md",
+        "appendix_number": "PL7",
+        "appendix_title": "KẾT QUẢ SẢN XUẤT THUỶ SẢN THÁNG 2 NĂM 2009",
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.95
+      }
+    }
+  ]
+}

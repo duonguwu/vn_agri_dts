@@ -1,0 +1,177 @@
+{
+  "version": "2.1",
+  "description": "Optimized schema for Vietnamese Agricultural Data - Reduced Token Format",
+  "response_structure": {
+    "time_context": {
+      "year": {
+        "type": "integer",
+        "constraint": "2008-2022",
+        "required": true
+      },
+      "month": {
+        "type": "integer",
+        "constraint": "1-12",
+        "required": true
+      },
+      "report_date": {
+        "type": "string",
+        "format": "YYYY-MM-DD",
+        "description": "Ngày chốt số liệu trong báo cáo",
+        "required": true
+      }
+    },
+    "records": {
+      "type": "array",
+      "items": {
+        "record_id": {
+          "type": "string",
+          "description": "Mã định danh (sử dụng 'xxxx')",
+          "default": "xxxx",
+          "required": true
+        },
+        "geo_context": {
+          "geo_level": {
+            "type": "string",
+            "enum": ["National", "Regional", "Provincial"],
+            "required": true
+          },
+          "location_name": {
+            "type": "string",
+            "description": "Tên Tỉnh/Thành phố hoặc Vùng (ví dụ: An Giang, ĐBSCL)",
+            "required": true
+          }
+        },
+        "item_context": {
+          "sector": {
+            "type": "string",
+            "enum": [
+              "Cultivation",
+              "Livestock",
+              "Fishery",
+              "Forestry",
+              "Trade",
+              "Pest",
+              "Investment",
+              "Compliance",
+              "Sugar_Production"
+            ],
+            "required": true
+          },
+          "commodity": {
+            "type": "string",
+            "description": "Sản phẩm chính (ví dụ: Lúa, Lợn, Cá tra)",
+            "required": false
+          },
+          "sub_item": {
+            "type": "string",
+            "description": "Chi tiết trà lúa/loại hình (ví dụ: Đông Xuân, Thẻ chân trắng)",
+            "required": false
+          }
+        },
+        "metric_context": {
+          "attribute": {
+            "type": "string",
+            "enum": [
+              "Area_Planted",
+              "Area_Harvested",
+              "Area_Seedling",
+              "Production",
+              "Yield",
+              "Export_Value",
+              "Export_Volume",
+              "Import_Value",
+              "Import_Volume",
+              "Headcount",
+              "Price",
+              "Investment_Amount",
+              "percent",
+              "Forest_Area_Planted",
+              "Forest_Area_Protected",
+              "Wood_Volume",
+              "Other"
+            ],
+            "description": "Tên chỉ tiêu",
+            "required": true
+          },
+          "value": {
+            "type": "float",
+            "constraint": ">= 0",
+            "required": true
+          },
+          "unit": {
+            "type": "string",
+            "enum": [
+              "ha",
+              "1000_ha",
+              "ton",
+              "1000_ton",
+              "ton_per_ha",
+              "1000_head",
+              "USD",
+              "million_USD",
+              "VND",
+              "VND_per_kg",
+              "percent",
+              "m3",
+              "1000_m3",
+              "million_trees",
+              "million_VND"
+            ],
+            "description": "Đơn vị",
+            "required": true
+          },
+          "data_type": {
+            "type": "string",
+            "enum": ["Actual", "Plan", "Cumulative", "Estimated"],
+            "description": "Số thực hiện, kế hoạch, lũy kế hay ước tính",
+            "required": true
+          }
+        },
+        "metadata": {
+          "appendix_number": {
+            "type": "string",
+            "description": "Số phụ lục (PL1, PL2, ...)",
+            "required": true
+          }
+        }
+      }
+    }
+  },
+  "example_response": {
+    "time_context": {
+      "year": 2009,
+      "month": 2,
+      "report_date": "2009-02-15"
+    },
+    "records": [
+      {
+        "record_id": "xxxx",
+        "geo_context": {
+          "geo_level": "Provincial",
+          "location_name": "An Giang"
+        },
+        "item_context": {
+          "sector": "Cultivation",
+          "commodity": "Lúa",
+          "sub_item": "Đông Xuân"
+        },
+        "metric_context": {
+          "attribute": "Area_Planted",
+          "value": 234.5,
+          "unit": "1000_ha",
+          "data_type": "Actual"
+        },
+        "metadata": {
+          "appendix_number": "PL1"
+        }
+      }
+    ]
+  },
+  "notes": [
+    "Schema tối ưu để giảm token response",
+    "time_context chỉ xuất hiện 1 lần ở level cao",
+    "record_id luôn = 'xxxx'",
+    "Bỏ comparison_context để giảm kích thước",
+    "Chỉ giữ appendix_number trong metadata"
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "metadata": {
+    "year": 2012,
+    "month": 2
+  },
+  "records": [
+    {
+      "record_id": "c1097473-4142-42f5-b007-20808eba1f2d",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2574.1,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "4619fcd5-5eb3-486f-b587-4dfd3b45157d",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Bắc",
+        "region_id": "NORTH",
+        "region_name_vn": "Miền Bắc",
+        "region_name": "Miền Bắc"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Chia ra:  + Miền Bắc"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 686.5,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "5dd64ce3-9fdb-491e-82d4-b5d158e8c974",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Hồng",
+        "region_id": "R1",
+        "region_name_vn": "Đồng bằng sông Hồng",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Trong đó: - Vùng Đồng bằng sông Hồng"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 240.3,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "b1720ef5-f549-4fcf-a6a0-9d431d24ab21",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Bắc Trung Bộ",
+        "region_id": "R4",
+        "region_name_vn": "Bắc Trung Bộ",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "- Vùng Duyên hải Bắc Trung bộ"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 330.1,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "6933a69f-abe7-473c-bed5-e0d0946f6188",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name_vn": "Miền Nam",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "+ Miền Nam"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1887.7,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "3a1ace76-4c33-4f9b-9252-35841d5e4500",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Trong đó: Đồng bằng sông Cửu Long"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1525.9,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "ca5b3429-ffc3-42bd-bc98-d83889c2afa7",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 478.4,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "93f53f96-df03-409f-9360-728bdd6fc24a",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "Đồng bằng sông Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Trong đó: Đồng bằng sông Cửu Long"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 478.4,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "7997d7fe-9d95-4263-8959-ef918c6d3244",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 362.1,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "7fd5a129-3f98-4419-8819-ded72d9cbf03",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 223.9,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "1a6c38a1-70e8-4a5e-a00e-6f2ca9aa2398",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 59.7,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "dc8365c0-6998-422e-97f8-f911f32496ac",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 66.4,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "ecd5da1b-07a9-4a71-a2a8-93b10fa3e8c6",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây công nghiệp ngắn ngày"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 268.0,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "d1a8b9f2-acbb-4153-b22e-c382be57591e",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Đậu tương"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 69.9,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "472dcc34-696a-41fb-8318-f8ebffecabe1",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lạc"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 105.4,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    },
+    {
+      "record_id": "e3461fd5-8e64-4927-bfd9-5da6e345243e",
+      "time_context": {
+        "year": 2012,
+        "month": 2,
+        "period_type": "Monthly",
+        "report_date": "2012-02-15"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Rau đậu các loại"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 348.4,
+        "unit": "1000_ha",
+        "data_type": "Estimate"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 2,
+        "appendix_number": "PL1",
+        "source_file": "2012_02_Phuluc_02_2012_PL1.md"
+      }
+    }
+  ]
+}

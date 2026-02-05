@@ -24,7 +24,7 @@
     "metric_context": {
       "attribute": { "type": "string", "description": "Tên chỉ tiêu (Area, Output, Yield, Export_Value, Headcount)" },
       "value": { "type": "float", "constraint": ">= 0" },
-      "unit": { "type": "string", "description": "Đơn vị (ha, ton, 1000_heads, USD, VND/kg)" },
+      "unit": { "type": "string", "description": "Đơn vị (ha, ton, 1000_head, USD, VND/kg)" },
       "data_type": { "type": "string", "enum": ["Actual", "Plan", "Cumulative", "Estimated"], "description": "Số thực hiện, kế hoạch, lũy kế hay ước tính" }
     },
     "metadata": {

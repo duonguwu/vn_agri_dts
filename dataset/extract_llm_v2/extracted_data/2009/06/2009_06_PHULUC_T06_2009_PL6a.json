@@ -1,0 +1,4978 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 6,
+    "appendix_number": "PL6a",
+    "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+  },
+  "records": [
+    {
+      "record_id": "926f8087-5292-4252-bbbb-a4d74974834a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 26497537.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "6de0bc9d-088c-4668-ab97-6bcc4f76444e",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 185288.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "7e690112-0834-4a6e-9275-b19df0d96137",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 64502000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "39425256-5e29-4b86-9dc3-0669d7b475f6",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3062237.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "d9bfe60a-991a-4757-88b7-e1edc7379b19",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "ĐB Sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 7169754.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "bcacb9a7-2fb0-4dae-9332-b8e021a329e0",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "ĐB Sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 48726.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "58925ff5-b20a-4e0d-b601-d2c4b2b0d3a8",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "ĐB Sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 13723000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "4438c282-d38c-4b93-afe7-25c22c6a83a7",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "ĐB Sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 962641.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a3065f61-5100-4962-889f-26e79e1ed129",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1600118.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c0e12694-146c-4bf4-97b9-f4a8713fd7a2",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 10963.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c0ac991f-1ec4-4e37-83f8-244cbc3bdc7d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 3228000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "6e0399c3-d721-4e06-b04d-23f727204784",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nội",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 266666.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "091c6080-6341-4237-a714-a6a4eef8adfb",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Phúc",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 526043.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3ed9d06f-c247-459a-9c57-706fba6ae4cb",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Phúc",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 5302.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "41a40d70-528f-4070-b410-ed7a625c5af4",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Phúc",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 797000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "552b3ad2-7280-4688-b36f-b95edd0fcde2",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Phúc",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 81906.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "6d34adfd-e9ee-4d03-a05c-a15a3c61b698",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Ninh",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 443226.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "5ee26b05-7ddf-4b33-ae2e-2c675baccde7",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Ninh",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3084.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "f06c50f4-f4f9-4931-b425-df5afdbd0984",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Ninh",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 868000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a30095da-b914-4cef-905b-70c271da3c82",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Ninh",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 57783.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "85384ef6-426c-44fc-ba47-3aa9359c4078",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ninh",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 330833.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "79ba4ce8-7ccb-4c25-ab69-9b6f4c80aa7a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ninh",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1453.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "25f7b844-4bdc-4c8c-89f6-04ea04742ed7",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ninh",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 498000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "d3fe460d-e0ac-47b7-84f8-772914eaff6a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ninh",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 18228.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a0cea9e3-fa08-4cd5-81ed-2e6f4aacb980",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Dương",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 624799.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "59b791e9-248e-4c00-a4a9-0b8640b36705",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Dương",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 5535.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ebea12e1-27d2-44e2-849d-559fa732fa93",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Dương",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1374000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "86f5f04c-9782-495d-aa61-86d955b81585",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Dương",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 60250.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a8d3c66c-8e70-44ca-a9f0-05a618b6466a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Phòng",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 497881.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "476eeb82-86ab-41b3-b3d7-62894cca628a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Phòng",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3916.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "309cea96-abde-4967-b345-93b72759af43",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Phòng",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 733000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "84548d70-52cd-48df-828c-a1425f741ee9",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hải Phòng",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 87056.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ca588ec9-bfcf-45c1-98e2-1d740824ccfb",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hưng Yên",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 575431.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "fd86359a-d7ef-4576-b6e3-ad8393dbea42",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hưng Yên",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3650.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "dbb59460-24f2-4bb8-9c45-788eceaec7d5",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hưng Yên",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1401000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3ef6e0b5-0150-4f12-bcc7-2d2f16cfdf7c",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hưng Yên",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 80560.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "94493237-2ce4-4cdf-a4c4-8ab96583f8ba",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nam",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 448760.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "e830cc72-5909-4d95-ba5b-6f1db647d9ed",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nam",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2495.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3746b814-3cfa-43ec-b613-3aa8e2c81257",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nam",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1561000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "fba33662-799c-4939-a338-6dfa9a5c55c1",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Nam",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 79550.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "9ee0c2f9-4f33-4798-ba21-6254cb0777c8",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nam Định",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 699995.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ec28bf7b-840b-4067-b5e1-2c63096b2a54",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nam Định",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 4086.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "7aacdaec-8aeb-4a9b-97e4-dcfad02f46c9",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nam Định",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1400000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "2b0bd266-89e7-40e7-9057-5ba64931a3a5",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nam Định",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 88933.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "eaa30107-7a5a-400b-8cab-384613c578d2",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1045000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ce644a57-ac7f-4ba4-b7a5-fbdfc82f717b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 5892.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3acf7a2e-d4ca-4667-a1de-ae43d7a23329",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1218000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "84c799cd-4205-4f4a-af30-48eb615c7d40",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 90446.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "eaa54c70-a611-4b07-87bc-8919f5696e05",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 377668.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "0ef8cd58-e0ea-4b5b-bfcd-6b91559a41da",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2350.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ebfeb2e8-04e0-44c6-9eb8-5fe3e8360e99",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 645000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "4d3a22b1-ae67-4a3e-ad34-c17146ffcc5d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Bình",
+        "region_id": "R1",
+        "region_name": "Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 51263.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ed958637-0e7a-47b9-98ca-206ed5ed094b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền núi và Trung du"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 5915238.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "b7f8eaf7-e22f-4577-b1ee-7bc6f086a78d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền núi và Trung du"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 47427.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "83dd51c1-2470-4d44-a94f-07bf02134854",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền núi và Trung du"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 7317000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "d4e13c64-38f7-4a9e-8319-d32aebfae738",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền núi và Trung du"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 288599.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "351ea81f-10b4-40f8-b593-7f406ea1b44b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 380201.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "5f968053-2608-43ec-b4b9-90c8a9d7b58b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2301.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "1cd7eaa8-a501-4502-837e-cb83a92182ea",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 366000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a4b2d306-ce6b-44c0-a103-4c146c58d8a1",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 12289.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "af1d6b31-cb5a-45b0-96d1-0a16fd9e5eec",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cao Bằng",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 308210.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "da2385cf-bb8e-49fe-9c65-121a16469fda",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cao Bằng",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1517.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "e92a337b-d5e2-43ce-85ff-b15f38b92396",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cao Bằng",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 337000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "d88d39cb-80d2-45e3-9d06-83f4e01d23bb",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cao Bằng",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 13603.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a069526c-9aac-4cb8-80d4-76afa67222d0",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Cạn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 138415.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "fac04f8f-cb77-4a90-b58b-97e91ddddeed",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Cạn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1007.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "9c70c21d-2c21-4217-a1d0-6ad19a547227",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Cạn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 172000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "d2702a5b-d273-48c3-88f8-61a4c13a5761",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Cạn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 4999.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "88696619-b7cf-436c-8e44-b6ddb0c46c4f",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tuyên Quang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 451121.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "231984a5-792b-4e11-a36e-9bcd23c84727",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tuyên Quang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3810.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "0d6c86cb-1527-413e-908e-9cd0265f6645",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tuyên Quang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 763000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a7769f2d-51b3-4003-9763-c4fc13059d59",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tuyên Quang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 49858.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "0f6a3508-de38-46b3-b320-c5e582d79a60",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lào Cai",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 377564.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a2fc3896-dc2f-4125-840f-fcd3cb479e41",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lào Cai",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2283.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c447e477-9ef6-4768-9a83-8eb898840df5",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lào Cai",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 245000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "360bdf46-28f9-4ffe-8204-8ff0acc503c8",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lào Cai",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 13675.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "0869aff7-3396-427a-ba69-1dcf7b81ec9b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Yên Bái",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 397094.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ad85092b-8c3f-4471-ac10-0f5b28c19dd3",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Yên Bái",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2392.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "9a591620-5a70-41f8-801d-037ea4c0b4f4",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Yên Bái",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 325000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "73d9a2c8-f88a-46e0-abd4-83f2a58f2b03",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Yên Bái",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 27351.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "d78f572d-d9c2-4c9d-9a85-0073aeddeba4",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Nguyên",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 547686.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "f0001acb-91de-4e65-aecb-90b11f201a14",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Nguyên",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 4575.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "236bae9c-bf89-470d-a217-9b25a3a20300",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Nguyên",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 975000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "4e5b9396-3606-42ac-9108-c443362a3c2d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thái Nguyên",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 40021.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "802bdf0d-7b43-429d-b49d-6e2aa306ca02",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lạng Sơn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 335005.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "1162db1c-6dab-468e-97b5-73b0bf3fc02d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lạng Sơn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2743.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "f311340d-bf28-43b5-90e8-8e69a1a63bdf",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lạng Sơn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 527000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "620acab0-4246-4028-83fb-d79f1abbb409",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lạng Sơn",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 12154.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ffe39fd0-4437-4d64-89f0-f71e4751875a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1029626.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "6264abf7-c3eb-4f17-95b6-a8f66fab502b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 10970.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "302a78d3-474c-4c01-9751-bea2712d4eff",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1208000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "cb8aa14d-38fa-46dd-a224-f959be177ca8",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bắc Giang",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 11740.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "b6d0d3cd-4798-46c8-aad2-e3b138152384",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Thọ",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 626274.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3ea636e1-6e56-4a24-9158-23a67138ad3f",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Thọ",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 7434.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "f9af4e9c-d2e8-41e0-8177-49e79c625ca0",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Thọ",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 897000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "4bae4876-306a-4b1e-b2cb-345e65090645",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Thọ",
+        "region_id": "R2",
+        "region_name": "Đông Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 48579.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "dc28650e-8308-4264-90f4-d6830e9bff34",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 261515.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "dd695b2c-1cf3-45a7-8603-740fb54332af",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1366.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "771733a8-14a7-42df-a725-a13c4f75c9e1",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 462000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "cc09f955-d282-44b2-8174-c834c5f6193e",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Điện Biên",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 9880.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "4b443f8c-8d4b-40cf-be48-8f59cc55294c",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lai Châu",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 189262.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3a8f53f7-f442-400b-9f11-3daa194a5173",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lai Châu",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 674.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "0065e551-6a9a-4ecb-bb56-37aaf4a3e977",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lai Châu",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 231000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "99e5f8d0-da36-400c-b603-db71f805ccb5",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lai Châu",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3309.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "e1ecabac-a2ad-489c-8ade-e8df0559262c",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sơn La",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 449568.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "5d5695b1-e792-4152-a5bf-509a6ededac9",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sơn La",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3689.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "5d898536-2d48-44b7-928f-20404349b718",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sơn La",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 418000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "0bcccfb7-7e11-4593-8b81-f4ee75acc8fe",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sơn La",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 19599.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "30ab3554-1057-43cb-a4b8-6ee3cf56ec2e",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hoà Bình",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 423697.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "3f190eae-d548-48a1-971e-301a523684f6",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hoà Bình",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2666.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c486bac7-5807-44be-ba20-252be2e6b2dc",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hoà Bình",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 391000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "ff6ceead-2695-41b0-bf19-a27d0a4fb1e9",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hoà Bình",
+        "region_id": "R3",
+        "region_name": "Tây Bắc"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 21542.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "5eafa0c0-c7d0-43ed-bfad-ec24fc215888",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Bắc Trung Bộ & DHMT"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 5802565.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "469ae061-76e8-4738-8b03-1503d4133250",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Bắc Trung Bộ & DHMT"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 41343.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "54f29e0c-f74a-4b09-9fa0-1e0e0e2649a6",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Bắc Trung Bộ & DHMT"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 15197000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "6d343211-d5b8-4f26-90c2-da01138a2107",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Bắc Trung Bộ & DHMT"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 510248.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "da306b9c-3d75-4e1b-b99a-36bda3ee283b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thanh Hoá",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 992706.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "877d4839-03dd-45b6-90cb-70961b2e35df",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thanh Hoá",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 9893.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c7f1d657-b108-48b5-95c6-700a531160b6",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thanh Hoá",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 3890000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "600ef1bd-e1cc-46d8-bb68-5abff20f974c",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thanh Hoá",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 18095.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "51ce5001-b57f-4f37-a57f-586574215fca",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nghệ An",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1192087.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "41b778fe-63c4-4d5a-a007-f6f66cb3181a",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nghệ An",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 11524.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "eaceba7f-9930-4b29-96e8-21908113e99b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nghệ An",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 2112000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "830aa4d6-4748-47d0-b900-752f1a25303b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Nghệ An",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 114406.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "7165a105-7d80-49a3-8c0e-8dd015feb7de",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Tĩnh",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 373528.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a271b70f-a371-4f8c-bda9-ed309e3e9081",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Tĩnh",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3824.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "9dcf6f09-6710-45b5-8885-88f3165021af",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Tĩnh",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 922000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "da4bc2e9-e489-464e-b13b-e153f2759541",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hà Tĩnh",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 76715.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c98e787e-66bf-4c2d-aa4e-8fb3e330c565",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Bình",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 376168.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "44c8ea82-1b32-43d4-a01a-73995b7170a0",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Bình",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1674.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "608424b7-1498-40cf-ae22-6e58193b0c79",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Bình",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 595000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "80a81cda-3e42-4c59-bab6-bb57a2cb938f",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Bình",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 24767.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "c47cffc3-703b-4b71-b581-6e6f6e7ee5ac",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 231969.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "55b68571-a39c-4412-b026-89cee87329c8",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1029.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "f8b316a5-c882-4a53-bc0e-c2c0f4d4cfce",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 375000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "42d7c857-7533-47c2-8176-3351ef75a723",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Trị",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3477.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "85f7a42d-3be6-4534-b873-b4eaa00e2caa",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thừa Thiên Huế",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 238972.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "35d34d90-d6a8-49eb-8eaa-77d60907dd9f",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thừa Thiên Huế",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1134.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "e9e9007c-4801-4693-b02c-68a0496485b2",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thừa Thiên Huế",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 626000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "6725a545-ea7e-4566-a186-ff14c5962d98",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Thừa Thiên Huế",
+        "region_id": "R4",
+        "region_name": "Bắc Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 12275.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "7f254c60-be55-43e0-abe8-c18887a2b4b6",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 67788.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "a2ea2eeb-d704-4b6b-90a6-6e45367ec383",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 375.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "01267ff1-dc3e-4042-8ac7-520e72ec63f6",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 84000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "86909832-427d-453e-aaf7-12be2dfd4e71",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2510.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "035eb078-b3c2-4d34-8e7d-31b5fdacf5a0",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 589072.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "9972170b-51e4-41ba-ab63-4a70a5e9bdf3",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2677.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "539c6142-152c-4042-9f5e-e615624a8dc3",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 630000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "63e60c16-4c72-447d-9f8a-4e3bb884802b",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 12147.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "2c256b27-a5b1-4c30-9286-79f1e909966f",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 512456.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "94fea1f4-feaa-49eb-8386-7fd7cdc93902",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2149.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "bcdb9e38-d494-40ec-a164-11bc4cc3364e",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 709000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "7ee58d0c-b716-4a36-b2e0-ad3c19da8901",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 28568.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "dfcd446d-5f40-4a2d-a8c7-9ee81b2a2d50",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 664817.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "2d636134-3125-4619-9b21-6d7a80cfe99d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Lợn",
+        "sub_item": "Thịt hơi xuất chuồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2966.0,
+        "unit": "ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "60746475-517c-46f9-8284-1e64c93301c7",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Tổng số"
+      },
+      "metric_context": {
+        "attribute": "Head_Count",
+        "value": 1861000.0,
+        "unit": "head",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    },
+    {
+      "record_id": "084189e1-a293-425c-b399-e4cb59a0a4ee",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Point_In_Time",
+        "report_date": "2009-04-01"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Livestock",
+        "commodity": "Gia cầm",
+        "sub_item": "Sản lượng trứng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 118521.0,
+        "unit": "1000_eggs",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 6,
+        "appendix_number": "PL6a",
+        "source_file": "2009_06_PHULUC_T06_2009_PL5.md"
+      }
+    }
+  ]
+}

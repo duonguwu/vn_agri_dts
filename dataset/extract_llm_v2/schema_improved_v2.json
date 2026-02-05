@@ -22,20 +22,35 @@
       "report_date": {
         "type": "string",
         "format": "YYYY-MM-DD",
-        "description": "Ngày chốt số liệu trong báo cáo",
-        "required": true
+        "description": "Ngày chốt số liệu trong báo cáo (ví dụ: 15/02/2009)",
+        "required": false
       },
       "period_type": {
         "type": "string",
-        "enum": ["Monthly", "Seasonal", "Yearly", "Cumulative"],
-        "description": "Loại kỳ báo cáo",
+        "enum": [
+          "Monthly",
+          "Cumulative",
+          "YTD",
+          "Seasonal",
+          "Annual",
+          "Point_In_Time",
+          "Event",
+          "Yearly"
+        ],
+        "description": "Loại kỳ báo cáo: Tháng, Lũy kế, Đầu năm đến nay, Theo vụ",
         "required": false
       }
     },
     "geo_context": {
       "geo_level": {
         "type": "string",
-        "enum": ["National", "Regional", "Provincial"],
+        "enum": [
+          "National",
+          "Regional",
+          "Provincial",
+          "International",
+          "Country"
+        ],
         "required": true
       },
       "location_name": {
@@ -63,10 +78,14 @@
           "Fishery",
           "Forestry",
           "Trade",
-          "Pest",
           "Investment",
           "Compliance",
-          "Sugar_Production"
+          "Sugar_Production",
+          "Industrial_Processing",
+          "Industry",
+          "Salt",
+          "Metadata",
+          "Pest"
         ],
         "required": true
       },
@@ -87,7 +106,11 @@
       },
       "processing_level": {
         "type": "string",
-        "enum": ["Raw", "Processed", "Semi_Processed"],
+        "enum": [
+          "Raw",
+          "Processed",
+          "Semi_Processed"
+        ],
         "description": "Mức độ chế biến",
         "required": false,
         "default": "Raw"
@@ -109,11 +132,37 @@
           "Headcount",
           "Price",
           "Investment_Amount",
-          "Percentage",
+          "percent",
           "Forest_Area_Planted",
           "Forest_Area_Protected",
           "Wood_Volume",
-          "Other"
+          "Other",
+          "Investment_Value",
+          "Forest_Area_Cared",
+          "Head_Count",
+          "Area_Maintained",
+          "Trees_Planted",
+          "Area_Regenerated",
+          "Area_Protected",
+          "Area_Damaged",
+          "Inventory",
+          "Draft_Power",
+          "Area_Tended",
+          "Value",
+          "Volume",
+          "Output",
+          "Area",
+          "Has_Report",
+          "Area_Infected",
+          "Forest_Area",
+          "Input_Volume",
+          "Output_Volume",
+          "Area_Flowering",
+          "Area_Production",
+          "Area_Cared",
+          "Meat_Production",
+          "HeadCount",
+          "Area_Care"
         ],
         "description": "Tên chỉ tiêu",
         "required": true
@@ -126,28 +175,44 @@
       "unit": {
         "type": "string",
         "enum": [
-          "ha",
-          "1000_ha",
-          "ton",
-          "1000_ton",
-          "ton_per_ha",
-          "1000_heads",
-          "USD",
-          "million_USD",
-          "VND",
-          "VND_per_kg",
-          "percent",
-          "m3",
-          "1000_m3",
+          "million_VND",
+          "head",
+          "1000_eggs",
+          "1000_USD",
           "million_trees",
-          "million_VND"
+          "1000_m3",
+          "1000_ton",
+          "million_USD",
+          "quintal_per_ha",
+          "1000_ha",
+          "1000_ton",
+          "million_trees",
+          "million_tree",
+          "million_USD",
+          "ton",
+          "ha",
+          "percent",
+          "1000_m3",
+          "Yield",
+          "Has_Report",
+          "percent",
+          "Con",
+          "ton_per_ha",
+          "binary",
+          "billion_VND"
         ],
         "description": "Đơn vị",
         "required": true
       },
       "data_type": {
         "type": "string",
-        "enum": ["Actual", "Plan", "Cumulative", "Estimated"],
+        "enum": [
+          "Actual",
+          "Plan",
+          "Cumulative",
+          "Estimated",
+          "Estimate"
+        ],
         "description": "Số thực hiện, kế hoạch, lũy kế hay ước tính",
         "required": true
       }
@@ -155,7 +220,13 @@
     "comparison_context": {
       "comparison_type": {
         "type": "string",
-        "enum": ["None", "YoY", "MoM", "vs_Plan", "vs_Previous_Period"],
+        "enum": [
+          "None",
+          "YoY",
+          "MoM",
+          "vs_Plan",
+          "vs_Previous_Period"
+        ],
         "description": "Loại so sánh",
         "required": false,
         "default": "None"
@@ -185,67 +256,31 @@
         "type": "string",
         "description": "Số phụ lục (PL1, PL2, ...)",
         "required": true
-      },
-      "appendix_title": {
-        "type": "string",
-        "description": "Tiêu đề phụ lục",
-        "required": false
-      },
-      "table_index": {
-        "type": "integer",
-        "description": "Thứ tự bảng trong file gốc",
-        "required": true
-      },
-      "row_number": {
-        "type": "integer",
-        "description": "Số dòng trong bảng gốc",
-        "required": false
-      },
-      "extraction_method": {
-        "type": "string",
-        "enum": ["Table_Parsing", "Text_NER", "LLM_Extraction", "Manual"],
-        "required": true
-      },
-      "extraction_confidence": {
-        "type": "float",
-        "constraint": "0.0-1.0",
-        "description": "Độ tin cậy của extraction (0-1)",
-        "required": false
-      },
-      "notes": {
-        "type": "string",
-        "description": "Ghi chú bổ sung",
-        "required": false
-      }
-    },
-    "data_quality": {
-      "is_aggregated": {
-        "type": "boolean",
-        "description": "Dữ liệu có phải là tổng hợp không",
-        "required": false,
-        "default": false
-      },
-      "has_missing_values": {
-        "type": "boolean",
-        "description": "Có giá trị bị thiếu không",
-        "required": false,
-        "default": false
-      },
-      "data_status": {
-        "type": "string",
-        "enum": ["Complete", "Partial", "Missing", "Estimated"],
-        "description": "Trạng thái dữ liệu",
-        "required": false,
-        "default": "Complete"
       }
     }
   },
   "validation_rules": {
-    "unique_keys": ["year", "month", "location_name", "sector", "commodity", "attribute", "data_type"],
+    "unique_keys": [
+      "year",
+      "month",
+      "location_name",
+      "sector",
+      "commodity",
+      "attribute",
+      "data_type"
+    ],
     "required_combinations": {
-      "cultivation": ["commodity", "attribute"],
-      "trade": ["commodity", "attribute"],
-      "investment": ["attribute"]
+      "cultivation": [
+        "commodity",
+        "attribute"
+      ],
+      "trade": [
+        "commodity",
+        "attribute"
+      ],
+      "investment": [
+        "attribute"
+      ]
     }
   },
   "notes": [

@@ -1,0 +1,5440 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 2,
+    "appendix_number": "PL3",
+    "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL3.md",
+    "extraction_timestamp": "2026-02-04T22:07:50.852475",
+    "estimated_tokens": 7024,
+    "attempts": 1
+  },
+  "records": [
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e01",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1840.325,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e02",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 286.48,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e03",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 15.6,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 1840.325
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e04",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 92.542,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e05",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 51.207,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e06",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 6.664,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e07",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 30.394,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e08",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây có củ khác"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.277,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 1,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e09",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 167.195,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e10",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 25.153,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e11",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 12.065,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e12",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.244,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e13",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Duyên hải Nam Trung Bộ",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 8.844,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 2,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e14",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.992,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e15",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.575,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e16",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.362,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e17",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.143,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e18",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đà Nẵng",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.07,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e19",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 40.8,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e20",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.7,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e21",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.7,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e22",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 36.243,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e23",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.701,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e24",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.46,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e25",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.241,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e26",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 46.898,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e27",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 9.693,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e28",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.797,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e29",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7.896,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e30",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 25.641,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e31",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.384,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e32",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.346,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e33",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.16,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e34",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.878,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e35",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hòa",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 13.621,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e36",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hòa",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.4,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e37",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hòa",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.4,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e38",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 66.363,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e39",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 15.177,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e40",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 9.787,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e41",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.469,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e42",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.921,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e43",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kon Tum",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 6.775,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e44",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kon Tum",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.398,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e45",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kon Tum",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.398,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e46",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 22.972,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e47",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 8.124,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e48",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.958,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e49",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.245,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e50",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.921,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e51",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 23.435,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e52",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.16,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e53",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Lắk",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.57,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e54",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Nông",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.539,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e55",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Nông",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.231,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e56",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Nông",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.577,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e57",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắk Nông",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.654,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e58",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lâm Đồng",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 9.642,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e59",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lâm Đồng",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.694,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e60",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lâm Đồng",
+        "region_id": "R6",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.694,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e61",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 98.234,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e62",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 40.007,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e63",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 18.902,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e64",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.001,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e65",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 16.827,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e66",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây có củ khác"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.277,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e67",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hồ Chí Minh"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5.987,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e68",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hồ Chí Minh"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.029,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e69",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hồ Chí Minh"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.029,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e70",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 11.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e71",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.3,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e72",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.3,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e73",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 18,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e74",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 40.517,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 19,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e75",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20.457,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 19,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e76",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.744,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 19,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e77",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 15.713,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 19,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e78",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.529,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 20,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e79",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5.534,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 20,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e80",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.142,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 20,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e81",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.001,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 20,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e82",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.114,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 20,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e83",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây có củ khác"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 4.277,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 20,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e84",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 10.1,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 21,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e85",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 7.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 21,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e86",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 20.001,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 22,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e87",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2.69,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 22,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e88",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 5.1,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 23,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e89",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.997,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 23,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e90",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa - Vũng Tàu",
+        "region_id": "R7",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.997,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 23,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e91",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1508.533,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e92",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 286.48,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e93",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 19.0,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 1508.533
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e94",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 12.205,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e95",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 10.453,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e96",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.95,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e97",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.802,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 24,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e98",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 245.962,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 25,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e99",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 66.008,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 25,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e100",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 26.8,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 245.962
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 25,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e101",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.049,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 25,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e102",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 3.049,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 25,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e103",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 207.347,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 26,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e104",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 20.564,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 26,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e105",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 9.9,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 207.347
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 26,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e106",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.218,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 26,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e107",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.11,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 26,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e108",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.108,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 26,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e109",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 234.228,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 27,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e110",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 0.0,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 234.228
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 27,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e111",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.7,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 27,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e112",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.7,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 27,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e113",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 81.457,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 28,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e114",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 10.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 28,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e115",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 12.3,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 81.457
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 28,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e116",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1.972,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 28,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e117",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.012,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 28,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e118",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.178,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 28,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e119",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 67.937,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 29,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e120",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 25.417,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 29,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e121",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 37.4,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 67.937
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 29,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e122",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.31,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 29,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e123",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.22,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 29,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e124",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.09,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 29,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e125",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 21.103,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 30,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e126",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 0.043,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 30,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e127",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 0.2,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 21.103
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 30,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e128",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.48,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 30,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e129",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.38,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 30,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e130",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.1,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 30,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e131",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 277.144,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 31,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e132",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 58.08,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 31,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e133",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 21.0,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 277.144
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 31,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e134",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 31,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e135",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 90.044,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 32,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e136",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 3.884,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 32,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e137",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 4.3,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 90.044
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 32,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e138",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.147,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 32,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e139",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.147,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 32,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e140",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 81.171,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 33,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e141",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 7.808,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 33,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e142",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 9.6,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 81.171
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 33,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e143",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.271,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 33,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e144",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 21.34,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 34,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e145",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 2.8,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 34,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e146",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "percent",
+        "value": 13.1,
+        "unit": "percent",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Area_Planted",
+        "base_value": 21.34
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 34,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e147",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.918,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 34,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e148",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.66,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 34,
+        "extraction_method": "LLM_Extraction"
+      }
+    },
+    {
+      "record_id": "a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e149",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 0.137,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "None"
+      },
+      "metadata": {
+        "source_file": "agricultural_report_2009_02.md",
+        "appendix_number": "PL4",
+        "appendix_title": "CÁC TỈNH MIỀN NAM GIEO CẤY LÚA ĐÔNG XUÂN VÀ TRỒNG MÀU LƯƠNG THỰC",
+        "table_index": 1,
+        "row_number": 34,
+        "extraction_method": "LLM_Extraction"
+      }
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 2,
+    "appendix_number": "PL1",
+    "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+    "extraction_timestamp": "2026-02-04T22:03:54.844602",
+    "estimated_tokens": 6905,
+    "attempts": 1
+  },
+  "records": [
+    {
+      "record_id": "a0e1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 2773.9,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 127.2,
+        "base_period": "2008-02-15",
+        "base_value": 2180.5
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 3,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844552"
+      }
+    },
+    {
+      "record_id": "b1c2d3e4-f5a6-7b8c-9d0e-1f2a3b4c5d6e",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Bắc",
+        "region_id": "NORTH",
+        "region_name": "Miền Bắc"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 933.6,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 220.1,
+        "base_period": "2008-02-15",
+        "base_value": 424.2
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 4,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844562"
+      }
+    },
+    {
+      "record_id": "c2d3e4f5-a6b7-8c9d-0e1f-2a3b4c5d6e7f",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Vùng Đồng bằng sông Hồng"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 447.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 536.0,
+        "base_period": "2008-02-15",
+        "base_value": 83.4
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 5,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844566"
+      }
+    },
+    {
+      "record_id": "d3e4f5a6-b7c8-9d0e-1f2a-3b4c5d6e7f8a",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Vùng Duyên hải Bắc Trung bộ"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 321.2,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 118.7,
+        "base_period": "2008-02-15",
+        "base_value": 270.5
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 6,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844569"
+      }
+    },
+    {
+      "record_id": "e4f5a6b7-c8d9-0e1f-2a3b-4c5d6e7f8a9b",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1840.3,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 104.8,
+        "base_period": "2008-02-15",
+        "base_value": 1756.5
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 7,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844571"
+      }
+    },
+    {
+      "record_id": "f5a6b7c8-d9e0-1f2a-3b4c-5d6e7f8a9b0c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 1508.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 103.6,
+        "base_period": "2008-02-15",
+        "base_value": 1456.6
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 8,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844573"
+      }
+    },
+    {
+      "record_id": "a6b7c8d9-e0f1-2a3b-4c5d-6e7f8a9b0c1d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 286.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 111.6,
+        "base_period": "2008-02-15",
+        "base_value": 256.7
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844576"
+      }
+    },
+    {
+      "record_id": "b7c8d9e0-f1a2-3b4c-5d6e-7f8a9b0c1d2e",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 286.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 13.9,
+        "base_period": "DTGC"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 9,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844578"
+      }
+    },
+    {
+      "record_id": "c8d9e0f1-a2b3-4c5d-6e7f-8a9b0c1d2e3f",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 286.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 111.7,
+        "base_period": "2008-02-15",
+        "base_value": 256.4
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844580"
+      }
+    },
+    {
+      "record_id": "d9e0f1a2-b3c4-5d6e-7f8a-9b0c1d2e3f4a",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Đồng bằng sông Cửu Long",
+        "region_id": "R8",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lúa",
+        "sub_item": "Đông Xuân"
+      },
+      "metric_context": {
+        "attribute": "Area_Harvested",
+        "value": 286.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "vs_Plan",
+        "comparison_value": 17.0,
+        "base_period": "DTGC"
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 10,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844582"
+      }
+    },
+    {
+      "record_id": "e0f1a2b3-c4d5-6e7f-8a9b-0c1d2e3f4a5b",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây màu lương thực"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 368.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 92.6,
+        "base_period": "2008-02-15",
+        "base_value": 398.0
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 11,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844584"
+      }
+    },
+    {
+      "record_id": "f1a2b3c4-d5e6-7f8a-9b0c-1d2e3f4a5b6c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Ngô"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 248.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 92.9,
+        "base_period": "2008-02-15",
+        "base_value": 267.6
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 12,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844587"
+      }
+    },
+    {
+      "record_id": "a2b3c4d5-e6f7-8a9b-0c1d-2e3f4a5b6c7d",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Khoai lang"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 65.2,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 82.0,
+        "base_period": "2008-02-15",
+        "base_value": 79.5
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 13,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844589"
+      }
+    },
+    {
+      "record_id": "b3c4d5e6-f7a8-9b0c-1d2e-3f4a5b6c7d8e",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Sắn"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 54.4,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 108.5,
+        "base_period": "2008-02-15",
+        "base_value": 50.2
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 14,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844591"
+      }
+    },
+    {
+      "record_id": "c4d5e6f7-a8b9-0c1d-2e3f-4a5b6c7d8e9f",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Cây công nghiệp ngắn ngày"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 233.4,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 129.5,
+        "base_period": "2008-02-15",
+        "base_value": 180.3
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 15,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844593"
+      }
+    },
+    {
+      "record_id": "d5e6f7a8-b9c0-1d2e-3f4a-5b6c7d8e9f0a",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Đậu tương"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 71.6,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 95.9,
+        "base_period": "2008-02-15",
+        "base_value": 74.7
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 16,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844595"
+      }
+    },
+    {
+      "record_id": "e6f7a8b9-c0d1-2e3f-4a5b-6c7d8e9f0a1b",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Lạc"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 110.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 138.6,
+        "base_period": "2008-02-15",
+        "base_value": 79.7
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 17,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844597"
+      }
+    },
+    {
+      "record_id": "f7a8b9c0-d1e2-3f4a-5b6c-7d8e9f0a1b2c",
+      "time_context": {
+        "year": 2009,
+        "month": 2,
+        "report_date": "2009-02-15",
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Cultivation",
+        "commodity": "Rau, đậu các loại"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 302.5,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 98.6,
+        "base_period": "2008-02-15",
+        "base_value": 306.7
+      },
+      "metadata": {
+        "source_file": "2009_02_PHULUC_t02_2009_FINAL_PL1.md",
+        "appendix_number": "PL1",
+        "appendix_title": "TỔNG HỢP KẾT QUẢ SẢN XUẤT NÔNG NGHIỆP",
+        "table_index": 1,
+        "row_number": 18,
+        "extraction_method": "LLM_Extraction",
+        "extraction_confidence": 0.9,
+        "extraction_timestamp": "2026-02-04T22:03:54.844600"
+      }
+    }
+  ]
+}

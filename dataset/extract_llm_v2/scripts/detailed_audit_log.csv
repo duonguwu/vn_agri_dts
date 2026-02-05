@@ -1,0 +1,717 @@
+﻿year,month,location_name,sector,commodity,attribute,source_file,appendix_number,error_type,error_detail,impacted_value,record_id
+2009,2,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2009_02.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(321.203), np.float64(321.2)]",321.203,c0d1e2f3-a4b5-6c7d-8e9f-0a1b2c3d4e5b
+2009,2,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(321.203), np.float64(321.2)]",321.2,2a79cd65-6bb2-4fca-a598-6b236ba67b7e
+2009,2,Cả nước,Trade,D A P,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(41.0), np.float64(50.0)]",41.0,6198b2f4-232e-4e83-bf11-e31a7c646060
+2009,2,Cả nước,Trade,D A P,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(41.0), np.float64(50.0)]",50.0,b19267c0-aa98-4705-948f-5d8bbfe7b9c3
+2009,2,Cả nước,Trade,D A P,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(111.0), np.float64(134.0)]",111.0,08a694fa-ff25-4c72-895b-5e6c73fc1e0a
+2009,2,Cả nước,Trade,D A P,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(111.0), np.float64(134.0)]",134.0,45918f0c-f99f-49e3-8a6e-986963e1577a
+2009,2,Cả nước,Trade,N P K,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(9.0), np.float64(13.0)]",9.0,2d4b5359-a6bf-4002-a395-6930f1c89870
+2009,2,Cả nước,Trade,N P K,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(9.0), np.float64(13.0)]",13.0,21807aa1-ee33-44dc-92e7-c6594fa937f7
+2009,2,Cả nước,Trade,N P K,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(24.0), np.float64(34.0)]",24.0,23bb22aa-2cb1-473c-978f-5ca978a68541
+2009,2,Cả nước,Trade,N P K,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(24.0), np.float64(34.0)]",34.0,d42b6e08-3b02-48a0-a9c9-8e58e31d8d72
+2009,2,Cả nước,Trade,Phân bón các loại khác,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(7.0), np.float64(8.0)]",7.0,69ee7a75-3763-4514-867e-26fa3eddf994
+2009,2,Cả nước,Trade,Phân bón các loại khác,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(7.0), np.float64(8.0)]",8.0,b9df0bb8-517a-4a4b-a5bc-0aeee3574194
+2009,2,Cả nước,Trade,Phân bón các loại khác,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(12.0), np.float64(14.0)]",12.0,696b9de4-2be7-49e7-8cbc-df144d472991
+2009,2,Cả nước,Trade,Phân bón các loại khác,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(12.0), np.float64(14.0)]",14.0,8020397f-caaa-4801-ac04-0adb67739167
+2009,2,Cả nước,Trade,S A,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(6.0), np.float64(8.0)]",6.0,c92dd6fe-2af0-4a0b-ba39-cea55ee593a0
+2009,2,Cả nước,Trade,S A,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(6.0), np.float64(8.0)]",8.0,a97453ae-465f-4eff-bf41-086d6b9daf9b
+2009,2,Cả nước,Trade,S A,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(51.0), np.float64(72.0)]",51.0,3cffc72c-520a-4374-85c5-5472b58a8a4d
+2009,2,Cả nước,Trade,S A,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(51.0), np.float64(72.0)]",72.0,480fd865-fedf-417f-8702-0528e92b39aa
+2009,2,Cả nước,Trade,U RE,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(22.0), np.float64(37.0)]",22.0,292bc5b9-bdae-4273-a700-1382b63b73fd
+2009,2,Cả nước,Trade,U RE,Import_Value,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(22.0), np.float64(37.0)]",37.0,9617d7ff-8c9e-4fb0-b376-f07f4cac09f6
+2009,2,Cả nước,Trade,U RE,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(76.0), np.float64(128.0)]",76.0,7d24a348-3f08-42bb-8422-597e80c16719
+2009,2,Cả nước,Trade,U RE,Import_Volume,2009_02_PHULUC_t02_2009_FINAL_PL8.md,PL8,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(76.0), np.float64(128.0)]",128.0,7f3351bc-e4c3-4a8b-85f3-f633e42bf3eb
+2009,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(933.6), np.float64(933.587)]",933.6,b1c2d3e4-f5a6-7b8c-9d0e-1f2a3b4c5d6e
+2009,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_02.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(933.6), np.float64(933.587)]",933.587,a0e1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c
+2009,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(933.6), np.float64(933.587)]",933.6,524404f0-4db4-4ec3-92d2-665fdd450303
+2009,2,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.5,a6b7c8d9-e0f1-2a3b-4c5d-6e7f8a9b0c1d
+2009,2,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.5,b7c8d9e0-f1a2-3b4c-5d6e-7f8a9b0c1d2e
+2009,2,Miền Nam,Cultivation,Lúa,Area_Harvested,agricultural_report_2009_02.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.48,a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e02
+2009,2,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.5,6a586043-47b4-4887-badc-06781826d56a
+2009,2,Miền Nam,Cultivation,Lúa,Area_Planted,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1840.3), np.float64(1840.325)]",1840.3,e4f5a6b7-c8d9-0e1f-2a3b-4c5d6e7f8a9b
+2009,2,Miền Nam,Cultivation,Lúa,Area_Planted,agricultural_report_2009_02.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1840.3), np.float64(1840.325)]",1840.325,a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e01
+2009,2,Miền Nam,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1840.3), np.float64(1840.325)]",1840.3,2a454d3e-7f30-43b1-bb29-9b7ce12e98e8
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.5,c8d9e0f1-a2b3-4c5d-6e7f-8a9b0c1d2e3f
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.5,d9e0f1a2-b3c4-5d6e-7f8a-9b0c1d2e3f4a
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,agricultural_report_2009_02.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.48,a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e92
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(286.5), np.float64(286.48)]",286.5,77927459-ae89-4cff-a118-8ec9198e5267
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2009_02_PHULUC_t02_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1508.5), np.float64(1508.533)]",1508.5,f5a6b7c8-d9e0-1f2a-3b4c-5d6e7f8a9b0c
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,agricultural_report_2009_02.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1508.5), np.float64(1508.533)]",1508.533,a0e0e0e0-e0e0-4e0e-8e0e-0e0e0e0e0e91
+2009,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1508.5), np.float64(1508.533)]",1508.5,2fcf37ae-9499-4197-b96a-bc426f61de0a
+2009,2,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2009_02.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(446.99), np.float64(447.0)]",446.99,b7c8d9e0-f1a2-3b4c-5d6e-7f8a9b0c1d2e
+2009,2,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(446.99), np.float64(447.0)]",447.0,aeef0c3a-5ea7-4b23-99d6-40b190f2dbc0
+2009,3,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_03_PHULUC_T03_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1097.6), np.float64(1097.635)]",1097.6,08eab09f-0d40-4093-8c1c-025dd84ac00f
+2009,3,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_03_PHULUC_T03_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1097.6), np.float64(1097.635)]",1097.635,2c7d00f3-04be-4328-8373-6d99f2ce290d
+2009,3,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_03_PHULUC_T03_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(796.2), np.float64(796.171)]",796.2,4ce61078-887f-40d1-a3ca-c6313253e064
+2009,3,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_03_PHULUC_T03_2009_FINAL_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(796.2), np.float64(796.171)]",796.171,6627164d-13f0-463c-abf8-53aab52d1d65
+2009,3,Miền Nam,Cultivation,Lúa,Area_Planted,2009_03_PHULUC_T03_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1883.4), np.float64(1883.381)]",1883.4,d1246b50-c502-4ac6-9129-31fb66b79c7c
+2009,3,Miền Nam,Cultivation,Lúa,Area_Planted,2009_03_PHULUC_T03_2009_FINAL_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1883.4), np.float64(1883.381)]",1883.381,f186877d-b8c5-4630-b64f-57ce4539726d
+2009,3,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2009_03_PHULUC_T03_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(553.6), np.float64(553.631)]",553.6,20bf6421-19a7-4594-af2c-a49f0dcdf01e
+2009,3,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2009_03_PHULUC_T03_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(553.6), np.float64(553.631)]",553.631,d02bba8a-2487-4a60-999e-38636791199e
+2009,4,Miền Nam,Cultivation,Lúa,Area_Planted,2009_04_PHULUC_T04_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(441.2), np.float64(441.221)]",441.2,42510171-430a-40ad-9479-b3fcd7e17558
+2009,4,Miền Nam,Cultivation,Lúa,Area_Planted,2009_04_PHULUC_T04_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(441.2), np.float64(441.221)]",441.221,8abae20b-b74b-411f-8929-02b3e85d0117
+2009,4,Miền Nam,Cultivation,Lúa,Area_Planted,2010_04_Phuluc_T04_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(441.2), np.float64(441.221)]",441.2,78324b16-aafa-4237-8d6e-17e1b364475f
+2009,4,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_04_PHULUC_T04_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1653.2), np.float64(1653.19)]",1653.2,38b7b18f-9639-4982-a25b-7d6a428fb80b
+2009,4,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_04_PHULUC_T04_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1653.2), np.float64(1653.19)]",1653.19,2d561467-a033-4f16-9ca0-7b7a914b6e73
+2009,4,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_04_Phuluc_T04_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1653.2), np.float64(1653.19)]",1653.2,c619ab1b-50c9-463a-bd69-4b7bf7c8e5e9
+2009,4,Thái Bình,Cultivation,Màu lương thực,Area_Planted,2009_04_PHULUC_T04_2009_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1.0), np.float64(10.505)]",1.0,edee82fa-bb28-40b0-a664-526be1838c87
+2009,4,Thái Bình,Cultivation,Màu lương thực,Area_Planted,2009_04_PHULUC_T04_2009_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1.0), np.float64(10.505)]",10.505,e395ee1f-feeb-49dd-ba25-1a042739d92d
+2009,5,Miền Nam,Cultivation,Lúa,Area_Planted,2009_05_PHULUC_T05_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1344.6), np.float64(1344.584)]",1344.6,18d416e7-05bf-40b5-bfd7-7ee2bc9620b7
+2009,5,Miền Nam,Cultivation,Lúa,Area_Planted,2009_05_PHULUC_T05_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1344.6), np.float64(1344.584)]",1344.584,70d34dad-54c9-4388-a012-f5576922d43c
+2009,5,Miền Nam,Cultivation,Lúa,Area_Planted,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1344.6), np.float64(1344.584)]",1344.6,eb047abb-092f-402c-8943-370183bd411e
+2009,5,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_05_PHULUC_T05_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1844.1), np.float64(1844.115)]",1844.1,a4ddba06-f733-4d8c-85e7-1a94eda51605
+2009,5,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_05_PHULUC_T05_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1844.1), np.float64(1844.115)]",1844.115,dbc55c40-b660-4715-a7ca-57b7db931418
+2009,5,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1844.1), np.float64(1844.115)]",1844.1,c5576e01-53dd-45c4-8a36-f2187f2419e4
+2009,5,Tây Nguyên,Cultivation,Lúa,Area_Harvested,2009_05_PHULUC_T05_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(50.7), np.float64(50.721)]",50.7,6ea6cc20-e920-497d-a1fc-8ce360556dc7
+2009,5,Tây Nguyên,Cultivation,Lúa,Area_Harvested,2009_05_PHULUC_T05_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(50.7), np.float64(50.721)]",50.721,454d7139-dab3-4b51-a182-6211177d934e
+2009,5,Tây Nguyên,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(50.7), np.float64(50.721)]",50.7,d6047555-dee5-41d0-9d06-cc6837b1ad45
+2009,5,Đông Nam Bộ,Cultivation,Lúa,Area_Harvested,2009_05_PHULUC_T05_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(89.918), np.float64(89.9)]",89.918,ee888a74-5cb0-423a-8f8a-d03fed9d0293
+2009,5,Đông Nam Bộ,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(89.918), np.float64(89.9)]",89.9,c595179b-af78-4522-9bf1-b98448e97056
+2009,6,Miền Nam,Cultivation,Lúa,Area_Planted,2009_06_PHULUC_T06_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1887.2), np.float64(1887.17)]",1887.2,94360eeb-73fc-44e0-b96d-d0d57610bcb8
+2009,6,Miền Nam,Cultivation,Lúa,Area_Planted,2009_06_PHULUC_T06_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1887.2), np.float64(1887.17)]",1887.17,f0b7097a-2dcb-458f-944e-e59039488f1a
+2009,6,Miền Nam,Cultivation,Lúa,Area_Planted,2010_06_Phuluc_06_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1887.2), np.float64(1887.17)]",1887.2,1e4e1e31-5647-4797-b4b9-2761ea219c71
+2009,7,Cả nước,Cultivation,Lúa,Area_Planted,2009_07_PHULUC_T07_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1140.7), np.float64(450.4), np.float64(212.9)]",1140.7,687fcdc2-5bf8-41c6-972f-bba6e65304c1
+2009,7,Cả nước,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1140.7), np.float64(450.4), np.float64(212.9)]",1140.7,f73f4e1a-997f-420e-87d2-030a061888de
+2009,7,Cả nước,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1140.7), np.float64(450.4), np.float64(212.9)]",450.4,da06fc79-9f6f-44ec-a9f7-1992515b8dd5
+2009,7,Cả nước,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1140.7), np.float64(450.4), np.float64(212.9)]",212.9,e7cf270b-9aa7-40d2-8b88-910fcc8fb8b2
+2009,7,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_07_PHULUC_T07_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(927.8), np.float64(927.75)]",927.8,3d3bf019-7058-4d11-b963-c3e8271de3ee
+2009,7,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_07_PHULUC_T07_2009_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(927.8), np.float64(927.75)]",927.75,962a1d17-364d-4138-9b68-d6a13b0af8d5
+2009,7,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(927.8), np.float64(927.75)]",927.8,2dbad442-c1fe-456a-840a-37d78228ede8
+2009,7,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_07_PHULUC_T07_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(578.1), np.float64(578.121)]",578.1,2249b691-ec87-44ba-a3be-f30296b01785
+2009,7,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_07_PHULUC_T07_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(578.1), np.float64(578.121)]",578.121,e31f1c8b-cdf1-4340-a71b-824f43ba97a5
+2009,7,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(578.1), np.float64(578.121)]",578.1,17c03316-357e-40e3-8eba-3a8ee240a3f8
+2009,7,Miền Nam,Cultivation,Lúa,Area_Planted,2009_07_PHULUC_T07_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(212.9), np.float64(212.93)]",212.9,36b7b933-b753-48ef-8aef-32dee105ba9c
+2009,7,Miền Nam,Cultivation,Lúa,Area_Planted,2009_07_PHULUC_T07_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(212.9), np.float64(212.93)]",212.93,27ad92ab-a7d5-410c-81ec-24f066886ab5
+2009,7,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2009_07_PHULUC_T07_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(63.7), np.float64(115.6)]",63.7,ea3ff3a9-4289-4fb0-9d05-fb554e58fbcb
+2009,7,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(63.7), np.float64(115.6)]",115.6,4125a6c4-d19b-414f-9037-a5f8000f9543
+2009,8,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_08_PHULUC_T08_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1170.6), np.float64(1170.558)]",1170.6,f3d96037-8bca-4c0f-9861-e9721d7cabb3
+2009,8,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_08_PHULUC_T08_2009_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1170.6), np.float64(1170.558)]",1170.558,6fdcaf6e-9a7e-49e2-9dbf-6d5b5728a118
+2009,8,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_08_PHULUC_T08_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1223.8), np.float64(1223.786)]",1223.8,bbe8c672-d84b-47e2-9c01-0a484f49cec8
+2009,8,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_08_PHULUC_T08_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1223.8), np.float64(1223.786)]",1223.786,80ea9dfc-4a0c-4559-8e25-929de8336f56
+2009,8,Miền Nam,Cultivation,Lúa,Area_Planted,2009_08_PHULUC_T08_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(293.7), np.float64(293.654)]",293.7,cab8d02b-ac85-4187-a581-9339792368ec
+2009,8,Miền Nam,Cultivation,Lúa,Area_Planted,2009_08_PHULUC_T08_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(293.7), np.float64(293.654)]",293.654,8515d8e8-6a59-4941-ab70-f8cb061ec725
+2009,9,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_09_PHULUC_T09_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1237.2), np.float64(1237.209)]",1237.2,f1d15947-5b76-4ebb-bf71-3c8a8eaa2a54
+2009,9,Miền Bắc,Cultivation,Lúa,Area_Planted,2009_09_PHULUC_T09_2009_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1237.2), np.float64(1237.209)]",1237.209,9c36ff78-a933-4fb4-ac9b-68b2728335a2
+2009,9,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_09_PHULUC_T09_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1785.6), np.float64(1785.648)]",1785.6,7e457803-6645-4007-935c-2d1a6d7dbe54
+2009,9,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_09_PHULUC_T09_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1785.6), np.float64(1785.648)]",1785.648,a4805239-da79-4744-a1e8-559445c9ca34
+2009,9,Miền Nam,Cultivation,Lúa,Area_Planted,2009_09_PHULUC_T09_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(491.6), np.float64(491.617)]",491.6,6b1b9cca-8b74-491d-9329-83aad5c308a9
+2009,9,Miền Nam,Cultivation,Lúa,Area_Planted,2009_09_PHULUC_T09_2009_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(491.6), np.float64(491.617)]",491.617,82be0876-7279-4558-ac2c-09cef8c87356
+2009,10,Bắc Trung Bộ,Cultivation,Lúa,Area_Harvested,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(155.8), np.float64(155.836)]",155.8,825a7413-8563-4b61-bb7f-aeb5af9c1192
+2009,10,Bắc Trung Bộ,Cultivation,Lúa,Area_Harvested,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(155.8), np.float64(155.836)]",155.836,a8b2e4be-22d7-41ce-999a-14983fc13943
+2009,10,Miền Bắc,Cultivation,Cây vụ đông,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(331.7), np.float64(331.728)]",331.7,7e16d13e-30ee-4077-87b4-af7664633204
+2009,10,Miền Bắc,Cultivation,Cây vụ đông,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(331.7), np.float64(331.728)]",331.728,875c18eb-2838-4778-bd21-4baf7d1e80df
+2009,10,Miền Bắc,Cultivation,Khoai lang,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(30.8), np.float64(30.78)]",30.8,0eab4484-720d-4235-83b5-a25480476131
+2009,10,Miền Bắc,Cultivation,Khoai lang,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(30.8), np.float64(30.78)]",30.78,cc1f6716-3302-444c-abcd-ad86ff08c41b
+2009,10,Miền Bắc,Cultivation,Lúa,Area_Harvested,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(885.1), np.float64(885.128)]",885.1,bf6cd60a-0005-4c1a-ae34-917aa2e25868
+2009,10,Miền Bắc,Cultivation,Lúa,Area_Harvested,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(885.1), np.float64(885.128)]",885.128,45f4c122-63b8-4812-b995-8bcc73938325
+2009,10,Miền Bắc,Cultivation,Lạc,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(7.0), np.float64(7.004)]",7.0,e89d2e46-0f98-4802-984a-cc00d7a06168
+2009,10,Miền Bắc,Cultivation,Lạc,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(7.0), np.float64(7.004)]",7.004,40d1b8d7-ba20-42ab-a7e4-be16287f900f
+2009,10,Miền Bắc,Cultivation,Ngô,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(137.3), np.float64(137.277)]",137.3,cfad95f3-b632-4654-9c69-162df770c4ce
+2009,10,Miền Bắc,Cultivation,Ngô,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(137.3), np.float64(137.277)]",137.277,516d3d85-d365-4296-b87d-cb2dce25f3f8
+2009,10,Miền Bắc,Cultivation,"Rau, đậu các loại",Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(69.5), np.float64(69.526)]",69.5,15487f01-7083-48b4-9c3e-ed10a7420b73
+2009,10,Miền Bắc,Cultivation,"Rau, đậu các loại",Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(69.5), np.float64(69.526)]",69.526,c19de765-0d9c-4d41-b0f8-62c1181ded8c
+2009,10,Miền Bắc,Cultivation,Đậu tương,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(72.8), np.float64(72.846)]",72.8,2569bef5-e488-4cc1-b3bb-81f97b0bfd0d
+2009,10,Miền Bắc,Cultivation,Đậu tương,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(72.8), np.float64(72.846)]",72.846,cdbc6ce8-f232-4cc8-b9f3-3a7f542235a5
+2009,10,Miền Nam,Cultivation,Lúa,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(759.5), np.float64(759.524)]",759.5,83ba3a6a-abeb-441c-95cb-d3489f207fe2
+2009,10,Miền Nam,Cultivation,Lúa,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(759.5), np.float64(759.524)]",759.524,c241ec7d-baa4-4ef3-9952-2062c344f869
+2009,10,Miền Nam,Cultivation,Lúa,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(221.6), np.float64(221.623)]",221.6,3589ad4c-404d-4b1b-9ec9-25eab0cc99bb
+2009,10,Miền Nam,Cultivation,Lúa,Area_Planted,2009_10_PHULUC_T10_2009_FINAL_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(221.6), np.float64(221.623)]",221.623,b3a5be9b-3e70-434e-a2ab-f6e029638a11
+2009,11,Miền Bắc,Cultivation,Cây vụ đông,Area_Planted,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(412.8), np.float64(412.837)]",412.8,13e8277b-4e1d-4b42-9424-9970361ae4f0
+2009,11,Miền Bắc,Cultivation,Cây vụ đông,Area_Planted,2009_11_PHULUC_T11_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(412.8), np.float64(412.837)]",412.837,41d9b525-49ab-41f2-bba7-d6400accfe4d
+2009,11,Miền Bắc,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1152.5), np.float64(1152.518)]",1152.5,02769357-8f96-4a1a-bfbd-5d3d93c1efce
+2009,11,Miền Bắc,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1152.5), np.float64(1152.518)]",1152.518,a2f42afc-0ed7-4c56-80ce-8465f44f45ae
+2009,11,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(320.8), np.float64(320.777)]",320.8,fb7adfde-fe5b-4b32-8d22-5082ebf8315f
+2009,11,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(320.8), np.float64(320.777)]",320.777,a509b340-6a8e-4b56-a234-11ddcf1b9297
+2009,11,Miền Nam,Cultivation,Lúa,Area_Planted,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(332.7), np.float64(332.735)]",332.7,1c19cd29-7f53-47f3-a032-73b285850030
+2009,11,Miền Nam,Cultivation,Lúa,Area_Planted,2009_11_PHULUC_T11_2009_FINAL_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(332.7), np.float64(332.735)]",332.735,76c7f52e-a19d-4422-81c1-e28634810d1e
+2009,11,ĐB sông Hồng,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(553.8), np.float64(553.799)]",553.8,5627beec-5f02-47de-95fd-1bc642c83853
+2009,11,ĐB sông Hồng,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(553.8), np.float64(553.799)]",553.799,28ada01f-d95c-4774-8c2b-1f88e5db0e19
+2009,11,ĐBS Cửu Long,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(31.8), np.float64(31.784)]",31.8,0c6cda64-942b-4571-ab9d-20ca3d196e18
+2009,11,ĐBS Cửu Long,Cultivation,Lúa,Area_Harvested,2009_11_PHULUC_T11_2009_FINAL_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(31.8), np.float64(31.784)]",31.784,efbe6dda-738d-4fbe-b979-d6179bddfb80
+2009,11,ĐBS Cửu Long,Cultivation,Lúa,Area_Planted,2009_11_PHULUC_T11_2009_FINAL_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(223.8), np.float64(223.808)]",223.8,12c90113-a456-4389-a306-17eb5d6a9ab2
+2009,11,ĐBS Cửu Long,Cultivation,Lúa,Area_Planted,2009_11_PHULUC_T11_2009_FINAL_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(223.8), np.float64(223.808)]",223.808,6599ecef-b1d7-4daa-8115-62d128061bdd
+2009,12,Miền Bắc,Cultivation,Cây vụ đông,Area_Planted,2009_12_Phuluc_T12_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(440.7), np.float64(440.678)]",440.7,2bcb4769-549f-4d26-ab0a-47fd8ece8d40
+2009,12,Miền Bắc,Cultivation,Cây vụ đông,Area_Planted,2009_12_Phuluc_T12_2009_PL1.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(440.7), np.float64(440.678)]",440.678,3ba0c679-575c-4beb-ab0c-885c7c6b4b86
+2009,12,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_12_Phuluc_T12_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(465.6), np.float64(465.583)]",465.6,1c004be7-8c6e-4ae4-9df4-ce8b0735bf88
+2009,12,Miền Nam,Cultivation,Lúa,Area_Harvested,2009_12_Phuluc_T12_2009_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(465.6), np.float64(465.583)]",465.583,2dd4ad4f-e496-4b7e-991e-2a45c1e61be1
+2009,12,Miền Nam,Cultivation,Lúa,Area_Planted,2009_12_Phuluc_T12_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1240.9), np.float64(1240.89)]",1240.9,fee2ca29-a00e-439c-b98a-08009112e84d
+2009,12,Miền Nam,Cultivation,Lúa,Area_Planted,2009_12_Phuluc_T12_2009_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1240.9), np.float64(1240.89)]",1240.89,2ab4bd33-b61a-4260-9e48-db3af5feb3ba
+2009,12,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2009_12_Phuluc_T12_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(103.9), np.float64(103.945)]",103.9,4d364832-7c33-47b1-a943-73b7044867bf
+2009,12,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2009_12_Phuluc_T12_2009_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(103.9), np.float64(103.945)]",103.945,82ede5af-d7fb-4536-b961-57455ffdbf11
+2009,12,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2009_12_Phuluc_T12_2009_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1120.8), np.float64(1120.795)]",1120.8,ac7d09dd-4923-4be6-9f39-0b13de7967ce
+2009,12,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2009_12_Phuluc_T12_2009_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1120.8), np.float64(1120.795)]",1120.795,e7ac646d-ec77-4e60-985a-d1ed8bc4652b
+2010,1,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_01_PhuLuc_T01_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(73.9), np.float64(73.896)]",73.9,91e09b6a-2864-4849-be7f-d04dd83872b2
+2010,1,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_01_PhuLuc_T01_2010_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(73.9), np.float64(73.896)]",73.896,7437ebe2-0004-4077-8982-0b3d7502dbb3
+2010,1,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_01_PhuLuc_T01_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(647.0), np.float64(604.876)]",647.0,ce4eef8e-c1fd-46d5-9121-76295629b0b5
+2010,1,Miền Nam,Cultivation,Lúa,Area_Harvested,2011_01_Phuluc_01_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(647.0), np.float64(604.876)]",604.876,b7f8630f-291f-45a9-8e24-0e8a66bd8a4c
+2010,1,Miền Nam,Cultivation,Lúa,Area_Planted,2010_01_PhuLuc_T01_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1807.1), np.float64(1807.103)]",1807.1,0815d9ae-5581-47d9-b9a4-d68ae62dc323
+2010,1,Miền Nam,Cultivation,Lúa,Area_Planted,2010_01_PhuLuc_T01_2010_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1807.1), np.float64(1807.103)]",1807.103,9fd6fc5a-0524-416a-9cee-0825869bf55d
+2010,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2010_01_PhuLuc_T01_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(265.6), np.float64(208.143)]",265.6,e45dab2d-3c02-45f0-89a9-7206b0244ef5
+2010,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2011_01_Phuluc_01_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(265.6), np.float64(208.143)]",208.143,7939ed48-4900-424e-963c-e4bf905d6f1f
+2010,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_01_PhuLuc_T01_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1495.3), np.float64(1495.31)]",1495.3,4c2fb7b7-93e2-419e-8f5e-36fe1d5e95c7
+2010,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_01_PhuLuc_T01_2010_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1495.3), np.float64(1495.31)]",1495.31,f1bc7885-ec31-488f-a398-3b5163d5da09
+2010,2,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(335.0), np.float64(324.395)]",335.0,95a26c4e-c317-42a5-ae30-0f078742fbc1
+2010,2,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(335.0), np.float64(324.395)]",324.395,b9aee47c-a36c-4700-9aed-0e318dfe1f1e
+2010,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(884.9), np.float64(884.909)]",884.9,0ba561e7-d3b9-4756-978b-7b88fbd2da5e
+2010,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(884.9), np.float64(884.909)]",884.909,2d094886-e23f-453e-beed-4c53e1b7e76c
+2010,2,Miền Nam,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1857.8), np.float64(1857.808)]",1857.8,4074c1a9-2203-4393-9355-88e9007d4f93
+2010,2,Miền Nam,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1857.8), np.float64(1857.808)]",1857.808,5e68a9d6-d447-4a77-af0d-5cd5d887ad3a
+2010,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1530.0), np.float64(1530.091)]",1530.0,6d9dd8c3-a5bd-4ace-8a4c-4a8932f67976
+2010,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1530.0), np.float64(1530.091)]",1530.091,bf331bc3-4f86-4c13-a29c-ed103128f42f
+2010,2,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(409.9), np.float64(409.858)]",409.9,0ffa88b7-d874-431e-b459-08cbe8f641e0
+2010,2,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2010_02_PhuLuc_T02_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(409.9), np.float64(409.858)]",409.858,eaf8363c-0f3d-477d-9e6f-d0bbe9ff45eb
+2010,3,Cả nước,Fishery,Khai thác biển,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(200.0), np.float64(590.0)]",200.0,38a764e9-27dd-479a-a1cf-6bd5c44f0b46
+2010,3,Cả nước,Fishery,Khai thác biển,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(200.0), np.float64(590.0)]",590.0,ae8285e1-0398-42d9-8349-37bd33c7da7a
+2010,3,Cả nước,Fishery,Khai thác nội địa,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(10.0), np.float64(30.0)]",10.0,094601be-2562-44e4-88ca-4b8da2daf54c
+2010,3,Cả nước,Fishery,Khai thác nội địa,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(10.0), np.float64(30.0)]",30.0,2723bbb9-a4cc-4263-bac5-b716e194453e
+2010,3,Cả nước,Fishery,Sản lượng khai thác,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(210.0), np.float64(620.0)]",210.0,bba981dd-8140-42ad-913f-9409c2d277c1
+2010,3,Cả nước,Fishery,Sản lượng khai thác,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(210.0), np.float64(620.0)]",620.0,87327ddd-9160-4124-977c-bc453e252d2e
+2010,3,Cả nước,Fishery,Sản lượng nuôi trồng,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(130.0), np.float64(477.0)]",130.0,a1d9d10d-243a-4f78-8138-14c58264065d
+2010,3,Cả nước,Fishery,Sản lượng nuôi trồng,Production,2010_03_PhuLuc_T03_2010_PL5.md,PL5,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(130.0), np.float64(477.0)]",477.0,eec5686e-6609-4a8f-94f9-af8b652b81e3
+2010,4,Miền Nam,Cultivation,Lúa,Area_Planted,2010_04_Phuluc_T04_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(699.3), np.float64(699.253)]",699.3,c97cd74d-546c-4a69-80f3-d73cc5ddafc8
+2010,4,Miền Nam,Cultivation,Lúa,Area_Planted,2010_04_Phuluc_T04_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(699.3), np.float64(699.253)]",699.253,b10e2ed4-c43d-407b-bb5e-dba002ebe6b5
+2010,4,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_04_Phuluc_T04_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1745.7), np.float64(1745.686)]",1745.7,983d0d2a-87e5-4dc9-b2b1-21fa3b6baa16
+2010,4,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_04_Phuluc_T04_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1745.7), np.float64(1745.686)]",1745.686,7cb4744d-8d3f-4ff6-b25e-386cf81828aa
+2010,4,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_04_Phuluc_T04_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(670.3), np.float64(670.256)]",670.3,5d5e0f10-795e-4b7a-900a-65fed5a2f539
+2010,4,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_04_Phuluc_T04_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(670.3), np.float64(670.256)]",670.256,b7169cf3-69b9-4583-97a2-57d3894b7f82
+2010,4,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2010_04_Phuluc_T04_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1534.3), np.float64(1534.285)]",1534.3,c6a1c8cf-c99f-4637-ab37-ae0ce78e1862
+2010,4,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2010_04_Phuluc_T04_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1534.3), np.float64(1534.285)]",1534.285,a821b090-fd76-451e-84d8-61be08b0fbd5
+2010,5,Duyên hải Nam Trung Bộ,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(181.5), np.float64(181.492)]",181.5,2293ba92-4226-4124-8e5a-362d5493aab2
+2010,5,Duyên hải Nam Trung Bộ,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(181.5), np.float64(181.492)]",181.492,2f78e1d4-5eb1-46a6-8312-f5e2e02d296a
+2010,5,Miền Nam,Cultivation,Lúa,Area_Planted,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1257.8), np.float64(1257.814)]",1257.8,7427bd1c-10a9-445c-b3d7-fab525768f7a
+2010,5,Miền Nam,Cultivation,Lúa,Area_Planted,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1257.8), np.float64(1257.814)]",1257.814,cbe8e1b0-69f4-4e47-89d8-32a012e71135
+2010,5,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1913.7), np.float64(1913.699)]",1913.7,0b7b7693-8950-4465-b14e-e06de9c1b333
+2010,5,Miền Nam,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1913.7), np.float64(1913.699)]",1913.699,140b283f-6988-4a64-b738-82e58ca06bf7
+2010,5,Tây Nguyên,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(59.4), np.float64(59.42)]",59.4,4d5fbee0-f283-422d-bcd3-4a71b0c657e3
+2010,5,Tây Nguyên,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(59.4), np.float64(59.42)]",59.42,f47bc3e9-669c-4eb8-9394-838df7f73277
+2010,5,Đông Nam Bộ,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(114.0), np.float64(114.037)]",114.0,3b16b282-a39c-437c-abe4-07916851f1f6
+2010,5,Đông Nam Bộ,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(114.0), np.float64(114.037)]",114.037,8c45f02e-f34d-429d-9fac-6c277e0f03d9
+2010,5,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1117.2), np.float64(1117.171)]",1117.2,20578bb7-d703-4ac1-b1b4-7ea967313fa6
+2010,5,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1117.2), np.float64(1117.171)]",1117.171,ab215904-1f15-4dfb-b417-b429792f6259
+2010,5,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1558.8), np.float64(1558.75)]",1558.8,c5acb5e5-18a2-4088-bfa8-1db402a1cb2a
+2010,5,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2010_05_PHULUC_T05_2010_PL2b.md,PL2b,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1558.8), np.float64(1558.75)]",1558.75,e21a050b-3792-4f6c-af8c-97bda96ca725
+2010,6,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_06_Phuluc_06_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(121.3), np.float64(143.926)]",121.3,d509d98f-de87-45ad-97be-dd554a9e60f4
+2010,6,Miền Bắc,Cultivation,Lúa,Area_Planted,2010_06_Phuluc_06_2010_PL2a.md,PL2a,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(121.3), np.float64(143.926)]",143.926,21dd2d98-d7c5-4c7f-a43a-356732aea615
+2010,6,Miền Bắc,Cultivation,Lúa,Area_Harvested,2010_06_Phuluc_06_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1100.8), np.float64(1100.804)]",1100.8,8a7d42a5-0191-4d9a-b974-bbe7c5886457
+2010,6,Miền Bắc,Cultivation,Lúa,Area_Harvested,2010_06_Phuluc_06_2010_PL2a.md,PL2a,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1100.8), np.float64(1100.804)]",1100.804,1d3c609b-bd11-4b2f-aebf-78509e542d67
+2010,6,Miền Nam,Cultivation,Lúa,Area_Planted,2010_06_Phuluc_06_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1712.0), np.float64(1711.959)]",1712.0,e4c816cc-12ad-495d-b1fd-4752400837a4
+2010,6,Miền Nam,Cultivation,Lúa,Area_Planted,2010_06_Phuluc_06_2010_PL3a.md,PL3a,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1712.0), np.float64(1711.959)]",1711.959,1bd9a250-d108-4330-8d94-79af9f603d98
+2010,7,Cả nước,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1149.9), np.float64(487.6), np.float64(265.1)]",1149.9,ea017d9e-6a88-4635-a887-882812f400a4
+2010,7,Cả nước,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1149.9), np.float64(487.6), np.float64(265.1)]",487.6,a9aa3ac0-7398-4eeb-8111-2c5ef4724b7b
+2010,7,Cả nước,Cultivation,Lúa,Area_Planted,2010_07_phuluc_07_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1149.9), np.float64(487.6), np.float64(265.1)]",265.1,91d9458c-f1fb-4546-bd08-ac3ca61b7305
+2010,7,Cả nước,Cultivation,Lúa,Area_Planted,2011_07_Phuluc_07_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1149.9), np.float64(487.6), np.float64(265.1)]",1149.9,21178960-5ebf-4005-a956-c90915f1ca22
+2010,8,Cả nước,Cultivation,Lúa,Area_Planted,2010_08_Phuluc_T08_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1406.9), np.float64(245.0)]",1406.9,17cbe4d8-c903-4a66-95ff-2dbb605d1493
+2010,8,Cả nước,Cultivation,Lúa,Area_Planted,2010_08_Phuluc_T08_2010_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1406.9), np.float64(245.0)]",245.0,07d48842-de5d-4620-a7a1-f67f3a282a0b
+2010,9,Cả nước,Forestry,Rừng tập trung,Area_Planted,2010_09_phuluc_T09_2010_PL7.md,PL7,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(182613.0), np.float64(151676.0)]",182613.0,54b734d1-cc08-4983-994e-08c247d19d15
+2010,9,Cả nước,Forestry,Rừng tập trung,Area_Planted,2010_09_phuluc_T09_2010_PL7.md,PL7,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(182613.0), np.float64(151676.0)]",151676.0,bf978482-0a92-49d4-b730-53b838fa6093
+2010,9,Cả nước,Forestry,Rừng tập trung,Area_Planted,2010_09_phuluc_T09_2010_PL7.md,PL7,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(182613.0), np.float64(151676.0)]",151676.0,52e42d1c-daea-498b-9686-01671d672c68
+2011,1,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(86.6), np.float64(86.558)]",86.6,14637331-3129-49be-be6f-7ca3ccd3dcc6
+2011,1,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(86.6), np.float64(86.558)]",86.558,171a30a8-e7ea-4c0a-9603-557de6171642
+2011,1,Miền Nam,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1861.0), np.float64(1861.021)]",1861.0,42780e3a-fa65-4f14-9860-a9aedb857729
+2011,1,Miền Nam,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1861.0), np.float64(1861.021)]",1861.021,1f711c0a-b7e4-4fef-a89c-35a663c345c6
+2011,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1535.4), np.float64(208.1), np.float64(1535.398)]",1535.4,2cbe66d2-fc90-4499-aa9b-8d349c8a8c19
+2011,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1535.4), np.float64(208.1), np.float64(1535.398)]",208.1,183a2088-6683-4433-a6e1-377c7800aab6
+2011,1,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_01_Phuluc_01_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1535.4), np.float64(208.1), np.float64(1535.398)]",1535.398,7cb13819-443f-44c7-99ff-7ba9f6e2c856
+2011,2,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(298.6), np.float64(298.639)]",298.6,ba28e416-db6c-4d7b-b842-f4725472f062
+2011,2,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(298.6), np.float64(298.639)]",298.639,0fc3583c-b4f4-45d4-a4a3-982cf53bcc06
+2011,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(673.9), np.float64(673.92)]",673.9,4d1902d4-3c04-437b-a636-39ed20a46abb
+2011,2,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(673.9), np.float64(673.92)]",673.92,5e49441c-199e-4621-8899-54aec7c4b899
+2011,2,Miền Nam,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1906.8), np.float64(1906.829)]",1906.8,8f4ad37c-ef39-420d-a993-ed88b3108152
+2011,2,Miền Nam,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1906.8), np.float64(1906.829)]",1906.829,17993fd4-16a0-4d98-8cd7-a9dc5ebebdc7
+2011,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1566.4), np.float64(367.4), np.float64(1566.415)]",1566.4,852b3e96-c7db-4607-86a5-d7e4fc22cee5
+2011,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1566.4), np.float64(367.4), np.float64(1566.415)]",367.4,7aabd0e5-764f-4ba9-a302-db5b75f69d4b
+2011,2,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1566.4), np.float64(367.4), np.float64(1566.415)]",1566.415,2c2d7571-729f-4076-b008-a6979ebe4f91
+2011,2,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(299.8), np.float64(299.838)]",299.8,fac83230-5ccc-46f0-8ec6-880cdfd80d2e
+2011,2,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2011_02_Phuluc_02_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(299.8), np.float64(299.838)]",299.838,b2852fd2-2fa0-4959-aaa7-a083f02e7674
+2011,3,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(340.2), np.float64(340.216)]",340.2,2d2049f2-de52-4584-8d45-3e2489d01390
+2011,3,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(340.2), np.float64(340.216)]",340.216,8b7a261f-4cf6-4517-8d06-f3d86c77bad6
+2011,3,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1094.8), np.float64(1094.767)]",1094.8,cb284aa1-fc7a-459a-80f4-68db20eb5b0a
+2011,3,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1094.8), np.float64(1094.767)]",1094.767,68ded723-aa9e-47aa-a7b1-233efa82d96c
+2011,3,Miền Nam,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1978.3), np.float64(1978.295)]",1978.3,833c4cb9-f29a-4a88-95c1-e57a556174d9
+2011,3,Miền Nam,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1978.3), np.float64(1978.295)]",1978.295,242cd87f-4755-4ee5-b0b6-6dd050150432
+2011,3,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(197.5), np.float64(197.527)]",197.5,1b160e37-6abc-401a-9061-fc0cfd321fea
+2011,3,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(197.5), np.float64(197.527)]",197.527,16b515ea-3385-47b1-a3c2-bd208bf76cfe
+2011,3,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1607.7), np.float64(991.8), np.float64(1607.736)]",1607.7,0b727024-21ea-4f18-960b-18156a902c06
+2011,3,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1607.7), np.float64(991.8), np.float64(1607.736)]",991.8,e06670b0-3d13-454f-8787-31a682e69ad9
+2011,3,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1607.7), np.float64(991.8), np.float64(1607.736)]",1607.736,74a1a798-308f-4db4-956a-84eaac59df83
+2011,3,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(554.0), np.float64(554.032)]",554.0,f8484fef-b49d-4feb-9bde-e91211af5ccb
+2011,3,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2011_03_Phuluc_03_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(554.0), np.float64(554.032)]",554.032,0c0b4d15-953c-4d26-aab4-ffa8f5c33c28
+2011,4,Quảng Nam,Fishery,Sản lượng khai thác,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(154.0), np.float64(15.4)]",154.0,ef8c0711-fccb-4a28-b5c8-992c631253ba
+2011,4,Quảng Nam,Fishery,Sản lượng khai thác,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(154.0), np.float64(15.4)]",15.4,0bb48053-44ff-4eed-be76-ffca11683f73
+2011,4,Quảng Nam,Fishery,Sản lượng khai thác,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(4.2), np.float64(0.42)]",4.2,f4e6338d-eb28-4e39-a391-e34ed123a7ae
+2011,4,Quảng Nam,Fishery,Sản lượng khai thác,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(4.2), np.float64(0.42)]",0.42,9d238489-f8c5-447a-b6a8-bcaaa5852534
+2011,4,Quảng Nam,Fishery,Sản lượng khai thác,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(158.2), np.float64(15.82)]",158.2,e220fe8c-d03a-4ce9-9637-1d8123bbfa97
+2011,4,Quảng Nam,Fishery,Sản lượng khai thác,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(158.2), np.float64(15.82)]",15.82,74724224-63ee-402c-8057-e25b28a877ed
+2011,4,Quảng Nam,Fishery,Sản lượng nuôi trồng,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(4.0), np.float64(0.4)]",4.0,ff488089-7dfb-4644-a199-c98da1e443f7
+2011,4,Quảng Nam,Fishery,Sản lượng nuôi trồng,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(4.0), np.float64(0.4)]",0.4,9abd8070-6706-4210-b2d0-6a88e3792d75
+2011,4,Quảng Nam,Fishery,Sản lượng nuôi trồng,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(2.5), np.float64(0.25)]",2.5,2a2a73a3-6fb9-4b54-9561-e7f63af24829
+2011,4,Quảng Nam,Fishery,Sản lượng nuôi trồng,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(2.5), np.float64(0.25)]",0.25,4038fcd0-f8ba-452c-8ef3-a6bbd8726fd9
+2011,4,Quảng Nam,Fishery,Sản lượng nuôi trồng,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(6.5), np.float64(0.65)]",6.5,a23e38e2-ed10-4e1e-8de1-2ef6a153b029
+2011,4,Quảng Nam,Fishery,Sản lượng nuôi trồng,Production,2011_04_Phuluc_04_2011_f_PL11.md,PL11,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(6.5), np.float64(0.65)]",0.65,7d7ed209-8b60-454d-9961-2ff22fa3800c
+2011,4,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_04_Phuluc_04_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(645.4), np.float64(1459.9)]",645.4,2c9d44ef-60a2-4a9b-9ead-6f2ac0448727
+2011,4,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_04_Phuluc_04_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(645.4), np.float64(1459.9)]",1459.9,88924fcb-4589-480f-ab3d-dfbc003e1275
+2011,6,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(215.7), np.float64(342.934)]",215.7,e255bd3f-37b2-48cf-9d4e-d1b29f056ba6
+2011,6,Bắc Trung Bộ,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(215.7), np.float64(342.934)]",342.934,73220a1b-8395-4e9a-a9ed-4b93f380ffce
+2011,6,Cả nước,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(80.0), np.float64(1937.8)]",80.0,fe59b0f7-a0dc-47c6-8818-3c2bdfd69800
+2011,6,Cả nước,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(80.0), np.float64(1937.8)]",1937.8,14f1f905-e163-427d-9a8a-3caeebdb9f86
+2011,6,Miền Bắc,Cultivation,Lúa,Area_Harvested,2011_06_Phuluc_06_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(480.8), np.float64(480.838)]",480.8,d334adce-a3cc-471c-b525-eeba6da05f63
+2011,6,Miền Bắc,Cultivation,Lúa,Area_Harvested,2011_06_Phuluc_06_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(480.8), np.float64(480.838)]",480.838,7370649a-6469-4771-aa30-c147cbf4da74
+2011,6,Đông Nam Bộ,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1.216), np.float64(136.296)]",1.216,9bcaa4ca-bcbb-46b7-9e7d-3a3c1d4d54e0
+2011,6,Đông Nam Bộ,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1.216), np.float64(136.296)]",136.296,ce76aa92-0533-4c61-82f5-97fee85cbd6a
+2011,6,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(207.0), np.float64(563.43)]",207.0,92a17d99-9ce2-457c-86fd-b3e3e72fc9a4
+2011,6,Đồng bằng sông Hồng,Cultivation,Lúa,Area_Planted,2011_06_Phuluc_06_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(207.0), np.float64(563.43)]",563.43,9d7c53d6-6ba4-4e59-9e8b-0ffe3a21e290
+2011,7,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_07_Phuluc_07_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(832.6), np.float64(832.602)]",832.6,dc17f408-f9a8-4720-9e09-287cc6b258c4
+2011,7,Miền Bắc,Cultivation,Lúa,Area_Planted,2011_07_Phuluc_07_2011_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(832.6), np.float64(832.602)]",832.602,b83d5fcd-f645-4f05-8629-896d642d79c4
+2011,7,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2011_07_Phuluc_07_2011_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(710.2), np.float64(710.227)]",710.2,54fe2d87-8ef3-422c-a401-57cd14a08d9b
+2011,7,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Harvested,2011_07_Phuluc_07_2011_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(710.2), np.float64(710.227)]",710.227,885b416f-4d56-41d9-8fe2-2f33a7748db0
+2011,8,Miền Nam,Cultivation,Lúa,Area_Harvested,2011_08_Phuluc_08_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1221.0), np.float64(1220.985)]",1221.0,830e51eb-2513-4263-85f1-fe18ac65b1e6
+2011,8,Miền Nam,Cultivation,Lúa,Area_Harvested,2011_08_Phuluc_08_2011_f_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1221.0), np.float64(1220.985)]",1220.985,704c528b-8bf8-4e0a-a58c-36458d4fbbfc
+2011,9,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_09_Phuluc_09_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(568.0), np.float64(568.026)]",568.0,6383919d-d694-4553-8960-7d028bf2831b
+2011,9,Đồng bằng sông Cửu Long,Cultivation,Lúa,Area_Planted,2011_09_Phuluc_09_2011_f_PL4.md,PL4,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(568.0), np.float64(568.026)]",568.026,4192910d-e2f8-4373-abe8-a430ced09fb5
+2011,10,Miền Bắc,Cultivation,Lúa,Area_Harvested,2011_10_Phuluc_10_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(555.7), np.float64(555.725)]",555.7,6ae12244-5834-462d-b7b8-c71c4470201f
+2011,10,Miền Bắc,Cultivation,Lúa,Area_Harvested,2011_10_Phuluc_10_2011_f_PL2.md,PL2,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(555.7), np.float64(555.725)]",555.725,95670762-ab16-4588-8a6d-915e9953fee5
+2011,10,Miền Nam,Cultivation,Lúa,Area_Planted,2011_10_Phuluc_10_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(682.5), np.float64(682.528)]",682.5,47003b5b-0bae-45d3-8d32-e871c07c9157
+2011,10,Miền Nam,Cultivation,Lúa,Area_Planted,2011_10_Phuluc_10_2011_f_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(682.5), np.float64(682.528)]",682.528,0e6660a6-7563-41de-8d0e-cc690f28cde0
+2011,10,Miền Nam,Cultivation,Lúa,Area_Planted,2011_10_Phuluc_10_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(94.7), np.float64(94.727)]",94.7,190cd10d-6fd4-4f28-b87c-a4ae41532dc3
+2011,10,Miền Nam,Cultivation,Lúa,Area_Planted,2011_10_Phuluc_10_2011_f_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(94.7), np.float64(94.727)]",94.727,80df110a-cbdb-4e9e-93c2-5f7985778112
+2011,12,Miền Nam,Cultivation,Lúa,Area_Harvested,2011_12_Phuluc_12_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(499.4), np.float64(499.41)]",499.4,1c2701c1-913b-409f-92e0-ecad69842fab
+2011,12,Miền Nam,Cultivation,Lúa,Area_Harvested,2011_12_Phuluc_12_2011_f_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(499.4), np.float64(499.41)]",499.41,124549e6-8791-47bb-a9d6-9cbcc78c76ec
+2011,12,Miền Nam,Cultivation,Lúa,Area_Planted,2011_12_Phuluc_12_2011_f_PL1.md,PL1,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1003.2), np.float64(1003.211)]",1003.2,275de464-8613-4aea-bfb2-250aa1c75bc4
+2011,12,Miền Nam,Cultivation,Lúa,Area_Planted,2011_12_Phuluc_12_2011_f_PL3.md,PL3,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(1003.2), np.float64(1003.211)]",1003.211,fcebd9dc-4307-47a0-b97e-90b7b4611ab2
+2012,12,Cả nước,Investment,TỔNG CỘNG : ( = A + B ),Value,,PL9,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(6838489.0), np.float64(3074489.0)]",6838489.0,d9177ba6-9e7c-4044-bab5-9b22d18333b2
+2012,12,Cả nước,Investment,TỔNG CỘNG : ( = A + B ),Value,,PL9,VALUE_CONFLICT,"Matched keys but found multiple values: [np.float64(6838489.0), np.float64(3074489.0)]",3074489.0,37bc9da9-016e-446c-b804-8f2249cdb116
+2010,4,Cả nước,Livestock,Tổng số Trâu,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2902109.0,2a0128c7-455d-4b75-9d15-bdb9975bae54
+2010,4,Cả nước,Livestock,Tổng số Bò,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6019958.0,db371913-c6bf-4e14-9418-a871523f4e1a
+2010,4,Cả nước,Livestock,Tổng số Lợn,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',27313824.0,607ffa38-fe6b-472c-800a-f2aa11e67b4e
+2010,4,Cả nước,Livestock,Lợn,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4190622.0,13a67ee0-056a-4335-880c-dc854cc71c7d
+2010,4,Cả nước,Livestock,Tổng số Gia cầm,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',277437.7,287f607d-1342-4c34-a045-51ea01c60dcf
+2010,4,Cả nước,Livestock,Gà,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',200832.0,450f3006-2b42-46ab-9133-4a931b91a5e0
+2011,6,Cả nước,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',50347.0,1f391b53-4eb7-4717-829f-d1cccf0bd9be
+2011,6,Cả nước,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',80762.0,9e98ee0c-9901-4062-8423-7d3eb19ee532
+2011,6,Cả nước,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',140171.0,ff6a1c87-1ab5-404f-ac95-b7332adc2521
+2011,6,Cả nước,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',78277.0,5b30fb4f-ea95-486f-9606-be087b312baf
+2011,6,Cả nước,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',17373.0,85cfd990-f5ce-4408-aadb-3da15f653c72
+2011,6,Cả nước,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',42897.0,39631d16-68f7-4597-a9ab-64eb73f572a1
+2011,6,Cả nước,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1624.0,1bf76f6e-81c1-4458-924f-00bc662ce15a
+2011,6,Cả nước,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',38744.0,47a50198-fcc2-4f61-b026-a099cb22f622
+2011,6,Cả nước,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',14759.0,6eee744b-3924-45c3-8f62-fb9afd8fc5d1
+2011,6,Cả nước,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',14158.0,564bf5e6-ad6d-4503-b6e3-19930f579e10
+2011,6,Đồng bằng sông Hồng,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',14323.0,298f65db-71bb-4df8-87d3-ddd225115175
+2011,6,Đồng bằng sông Hồng,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',34802.0,f2982af9-5995-4ca2-b1be-edea26b189fa
+2011,6,Đồng bằng sông Hồng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3200.0,5bdee594-69e9-4e58-a754-1401847c0704
+2011,6,Đồng bằng sông Hồng,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2569.0,060a713c-6f4f-40f1-a059-9f35de9b971f
+2011,6,Đồng bằng sông Hồng,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',134.0,5118ab21-d95d-4176-80ec-fc11c1b15723
+2011,6,Đồng bằng sông Hồng,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',497.0,bdb44653-e126-47e0-adbf-12f8131f8bae
+2011,6,Đồng bằng sông Hồng,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,43bdc011-4c5f-4388-8f07-f9f8163c362f
+2011,6,Đồng bằng sông Hồng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',400.0,369bf2d1-e77d-4991-a77e-066368d94b6a
+2011,6,Đồng bằng sông Hồng,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1292.0,5f65d784-ac40-4085-a105-ec24a66b5493
+2011,6,Đồng bằng sông Hồng,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',545.0,c8f38522-94d3-4e95-8031-14402d62ca53
+2011,6,Vĩnh Phúc,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1500.0,45de30d2-6b81-47c0-aa75-4e8a4c7176d8
+2011,6,Vĩnh Phúc,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',21979.0,6d7b59f6-614d-4ffc-9d6a-ce541f3b66bd
+2011,6,Bắc Ninh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',546.0,c78625e5-b696-4220-94a7-8535c833d8aa
+2011,6,Bắc Ninh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',434.0,38474725-5761-4627-966c-be20917c0ef1
+2011,6,Quảng Ninh,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4950.0,e9eb9274-3a3d-433b-b5c3-ed4a715a5df2
+2011,6,Quảng Ninh,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4950.0,aae89c26-5975-49eb-b648-56a9adc0fe80
+2011,6,Quảng Ninh,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3109.0,7ad67973-b27f-42b2-b172-7c2c17f13ae8
+2011,6,Quảng Ninh,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2569.0,2ad274d1-0fe4-40cd-afad-8591107d50cd
+2011,6,Quảng Ninh,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',134.0,2e9f65ca-2a8a-4c34-9308-4c7a952ea6fb
+2011,6,Quảng Ninh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',406.0,b27cda23-1194-4f7f-9237-03b302258d62
+2011,6,Quảng Ninh,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',327.0,f018f70d-2463-4e1a-b75a-190a216d7e03
+2011,6,Hải Dương,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',188.0,c28bf80e-6820-44bb-951e-3b42c06e837a
+2011,6,Hải Dương,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',83.0,17d8fd0b-31fd-43a4-8093-1ead56e3431d
+2011,6,Hải Phòng,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',887.0,7295bf67-614e-4657-bdec-e5919f52ed09
+2011,6,Hải Phòng,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',887.0,cdf754a5-b99b-416d-b2da-44070afbb3b4
+2011,6,Thái Bình,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',558.0,9d186556-055b-4538-b949-1dfc39aae0f5
+2011,6,Thái Bình,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',28.0,31e672b2-85a8-432b-9bd0-1fa5e4ae7d61
+2011,6,Hà Nam,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',286.0,f1e3be3f-cbb3-45a2-8dfd-6c0b57af751c
+2011,6,Hà Nam,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',286.0,7bee1887-7af0-425d-9c0f-0be594e4ea54
+2011,6,Hà Nam,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',67.0,20bfca7d-b1b9-49d6-86ee-48d355b7517a
+2011,6,Hà Nam,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',67.0,1addcc46-c0d0-47d1-bed1-308fb902731a
+2011,6,Hà Nam,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',49.0,8fb649bf-d152-453a-96d9-881d67bbb3b9
+2011,6,Nam Định,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6700.0,2edef183-c2a8-4d93-929a-33b25c63accd
+2011,6,Nam Định,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6700.0,65268c43-7d4b-45f2-a776-71c91c7bb46e
+2011,6,Nam Định,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',24.0,64a12451-bbba-461d-8fc6-38574cbfd7be
+2011,6,Nam Định,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',24.0,d066c3ab-a286-4790-b01f-916a064c4779
+2011,6,Nam Định,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',24.0,8683e594-8736-4085-b448-8ca44b86b7cb
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7508.0,6d15c481-5e38-46c0-a83a-8ec9e16878fd
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',8466.0,bd28000b-adf6-4cad-910f-75910cdad72d
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',110599.0,7b604bee-e5d0-46b4-9949-ecbdf04376a8
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',69054.0,5bc2dbf6-eb17-42c5-b43a-e6d46530a505
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',12482.0,4fe7ec0c-936f-49a9-8b4d-0241e90e4943
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',27439.0,d9196c32-9cd2-4ae8-ada3-ba1065f61ed6
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1624.0,101fff79-df73-4bbb-980c-9500919c3c1e
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',27048.0,bf3b2e35-569e-4640-87fe-49e93c34d26c
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,67a9f790-6bc0-4eee-93b2-137470d47b82
+2011,6,Trung du và miền núi<br>phía Bắc,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,83ce96d0-7890-4253-9b0f-27116fce1361
+2011,6,Hà Giang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11736.0,0df7690f-5028-463d-bedc-e807a815c9fc
+2011,6,Hà Giang,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7408.0,8fa62997-9ee1-416b-8235-ba21e5c226d1
+2011,6,Hà Giang,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3265.0,52ee5ebd-1852-4466-b8c9-1ef33f816481
+2011,6,Hà Giang,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',687.0,41b22fae-d5bf-46b8-8329-6493f42e73c2
+2011,6,Hà Giang,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',376.0,9bd7a870-8627-4b3d-b52d-20108c976723
+2011,6,Hà Giang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1693.0,ccba112d-7cac-48d6-8098-eccc3f751f9b
+2011,6,Cao Bằng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11939.0,ed399726-a9a7-452d-a0c6-d6eeea9dde02
+2011,6,Cao Bằng,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6545.0,1cc6018c-87ed-45da-9e8d-17526f6faee1
+2011,6,Cao Bằng,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3964.0,9e653fe8-9194-42f5-adbb-87f1a88e07e7
+2011,6,Cao Bằng,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1170.0,72ae2ece-8e3b-4d70-970a-1a0ba6827e89
+2011,6,Cao Bằng,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',260.0,3d3bb861-fc48-4029-a15f-06343d96659a
+2011,6,Cao Bằng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',542.0,0a39cfa8-e7b0-4019-b0a0-be4b84195c05
+2011,6,Bắc Kạn,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',42.0,c2b9cdef-fd92-40c1-a7e6-e1e96c016be6
+2011,6,Bắc Kạn,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1000.0,25b7203e-8cad-4345-b015-32c948b573df
+2011,6,Bắc Kạn,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5155.0,299b14fe-4205-4a2d-a017-cbb4ddf681e2
+2011,6,Bắc Kạn,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4983.0,6d04c9cc-c671-4022-8e54-4035fc83a3e5
+2011,6,Bắc Kạn,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',172.0,a39dcc7a-d1ce-47d2-8b4a-acbd135670cf
+2011,6,Bắc Kạn,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',674.0,0c4fcfe1-493e-4df3-a2a7-bbcf9ecac268
+2011,6,Tuyên Quang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11418.0,3b806b96-459c-4982-b6e9-02b4cb70e636
+2011,6,Tuyên Quang,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4913.0,20bb9af5-e0a8-4edf-8375-e602b4637d91
+2011,6,Tuyên Quang,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',508.0,c0d9ec00-79eb-40be-b684-9bdcc8fe144c
+2011,6,Tuyên Quang,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5936.0,5ada6747-977c-40a4-b7fc-90d9b9da66a8
+2011,6,Tuyên Quang,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',61.0,dbdf45fe-0d48-44ce-93bf-8b9f2c748a8f
+2011,6,Tuyên Quang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6543.0,de125d24-bd13-40a2-b416-a582c997e74e
+2011,6,Lào Cai,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1758.0,af503224-8744-46e6-92f9-5aa3d77f72fe
+2011,6,Lào Cai,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',889.0,d6d5bfea-2fb1-481e-80d9-953d97bd1066
+2011,6,Lào Cai,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',869.0,f280a20d-deed-4215-8bed-0bccd35c66a4
+2011,6,Lào Cai,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',869.0,bb2bb71b-0c0b-452b-949e-74b59ebf21c3
+2011,6,Yên Bái,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2598.0,d8015336-12f1-4f2d-9915-6577bb4e60cd
+2011,6,Yên Bái,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',734.0,164bf0ee-6153-45cd-8dc0-d317bdc16779
+2011,6,Yên Bái,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',600.0,c298edae-d395-433d-9c82-63cfb35853fb
+2011,6,Yên Bái,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1264.0,e31675d0-32fe-4370-b5cd-2e386eb43e6e
+2011,6,Yên Bái,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',541.0,7db68318-3e68-4818-be69-48d9adf1202c
+2011,6,Thái Nguyên,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2700.0,661855eb-6c7c-4b84-88b8-7dd699df3a7d
+2011,6,Thái Nguyên,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2700.0,f0d86978-ae90-43ef-b7c7-80a08cdce384
+2011,6,Thái Nguyên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',18962.0,0f94cfa0-a844-4150-a7e4-009f57d77d40
+2011,6,Thái Nguyên,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6114.0,23691c7b-54ec-410f-b7bd-fd1dcd0798c1
+2011,6,Thái Nguyên,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',469.0,c388fb84-2392-4e40-bb4e-7918fcfb9903
+2011,6,Thái Nguyên,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',12339.0,77e3a558-a9dc-4b43-8436-fc9675b35c64
+2011,6,Thái Nguyên,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',40.0,177d8f4e-6b8c-420c-b0bd-1a2e1deeecdd
+2011,6,Thái Nguyên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',13543.0,72848d9e-6c2b-4e45-a47c-0e3b7a4a589c
+2011,6,Lạng Sơn,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4766.0,dc25c8e4-2634-42f8-bdba-bafa643a2ff5
+2011,6,Lạng Sơn,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4766.0,40a79148-096e-48da-98c2-36815101ab44
+2011,6,Lạng Sơn,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',8535.0,972b40bd-8bfd-401f-ae72-812dc4af98ab
+2011,6,Lạng Sơn,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7307.0,d7cbcf48-d31d-47e5-9522-5b36ce2354f8
+2011,6,Lạng Sơn,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',676.0,4d45e39c-be89-48df-8122-6c7f1b24937d
+2011,6,Lạng Sơn,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',550.0,05f86e45-f0c9-43c6-a432-bf7d088cc204
+2011,6,Lạng Sơn,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,60f4b0f0-2c73-42da-9c44-c76ea1886b8d
+2011,6,Lạng Sơn,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',491.0,5ae550d8-26a4-43ee-ae26-3721abf8c8c0
+2011,6,Bắc Giang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',147.0,1e079f92-bdf9-4a88-bae4-9a2f8940ef60
+2011,6,Bắc Giang,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',112.0,9c9b115a-8cce-4fc0-b6f5-c9ce870f09df
+2011,6,Bắc Giang,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',35.0,e2daa2c3-530e-459f-9b75-4fceede1ee89
+2011,6,Bắc Giang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,aa2c3c9a-7c2a-47ad-a427-d50b7eac0099
+2011,6,Phú Thọ,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3983.0,36babb9c-d2f6-4e20-9791-485b3c08d46b
+2011,6,Phú Thọ,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2556.0,4d4bce5a-ae74-4661-8b17-21021aa6fc02
+2011,6,Phú Thọ,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1427.0,2bc2f796-d693-48c2-b57e-b139fbd0eb34
+2011,6,Phú Thọ,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,871da9d5-e3f3-48b7-b0a5-9aabd97d31fa
+2011,6,Điện Biên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7585.0,9cd0f7cc-e4f7-4c32-84ce-4673693e3573
+2011,6,Điện Biên,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7400.0,2c1deddd-f675-4a21-802e-102545051ad5
+2011,6,Điện Biên,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',178.0,8b86cf17-b9cb-4a43-9e81-36d6004a1f5e
+2011,6,Điện Biên,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7.0,57f386f0-044d-45b0-b14b-32c732c1b39f
+2011,6,Điện Biên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',276.0,a497ad31-88a0-4aad-abf7-3ef686f6bcf9
+2011,6,Lai Châu,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6775.0,33299e00-54ce-4901-95bc-a1ac764a0ed1
+2011,6,Lai Châu,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3742.0,744a4f8e-ad7c-4cc1-879c-3d25916754f9
+2011,6,Lai Châu,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3000.0,033af2b4-f42c-44ab-a6be-968b5721faaf
+2011,6,Lai Châu,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',33.0,e39197d8-dc71-43a6-a588-c9b82e946c78
+2011,6,Sơn La,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',19473.0,ddfe7058-bf6a-436a-a758-2198aa59c777
+2011,6,Sơn La,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',15816.0,0eb6adbf-0452-47cc-a4cd-269e40bbb8b2
+2011,6,Sơn La,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2779.0,e7d698e8-63d4-4fff-88d3-378c07f72b59
+2011,6,Sơn La,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',878.0,2412f4fc-81fb-4e83-93dc-fed2626fa1e0
+2011,6,Sơn La,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1876.0,ac07c042-2195-4c8d-b945-cfb01d7f6b5c
+2011,6,Hòa Bình,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',535.0,ec977491-a2c1-41f0-8f75-36f81512d981
+2011,6,Hòa Bình,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',535.0,d5640174-b74b-424f-8f38-8e0b9a60ee4f
+2011,6,Hòa Bình,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,afeba1a2-d4b4-4b34-b067-57653aee8735
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',16578.0,4cfe3936-1ef9-46ef-8b44-fb6d08c72372
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',23242.0,9c95ea1d-aa2a-4ab8-a87f-b76c23ae82df
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6108.0,66d8c798-b11f-4ca5-86bc-858a63a8b372
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1563.0,b32c8b19-4740-461d-adac-495321404e3d
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3735.0,f8aa31b0-28af-4fbf-81a6-3bd15a679ded
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',810.0,6429e9e8-3f1b-403b-98c7-5c6a481f36ed
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,8c2070d5-fce0-4ef1-8dd1-22a958b865f1
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',636.0,83aa3b90-7d1c-4dee-b94d-467841b721e1
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',13412.0,4a7252de-9671-4e03-a07d-4fcacfad8951
+2011,6,Bắc Trung Bộ và<br>duyên hải miền Trung,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',13286.0,416281c9-95a9-4aaf-9532-9cdf6450044b
+2011,6,Nghệ An,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',686.0,dfaf61f6-1eed-4db9-8c82-f06c5e855666
+2011,6,Nghệ An,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',686.0,9b859d69-f5bc-4ff9-a629-d19bd4a86ce0
+2011,6,Nghệ An,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',88.0,e153ac20-9abd-4238-9ce7-d4d89ebdcce8
+2011,6,Nghệ An,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',36.0,53dbe6a7-2829-4bc1-886b-daca2c12616c
+2011,6,Nghệ An,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',30.0,001756a1-1b0a-49bc-9875-74f8001d527e
+2011,6,Nghệ An,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',22.0,bb48ae39-758e-4eea-b653-6e43899d40b0
+2011,6,Nghệ An,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',22.0,9c32c7ec-b382-454c-82ef-c2a7d089e040
+2011,6,Nghệ An,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11858.0,d1ef015e-7f24-4418-a942-7ea92c85c567
+2011,6,Nghệ An,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11816.0,8fdf9ee7-3303-4184-975c-2abc876ed3c3
+2011,6,Hà Tĩnh,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',604.0,595a2ae8-70aa-42c1-b920-5663fb624674
+2011,6,Hà Tĩnh,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',390.0,3f237086-b81e-4004-aa54-48c61f513b30
+2011,6,Hà Tĩnh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',214.0,badd1b94-d8e1-497a-b3dd-cb07a75055fc
+2011,6,Hà Tĩnh,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',216.0,700b4d4b-5090-4c36-a0b2-fe9f746de433
+2011,6,Hà Tĩnh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',110.0,a4e69a4d-5412-420b-8a34-f1d8744f9d7a
+2011,6,Hà Tĩnh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',110.0,578bfb74-cfab-4eca-9385-001a680c3f8d
+2011,6,Quảng Trị,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3550.0,69466c83-1239-4b97-b738-8ba0aadc828f
+2011,6,Quảng Trị,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3550.0,c86e835f-4557-473d-ac77-e6127461401f
+2011,6,Quảng Trị,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1444.0,b35377ae-fb3c-45dc-9014-365b514b0153
+2011,6,Quảng Trị,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1360.0,da27cc88-1d12-43b8-bc0a-2e48dae6c30d
+2011,6,Quảng Nam,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',800.0,4e1914bd-496f-4066-83fe-65a8fecee806
+2011,6,Quảng Nam,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',207.0,ac036cd3-0bb2-4955-abef-1c5dd2f4a71d
+2011,6,Quảng Nam,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',451.0,2b9a1c59-b562-4015-8cd0-00f2769d2b9c
+2011,6,Quảng Nam,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',142.0,2783477d-56b9-476c-8a29-cf0805c561c6
+2011,6,Quảng Nam,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',62.0,3205a9de-e0e6-4334-8059-537d77b551ea
+2011,6,Quảng Ngãi,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10792.0,0877a3ca-34fb-4c20-86e5-634f47bb9806
+2011,6,Quảng Ngãi,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',15256.0,afd16907-4c4e-4adb-b982-b2d119d51db2
+2011,6,Quảng Ngãi,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2612.0,a3a4e6b8-8b22-4b91-bc29-a440b7fec720
+2011,6,Quảng Ngãi,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1018.0,1a5e5286-2334-4f23-a074-31476fa4d0c7
+2011,6,Quảng Ngãi,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1417.0,eaa5a3e9-6af5-4af9-8896-e1c655fa849b
+2011,6,Quảng Ngãi,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',177.0,329a58ae-00ad-4c41-9098-9c1721f4c6f3
+2011,6,Quảng Ngãi,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',199.0,ecfa096f-ac07-4cc5-8305-fef895bb729b
+2011,6,Bình Định,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1550.0,b4fbbd92-88bf-4fd4-b823-85e90672e8d2
+2011,6,Bình Định,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3750.0,4e15af32-4a43-44f2-a865-6c0c9d0769f6
+2011,6,Bình Định,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,68c23957-cb87-4d76-8bf2-cbbd79a773b9
+2011,6,Phú Yên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1655.0,4d0d6fd0-26dc-4351-b8b4-abe4423248dd
+2011,6,Phú Yên,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',302.0,cd0b013f-864c-4086-8a48-f44c0d945e8d
+2011,6,Phú Yên,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1310.0,3d4be31f-671e-4664-82a9-c40b0c2bce53
+2011,6,Phú Yên,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',43.0,2d497cd2-e151-447d-ac1e-6f6daefdca8a
+2011,6,Phú Yên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',67.0,dbc641ef-0e26-41f5-a0a1-20fd5cf3fa40
+2011,6,Khánh Hoà,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',349.0,a0f777a9-b442-4631-89b3-257d31654b51
+2011,6,Khánh Hoà,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',137.0,29478a9c-0f84-4280-ac54-639529c20cc6
+2011,6,Khánh Hoà,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',212.0,9338585e-99f6-4e9e-8ae5-7de05303ef05
+2011,6,Khánh Hoà,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',70.0,2581940b-8297-4091-8244-01313f6e267d
+2011,6,Tây Nguyên,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2283.0,1738f700-a8f1-4d88-909d-282f9a2fda01
+2011,6,Tây Nguyên,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2283.0,82a8d125-dd1f-4a7c-a961-c15f8c1e3b26
+2011,6,Tây Nguyên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',8630.0,3413442d-3dcc-4df9-989f-53664dd2eb6e
+2011,6,Tây Nguyên,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5091.0,4623d563-1690-4a4b-a337-63cd63467cca
+2011,6,Tây Nguyên,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',926.0,9ce3225b-9030-4247-9178-15c53e9c515b
+2011,6,Tây Nguyên,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2613.0,a39e62ec-4a02-4e15-8227-cab9d226d823
+2011,6,Tây Nguyên,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,2b9e6510-8d73-481e-ab0f-4512252ed08e
+2011,6,Tây Nguyên,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2412.0,445bc346-bcfc-4518-a688-e86369e5f354
+2011,6,Tây Nguyên,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,ec47a895-8d6a-4c34-81a2-9face63ce47c
+2011,6,Tây Nguyên,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,e5aeb383-9767-4b6b-ab32-e63d8bd8431a
+2011,6,Kon Tum,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1283.0,adb6f0f2-24be-45ed-ad7a-13c10fc19e80
+2011,6,Kon Tum,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1283.0,70ab2d4d-5531-47f9-831e-0554255f5253
+2011,6,Kon Tum,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5454.0,11754575-49dc-4953-9667-9a623a0b808e
+2011,6,Kon Tum,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4438.0,5f2a77d1-87f2-4261-9790-79478679f677
+2011,6,Kon Tum,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1016.0,79bba55c-062b-4033-80bc-a7bf42659898
+2011,6,Kon Tum,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1223.0,37ac8124-b85c-4cc7-8a9d-bd25163b55e4
+2011,6,Gia Lai,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',692.0,902db03f-e6c3-41d2-b216-b2ecd025e62b
+2011,6,Gia Lai,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',626.0,2d5a504d-d7c7-4136-b15c-b952a38c1673
+2011,6,Gia Lai,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',66.0,059c83a0-9b98-4de5-bfa3-049ec485448e
+2011,6,Gia Lai,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',33.0,2042e018-c572-4408-8962-5cff5aee520b
+2011,6,Đắk Lắk,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1000.0,1ef7355c-a889-447f-ba0f-64c023320b9d
+2011,6,Đắk Lắk,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1000.0,0e087d1d-b04a-40e0-9e68-ee32e1a50d04
+2011,6,Đắk Lắk,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',933.0,6bd2b21c-95db-4171-95b0-5224c6a11bd0
+2011,6,Đắk Lắk,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',307.0,0c13e7ee-2763-4218-a2e0-6cd095ed53c2
+2011,6,Đắk Lắk,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',300.0,908874ed-a141-4be7-a906-f8c6e43cb370
+2011,6,Đắk Lắk,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',326.0,7d8682b5-54ca-462f-a21e-254fb50b9b7d
+2011,6,Đắk Lắk,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',243.0,74cd0409-8c43-4adb-9d25-ccb66f8c6ac1
+2011,6,Lâm Đồng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1551.0,f568e2fa-42de-4323-b178-12a51c4781ff
+2011,6,Lâm Đồng,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',346.0,86834144-4261-4d1e-a61d-17fd95e7534d
+2011,6,Lâm Đồng,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1205.0,9d77b324-770c-443f-a0d9-60fc4cddb865
+2011,6,Lâm Đồng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',913.0,3aadc4bf-3e0a-42ee-a21c-1acbf78e264b
+2011,6,Đông Nam Bộ,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,30ed9230-7604-4010-b4d5-7c35b50b043c
+2011,6,Đông Nam Bộ,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,eae94b08-11c7-4425-9c74-800bed1b860b
+2011,6,Đông Nam Bộ,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',570.0,e39bf2e8-9b79-480b-a934-55dfce48d4e6
+2011,6,Đông Nam Bộ,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,54b14e66-cfd4-44c0-8fc3-ceb52a118a26
+2011,6,Đông Nam Bộ,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10.0,2712a29b-68d4-4cf1-a0cf-530d5342d7a3
+2011,6,Đông Nam Bộ,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',560.0,4fa08707-80f9-48c9-9dd6-62a3dc70c8da
+2011,6,Đông Nam Bộ,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,ca68a47a-7475-49dd-a8b9-25f9d2f4e38a
+2011,6,Đông Nam Bộ,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',509.0,849dc24a-93ff-447a-afb5-c341ba8a3cea
+2011,6,Đông Nam Bộ,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',55.0,32abf75f-70e3-459c-aa45-e57d21f63368
+2011,6,Đông Nam Bộ,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',327.0,49c05605-ddd5-476b-8a32-d8caf69965e1
+2011,6,Bình Phước,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',113.0,7e804f15-b75f-4d5c-b4d6-0394e9fd4ccd
+2011,6,Bình Phước,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10.0,cd92524e-398c-49e3-95a0-702f0eb77c0e
+2011,6,Bình Phước,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',103.0,6b780d3e-2d08-4ae1-9cec-3b4a1b507b03
+2011,6,Bình Phước,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',85.0,cd4a203f-28d0-46c2-bff6-38fd552b13e6
+2011,6,Tây Ninh,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',18.0,7ab6ad09-55ca-4ccc-a512-4bf3507dc202
+2011,6,Tây Ninh,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',18.0,e0402081-82ca-4c9e-bc86-3094064dd1e6
+2011,6,Tây Ninh,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11.0,dd01d4d1-4c15-47b0-b39c-79886832d7b6
+2011,6,Bình Dương,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',137.0,f7c03eef-b764-4843-a85a-e2887f6d4632
+2011,6,Bình Dương,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',137.0,31a9f0db-f58a-4c7b-8d79-5b1ab2a0cdec
+2011,6,Bình Dương,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',111.0,4187efb5-b5a1-4b16-8a87-cad5fb78aed1
+2011,6,Bình Dương,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',55.0,5aaba1ed-48c7-4a02-ae2b-84e757481234
+2011,6,Bình Dương,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',327.0,3071bb7b-6f28-44d4-b620-5c83c0f69600
+2011,6,Đồng  Nai,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',302.0,85b61fcf-4592-4c7c-a610-f267e230029b
+2011,6,Đồng  Nai,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',302.0,ebcab989-365b-4784-b061-c167ca0e2bd2
+2011,6,Đồng  Nai,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',302.0,2989b587-38d6-4e3f-8285-26755e60a0d9
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',9655.0,ff08bcaf-73c7-4348-868f-b61f9d237fd5
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11969.0,8a41790c-047c-44bb-981f-a03aa778d1d0
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',11064.0,f0c65944-9703-4345-b27c-b446bf6c6d45
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Trâu,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,b123ee3e-7e07-4175-a096-23c5c80fd497
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',86.0,b1393f5d-6860-46a9-980b-cd438a6980c1
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10978.0,c5525528-d8b6-437a-82b3-3cc21e43caf9
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Dê,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,09e885f2-1560-4d00-9a46-d86acf2a0433
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7739.0,c48b8eb0-712b-4092-a122-d5964d935c8b
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,0448d53b-a584-4ea3-83a1-8e49cec27b17
+2011,6,Đồng bằng sông Cửu<br>Long,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,edbdb3f9-ceda-4377-b43c-88c8215c54da
+2011,6,Long An,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',612.0,302eaf25-8ed2-4d56-a745-970d5e8873ed
+2011,6,Long An,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',612.0,2a218d34-c4e7-4b98-9dad-eed2eb8928e0
+2011,6,Long An,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',349.0,2c865c04-4276-43b0-9f23-9a4f2b4128ea
+2011,6,Tiền Giang,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1190.0,12591d95-8e8d-423a-861c-ca8a9a8d786a
+2011,6,Tiền Giang,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1190.0,924d69f7-3679-4b91-a3cb-0fd9ce646158
+2011,6,Tiền Giang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10393.0,bd5d25b7-2597-4d8f-896b-a670b9a419f1
+2011,6,Tiền Giang,Livestock,Bò,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',86.0,0c70a74d-655e-41b5-b72a-5febc17007f7
+2011,6,Tiền Giang,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10307.0,83cc19d6-764e-4470-96c2-7ba7eeee4eb5
+2011,6,Tiền Giang,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',7385.0,d6fadac0-5f47-4eee-a893-86c4f9da9529
+2011,6,Vĩnh Long,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',8065.0,8b019a67-64c9-4462-9b5d-7cfc313dee59
+2011,6,Vĩnh Long,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',10149.0,68ab6aa7-219c-49e8-8204-942e77281e85
+2011,6,Vĩnh Long,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',57.0,f76646c2-4422-41dc-8b86-8122a8beae3b
+2011,6,Vĩnh Long,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',57.0,4c040ebb-8a15-464b-9b3e-7be0a9bdd100
+2011,6,Vĩnh Long,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5.0,f543ae9f-e0ae-4e3f-a922-6b70cbb6be60
+2011,6,Sóc Trăng,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',250.0,dcb49af3-d117-4931-bbbf-77dc155a7d0a
+2011,6,Sóc Trăng,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',300.0,9b8ecb0e-c228-4c44-a82e-4e157e41e4b1
+2011,6,Sóc Trăng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,71263768-58f1-4377-ab97-c3f3f0d1ba5a
+2011,6,Sóc Trăng,Livestock,Lợn,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,abb6d61d-1bb2-45db-86a5-f4098abaefcb
+2011,6,Sóc Trăng,Livestock,Gia súc,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,2b7ab192-0269-463d-8f3e-7c294e44f85b
+2011,6,Cà Mau,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',150.0,6023f89f-3b78-4080-8a38-b7eab6b5b600
+2011,6,Cà Mau,Livestock,Gia cầm,head,2011_06_Phuluc_06_2011_PL6.md,PL6,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',330.0,a2131621-157c-442e-aef3-05c1e5a401dc
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',95.0,85ecbe62-51ff-4412-8b46-99e465ebc56e
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',500.0,2024d990-4ca8-45e6-9664-7bd1b14e4f0c
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',17.0,78d12cc1-03f8-40ff-a2e3-3ac3bf4d6f70
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',614.0,c73b9d9e-4c46-4681-b78b-fdf1706e0896
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',77.0,4cc70ab6-33a5-46b1-bb17-a687d99c0f72
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3547.0,fc5e0fca-c99d-40b1-91fc-05522b195608
+2011,7,Bến Tre,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',259.0,27af063c-76cf-4d27-8f3c-ad0835d21b5f
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',20.0,60b185ce-8e69-40d0-8a48-3bc224038387
+2011,7,Bến Tre,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',992.0,24ac589a-333d-4f42-993a-d0d97dd4607c
+2011,7,Bến Tre,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',0.0,7faac211-1eef-4bb6-844c-bc7fa2ffe5a1
+2011,7,Bến Tre,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',187.0,cb1604e8-76a7-4d2d-9ce8-443d822283af
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',23.0,01d95761-0101-461f-9f66-b75e6c1cbfbd
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',23.0,ee1731ab-57e2-4273-afca-96164517cc06
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,fcf1e96f-ee3c-4432-88f3-ea3d662b485f
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',19.0,e75f6d2c-aff4-464c-b372-cc70a0d7bf37
+2011,7,Bình Thuận,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,f1743c6a-f701-4c09-ace3-c0f8e890dc62
+2011,7,Bình Thuận,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',12.0,133078dd-abc5-42e7-a4c9-973ef722e746
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',29.0,849de4e9-781a-476b-8ebb-1d45a396920f
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',73.0,d6f0db78-1518-45bd-b4e8-6292067965f2
+2011,7,Bình Thuận,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',19.0,1251cbf3-fce7-463b-a75a-33e2c1ba2102
+2011,7,Bình Thuận,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',8.0,5fc6ef82-e600-426b-a688-70d394deb8e9
+2011,7,Điện Biên,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1.0,406d4538-6c8f-452b-9071-59b268b673c4
+2011,7,Điện Biên,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',13.0,2b9435a4-6b8e-4cc9-b6a1-41999c0122d9
+2011,7,Điện Biên,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3.0,495c6486-6ec9-4c88-b5fe-0319c37bf204
+2011,7,Điện Biên,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',18.0,4541495e-6854-4e21-bec9-cf63dc152a1c
+2011,7,Điện Biên,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',52.0,8a84fe88-9bb7-4914-aac6-76a1452be107
+2011,7,Hà Giang,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,7d1685b2-0aa6-4e06-8c41-6bde997436c2
+2011,7,Hà Giang,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,81d9c88a-7aae-4dbd-a533-a7a200027168
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4.0,e8f2e8d6-f898-464b-8c16-81acb430ff31
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',32.0,9c7e89b0-2997-4e38-96ed-4bd1c81c2dae
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',30.0,31289da8-55c5-48e5-b398-2152132d66b8
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',188.0,bc3d76fa-123e-4250-baee-583159e16f66
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',220.0,65217179-3793-4eb4-897f-cef48b550726
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1537.0,cef7e3ce-7056-4c4b-b784-208d841f2726
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',217.0,67f02475-3bad-4dc3-a1c3-9f6cdc4d82b0
+2011,7,Hà Nội,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1496.0,316a4e1a-0fd3-4457-be28-4223e5cc46f1
+2011,7,Hà Nội,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1.0,c6af8d68-4bb8-4615-b6dd-9de41fc0fa29
+2011,7,Hà Nội,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',147.0,9124914b-ba0e-488c-94c9-cb08aa7f45be
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6.0,f7a94848-c8c4-4b63-96bc-d84889cd4326
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',439.0,ef8bfe0c-0e15-460f-b194-3dff7971359b
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,35827d07-580d-4359-8541-fa2789c507b5
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,4674160e-4d73-428b-a37c-0e6e6c0bf4bd
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',182.0,2191f792-ca03-4bdb-902f-571bedcffff0
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',710.0,ed3fe697-2e70-41b3-9e51-9a65c0adb15f
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',24.0,7ceae954-7579-46d5-874a-253994eb77df
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',376.0,93ff564b-827b-4de9-a048-627475acdf15
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',152.0,fc5ca31f-19c4-45ab-a39b-8d1f818d01f1
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1994.0,5a0b1e53-92be-432f-a237-e09e397de511
+2011,7,Sóc Trăng,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',95.0,a7e5fd99-add5-40a2-878c-735fc9b49301
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',26.0,5cab2a41-b8ed-4619-a9e8-ac01529f68a9
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',419.0,3a0d6aea-5800-4b8f-9048-04d9eeb10409
+2011,7,Sóc Trăng,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',20.0,6454a608-922c-49b7-8f60-391112a55379
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',25.0,610f7f49-5789-428b-9f6f-fe08728a6d14
+2011,7,Sóc Trăng,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',563.0,229bd456-7428-44c6-a1fe-4f1268cd8f01
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1.0,8c508787-385a-4d49-8b51-0bada8a6761c
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',4.0,675b65a5-4e4d-420e-87b1-9d4b59f096c3
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',9.0,f066eb82-a114-4a95-8d6f-0fdbcd112d3a
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',153.0,0f4d0351-2a26-4fdb-8af6-13b531b1fc53
+2011,7,Trà Vinh,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',34.0,0cf6a4e8-eae8-4ac9-87f6-75bacce788ef
+2011,7,Trà Vinh,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',74.0,a683243b-0391-44e5-ae4f-072a02b82eb0
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,50ab2c17-11ea-4162-bad6-8343344c8f63
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',12.0,71d6f7e1-123c-444a-9f16-b21349a80e6c
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5.0,0ee949ad-47e3-4d00-a62f-cf70139369eb
+2011,7,Trà Vinh,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',13.0,e59c19f0-3788-419b-a8a5-2437906cf175
+2011,7,Quảng Trị,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2250.0,53c9f7d2-4a23-4c1b-a896-568c4fdb54df
+2011,7,Quảng Trị,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',370.0,8569bdb1-0a55-4d5c-a03b-3e359666021d
+2011,7,Quảng Trị,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2250.0,c498b6c0-869f-4c4b-a174-d958f572ad62
+2011,7,Quảng Trị,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',370.0,d0129f22-a42a-4256-abf2-99d02a8e65b3
+2011,7,Phú Thọ,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1454.0,252bcaf0-b73b-4fb1-bf8c-35a9dd949ab2
+2011,7,Phú Thọ,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1454.0,c7a986de-5fcf-466d-82c2-e5ec869a2f90
+2011,7,Cả nước,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2250.0,221dfb26-e30a-49ca-96cf-14d0171b2769
+2011,7,Cả nước,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',370.0,aebc93d7-aac6-4b53-83e8-9d4f392dfaae
+2011,7,Cả nước,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',3704.0,02ba0a72-64a2-4719-bc0d-906b44a89913
+2011,7,Cả nước,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1824.0,ec5c05ef-a3c2-486e-af3c-5b24a89d7692
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',6.0,82ec614b-ca5e-4029-9471-ac40122fc179
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',439.0,23805429-66cd-4789-96c6-cf407c577e5d
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',30.0,ed95078b-bf21-43ea-920f-3bf7e9b658f5
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',61.0,eac5970e-ac42-48c9-a818-a3d986c3219d
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',30.0,3c2a242e-a6fd-4482-9cf9-7df63eafa037
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',188.0,b026cb13-8572-410a-829c-4c6ff97d7acf
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',286.0,1a635a66-a9e7-4794-a0ae-b7cdb79ddb7b
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',1363.0,67740fdf-c67a-442b-b876-6cb5b01dc8e5
+2011,7,Cả nước,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',34.0,8500d3df-9756-4aa8-bcf0-865d29b3c773
+2011,7,Cả nước,Livestock,Vịt,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',74.0,5017f357-1222-41e6-86b7-0e9c69c4ba22
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',265.0,9c79fe86-1b7b-428a-a7f1-081e7c16c80b
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2558.0,89f9b7a4-9b28-4857-9876-11a8a4eb31f8
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',230.0,e9449f2b-f242-4394-afb3-90a6be474dd1
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',5554.0,eb6878dd-10e8-45ed-bf82-e31fa416560a
+2011,7,Cả nước,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',354.0,df5d210a-fc7f-4809-ac62-d87916d83333
+2011,7,Cả nước,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2.0,9a7ff068-72b3-4fa5-804d-3cb3b695b9ac
+2011,7,Cả nước,Livestock,Gia cầm,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',12.0,9f7c8302-cfbe-4efe-87bc-fc8fe07ea726
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',297.0,e3b910e3-52c7-4a06-af70-bec55691a302
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',2996.0,da89b949-62fd-4d3d-9185-b3173a5e4078
+2011,7,Cả nước,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',21.0,5fc6274a-f79e-485b-bdf2-f64942aa68fe
+2011,7,Cả nước,Livestock,Trâu bò,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',427.0,f96409e3-6b70-4a94-94f5-00298712d637
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',25.0,cb774e4b-a80e-4bd0-b911-120222d37983
+2011,7,Cả nước,Livestock,Lợn,head,2011_07_Phuluc_07_2011_PL10.md,PL10,INVALID_ENUM,Value 'head' not in schema enums for 'attribute',571.0,de765f41-c3e6-41bf-912b-67af626d5e61
+2009,10,Cả nước,Livestock,Trâu,Meat_Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',74960.0,71082897-dd63-469f-8962-2d5fb2cb89df
+2008,10,Cả nước,Livestock,Trâu,Meat_Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',71543.0,9838d0b7-e7d8-4497-8680-c887de68e468
+2009,10,Cả nước,Livestock,Bò,Meat_Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',257779.0,1186427b-09bb-4736-b012-7398954b70ca
+2008,10,Cả nước,Livestock,Bò,Meat_Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',226696.0,67e495ec-5fda-4201-ab18-d7c24f40d34d
+2009,10,Cả nước,Livestock,Sữa tươi,Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',278190.0,0665163a-61d0-4d47-8f2d-7973544f1459
+2008,10,Cả nước,Livestock,Sữa tươi,Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',262160.0,17cdad09-cdfc-4784-8aaf-0a601354fa8d
+2009,10,Cả nước,Livestock,Thịt lợn,Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',2931420.0,b7bfcaab-edba-4828-9e1a-6cef22fae041
+2008,10,Cả nước,Livestock,Thịt lợn,Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',2806453.0,e5760b75-e40d-4ddf-95cc-a6f206eab2c7
+2009,10,Cả nước,Livestock,Gia cầm,Inventory,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value '1000_con' not in schema enums for 'unit',280180.5,d713683b-f988-49f2-8e47-cf768e5d59ad
+2008,10,Cả nước,Livestock,Gia cầm,Inventory,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value '1000_con' not in schema enums for 'unit',248320.1,ba7ba865-845c-4793-a1ca-2582441392e8
+2009,10,Cả nước,Livestock,Gà,Inventory,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value '1000_con' not in schema enums for 'unit',199999.5,7ce5762b-53ad-4a1d-b288-1f10099f8ec4
+2008,10,Cả nước,Livestock,Gà,Inventory,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value '1000_con' not in schema enums for 'unit',176036.0,c93b0ed5-f0a8-4a7c-94d5-b079d82621f3
+2009,10,Cả nước,Livestock,Thịt gia cầm,Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',502750.0,e8bc79ba-d645-4f87-8aa9-d552f7776af8
+2008,10,Cả nước,Livestock,Thịt gia cầm,Production,2009_12_Phuluc_T12_2009_PL5.md,PL6,INVALID_ENUM,Value 'Tấn' not in schema enums for 'unit',448242.0,d9d768f1-f85a-43e0-8175-3a26cf33fd04
+2010,4,Cả nước,Livestock,Tổng số Gia cầm,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value '1000_head' not in schema enums for 'unit',277437.7,287f607d-1342-4c34-a045-51ea01c60dcf
+2010,4,Cả nước,Livestock,Gà,head,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value '1000_head' not in schema enums for 'unit',200832.0,450f3006-2b42-46ab-9133-4a931b91a5e0
+2010,4,Cả nước,Livestock,Trứng gia cầm,Production,2010_06_Phuluc_06_2010_PL4.md,PL4,INVALID_ENUM,Value '1000_egg' not in schema enums for 'unit',3278817.3,fb685677-30d0-4d78-b196-45e73c11129f
+2010,7,Miền Nam,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',851.0,dcb291d4-cb68-4f82-814b-2e89ac4b643a
+2010,7,Duyên hải Nam Trung Bộ,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',85.0,2c502a2d-2b04-4aee-8404-a815807b0898
+2010,7,Đà Nẵng,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',85.0,7d00bda3-2af8-41a4-911b-3b7225b61065
+2010,7,Quảng Nam,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',126.0,47f0fcde-1d43-4d49-8a33-fbc53598112f
+2010,7,Đà Nẵng,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',85.0,c473f78b-591e-4ebe-971a-3962fe2e2af6
+2010,7,Quảng Ngãi,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',126.0,8a413786-afe7-4aba-bc16-1a337fc4f2c4
+2010,7,Bình Định,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',126.0,65fcbd1b-a859-48ae-8d6d-d1b23af4a1d0
+2010,7,Khánh Hoà,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',640.0,b041bc7c-0454-4163-a83d-d6b3ccd34aab
+2010,7,Ninh Thuận,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',500.0,3310b2fa-04de-4ab3-8a3f-758209a905d7
+2010,7,Bình Thuận,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',140.0,94cb9c5f-8e0e-4a27-8575-ed407252791b
+2010,7,Tây Nguyên,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',4220.0,43a99219-00c8-4989-a60d-5cdf70a4be78
+2010,7,Đắk Lắk,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',1131.0,fbc5cbbf-1f3a-4a57-9e43-544b3e0b9176
+2010,7,Đắk Nông,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',218.0,3ddf4094-f94d-4441-92fc-2e0b7089a7d6
+2010,7,Lâm Đồng,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',1259.0,063e2145-10dc-41a5-85e1-814bce8069e7
+2010,7,Đông Nam Bộ,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',743.0,d39be0d7-3757-4393-9d0e-d22602e3cece
+2010,7,Bình Phước,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',810.0,0927621d-8b7f-4729-9ed0-5225816369a8
+2010,7,Bình Dương,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',541.0,1676b0ea-1209-45c5-9bc7-a9303bcb0e35
+2010,7,Đồng Nai,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',71.0,8ff78977-399a-4fb7-ae0b-8febfb8018da
+2010,7,Bà Rịa - Vũng Tàu,Forestry,Cây phân tán,Area_Planted,2010_07_phuluc_07_2010_PL4b.md,PL4b,INVALID_ENUM,Value '1000_tree' not in schema enums for 'unit',7035.0,d00405e7-9258-42c8-892a-19be5251c209
+2010,12,Cả nước,Forestry,Khai thác củi,Value,2010_12_Phuluc_T12_2010_PL7.md,PL7,INVALID_ENUM,Value '1000_ste' not in schema enums for 'unit',28232.4,2f5141aa-7476-4bdf-a91e-df9f7359c196
+2011,12,Cả nước,Cultivation,Tổng sản lượng lương thực,Production,,PL5,INVALID_ENUM,Value '**1000_ton**' not in schema enums for 'unit',44632.2,c343b57d-ddd1-4830-8b63-6d216cbef381
+2011,12,Cả nước,Cultivation,Chè búp,Production,,PL6,INVALID_ENUM,Value '129.9' not in schema enums for 'unit',126.3,db87ee3b-92f7-4623-a9fc-6beef3f9a755
+2011,12,Cả nước,Cultivation,Chè búp,Area,,PL6,INVALID_ENUM,Value '113.2' not in schema enums for 'unit',114.8,1005e070-e336-46dd-8b83-fc1f5ea04f37
+2011,12,Cả nước,Cultivation,Chè búp,Area,,PL6,INVALID_ENUM,Value '73.7' not in schema enums for 'unit',77.4,7a7a1a5b-abb2-4593-b4a1-00d219570117
+2011,12,Cả nước,Cultivation,Chè búp,Yield,,PL6,INVALID_ENUM,Value '834.6' not in schema enums for 'unit',888.6,de175beb-706d-474a-857f-8c182efef674
+2011,12,Cả nước,Cultivation,Chè búp,Production,,PL6,INVALID_ENUM,Value '555.1' not in schema enums for 'unit',570.9,5f6660c7-04d6-43e0-aa42-cda4e9dd0467
+2011,12,Cả nước,Cultivation,Cà phê,Production,,PL6,INVALID_ENUM,Value '518.5' not in schema enums for 'unit',533.8,6201bf64-3770-4ceb-afe6-a22cc1744e77
+2011,12,Cả nước,Cultivation,Cà phê,Area,,PL6,INVALID_ENUM,Value '21.5' not in schema enums for 'unit',21.9,e54bb6ce-6f50-4580-9476-ffc875596440
+2011,12,Cả nước,Cultivation,Cà phê,Area,,PL6,INVALID_ENUM,Value '1 112.2' not in schema enums for 'unit',1167.9,8400ffa9-2a58-48db-bcb8-f4c2a907bbec
+2011,12,Cả nước,Cultivation,Cà phê,Yield,,PL6,INVALID_ENUM,Value '748.7' not in schema enums for 'unit',834.2,d099912d-d3f2-49fe-99a2-52a3d5a4e803
+2011,12,Cả nước,Cultivation,Cà phê,Production,,PL6,INVALID_ENUM,Value '439.1' not in schema enums for 'unit',471.9,2ec842e5-3fde-4f73-ac7c-af006fd9b374
+2011,12,Cả nước,Cultivation,Cao su,Area,,PL6,INVALID_ENUM,Value '751.7' not in schema enums for 'unit',811.6,dce5ee57-7ef3-4a20-ab8e-345717381da0
+2011,12,Cả nước,Cultivation,Cao su,Area,,PL6,INVALID_ENUM,Value '51.3' not in schema enums for 'unit',55.4,2274bfcf-d2b9-42af-b087-b5aa13750d8e
+2011,12,Cả nước,Cultivation,Cao su,Yield,,PL6,INVALID_ENUM,Value '44.3' not in schema enums for 'unit',45.1,0edaf42a-7f63-4161-bb38-5ce12ded9557
+2011,12,Cả nước,Cultivation,Cao su,Production,,PL6,INVALID_ENUM,Value '23.8' not in schema enums for 'unit',24.3,49a09cfe-5046-4b9d-b1d7-e25cff36cae7
+2011,12,Cả nước,Cultivation,Hồ tiêu,Area,,PL6,INVALID_ENUM,Value '379.3' not in schema enums for 'unit',360.3,6e04daad-ed00-4270-b025-9de942fd018c
+2011,12,Cả nước,Cultivation,Hồ tiêu,Area,,PL6,INVALID_ENUM,Value '339.4' not in schema enums for 'unit',331.3,ddbc8480-9460-4361-b8bb-e2649bcdc099
+2011,12,Cả nước,Cultivation,Hồ tiêu,Yield,,PL6,INVALID_ENUM,Value '9.1' not in schema enums for 'unit',9.6,88d7f17a-afcd-44b8-b615-48e9aeedeede
+2011,12,Cả nước,Cultivation,Hồ tiêu,Production,,PL6,INVALID_ENUM,Value '310.5' not in schema enums for 'unit',318.0,efee8982-3891-47be-8778-a59e0056ffdd
+2011,12,Cả nước,Cultivation,Điều,Area,,PL6,INVALID_ENUM,Value '122.2' not in schema enums for 'unit',125.9,1cd54e1f-87f0-4a0a-a811-82a470b6589b
+2011,12,Cả nước,Cultivation,Điều,Area,,PL6,INVALID_ENUM,Value '95.1' not in schema enums for 'unit',94.4,852c77af-8b94-4c4f-853f-5ae7247ae06c
+2011,12,Cả nước,Cultivation,Điều,Yield,,PL6,INVALID_ENUM,Value '1 162.2' not in schema enums for 'unit',1188.8,b8adb3e1-bba3-48b1-8e45-245e31c07976
+2011,12,Cả nước,Cultivation,Dừa,Area,,PL6,INVALID_ENUM,Value '65.1' not in schema enums for 'unit',59.6,c0911354-8218-4552-b332-fceb2052c7d5
+2012,12,Cả nước,Forestry,Sản lượng củi khai thác,Value,,PL6,INVALID_ENUM,Value '1000 ste' not in schema enums for 'unit',27400.0,e5c0aa71-7ce0-42fd-b654-437080f0f273

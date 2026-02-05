@@ -1,0 +1,584 @@
+{
+  "metadata": {
+    "year": 2010,
+    "month": 4
+  },
+  "records": [
+    {
+      "record_id": "59743a7c-c6d9-47fc-acf6-19edc60b2421",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng rừng tập trung"
+      },
+      "metric_context": {
+        "attribute": "Forest_Area_Planted",
+        "value": 16.5,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "7a544a5b-5391-48f7-9fb4-baffd6f62f6d",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng rừng tập trung"
+      },
+      "metric_context": {
+        "attribute": "Forest_Area_Planted",
+        "value": 20.3,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "09bb8a1c-d36a-4aa3-933c-26cb43d091fb",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng rừng tập trung"
+      },
+      "metric_context": {
+        "attribute": "Forest_Area_Planted",
+        "value": 206.7,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "38a540bf-8271-4a05-bff2-4039f28068cc",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Chăm sóc rừng trồng"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 110.5,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "8db73e20-f3e5-478b-a344-ad37c09f02bf",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Chăm sóc rừng trồng"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 78.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "8f466e3f-e51a-4fdb-8289-d7ac7da80e6f",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Chăm sóc rừng trồng"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 149.7,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "4de5b854-74b9-4261-9d06-69baf39ae0f3",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng cây phân tán"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 76.4,
+        "unit": "million_trees",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "801fd6ed-d401-46c1-89fb-02b1131b9bae",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng cây phân tán"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 76.2,
+        "unit": "million_trees",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "050b68da-50b8-4db9-89d9-49a09db2dfb3",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng cây phân tán"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 200.0,
+        "unit": "million_trees",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "149ed4c7-7788-4852-b56e-acb1d64b3965",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khoanh nuôi tái sinh, trồng dặm"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 609.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "87e6f84f-7733-4ac8-97a6-bb431f7b30ba",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khoanh nuôi tái sinh, trồng dặm"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 613.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "a668b538-f891-4bf7-8453-2c67dcb81af9",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khoanh nuôi tái sinh, trồng dặm"
+      },
+      "metric_context": {
+        "attribute": "Other",
+        "value": 668.8,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "53a911ee-7f3e-4afb-baa9-30f39893b1f9",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khoán bảo vệ rừng"
+      },
+      "metric_context": {
+        "attribute": "Forest_Area_Protected",
+        "value": 1730.0,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "5f35b06a-6e38-412e-9721-6258b1aff49c",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khoán bảo vệ rừng"
+      },
+      "metric_context": {
+        "attribute": "Forest_Area_Protected",
+        "value": 1780.0,
+        "unit": "1000_ha",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "bb1a1c72-cbb9-4b88-917c-ef9f3416524d",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khoán bảo vệ rừng"
+      },
+      "metric_context": {
+        "attribute": "Forest_Area_Protected",
+        "value": 1506.0,
+        "unit": "1000_ha",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "067b8396-f1ff-4319-aa1f-c3bf955c7197",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khai thác gỗ"
+      },
+      "metric_context": {
+        "attribute": "Wood_Volume",
+        "value": 1091.0,
+        "unit": "1000_m3",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "22b22338-a851-451f-8cbb-5bccaa368f21",
+      "time_context": {
+        "year": 2009,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khai thác gỗ"
+      },
+      "metric_context": {
+        "attribute": "Wood_Volume",
+        "value": 606.0,
+        "unit": "1000_m3",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    },
+    {
+      "record_id": "5abac523-9c5d-440c-8300-28f64777a71e",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khai thác gỗ"
+      },
+      "metric_context": {
+        "attribute": "Wood_Volume",
+        "value": 4700.0,
+        "unit": "1000_m3",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL4a",
+        "source_file": "2010_04_Phuluc_T04_2010_PL4a.md"
+      }
+    }
+  ]
+}

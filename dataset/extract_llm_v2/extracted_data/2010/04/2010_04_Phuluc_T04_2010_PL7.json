@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "year": 2010,
+    "month": 4
+  },
+  "records": [
+    {
+      "record_id": "32e72a72-80a8-4422-bcd0-fecc51d37c24",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn ngân sách giao đầu năm"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 3186262.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "bdba2661-e804-4618-bfbe-246011fb8195",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Monthly",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn ngân sách giao đầu năm"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 165500.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "8218ad1f-3042-4c90-8dd8-a32256a430b7",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn ngân sách giao đầu năm"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1208273.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "a2eaf5ab-ddec-469c-a8e8-a835983a15f7",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 1735000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "d7510ec4-fecd-489f-9f92-8960decbeab8",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Monthly",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 120000.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "dd5c94b2-19e6-4ebb-b0c3-2c2754170120",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Thuỷ lợi"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 974300.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "fb55b124-8665-4cf5-850d-ba678418630b",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 415300.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "e6760f7b-233c-42a4-b9ac-c29d125fd84c",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Monthly",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 15500.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "c25e97d8-c882-45a5-8178-eaa43b4fd464",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Đầu tư Nông nghiệp"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 56200.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "e56782d7-c5ad-4a4e-852c-894223a3c354",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn trái phiếu Chính phủ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 4000000.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "f90badae-97d8-4ff7-9220-995a376d535c",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Monthly",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn trái phiếu Chính phủ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 169000.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "2b038a93-04d0-4a61-8e3a-1f89e6c2d984",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Vốn trái phiếu Chính phủ"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 919000.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "c2fc0b86-38c8-432f-b6b8-bb770142e7ce",
+      "time_context": {
+        "year": 2010,
+        "month": 12,
+        "period_type": "Annual",
+        "data_type": "Plan"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Tổng vốn đầu tư : = A + B"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 7186262.0,
+        "unit": "million_VND",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "a709f160-921e-43bf-9722-4993ccffe107",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Monthly",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Tổng vốn đầu tư : = A + B"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 334500.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    },
+    {
+      "record_id": "aa1b3b76-a2b1-46ff-b1c8-1bccee686ca8",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Tổng vốn đầu tư : = A + B"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 2127273.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL7",
+        "source_file": "2010_04_Phuluc_T04_2010_PL7.md"
+      }
+    }
+  ]
+}

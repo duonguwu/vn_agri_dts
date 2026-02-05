@@ -1,0 +1,260 @@
+{
+  "metadata": {
+    "year": 2010,
+    "month": 4
+  },
+  "records": [
+    {
+      "record_id": "0f7a8ff5-f474-44b3-b4a2-a4b3ad641cf5",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Mía"
+      },
+      "metric_context": {
+        "attribute": "Input_Volume",
+        "value": 9343.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "86774835-fb7a-4579-b46c-8ce70f906600",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Đường"
+      },
+      "metric_context": {
+        "attribute": "Output_Volume",
+        "value": 868.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "5df5ff90-e39b-4eec-b600-f5740b5cd942",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Bắc",
+        "region_id": "NORTH",
+        "region_name": "Miền Bắc"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Mía"
+      },
+      "metric_context": {
+        "attribute": "Input_Volume",
+        "value": 2528.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "defe4461-951e-404f-b977-208ced43aa8d",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Bắc",
+        "region_id": "NORTH",
+        "region_name": "Miền Bắc"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Đường"
+      },
+      "metric_context": {
+        "attribute": "Output_Volume",
+        "value": 267.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "59d7192d-eb60-4e0d-92b2-83c040575d62",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Trung - Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Mía"
+      },
+      "metric_context": {
+        "attribute": "Input_Volume",
+        "value": 2644.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "dbb62745-dec0-4e41-8055-eea3d85ac5d1",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Trung - Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Đường"
+      },
+      "metric_context": {
+        "attribute": "Output_Volume",
+        "value": 252.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "a5c9f85d-ee0e-4244-82ff-dacb1df8c072",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Mía"
+      },
+      "metric_context": {
+        "attribute": "Input_Volume",
+        "value": 4171.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    },
+    {
+      "record_id": "0dcf9b3a-f36f-448a-bc44-a78e450ed386",
+      "time_context": {
+        "year": 2010,
+        "month": 4,
+        "period_type": "Cumulative",
+        "report_date": "2010-04-15",
+        "data_type": "Actual"
+      },
+      "geo_context": {
+        "geo_level": "Regional",
+        "location_name": "Miền Nam",
+        "region_id": "SOUTH",
+        "region_name": "Miền Nam"
+      },
+      "item_context": {
+        "sector": "Industrial_Processing",
+        "commodity": "Đường"
+      },
+      "metric_context": {
+        "attribute": "Output_Volume",
+        "value": 349.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 4,
+        "appendix_number": "PL6",
+        "source_file": "2010_04_Phuluc_T04_2010_PL6.md"
+      }
+    }
+  ]
+}

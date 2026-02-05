@@ -1,0 +1,1154 @@
+{
+  "metadata": {
+    "year": 2012,
+    "month": 7
+  },
+  "records": [
+    {
+      "record_id": "ca66a066-8634-4f34-be95-e1915a73f9ed",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "---",
+        "region_id": "COUNTRY",
+        "region_name_vn": "---"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 0,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "e37cea23-92e6-4211-8fd5-1bc26304977f",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "D.H Nam Trg Bộ",
+        "region_id": "R5",
+        "region_name_vn": "D.H Nam Trg Bộ",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 0,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "d1cdff8b-8bfa-4b22-8ad8-0c9e4aec53eb",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Đà Nẵng",
+        "region_id": "R5",
+        "region_name_vn": "TP Đà Nẵng",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "72582384-34e1-4392-912a-eda78b8f5274",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Nam",
+        "region_id": "R5",
+        "region_name_vn": "Quảng Nam",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "f1d9d001-92d0-4057-b8de-98b1be067219",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Quảng Ngãi",
+        "region_id": "R5",
+        "region_name_vn": "Quảng Ngãi",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "07c41792-f4f8-41e5-9755-4d8a7e16777b",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Định",
+        "region_id": "R5",
+        "region_name_vn": "Bình Định",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "883293f0-b636-4ce0-b2fc-104f692c6dd3",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Phú Yên",
+        "region_id": "R5",
+        "region_name_vn": "Phú Yên",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "4dfe76fd-5d4b-460e-bce4-cea114d84089",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Khánh Hoà",
+        "region_id": "R5",
+        "region_name_vn": "Khánh Hoà",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "5b43b4f2-caa2-4614-8f2e-5efdcabfd979",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Ninh Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Ninh Thuận",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "dcecba74-efe3-45bf-83a3-e387bc4fef06",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Thuận",
+        "region_id": "R5",
+        "region_name_vn": "Bình Thuận",
+        "region_name": "Duyên hải Nam Trung Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "2c8cfdb4-8546-425f-8bca-4d379ea7f425",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Nguyên",
+        "region_id": "R6",
+        "region_name_vn": "Tây Nguyên",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 0,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "8ebb0356-5068-454b-85fe-2f16de58c0c8",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kon Tum",
+        "region_id": "R6",
+        "region_name_vn": "Kon Tum",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "633236fb-b4a1-4934-a577-c485fac0179b",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Gia Lai",
+        "region_id": "R6",
+        "region_name_vn": "Gia Lai",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "8645f549-307a-447c-8a52-2c0ccf27100d",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắc Lắc",
+        "region_id": "R6",
+        "region_name_vn": "Đắc Lắc",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "e3321638-5e54-41a3-b96c-968c512107a6",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đắc Nông",
+        "region_id": "R6",
+        "region_name_vn": "Đắc Nông",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "674c2a7d-34f1-47b0-82d5-ba6c539a372c",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Lâm Đồng",
+        "region_id": "R6",
+        "region_name_vn": "Lâm Đồng",
+        "region_name": "Tây Nguyên"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "44c6db7e-7413-4a44-9b20-44c86c140563",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đông Nam Bộ",
+        "region_id": "R7",
+        "region_name_vn": "Đông Nam Bộ",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 0,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "912a49d7-86aa-4ccb-9ec7-6c9446bad44d",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "TP Hồ Chí Minh",
+        "region_id": "R7",
+        "region_name_vn": "TP Hồ Chí Minh",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "414b537e-2446-4f5b-83cf-f109e4475363",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Phước",
+        "region_id": "R7",
+        "region_name_vn": "Bình Phước",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "7c0b1212-4670-419a-819b-dc4808229b5a",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tây Ninh",
+        "region_id": "R7",
+        "region_name_vn": "Tây Ninh",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "ca201f56-502f-496a-b3bf-99d0703ee586",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bình Dương",
+        "region_id": "R7",
+        "region_name_vn": "Bình Dương",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "aa63d229-0281-4017-8783-aa659a4de98f",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Nai",
+        "region_id": "R7",
+        "region_name_vn": "Đồng Nai",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "dbf2217e-065f-4982-ab53-81e19b29fe77",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bà Rịa-V.Tàu",
+        "region_id": "R7",
+        "region_name_vn": "Bà Rịa-V.Tàu",
+        "region_name": "Đông Nam Bộ"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "f35aceed-8fa6-429a-86ce-b767ad8c55c8",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "ĐBS Cửu Long",
+        "region_id": "R8",
+        "region_name_vn": "ĐBS Cửu Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 0,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "8ba357a4-8922-40c8-a345-64a683006af9",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Long An",
+        "region_id": "R8",
+        "region_name_vn": "Long An",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "4bff485c-fd0a-44b0-b800-14ba51cea597",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Đồng Tháp",
+        "region_id": "R8",
+        "region_name_vn": "Đồng Tháp",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "17dd1ef7-ee77-4592-95bc-3110ef0b7e38",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "An Giang",
+        "region_id": "R8",
+        "region_name_vn": "An Giang",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "fc6a98d3-a6b0-4a27-85ef-ffd5714ecf65",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Tiền Giang",
+        "region_id": "R8",
+        "region_name_vn": "Tiền Giang",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "03ac16ca-b5ef-40c9-8442-be867d973775",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Vĩnh Long",
+        "region_id": "R8",
+        "region_name_vn": "Vĩnh Long",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "ca0590bf-852b-443e-9f32-7a268c602c37",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bến Tre",
+        "region_id": "R8",
+        "region_name_vn": "Bến Tre",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "32e0500d-0345-46f4-8ca7-e61b7a001f44",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Kiên Giang",
+        "region_id": "R8",
+        "region_name_vn": "Kiên Giang",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "64605ce7-4fed-4da9-b756-67e87e9367f3",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cần Thơ",
+        "region_id": "R8",
+        "region_name_vn": "Cần Thơ",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "92e331e8-e246-4599-aff6-0d986d6f681e",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Hậu Giang",
+        "region_id": "R8",
+        "region_name_vn": "Hậu Giang",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "ccf5e958-c07f-46f5-a22f-7e29d6ee57ab",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Trà Vinh",
+        "region_id": "R8",
+        "region_name_vn": "Trà Vinh",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "8d32266b-2f67-44f4-8450-d49f78494575",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Sóc Trăng",
+        "region_id": "R8",
+        "region_name_vn": "Sóc Trăng",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "522e1460-cf6b-4aba-97ac-f1830fce7cf0",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Bạc Liêu",
+        "region_id": "R8",
+        "region_name_vn": "Bạc Liêu",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    },
+    {
+      "record_id": "eb42c4d4-6920-4153-8d5a-687957af1975",
+      "time_context": {
+        "year": 2012,
+        "month": 7,
+        "period_type": "Monthly",
+        "report_date": "2012-07-24"
+      },
+      "geo_context": {
+        "geo_level": "Provincial",
+        "location_name": "Cà Mau",
+        "region_id": "R8",
+        "region_name_vn": "Cà Mau",
+        "region_name": "Đồng bằng sông Cửu Long"
+      },
+      "item_context": {
+        "sector": "Metadata",
+        "commodity": "Reporting_Compliance"
+      },
+      "metric_context": {
+        "attribute": "Has_Report",
+        "value": 1,
+        "unit": "binary",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2012,
+        "month": 7,
+        "appendix_number": "PL12b"
+      }
+    }
+  ]
+}

@@ -188,7 +188,7 @@ fd5e4182822eabfb,2012,2,Thừa Thiên Huế,Provincial,Cultivation,Khoai lang,,A
 e7076ec917275a93,2012,2,Thừa Thiên Huế,Provincial,Cultivation,Sắn,,Area_Planted,5900.0,ha,Actual,PL2
 c52c8db5bb838ed9,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,1887666.0,ha,Actual,PL3
 46fa69831ceb231a,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Area_Harvested,478392.0,ha,Actual,PL3
-be21a9a5a9a7be6e,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Harvest_Percentage,253.0,percent,Actual,PL3
+be21a9a5a9a7be6e,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Harvest_percent,253.0,percent,Actual,PL3
 c52c8db5bb838ed9,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,103811.0,ha,Actual,PL3
 c52c8db5bb838ed9,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,53613.0,ha,Actual,PL3
 c52c8db5bb838ed9,2012,2,Miền Nam,Provincial,Cultivation,Lúa,,Area_Planted,10059.0,ha,Actual,PL3
@@ -293,7 +293,7 @@ e41d5fd76b80ceea,2012,2,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Plan
 e41d5fd76b80ceea,2012,2,TP Hồ Chí Minh,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
 58f024119df3d29b,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,1525930.0,ha,Actual,PL3
 e8d8ca3df1e42da4,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Harvested,478392.0,ha,Actual,PL3
-15abfa259c10028a,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Harvest_Percentage,314.0,percent,Actual,PL3
+15abfa259c10028a,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Harvest_percent,314.0,percent,Actual,PL3
 58f024119df3d29b,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,20864.0,ha,Actual,PL3
 58f024119df3d29b,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,10743.0,ha,Actual,PL3
 58f024119df3d29b,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,5852.0,ha,Actual,PL3
@@ -301,13 +301,13 @@ e8d8ca3df1e42da4,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Harves
 58f024119df3d29b,2012,2,ĐBS Cửu Long,Provincial,Cultivation,Lúa,,Area_Planted,4068.0,ha,Actual,PL3
 c5118282298025d4,2012,2,Long An,Provincial,Cultivation,Lúa,,Area_Planted,212467.0,ha,Actual,PL3
 d4c5ccbf78cd568a,2012,2,Long An,Provincial,Cultivation,Lúa,,Area_Harvested,2871.0,ha,Actual,PL3
-161ce6aedac4d862,2012,2,Long An,Provincial,Cultivation,Lúa,,Harvest_Percentage,14.0,percent,Actual,PL3
+161ce6aedac4d862,2012,2,Long An,Provincial,Cultivation,Lúa,,Harvest_percent,14.0,percent,Actual,PL3
 c5118282298025d4,2012,2,Long An,Provincial,Cultivation,Lúa,,Area_Planted,5556.0,ha,Actual,PL3
 c5118282298025d4,2012,2,Long An,Provincial,Cultivation,Lúa,,Area_Planted,2882.0,ha,Actual,PL3
 c5118282298025d4,2012,2,Long An,Provincial,Cultivation,Lúa,,Area_Planted,2674.0,ha,Actual,PL3
 83c89d7f1dc611b1,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,80494.0,ha,Actual,PL3
 a9f781f1781fa324,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Harvested,19585.0,ha,Actual,PL3
-08cc452f47020605,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Harvest_Percentage,243.0,percent,Actual,PL3
+08cc452f47020605,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Harvest_percent,243.0,percent,Actual,PL3
 83c89d7f1dc611b1,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,2846.0,ha,Actual,PL3
 83c89d7f1dc611b1,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,1599.0,ha,Actual,PL3
 83c89d7f1dc611b1,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,213.0,ha,Actual,PL3
@@ -315,21 +315,21 @@ a9f781f1781fa324,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Harvested
 83c89d7f1dc611b1,2012,2,Tiền Giang,Provincial,Cultivation,Lúa,,Area_Planted,984.0,ha,Actual,PL3
 5e8682a304b1283b,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,19720.0,ha,Actual,PL3
 0ec8bd56110869a3,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Area_Harvested,39.0,ha,Actual,PL3
-b05aedef377afeb8,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Harvest_Percentage,2.0,percent,Actual,PL3
+b05aedef377afeb8,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Harvest_percent,2.0,percent,Actual,PL3
 5e8682a304b1283b,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,295.0,ha,Actual,PL3
 5e8682a304b1283b,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,260.0,ha,Actual,PL3
 5e8682a304b1283b,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,25.0,ha,Actual,PL3
 5e8682a304b1283b,2012,2,Bến Tre,Provincial,Cultivation,Lúa,,Area_Planted,10.0,ha,Actual,PL3
 5cccff50a7f7a7e4,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,582200.0,ha,Actual,PL3
 4a7b00ceaf40b3d0,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Harvested,121870.0,ha,Actual,PL3
-308044011ecf8834,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Harvest_Percentage,209.0,percent,Actual,PL3
+308044011ecf8834,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Harvest_percent,209.0,percent,Actual,PL3
 5cccff50a7f7a7e4,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,2046.0,ha,Actual,PL3
 5cccff50a7f7a7e4,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,1715.0,ha,Actual,PL3
 5cccff50a7f7a7e4,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,264.0,ha,Actual,PL3
 5cccff50a7f7a7e4,2012,2,Trà Vinh,Provincial,Cultivation,Lúa,,Area_Planted,67.0,ha,Actual,PL3
 b867f426d84051e1,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,64418.0,ha,Actual,PL3
 a550ae5f2bb49906,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Harvested,29102.0,ha,Actual,PL3
-bf5714f0be5d6831,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Harvest_Percentage,452.0,percent,Actual,PL3
+bf5714f0be5d6831,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Harvest_percent,452.0,percent,Actual,PL3
 b867f426d84051e1,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,4462.0,ha,Actual,PL3
 b867f426d84051e1,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,229.0,ha,Actual,PL3
 b867f426d84051e1,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,4173.0,ha,Actual,PL3
@@ -337,32 +337,32 @@ b867f426d84051e1,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,2.0
 b867f426d84051e1,2012,2,Vĩnh Long,Provincial,Cultivation,Lúa,,Area_Planted,58.0,ha,Actual,PL3
 fb0ec7f7f69a974a,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,208351.0,ha,Actual,PL3
 9dcc80500da201d8,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Harvested,14935.0,ha,Actual,PL3
-ce5e52bd30482f4e,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Harvest_Percentage,72.0,percent,Actual,PL3
+ce5e52bd30482f4e,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Harvest_percent,72.0,percent,Actual,PL3
 fb0ec7f7f69a974a,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,1708.0,ha,Actual,PL3
 fb0ec7f7f69a974a,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,1204.0,ha,Actual,PL3
 fb0ec7f7f69a974a,2012,2,Đồng Tháp,Provincial,Cultivation,Lúa,,Area_Planted,504.0,ha,Actual,PL3
 1729b78363d25d7b,2012,2,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,233207.0,ha,Actual,PL3
-a8a3348bf4648e14,2012,2,An Giang,Provincial,Cultivation,Lúa,,Harvest_Percentage,0.0,percent,Actual,PL3
+a8a3348bf4648e14,2012,2,An Giang,Provincial,Cultivation,Lúa,,Harvest_percent,0.0,percent,Actual,PL3
 1729b78363d25d7b,2012,2,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,2051.0,ha,Actual,PL3
 1729b78363d25d7b,2012,2,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,1790.0,ha,Actual,PL3
 1729b78363d25d7b,2012,2,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,65.0,ha,Actual,PL3
 1729b78363d25d7b,2012,2,An Giang,Provincial,Cultivation,Lúa,,Area_Planted,196.0,ha,Actual,PL3
 b1dc0eae93658448,2012,2,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,290539.0,ha,Actual,PL3
 34d0943f90e91148,2012,2,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Harvested,290549.0,ha,Actual,PL3
-cb792d233c7ee492,2012,2,Kiên Giang,Provincial,Cultivation,Lúa,,Harvest_Percentage,1000.0,percent,Actual,PL3
+cb792d233c7ee492,2012,2,Kiên Giang,Provincial,Cultivation,Lúa,,Harvest_percent,1000.0,percent,Actual,PL3
 b1dc0eae93658448,2012,2,Kiên Giang,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
 16f61c2dfff79962,2012,2,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,8776300.0,ha,Actual,PL3
 208b469b8b84af4e,2012,2,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Harvested,125900.0,ha,Actual,PL3
-afd5aade014e560a,2012,2,Cần Thơ,Provincial,Cultivation,Lúa,,Harvest_Percentage,14.0,percent,Actual,PL3
+afd5aade014e560a,2012,2,Cần Thơ,Provincial,Cultivation,Lúa,,Harvest_percent,14.0,percent,Actual,PL3
 16f61c2dfff79962,2012,2,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,214.0,ha,Actual,PL3
 16f61c2dfff79962,2012,2,Cần Thơ,Provincial,Cultivation,Lúa,,Area_Planted,214.0,ha,Actual,PL3
 83939d913c777510,2012,2,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,77594.0,ha,Actual,PL3
 b2073f3e80027716,2012,2,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Harvested,1657.0,ha,Actual,PL3
-95b0913da404b4e1,2012,2,Hậu Giang,Provincial,Cultivation,Lúa,,Harvest_Percentage,21.0,percent,Actual,PL3
+95b0913da404b4e1,2012,2,Hậu Giang,Provincial,Cultivation,Lúa,,Harvest_percent,21.0,percent,Actual,PL3
 83939d913c777510,2012,2,Hậu Giang,Provincial,Cultivation,Lúa,,Area_Planted,0.0,ha,Actual,PL3
 2881ca625ab3aa87,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,138552.0,ha,Actual,PL3
 46b138531077bab6,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Harvested,90192.0,ha,Actual,PL3
-8decb548fad74ee4,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Harvest_Percentage,651.0,percent,Actual,PL3
+8decb548fad74ee4,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Harvest_percent,651.0,percent,Actual,PL3
 2881ca625ab3aa87,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,1686.0,ha,Actual,PL3
 2881ca625ab3aa87,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,850.0,ha,Actual,PL3
 2881ca625ab3aa87,2012,2,Sóc Trăng,Provincial,Cultivation,Lúa,,Area_Planted,608.0,ha,Actual,PL3

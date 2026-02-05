@@ -1,0 +1,132 @@
+{
+  "metadata": {
+    "year": 2010,
+    "month": 6
+  },
+  "records": [
+    {
+      "record_id": "5ba9caff-9f18-4062-ac51-1d3f6940f72a",
+      "time_context": {
+        "year": 2010,
+        "month": 6,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Trồng rừng tập trung"
+      },
+      "metric_context": {
+        "attribute": "Area_Planted",
+        "value": 78.3,
+        "unit": "1000_ha",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 6,
+        "appendix_number": "PL5",
+        "source_file": "2010_06_Phuluc_06_2010_PL5b.md"
+      }
+    },
+    {
+      "record_id": "e556ceef-054c-4114-9131-b9d56fee26ae",
+      "time_context": {
+        "year": 2010,
+        "month": 6,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Forestry",
+        "commodity": "Khai thác gỗ"
+      },
+      "metric_context": {
+        "attribute": "Wood_Volume",
+        "value": 1775.0,
+        "unit": "1000_m3",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 6,
+        "appendix_number": "PL5",
+        "source_file": "2010_06_Phuluc_06_2010_PL5b.md"
+      }
+    },
+    {
+      "record_id": "5c6cca9e-74cf-4ef8-a36b-aaa427a589dc",
+      "time_context": {
+        "year": 2010,
+        "month": 6,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2488.0,
+        "unit": "1000_ton",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 6,
+        "appendix_number": "PL5",
+        "source_file": "2010_06_Phuluc_06_2010_PL5b.md"
+      }
+    },
+    {
+      "record_id": "0ea60b9b-0264-407e-ab25-a3746e971c69",
+      "time_context": {
+        "year": 2010,
+        "month": 6,
+        "period_type": "Cumulative",
+        "data_type": "Estimated"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Investment",
+        "commodity": "Tổng vốn đầu tư : = A + B"
+      },
+      "metric_context": {
+        "attribute": "Investment_Amount",
+        "value": 4043800.0,
+        "unit": "million_VND",
+        "data_type": "Estimated"
+      },
+      "metadata": {
+        "year": 2010,
+        "month": 6,
+        "appendix_number": "PL5",
+        "source_file": "2010_06_Phuluc_06_2010_PL5b.md"
+      }
+    }
+  ]
+}

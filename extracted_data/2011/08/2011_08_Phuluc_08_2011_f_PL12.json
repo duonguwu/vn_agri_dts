@@ -1,0 +1,6152 @@
+{
+  "metadata": {
+    "year": 2011,
+    "month": 8
+  },
+  "records": [
+    {
+      "record_id": "638c5c70-69b1-45b2-9f3e-611f9e2f9f28",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 918048.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "00f91eeb-7ed1-493e-ab69-97eac96fe36a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 2023232.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e8218ff2-5ad7-4b38-a3a2-edb576c8adfc",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 93611.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d8b4f665-fa0c-4aa0-a376-6fa1c1e44c0f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 227866.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "fb4f63b0-db3f-496f-82ab-ec155640bb08",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 90564.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "df5df8e7-cf1c-4c1f-b770-2eb0228a25a1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 201769.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d1da56a7-ed66-4330-ad96-d0ae0c486cb0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Belgium",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Belgium"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 84315.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b76141b7-8226-4068-b1d9-c11fcdbf5401",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Belgium",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Belgium"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 186112.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "4440ddb2-413d-4941-8387-adc829e342db",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Italy",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Italy"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 65234.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "02b0e29d-30cf-439f-bbc0-8c714c5caf68",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Italy",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Italy"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 138067.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "50683bc0-f938-4a91-9d11-d669944a5d03",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Spain",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Spain"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 48954.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a2a63376-77dd-4b2a-9635-254844b6d2e5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Spain",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Spain"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 105967.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6b53b5f7-6f6d-4f48-a106-317a535224d1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 31874.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "66fa85aa-3d54-4699-a311-683e3dfc1568",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 82565.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e7a1fb56-aa1f-400d-a423-bb442df2de29",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 24363.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b40abeb4-7093-4327-b584-b4af7e09ae0e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 52670.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b08d78cd-78da-4fe2-b612-bd68fddbaaf0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Kingdom",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Kingdom"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 21630.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "af5490dd-8410-413e-b1b5-0bc864570821",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Kingdom",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Kingdom"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 49529.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f1ec36d5-ef18-43a1-86ee-2484f753cc19",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 19712.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c89df4b1-8c0b-444c-b399-680ec9a70854",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 41349.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "5990e341-06ce-400c-9ec4-e6ca22e70817",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 18251.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e78e0c12-d461-4d1f-9fdc-4306d69a478c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cà phê"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 41244.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "1dc9a9c3-08a6-4628-aa4d-a799a2010598",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 369018.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "cb726cf7-7a5e-4b4d-ae6b-78f57a19746d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 1603068.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "af4160b0-ba75-4b7b-a09e-8d2d012a2b39",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 223061.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6f379c9a-d827-426b-8630-02e0606933de",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 945966.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "3426320e-829c-48ed-bf0e-5d13b0023bc9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Malaysia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Malaysia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 27837.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6e785fa6-f9cc-49d0-8c25-e9a52b425caa",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Malaysia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Malaysia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 121447.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "2b07f8c4-5e6e-45ce-b192-2c85557dbb8a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 15728.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d1448d88-d2cd-42ba-8ac9-a92b82f15f8f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 74352.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f166d78c-344f-43da-9603-8dc064f28b11",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 17352.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "23c43548-40ad-497d-b38a-15544bf97265",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 73978.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ac717e5a-1a33-4875-a825-c515993da50e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 13947.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b9eab0dc-3e2a-4cb0-9860-f4f75bacca93",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 68707.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "7ee418de-ec9b-47d8-9c9e-5462238aa2d9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 11350.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "cb687beb-0fba-42ec-8f2b-77215a850d4e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 43386.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f2eb74ac-220b-4ec1-8233-d0994250ba94",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 6353.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "854d9c7a-926e-487a-87d5-1ff92cfb7c9b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 32126.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "be2cb078-16b4-48be-91de-a8c39c973eff",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Turkey",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Turkey"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 6354.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "10843a01-1525-4300-9121-2e388ee00c42",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Turkey",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Turkey"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 29327.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a9fb5aa4-3a08-4454-9449-d045602f8167",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 5344.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "68bb54b8-0b75-431a-a240-b2e557586361",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 27475.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "928b6102-53d6-43c6-8abd-037638a315ee",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "India",
+        "region_id": "COUNTRY",
+        "region_name_vn": "India"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 4451.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a1f8f8a4-0ca6-4f4f-a89f-821a3735e97a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "India",
+        "region_id": "COUNTRY",
+        "region_name_vn": "India"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Cao su"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 20913.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ddac8b67-9ce3-4577-a068-8974e451c76b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 69362.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "313794c1-5995-40fa-8711-4dffd0f8c169",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 103169.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "9980e124-ad09-4d24-b418-e4e1a1e16be7",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Pakistan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Pakistan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 9284.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "81e63726-27cd-4809-b3a7-494372fe6cfc",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Pakistan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Pakistan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 17004.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e4d8849a-c00b-4257-b03c-ec30a7feb45e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 11432.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ce525bed-9b0f-4786-8ed5-45b6adcfa342",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 14485.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c3df028e-eded-4439-b2ef-692bb7ecb259",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 8651.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "136c0040-4602-4ff5-8e42-dcd71cecdef3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 12886.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f383b441-0390-444d-b5da-62a9bdae25ae",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 8091.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "841bd458-9d6a-4cf3-b6fd-799ce3b920e3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 9632.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "83c19060-8b93-4d6d-94e7-414cec1b423b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Indonesia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Indonesia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 4505.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "633aadf5-8690-4c96-a9dc-f70bac3ea3f9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Indonesia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Indonesia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 4741.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "0f830803-8185-4596-b0fb-350ca13feb3c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 2196.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "59b66b72-2727-4aaf-bc22-439506aee24a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 2352.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "08057416-cf30-42c7-bf88-d8a011eb41e7",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1630.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c052eeac-957d-43ef-b175-53ebf91e4a22",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 2326.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b97ccc74-40ee-4c5e-b65f-08803593c6e7",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Arab Emirates",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Arab Emirates"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1026.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "144cd3d8-54b9-42ba-bb5c-ab6f21488756",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Arab Emirates",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Arab Emirates"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 1788.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "62472f84-60e4-4d3a-8c52-5971fe5ce0e5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Saudi Arabia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Saudi Arabia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 710.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6c8498a2-81fb-443a-adf7-4d2e1dcb3652",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Saudi Arabia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Saudi Arabia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 1550.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "3b5ffe88-e907-422e-8aa8-351355d9164a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Poland",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Poland"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1380.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "16ba0027-6771-46b9-af8b-9484a78d2fb3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Poland",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Poland"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Chè"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 1514.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "3cdebd8f-35d1-4fd9-9e00-f8d0766f68e6",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 4714381.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "7b6df259-5abf-49ca-ad4f-fad36ef4f592",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 2318078.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "332a06c8-f912-44ae-a399-ee47105051be",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Philippines",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Philippines"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 815765.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "aceff5de-7bd3-4f5d-a683-e70a8651aacd",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Philippines",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Philippines"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 392837.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "11e7a399-2a3e-421a-83b6-1ad54cfa0d9c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Indonesia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Indonesia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 728450.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "47f5ed2c-6893-4f1d-bd4b-33295faafd9c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Indonesia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Indonesia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 371225.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "4884bc97-7d6f-4997-b916-461200425c4c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Malaysia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Malaysia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 363399.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "91bbf597-f709-44b9-a805-85666937b44f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Malaysia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Malaysia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 190606.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c91e6723-9bb5-418e-b220-1c959788d8b9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Cuba",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Cuba"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 304650.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "268d3a11-8564-430a-a394-debd4c80494b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Cuba",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Cuba"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 157633.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "788961d8-aafc-4671-baf8-89df43c02c99",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Bangladesh",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Bangladesh"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 279800.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b5d3679b-6045-4fd3-9cb6-b975a3efbb00",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Bangladesh",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Bangladesh"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 148985.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a0a6616d-783a-4cb4-a3fb-4ef3e5ec8d3b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Senegal",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Senegal"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 351587.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "534a9d97-d654-402e-b647-27143fdd2e80",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Senegal",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Senegal"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 142946.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d06c9cf7-7063-4df1-a7d4-8833968b658e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 256933.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "2310517b-d439-4c4e-afa5-2a642555cad7",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 127925.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "fac6c67b-7910-4644-86ee-5fb311d4ced2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Singapore",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Singapore"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 253360.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "920556bd-71d7-4b49-95ed-0e8083497f5e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Singapore",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Singapore"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 125882.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "10a681e2-e2f6-4b4b-8b00-557cae4f273c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ivory Coast",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ivory Coast"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 184009.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c61e6f0e-99ce-4b73-b5b4-cfa54b578632",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ivory Coast",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ivory Coast"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 86167.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "4886604b-efd3-422b-82e8-beb17fa88ce5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ghana",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ghana"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 107228.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "608fc5aa-98d1-435f-885d-80a6def12ef0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ghana",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ghana"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gạo"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 56598.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a0158610-1a1d-463c-b2df-41d6818fabbe",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 2098699.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "80352519-5c03-4774-bfaa-fb57af8f858d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 744895.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "487296d8-aee9-442e-ae49-ef9fb4bd1f4a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 344285.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d320e911-66d3-46d4-a0da-2ae044ec1fd1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 305945.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "19e0fd19-23bf-4107-b634-3cf18750ec18",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 105189.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f8c0cc04-d440-4db4-a31d-ec24c1128bad",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Kingdom",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Kingdom"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 96012.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "5c911762-8487-4a2d-9dbd-282de3f90959",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 64393.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "36407ef4-a626-4c80-a501-66622e646b3f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ô X TRÂY LIA",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ô X TRÂY LIA"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 49479.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f54d50ea-1f27-4524-aad5-c20f1aaa5e27",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Canada",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Canada"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 46992.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "7653589e-53fa-400a-a8df-4983e4365cad",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "France",
+        "region_id": "COUNTRY",
+        "region_name_vn": "France"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 37161.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "552b1044-9fb0-444b-99ec-38923699fd6d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Gỗ & sản phẩm gỗ"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 35408.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "1cf030b5-c97c-4e4f-b558-3b3b12c1612d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 346794.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "10101b8a-9c13-4993-91fb-b3f369298a92",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 73744.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "841678c5-0635-48f3-9c2e-7257576e43e1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Indonesia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Indonesia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 28171.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "cb9c9824-e73c-4b5b-8af7-913f9f0865c5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 25354.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "4f203c66-50df-49a0-bdb2-8f98fb3c4b63",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 18867.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "3e123be1-aef7-42f3-95b9-b6f20197dbf8",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 18753.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "00298324-55fe-4033-8899-12a79def743d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 15777.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f48acda6-c8a1-4bf7-bd15-047aba016d88",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 13168.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "451c9f50-e72b-426e-aa29-43c36e558aeb",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 11223.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "fdfc077c-ccaf-40cc-a377-2d062c929351",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Singapore",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Singapore"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 9236.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "25b92e52-fa98-4e3d-9d1a-022b151d06b6",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "THÁI LAN",
+        "region_id": "COUNTRY",
+        "region_name_vn": "THÁI LAN"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng rau quả"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 7981.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c4580c4d-28ee-4461-988f-6bc302c44b74",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 3184618.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ed3e1541-008d-486d-8f6a-414ee19005f7",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 596574.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ef99afbc-052b-43e8-9f18-e3de0f2ecdac",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 469498.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "9abf4a14-12d5-4178-8a95-56dcbbc3f3c2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 249668.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "55f5fc42-b68f-4ac9-b15e-852f38fe46ce",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 143017.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d2ce2b50-b962-4f33-a69d-488cc13eb95e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 118582.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "65927b59-1239-4c23-a907-e113c4b40ac0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Italy",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Italy"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 105861.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6357016b-0884-4d2f-8cc1-a5494b237325",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 97359.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "41dd1819-9e35-4d56-bc3c-6635e26f137e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Spain",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Spain"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 88733.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a77c1e0d-c2bf-4928-a10f-31c44f5a1841",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ô X TRÂY LIA",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ô X TRÂY LIA"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 79518.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "0a5d2465-be39-4afa-85bc-8f649d7dacba",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "France",
+        "region_id": "COUNTRY",
+        "region_name_vn": "France"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hàng thuỷ sản"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 73898.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "05334f84-c2b8-44a5-8b6d-1aebe886f38b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 88173.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "638325c2-a0f3-44c8-9eaf-e0a2fd4594ca",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 694563.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "183f6475-d425-4117-8e74-07bd6db6c3fa",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 26943.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "1a24f1be-3c66-45e6-b030-0f5932ddf843",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 216084.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ce35c081-45f4-4fa1-8e19-7070267a290a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 17049.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6fa9a839-8163-4d66-9c26-7b501ef9a9df",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 133419.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "973cea60-a6bf-4652-b001-218590f10eb3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 13556.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f28e330b-e033-4318-9060-83bf2788e6de",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 104588.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f18a3b96-74b9-41f6-a158-a6d6943094f8",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ô X TRÂY LIA",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ô X TRÂY LIA"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 5415.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "7bb40a3d-f67a-4f99-a683-2997c25d8b2f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ô X TRÂY LIA",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ô X TRÂY LIA"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 41879.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "62942825-8cf3-427a-9399-492b65f03b0e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Kingdom",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Kingdom"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 3304.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "30d5c34f-a2e3-4bbb-9716-b7c49a55eb0e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Kingdom",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Kingdom"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 26675.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e32b22ba-711d-4fc7-8a4e-392ede02730c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 3123.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "22e82e5f-f029-4476-b820-103b78d4a76e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 25031.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "3f091a2b-c1b2-41cd-a167-d28ae5d220d0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Canada",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Canada"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 2135.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "94db6d6a-f52c-4951-b0aa-cdfee369f6cb",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Canada",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Canada"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 18752.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ca852a59-1cfe-4df0-9e6f-cb290bbfd399",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "THÁI LAN",
+        "region_id": "COUNTRY",
+        "region_name_vn": "THÁI LAN"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1508.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "1656768c-5577-4fc9-8d4f-934133207ddc",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "THÁI LAN",
+        "region_id": "COUNTRY",
+        "region_name_vn": "THÁI LAN"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 12490.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "95b621de-14f5-4f1d-af55-429a10d0b61e",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1293.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d4c93dd6-d629-4472-9071-45c2b19d49d3",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 10371.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "eb1f5ab4-63c9-401d-8362-1a5261f4578c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Arab Emirates",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Arab Emirates"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 939.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "48a3690f-a59c-40fc-8c95-80380cf59e8b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Arab Emirates",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Arab Emirates"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt điều"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 7816.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "8c8a52aa-5a08-4d12-a972-6a66e53acfbe",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 82799.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e50dd517-e84c-4dbc-8be9-52c4fcfa6018",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 453998.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "5dc8557d-e246-4c33-91c3-e28c19924573",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 15170.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "ccd9cc25-d1b0-4106-94db-9999584efe9d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 88071.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "740d4fe1-2960-43c1-baa8-137983d1739c",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 7774.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "7c8abee2-cda1-4aaa-8fd1-2375c95338b1",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 46149.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "4dc8bffa-8c4e-4cf5-9bf8-03a0dae56ac2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Arab Emirates",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Arab Emirates"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 6491.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6a6d3083-e00e-4ec2-80a6-00bf30b2af6b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Arab Emirates",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Arab Emirates"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 33985.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "cc421a50-c480-4c1b-88cf-8bcdde4f5e46",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 5288.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d22b18c0-0701-4f91-9348-17a27c734415",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 30017.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "9ed39191-e5e8-4b41-ab95-289711af795b",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "India",
+        "region_id": "COUNTRY",
+        "region_name_vn": "India"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 5287.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "343b19cf-ea73-4b5a-a0a0-4aece120c6cf",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "India",
+        "region_id": "COUNTRY",
+        "region_name_vn": "India"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 27242.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e832a788-ffb3-4f8e-9d20-816f795ae723",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Egypt",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Egypt"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 4020.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "fd86c4c8-96e2-49d9-87ed-6547f7222e86",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Egypt",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Egypt"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 20536.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "90df1c80-2b40-40ae-a9f5-a30347086934",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Pakistan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Pakistan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 3345.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "cb9fc6e6-2d81-4337-a076-e86369b41615",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Pakistan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Pakistan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 17220.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "569ff53e-b00e-4054-bcb6-b1a4fa7a20ac",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 2952.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "aeaeb5e6-ea09-4c25-8e42-5c997f29d26a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 15377.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "18eebe1b-78bf-498c-a843-b0016a008ef2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Spain",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Spain"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 2625.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6fba978b-c310-404b-ab4a-aaae7837e2e0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Spain",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Spain"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 15201.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "b23d46e8-2d95-4905-8400-dd89eb9596fd",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Singapore",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Singapore"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 2529.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "9b7156a5-0f2c-488a-9d45-9e83693b8ec9",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Singapore",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Singapore"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Hạt tiêu"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 12824.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "881e49de-e91e-40b2-a7f8-a083d5260e01",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 111984.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d15268d2-d83d-4450-ae54-1a6be97b3477",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United States",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United States"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 17494.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "d7efc681-a7e8-473c-bcc5-4417908050e5",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 15650.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "9192f357-dec5-4fb4-8f4d-40f055a40550",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Germany",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Germany"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 15553.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "af0a0a1f-19c8-40ba-adc1-f9d55ba002fe",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "France",
+        "region_id": "COUNTRY",
+        "region_name_vn": "France"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 5011.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "22718825-b8b1-4f2b-91ed-7bd5db30a0af",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Ô X TRÂY LIA",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Ô X TRÂY LIA"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 4917.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "6005f3dd-17fd-4470-9f5e-e6eec21855a6",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 4516.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "7dd9fdae-aea0-45d9-9fc7-cb3917fdb0b2",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Netherlands",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Netherlands"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 4119.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a18c32d1-5fd1-49ee-bbf6-e080abb1ee5d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "United Kingdom",
+        "region_id": "COUNTRY",
+        "region_name_vn": "United Kingdom"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 4010.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "78dc8385-d532-4239-b3b1-c0c7dbef2a20",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Italy",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Italy"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 3668.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "3f74404c-5fd4-482c-8e29-e220cc0f4797",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Spain",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Spain"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sản phẩm mây, tre, cói và thảm"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 3402.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "a6271bbe-e8ee-4955-bd76-629f8f7f518a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1732402.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "8baabdb8-07b3-4d77-9913-ef2c920c166a",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name_vn": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 613751.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c494c1ba-e73c-495b-a31b-2edcb06efe67",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1632491.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "fe7ab42c-184c-4d64-9243-a3faf1804359",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "China",
+        "region_id": "COUNTRY",
+        "region_name_vn": "China"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 570888.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "bce20042-2c1a-47b2-bd05-61df31b69aec",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 21157.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "cf67eb00-64cf-441a-8271-39598f85e4fe",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Taiwan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Taiwan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 10856.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "50f5dedf-3c31-4148-8e5c-ebc4b4438934",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 22494.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "4dfd8ee6-e535-4fe9-9869-5b1ae527cd74",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "South Korea",
+        "region_id": "COUNTRY",
+        "region_name_vn": "South Korea"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 6961.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "74d81760-8e5f-4c35-b786-e6eb14a94152",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Philippines",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Philippines"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 9657.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "5cb4bfe1-e1f5-474a-bb19-84c7c655c79d",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Philippines",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Philippines"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 3317.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "57be8b17-d776-434d-af10-53412e72d8a0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 2978.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "f811167f-1486-439b-acc2-b1c563c532c0",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Japan",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Japan"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 1856.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "2b9d9ca6-0c88-4247-bb2b-084c1e723c15",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Malaysia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Malaysia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1378.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "fa6895c9-c9a0-41ee-839c-fc7127f7b92f",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Malaysia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Malaysia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 788.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "e46d4f99-d2f4-484a-9caa-6c40d9043d64",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Volume",
+        "value": 1013.0,
+        "unit": "ton",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    },
+    {
+      "record_id": "c969f96a-12ea-4d07-a29c-f6ab20b6c1d7",
+      "time_context": {
+        "year": 2011,
+        "month": 7,
+        "period_type": "Cumulative",
+        "report_date": "2011-07-31"
+      },
+      "geo_context": {
+        "geo_level": "Country",
+        "location_name": "Russia",
+        "region_id": "COUNTRY",
+        "region_name_vn": "Russia"
+      },
+      "item_context": {
+        "sector": "Trade",
+        "commodity": "Sắn và các sản phẩm từ sắn"
+      },
+      "metric_context": {
+        "attribute": "Value",
+        "value": 598.0,
+        "unit": "1000_USD",
+        "data_type": "Actual",
+        "trade_type": "Export"
+      },
+      "metadata": {
+        "year": 2011,
+        "month": 8,
+        "appendix_number": "PL12",
+        "source_file": "2011_08_Phuluc_08_2011_f_PL12.md"
+      }
+    }
+  ]
+}

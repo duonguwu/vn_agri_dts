@@ -1,0 +1,490 @@
+{
+  "metadata": {
+    "year": 2009,
+    "month": 10,
+    "appendix_number": "PL7",
+    "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+  },
+  "records": [
+    {
+      "record_id": "a144c9b5-5438-4ed5-8079-eedf22072c59",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 355.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "c5893858-a858-43a4-8632-240ac4586fa3",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 3978.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 104.2,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "f706a2ff-0caf-4696-8d61-c112f38a2489",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Tổng sản lượng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 4600.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "a935cd02-1a65-40f3-a9e9-c6978fffdc3a",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 155.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "edb03d5e-4a9a-49f2-95c8-e23aaa0d054e",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1833.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 104.6,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "cc119132-b242-4ae4-9f73-a5ee4718b67f",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng khai thác"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2200.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "d9b6af13-c36a-4764-9d12-7f960c9f6fc9",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 140.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "84e8ff99-51d4-458b-b6ec-6fd60f6adc20",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 1682.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 105.3,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "6ae74da0-811e-4e7f-9828-69ce6e4b57b7",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác biển"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2000.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "a1d6b522-3a13-4f88-9cd7-bcdf2d05835e",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 15.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "3c1e2958-cdc3-4dbe-a760-ae95597202b4",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 151.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 97.4,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "6542ea95-882e-4c5a-9ccd-ce1c57a505d2",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Khai thác nội địa"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 200.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "e8b301b2-fcf0-432c-b662-de706c434306",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Monthly"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 200.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    },
+    {
+      "record_id": "1dd45fdf-38d0-4049-acec-9c7185c6c060",
+      "time_context": {
+        "year": 2009,
+        "month": 10,
+        "period_type": "Cumulative"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2145.0,
+        "unit": "1000_ton",
+        "data_type": "Actual"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      },
+      "comparison_context": {
+        "comparison_type": "YoY",
+        "comparison_value": 103.8,
+        "comparison_unit": "percent",
+        "reference_period": "2008"
+      }
+    },
+    {
+      "record_id": "355d622a-c544-4f35-92d1-bb36a45faf95",
+      "time_context": {
+        "year": 2009,
+        "month": 12,
+        "period_type": "Annual"
+      },
+      "geo_context": {
+        "geo_level": "National",
+        "location_name": "Cả nước",
+        "region_id": "NATIONAL",
+        "region_name": "Cả nước"
+      },
+      "item_context": {
+        "sector": "Fishery",
+        "commodity": "Sản lượng nuôi trồng"
+      },
+      "metric_context": {
+        "attribute": "Production",
+        "value": 2400.0,
+        "unit": "1000_ton",
+        "data_type": "Plan"
+      },
+      "metadata": {
+        "year": 2009,
+        "month": 10,
+        "appendix_number": "PL7",
+        "source_file": "2009_10_PHULUC_T10_2009_FINAL_PL6.md"
+      }
+    }
+  ]
+}

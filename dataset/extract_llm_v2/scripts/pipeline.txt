@@ -1,0 +1,79 @@
+QUY TRÌNH THỰC HIỆN EXTRACTION (PIPELINE) - Version 2.0
+Cập nhật từ kinh nghiệm thực chiến xử lý dữ liệu năm 2010.
+
+---
+
+BƯỚC 1: KHẢO SÁT & PHÂN LOẠI (SURVEY)
+1. **List files**: Dùng `list_dir` để xem toàn bộ file trong tháng cần làm.
+2. **Grouping**: Nhóm các file theo chủ đề để tạo batch xử lý (không làm tất cả 1 lúc).
+   - Batch Nông nghiệp: PL1, PL2, PL3, PL4.
+   - Batch Lâm/Thủy sản: PL5, PL6, PL7, PL8, PL9.
+   - Batch Thương mại/Đầu tư: PL10, PL11, PL12.
+3. **Filter**: Loại bỏ ngay các file metadata/hành chính (PL11a, PL13a) nếu thấy tên file không chứa dữ liệu số liệu chính (Check Header/Title).
+
+---
+
+BƯỚC 2: VIEW & ANALYZE (SOI DỮ LIỆU)
+4. **View từng file**: Dùng `view_file` (max 50-100 dòng đầu) để xem cấu trúc bảng.
+   - *Check*: Có bị compacted `<br>` không? (Nếu có -> Đánh dấu là Hard File).
+   - *Check*: Có nhiều phần phụ lục trong 1 file không? (Mixed Content).
+   - *Check*: Đơn vị tính là gì?
+5. **Strategy Selection**:
+   - Nếu bảng đẹp (Simple): Dùng logic parsing chuẩn.
+   - Nếu bảng nén (Compacted/Merged Rows có `<br>`): **Dùng kỹ thuật "Explode"**.
+     - Split cell bằng `<br>`.
+     - Loop qua từng sub-index để lấy data ẩn.
+   - Nếu bảng quá nát: Hard-code transcription.
+
+---
+
+BƯỚC 3: SCRIPTING (THE PYTHON CLEAN ROOM)
+6. **Viết Script Python**:
+   - **Tạo hàm riêng**: `def parse_pl1():`, `def parse_pl2():`... cho từng file. Đừng viết 1 hàm `parse_all` khổng lồ.
+   - **Data Transcription**: Đối với các bảng khó, copy headers và data blocks vào biến list ngay trong python (Hard-code). Ví dụ: `data_names = ["Hà Nội", "Hải Phòng"...]`.
+   - **Logic Normalization**: Luôn đưa data qua hàm `normalize_number()` để loại bỏ rác.
+   - **Record Creation**: Loop qua list, tạo dict `record` chuẩn schema. Gán cứng `geo_level` dựa trên tên.
+
+---
+
+BƯỚC 4: EXECUTION & VERIFICATION
+7. **Run Command**: Chạy script python.
+8. **Check Output**:
+   - Dùng `list_dir` xem file JSON sinh ra chưa.
+   - Quan trọng: Check kích thước file. Nếu file JSON quá nhỏ (<1KB), có thể logic parse bị sai -> Cần debug ngay.
+
+---
+
+BƯỚC 5: EDGE CASE LOOP (VÒNG LẶP XỬ LÝ LỖI)
+9. **Skip & Return**: Nếu file quá khó (lỗi format nặng), hãy comment code lại, skip nó, chạy xong batch hiện tại.
+10. **Custom Fix**: Quay lại file lỗi, viết script riêng `fix_plX.py` sử dụng logic "thủ công" (manual mapping) để xử lý dứt điểm.
+
+---
+
+keyword: "Chậm mà chắc", "Code ngu nhưng đúng", "Batch nhỏ dễ debug".
+
+
+1. Tư duy "Intermediate Clean Room" (Phòng sạch trung gian)
+Agent này không bắt LLM tạo JSON ngay lập tức từ file Markdown 100 dòng (vì LLM rất dễ "đuối" hoặc bỏ sót tỉnh ở giữa). Thay vào đó:
+
+Nó trích xuất dữ liệu thô vào một Python List phẳng ngay trong script.
+Lợi ích: Bạn và tui có thể mở code ra nhìn vào pl2_data hay pl3_data để thấy ngay: "Hà Nội có số chưa?", "Sơn La có bị lệch cột không?". Nó biến dữ liệu đen (black box) của AI thành dữ liệu có thể kiểm chứng được (auditable).
+2. Code "Gánh" Logic - AI "Gánh" Đọc Hiểu
+Agent này phân định trách nhiệm rất rõ ràng:
+
+AI: Chỉ làm nhiệm vụ đọc bảng Markdown và "bốc" số vào List.
+Code Python: Làm nhiệm vụ format, tính toán (chia 1000 để đổi ha -> 1000ha), tạo UUID, và tách record.
+Ví dụ: Trong 
+parse_pl1_04
+, chỉ cần một dòng dữ liệu đầu vào có số của 2008 và 2009, code sẽ tự động "nhân bản" thành 2 records JSON. LLM nếu tự làm rất hay lười đoạn này và chỉ lấy số năm hiện tại.
+3. Xử lý Hierarchy (Phân cấp) bằng Deterministic Code
+Thay vì hy vọng LLM đoán đúng tỉnh nào là Regional, tỉnh nào là Provincial, Agent này liệt kê sẵn một danh sách regional = ["Miền Bắc", "ĐB sông Hồng"...]. Code sẽ tự động gán geo_level dựa trên danh sách này. Đây là cách làm triệt tiêu hoàn toàn sai sót phân cấp.
+
+4. Hàm Normalize "Cứng"
+Hàm 
+normalize_number()
+ trong script xử lý cực tốt các lỗi vụn vặt:
+
+Xóa dấu phẩy (kiểu VN: 1.234,5 -> 1234.5).
+Bỏ qua dấu sao *, gạch ngang -, hay các ký tự nhiễu như ||.
+Kết quả luôn là float hoặc None, giúp bộ dữ liệu sau này không bị lỗi kiểu dữ liệu (data type crash).
